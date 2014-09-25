@@ -85,6 +85,10 @@ div.post > p:nth-child(2) {
     padding-top: 10px; 
 }
 
+div.subreddit>p {
+    font-size: 1.4em;
+}
+
 /* Images */
 
 img {
