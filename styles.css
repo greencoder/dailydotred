@@ -1,0 +1,105 @@
+body {
+    margin: 0px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+/* Hyperlinks */
+
+p>a:link,
+p>a:visited,
+p>a:hover {
+    text-decoration: none;
+    color: #000;
+}
+
+h3>a:link,
+h3>a:visited {
+    color: #A9180D;
+}
+
+div.post > p > a {
+    color: #000;
+}
+
+a#menu-toggle {
+    font-size: 1.4em;
+    text-decoration: none;
+    outline: none;
+    text-transform: uppercase;
+}
+
+/* Page Headers */
+
+h1 {
+    color: #A9180D;
+    font-weight: 700;
+    font-size: 2.4em;
+}
+
+h2 {
+    color: #666;
+    font-weight: 500;
+    font-size: 1.8em;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 35px;
+    font-size: 1.0em;
+    color: #B0B0B0;
+}
+
+/* Divs */
+
+div.post {
+    overflow: auto;
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    border-top: 1px solid #ccc;
+}
+
+div.footer {
+    border-top: 1px solid #ccc;
+    padding-top: 40px;
+    color: #ccc;
+    font-weight: 300;
+}
+
+/* Paragraph Tags */
+
+div.post > p {
+    margin: 0px;
+}
+
+div.post > p:first-child {
+    font-size: 1.4em;
+}
+
+div.post > p:nth-child(2) {
+    font-size: 0.9em;
+    color: #666;
+    font-weight: 300;
+    padding-top: 10px; 
+}
+
+/* Images */
+
+img {
+    max-height: 100px;
+    max-width: 100px;
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Media Queries */
+
+@media(min-width:768px) {
+    #menu-toggle {
+        display: none;
+    }
+}
