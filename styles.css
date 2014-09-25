@@ -80,6 +80,12 @@ div.subreddit {
 
 /* Paragraph Tags */
 
+p.header {
+    font-size: 1.4em;
+    color: #B0B0B0;
+    margin-bottom: 20px;
+}
+
 div.post > p {
     margin: 0px;
 }
