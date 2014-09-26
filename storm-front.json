@@ -1,0 +1,36 @@
+{
+    "category": "News", 
+    "generated-utc": 1411740707, 
+    "description": "Does this really need a description?", 
+    "title": "Reddit's Severe Weather Center", 
+    "full-url": "http://www.reddit.com/r/stormfront/", 
+    "posts": [
+        {
+            "num-comments": 0, 
+            "domain": "accuweather.com", 
+            "score": 8, 
+            "nsfw": false, 
+            "title": "Fall Foliage: Chilly Nights in Northeast Set Stage for Striking Display", 
+            "url": "http://www.accuweather.com/en/weather-news/chilly-nights-warm-days-in-nor/34518021", 
+            "author": "jcm267", 
+            "permalink": "http://www.reddit.com/r/stormfront/comments/2hdwrs/fall_foliage_chilly_nights_in_northeast_set_stage/", 
+            "created-utc": 1411606466.0, 
+            "id": "2hdwrs"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "accuweather.com", 
+            "score": 6, 
+            "nsfw": false, 
+            "title": "Nor'easter to Soak DC to NYC, Lash East Coast With Wind and Flooding", 
+            "url": "http://www.accuweather.com/en/weather-news/rain-to-graze-the-eastern-seab/34504678", 
+            "author": "jcm267", 
+            "permalink": "http://www.reddit.com/r/stormfront/comments/2hdwq5/noreaster_to_soak_dc_to_nyc_lash_east_coast_with/", 
+            "created-utc": 1411606446.0, 
+            "id": "2hdwq5"
+        }
+    ], 
+    "api-url": "http://daily.red/storm-front.json", 
+    "display-name": "Storm Front", 
+    "short-url": "/r/stormfront/"
+}

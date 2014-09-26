@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411705328, 
+    "generated-utc": 1411740690, 
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
     "full-url": "http://www.reddit.com/r/history/", 
     "posts": [
         {
-            "num-comments": 105, 
+            "num-comments": 171, 
             "domain": "self.history", 
-            "score": 165, 
+            "score": 271, 
             "nsfw": false, 
             "title": "The U.S. (Turn of 21st C.) v England (Turn of 20th C.)", 
             "url": "http://www.reddit.com/r/history/comments/2hgkvt/the_us_turn_of_21st_c_v_england_turn_of_20th_c/", 
@@ -18,9 +18,9 @@
             "id": "2hgkvt"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 4, 
             "domain": "slate.com", 
-            "score": 64, 
+            "score": 75, 
             "nsfw": false, 
             "title": "The story of the longest held American POW, John T. Downey.", 
             "url": "http://www.slate.com/articles/news_and_politics/history/2014/09/john_t_downey_cia_agent_captured_by_china_during_the_korean_war_the_story.html", 
@@ -30,9 +30,9 @@
             "id": "2hfmkc"
         }, 
         {
-            "num-comments": 14, 
+            "num-comments": 22, 
             "domain": "self.history", 
-            "score": 40, 
+            "score": 64, 
             "nsfw": false, 
             "title": "Where did the Mongols keep their slaves?", 
             "url": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
@@ -42,9 +42,45 @@
             "id": "2hgzir"
         }, 
         {
+            "num-comments": 15, 
+            "domain": "psmag.com", 
+            "score": 69, 
+            "nsfw": false, 
+            "title": "\"The Most Pointless Ferry in Maryland\": an old ferry service that dates back to 1683", 
+            "url": "http://www.psmag.com/navigation/business-economics/pointless-ferry-maryland-tred-avon-transportation-boat-ride-91209/", 
+            "author": "unquietwiki", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hibyi/the_most_pointless_ferry_in_maryland_an_old_ferry/", 
+            "created-utc": 1411716029.0, 
+            "id": "2hibyi"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "spiegel.de", 
+            "score": 35, 
+            "nsfw": false, 
+            "title": "The Archeological Excavations that Led to the Gas Chambers of Sobibor", 
+            "url": "http://www.spiegel.de/international/zeitgeist/the-archeological-excavations-that-led-to-the-gas-chambers-of-sobibor-a-993733.html", 
+            "author": "penguinsontv", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hio72/the_archeological_excavations_that_led_to_the_gas/", 
+            "created-utc": 1411730175.0, 
+            "id": "2hio72"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "spiegel.de", 
+            "score": 29, 
+            "nsfw": false, 
+            "title": "Interview with Sobib\u00f3r Survivor Philip Bialowitz", 
+            "url": "http://www.spiegel.de/international/europe/interview-with-sobibor-survivor-philip-bialowitz-a-993928.html", 
+            "author": "penguinsontv", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hiok4/interview_with_sobib\u00f3r_survivor_philip_bialowitz/", 
+            "created-utc": 1411730517.0, 
+            "id": "2hiok4"
+        }, 
+        {
             "num-comments": 1, 
             "domain": "youtu.be", 
-            "score": 10, 
+            "score": 11, 
             "nsfw": false, 
             "title": "Under The Knife - Great new YouTube channel dedicated to the slightly grim history of pre-anaesthetic surgery!", 
             "url": "http://youtu.be/LBINzHYUraw", 
@@ -56,7 +92,7 @@
         {
             "num-comments": 1, 
             "domain": "cam.ac.uk", 
-            "score": 6, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Recent finds at Willendorf in Austria reveal that modern humans were living in cool steppe-like conditions some 43,500 years ago \u2013 and that their presence overlapped with that of Neanderthals for far longer than we thought", 
             "url": "http://www.cam.ac.uk/research/news/they-werent-wimps-how-modern-humans-like-neanderthals-braved-the-northern-cold", 
@@ -66,31 +102,19 @@
             "id": "2hfn93"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 1, 
             "domain": "self.history", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
-            "title": "What are some examples of people throughout history where the father is white and the mother is black/native American?", 
-            "url": "http://www.reddit.com/r/history/comments/2hf2it/what_are_some_examples_of_people_throughout/", 
-            "author": "oldwayseu_IlII", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hf2it/what_are_some_examples_of_people_throughout/", 
-            "created-utc": 1411640396.0, 
-            "id": "2hf2it"
+            "title": "What happened between Lentulus Batiata and Marcus Decius Solonius?", 
+            "url": "http://www.reddit.com/r/history/comments/2hhxhy/what_happened_between_lentulus_batiata_and_marcus/", 
+            "author": "TylerJ89", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hhxhy/what_happened_between_lentulus_batiata_and_marcus/", 
+            "created-utc": 1411703673.0, 
+            "id": "2hhxhy"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "self.history", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "What are events, dates, life-spans worth memorizing? Any time period", 
-            "url": "http://www.reddit.com/r/history/comments/2hgh7m/what_are_events_dates_lifespans_worth_memorizing/", 
-            "author": "cosmicservant", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hgh7m/what_are_events_dates_lifespans_worth_memorizing/", 
-            "created-utc": 1411672685.0, 
-            "id": "2hgh7m"
-        }, 
-        {
-            "num-comments": 3, 
+            "num-comments": 7, 
             "domain": "self.history", 
             "score": 3, 
             "nsfw": false, 
@@ -127,39 +151,15 @@
         }, 
         {
             "num-comments": 2, 
-            "domain": "medium.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "Modern day China revisits the Opium Wars in latest drug crackdown.", 
-            "url": "https://medium.com/clouds-taste-metallic/drugs-the-influence-of-mind-altering-substances-on-society-part-2-613037f156ec", 
-            "author": "ballyhoo9", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hf7ii/modern_day_china_revisits_the_opium_wars_in/", 
-            "created-utc": 1411645606.0, 
-            "id": "2hf7ii"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "news.nationalgeographic.com", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "The Hair-Raising Tale of the 'USS Jeannette's' Ill-Fated 1879 Polar Voyage - In a doomed quest for Americans to be 1st to the North Pole, 20 men died. Against all odds 13 survived.", 
-            "url": "http://news.nationalgeographic.com/news/2014/09/140924-jeannette-hampton-sides-north-pole-gilded-age-ngbooktalk/", 
-            "author": "anutensil", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hezzz/the_hairraising_tale_of_the_uss_jeannettes/", 
-            "created-utc": 1411637632.0, 
-            "id": "2hezzz"
-        }, 
-        {
-            "num-comments": 8, 
             "domain": "self.history", 
             "score": 0, 
             "nsfw": false, 
-            "title": "What are some interesting major events that happened in the Western Civilization?", 
-            "url": "http://www.reddit.com/r/history/comments/2hh91u/what_are_some_interesting_major_events_that/", 
-            "author": "zaraliaya", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hh91u/what_are_some_interesting_major_events_that/", 
-            "created-utc": 1411688033.0, 
-            "id": "2hh91u"
+            "title": "What are events, dates, life-spans worth memorizing? Any time period", 
+            "url": "http://www.reddit.com/r/history/comments/2hgh7m/what_are_events_dates_lifespans_worth_memorizing/", 
+            "author": "cosmicservant", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hgh7m/what_are_events_dates_lifespans_worth_memorizing/", 
+            "created-utc": 1411672685.0, 
+            "id": "2hgh7m"
         }, 
         {
             "num-comments": 11, 
@@ -172,6 +172,18 @@
             "permalink": "http://www.reddit.com/r/history/comments/2hgirz/why_did_this_happen/", 
             "created-utc": 1411673473.0, 
             "id": "2hgirz"
+        }, 
+        {
+            "num-comments": 10, 
+            "domain": "self.history", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "What are some interesting major events that happened in the Western Civilization?", 
+            "url": "http://www.reddit.com/r/history/comments/2hh91u/what_are_some_interesting_major_events_that/", 
+            "author": "zaraliaya", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hh91u/what_are_some_interesting_major_events_that/", 
+            "created-utc": 1411688033.0, 
+            "id": "2hh91u"
         }
     ], 
     "api-url": "http://daily.red/history.json", 

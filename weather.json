@@ -1,0 +1,108 @@
+{
+    "category": "News", 
+    "generated-utc": 1411740703, 
+    "description": "Does this really need a description?", 
+    "title": "Weather subreddit", 
+    "full-url": "http://www.reddit.com/r/weather/", 
+    "posts": [
+        {
+            "num-comments": 14, 
+            "domain": "twitter.com", 
+            "score": 34, 
+            "nsfw": false, 
+            "title": "A month ago I posted about a twitter bot I made that turned NWS radar images into GIFs. Now I've changed the color palette, projection and added a new basemap. What do you think?", 
+            "url": "https://twitter.com/wxGIF/status/515124165138186240", 
+            "author": "mattparrilla", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hfdew/a_month_ago_i_posted_about_a_twitter_bot_i_made/", 
+            "created-utc": 1411650424.0, 
+            "id": "2hfdew"
+        }, 
+        {
+            "num-comments": 7, 
+            "domain": "i.imgur.com", 
+            "score": 19, 
+            "nsfw": false, 
+            "title": "Gravity Waves?", 
+            "url": "https://i.imgur.com/5dXhOPh.jpg", 
+            "author": "ozyman", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hgudm/gravity_waves/", 
+            "created-utc": 1411679574.0, 
+            "id": "2hgudm"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "m.imgur.com", 
+            "score": 13, 
+            "nsfw": false, 
+            "title": "Fall streaks at sunset on Thursday", 
+            "url": "http://m.imgur.com/HEnzeMG", 
+            "author": "quiznosity", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hi9yi/fall_streaks_at_sunset_on_thursday/", 
+            "created-utc": 1411714068.0, 
+            "id": "2hi9yi"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "earthobservatory.nasa.gov", 
+            "score": 6, 
+            "nsfw": false, 
+            "title": "Dust and Clouds Dance Over the Sahara : NASA Image of the Day", 
+            "url": "http://earthobservatory.nasa.gov/IOTD/view.php?id=84400&amp;src=eoa-iotd", 
+            "author": "rtphokie", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hgyjh/dust_and_clouds_dance_over_the_sahara_nasa_image/", 
+            "created-utc": 1411681920.0, 
+            "id": "2hgyjh"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "imgur.com", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "Took this picture of some cool looking clouds following a storm near Brisbane, Australia yesterday.", 
+            "url": "http://imgur.com/BRZbx5D", 
+            "author": "qldstorms123", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hh2sz/took_this_picture_of_some_cool_looking_clouds/", 
+            "created-utc": 1411684350.0, 
+            "id": "2hh2sz"
+        }, 
+        {
+            "num-comments": 5, 
+            "domain": "self.weather", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Any way to have certain watches/warnings from NWS automatically post to my facebook page?", 
+            "url": "http://www.reddit.com/r/weather/comments/2hfgsy/any_way_to_have_certain_watcheswarnings_from_nws/", 
+            "author": "MacCop", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hfgsy/any_way_to_have_certain_watcheswarnings_from_nws/", 
+            "created-utc": 1411652704.0, 
+            "id": "2hfgsy"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "nws.noaa.gov", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "Arizona seeing potential for severe weather, maybe even tornadoes, into this weekend.", 
+            "url": "http://www.nws.noaa.gov/view/prodsByState.php?state=az&amp;prodtype=discussion", 
+            "author": "CycloneCowgirl", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hgsg6/arizona_seeing_potential_for_severe_weather_maybe/", 
+            "created-utc": 1411678573.0, 
+            "id": "2hgsg6"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "self.weather", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "The Lunatics", 
+            "url": "http://www.reddit.com/r/weather/comments/2hfzsm/the_lunatics/", 
+            "author": "Weatherlawyer", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hfzsm/the_lunatics/", 
+            "created-utc": 1411663637.0, 
+            "id": "2hfzsm"
+        }
+    ], 
+    "api-url": "http://daily.red/weather.json", 
+    "display-name": "Weather", 
+    "short-url": "/r/weather/"
+}

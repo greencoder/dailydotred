@@ -1,14 +1,14 @@
 {
     "category": "Fun", 
-    "generated-utc": 1411705383, 
+    "generated-utc": 1411740753, 
     "description": "Humor is the place for things that bring a wry smile to your face.", 
     "title": "Humor", 
     "full-url": "http://www.reddit.com/r/humor/", 
     "posts": [
         {
-            "num-comments": 51, 
+            "num-comments": 93, 
             "domain": "metro.co.uk", 
-            "score": 243, 
+            "score": 411, 
             "nsfw": false, 
             "title": "'Naked therapist' strips on web cam to help porn addicted men", 
             "url": "http://metro.co.uk/2014/09/15/naked-therapist-helps-to-treat-men-with-porn-addiction-by-stripping-for-them-online-4869190/", 
@@ -16,6 +16,18 @@
             "permalink": "http://www.reddit.com/r/humor/comments/2hgyzu/naked_therapist_strips_on_web_cam_to_help_porn/", 
             "created-utc": 1411682193.0, 
             "id": "2hgyzu"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "youtu.be", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "So this is how you do CrossFit", 
+            "url": "http://youtu.be/6kaAvlyIN1Y", 
+            "author": "Yevbel", 
+            "permalink": "http://www.reddit.com/r/humor/comments/2higt9/so_this_is_how_you_do_crossfit/", 
+            "created-utc": 1411721459.0, 
+            "id": "2higt9"
         }
     ], 
     "api-url": "http://daily.red/humor.json", 
