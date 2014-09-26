@@ -1,0 +1,70 @@
+{
+    "category": "News", 
+    "description": "A place to read and share positive and uplifting, feel good news stories.", 
+    "title": "Uplifting News", 
+    "full-url": "http://www.reddit.com/r/UpliftingNews/", 
+    "posts": [
+        {
+            "num-comments": 89, 
+            "domain": "mlive.com", 
+            "score": 300, 
+            "nsfw": false, 
+            "title": "Autistic student voted to homecoming court at Detroit-area high school", 
+            "url": "http://www.mlive.com/news/detroit/index.ssf/2014/09/autistic_student_voted_to_home.html", 
+            "author": "SAT0725", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hfscj/autistic_student_voted_to_homecoming_court_at/", 
+            "created-utc": 1411659578.0, 
+            "id": "2hfscj"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "telegram.com", 
+            "score": 32, 
+            "nsfw": false, 
+            "title": "Healed heron heads home", 
+            "url": "http://www.telegram.com/article/20140923/NEWS/309239869/1101/local", 
+            "author": "electronics-engineer", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hf3wy/healed_heron_heads_home/", 
+            "created-utc": 1411641903.0, 
+            "id": "2hf3wy"
+        }, 
+        {
+            "num-comments": 6, 
+            "domain": "bbc.co.uk", 
+            "score": 22, 
+            "nsfw": false, 
+            "title": "Virgin's Richard Branson offers staff unlimited holiday", 
+            "url": "http://www.bbc.co.uk/news/business-29356627", 
+            "author": "Girlwithnousername", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hezsp/virgins_richard_branson_offers_staff_unlimited/", 
+            "created-utc": 1411637394.0, 
+            "id": "2hezsp"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "firstcoastnews.com", 
+            "score": 8, 
+            "nsfw": false, 
+            "title": "Woman reunited with missing service dog", 
+            "url": "http://www.firstcoastnews.com/story/news/local/2014/09/22/woman-searches-for-missing-service-dog/16070497/", 
+            "author": "tinapls", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2he4rm/woman_reunited_with_missing_service_dog/", 
+            "created-utc": 1411611293.0, 
+            "id": "2he4rm"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "newsarama.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "Analyzing the 'CRISIS' Clues From FUTURES END: BOOSTER GOLD, SUPERMAN DOOMED", 
+            "url": "http://www.newsarama.com/22227-analyzing-the-crisis-clues-from-futures-end-booster-gold-superman-doomed.html", 
+            "author": "poepoz", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hhes9/analyzing_the_crisis_clues_from_futures_end/", 
+            "created-utc": 1411691617.0, 
+            "id": "2hhes9"
+        }
+    ], 
+    "display-name": "Uplifting News", 
+    "short-url": "/r/UpliftingNews/"
+}
