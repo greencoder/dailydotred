@@ -1,14 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411740722, 
-    "description": "A place to read and share positive and uplifting, feel good news stories.", 
+    "generated-utc": 1411743229, 
+    "description": "A place to read and share positive and uplifting, feel good news stories", 
     "title": "Uplifting News", 
     "full-url": "http://www.reddit.com/r/UpliftingNews/", 
     "posts": [
         {
             "num-comments": 110, 
             "domain": "mlive.com", 
-            "score": 422, 
+            "score": 421, 
             "nsfw": false, 
             "title": "Autistic student voted to homecoming court at Detroit-area high school", 
             "url": "http://www.mlive.com/news/detroit/index.ssf/2014/09/autistic_student_voted_to_home.html", 
@@ -18,9 +18,9 @@
             "id": "2hfscj"
         }, 
         {
-            "num-comments": 29, 
+            "num-comments": 35, 
             "domain": "mnn.com", 
-            "score": 519, 
+            "score": 633, 
             "nsfw": false, 
             "title": "Weird cloud on radar maps wasn't caused by weather: The bizarre shape over the U.S. Midwest was actually monarch butterflies traveling from Canada to Mexico", 
             "url": "http://www.mnn.com/earth-matters/animals/blogs/weird-cloud-on-radar-maps-wasnt-caused-by-weather", 
@@ -42,21 +42,9 @@
             "id": "2hgkv9"
         }, 
         {
-            "num-comments": 4, 
-            "domain": "mashable.com", 
-            "score": 36, 
-            "nsfw": false, 
-            "title": "Belgian city to build underground pipe for beer", 
-            "url": "http://mashable.com/2014/09/24/belgian-city-beer-pipeline", 
-            "author": "notscientific", 
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hig7g/belgian_city_to_build_underground_pipe_for_beer/", 
-            "created-utc": 1411720731.0, 
-            "id": "2hig7g"
-        }, 
-        {
             "num-comments": 3, 
             "domain": "i.imgur.com", 
-            "score": 23, 
+            "score": 33, 
             "nsfw": false, 
             "title": "Little girl loses her favourite cuddly cat toy. Despite it being 7 years out of production the manufacturer commissions a one off to replace it for her for free. Heartwarming!", 
             "url": "http://i.imgur.com/tiSxKpa.jpg", 
@@ -68,7 +56,7 @@
         {
             "num-comments": 2, 
             "domain": "newscenter.berkeley.edu", 
-            "score": 11, 
+            "score": 10, 
             "nsfw": false, 
             "title": "New college athletic team breaks barriers for the disabled.", 
             "url": "http://newscenter.berkeley.edu/2014/09/22/new-athletic-team-breaks-barriers-for-the-disabled/", 
@@ -78,9 +66,9 @@
             "id": "2hhjqx"
         }, 
         {
-            "num-comments": 0, 
+            "num-comments": 2, 
             "domain": "mapachili.com", 
-            "score": 9, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Dearborn, MI Restaurant \"Moo Cluck Moo\" now pays their employees $15/hr. Owner doesn't think CEOs should \"sit on a pile of cash\"", 
             "url": "http://mapachili.com/?p=1174", 
@@ -92,7 +80,7 @@
         {
             "num-comments": 3, 
             "domain": "grandforksherald.com", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Student With Down Syndrome Chosen As Homecoming Queen", 
             "url": "http://www.grandforksherald.com/content/student-down-syndrome-chosen-central-high-school-homecoming-queen", 
@@ -104,7 +92,7 @@
         {
             "num-comments": 1, 
             "domain": "reuters.com", 
-            "score": 7, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Volunteers use 3D printers to create inexpensive prosthetics for kids", 
             "url": "http://www.reuters.com/article/2014/09/25/us-3d-printing-prosthetics-idUSKCN0HK1X520140925", 
@@ -140,7 +128,7 @@
         {
             "num-comments": 0, 
             "domain": "thenorthernecho.co.uk", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Bikers on their annual journey to donate food to homeless pets", 
             "url": "http://www.thenorthernecho.co.uk/news/local/teesvalley/hartlepool/11496927.Bikers_make_annual_pilgrimage_to_dog_rehoming_centre_to_donate_food_supplies/", 
@@ -200,7 +188,7 @@
         {
             "num-comments": 0, 
             "domain": "beta.sportingnews.com", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Darnell Dockett gives Pro Bowl jersey to Cardinals fan who helped security guard from being choked while breaking up a fight.", 
             "url": "http://beta.sportingnews.com/article/4612121-darnell-dockett-fan-brawl-stands-arizona-cardinals-video-jersey?modid=http%3A%2F%2Flm.facebook.com%2Fl.php%3Fu%3Dhttp%253A%252F%252Fwww.sportingnews.com%252Fnfl%252Fstory%252F2014-09-24%252Fdarnell-dockett-fan-brawl-stands-arizona-cardinals-video-jersey%253Feadid%253DSOC%25252FFB%25252FSNMain%26h%3DrAQGY6GfR%26enc%3DAZNvACv32Y8niY3ebi5P68G1VEX1T16JeOPYjgcM-k4OteH6HHNl5j76UVq9WSvwgRQ1N-c-nynQ5-LK9l3dJvDJcyQW4IB0QFLp_lHF1oRt-xeHczVFh5cCuYAlW4FtUC_jZs6ZPOxlxIph4dFyfwuaTuIU_um7ala3C_UcyiSXjQ%26s%3D1&amp;eadid=SOC/FB/SNMain", 

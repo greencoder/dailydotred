@@ -1,14 +1,14 @@
 {
     "category": "Entertainment", 
-    "generated-utc": 1411740662, 
-    "description": "The musical community of reddit.", 
+    "generated-utc": 1411743167, 
+    "description": "The musical community of reddit", 
     "title": "Music", 
     "full-url": "http://www.reddit.com/r/Music/", 
     "posts": [
         {
-            "num-comments": 829, 
+            "num-comments": 840, 
             "domain": "smh.com.au", 
-            "score": 3277, 
+            "score": 3284, 
             "nsfw": false, 
             "title": "AC/DC's Malcolm Young reportedly in care for dementia in Sydney", 
             "url": "http://www.smh.com.au/entertainment/music/acdcs-malcolm-young-reportedly-in-care-for-dementia-in-sydney-20140925-10m1hs.html", 
@@ -18,9 +18,9 @@
             "id": "2hfp28"
         }, 
         {
-            "num-comments": 291, 
+            "num-comments": 298, 
             "domain": "youtube.com", 
-            "score": 2210, 
+            "score": 2247, 
             "nsfw": false, 
             "title": "OutKast - Hey Ya! [Cover] Not what you're expecting", 
             "url": "https://www.youtube.com/watch?v=2JeCm34hmks", 
@@ -30,9 +30,9 @@
             "id": "2hfsol"
         }, 
         {
-            "num-comments": 161, 
+            "num-comments": 166, 
             "domain": "youtu.be", 
-            "score": 1051, 
+            "score": 1080, 
             "nsfw": false, 
             "title": "Jimmy Eat World - Sweetness [Pop Punk, Emo]", 
             "url": "http://youtu.be/ROatPGGMvXg", 
@@ -44,7 +44,7 @@
         {
             "num-comments": 45, 
             "domain": "youtube.com", 
-            "score": 255, 
+            "score": 262, 
             "nsfw": false, 
             "title": "Counting Crows - Mr. Jones [Rock]", 
             "url": "https://www.youtube.com/watch?v=-oqAU5VxFWs", 
@@ -54,9 +54,9 @@
             "id": "2hfh5v"
         }, 
         {
-            "num-comments": 23, 
+            "num-comments": 27, 
             "domain": "youtube.com", 
-            "score": 161, 
+            "score": 225, 
             "nsfw": false, 
             "title": "Coheed And Cambria - In Keeping Secrets of Silent Earth: 3 [Progressive Rock]", 
             "url": "https://www.youtube.com/watch?v=1uYsu13XGgM", 
@@ -68,7 +68,7 @@
         {
             "num-comments": 23, 
             "domain": "youtube.com", 
-            "score": 90, 
+            "score": 89, 
             "nsfw": false, 
             "title": "Gramatik vs. The Beatles - Don't Let Me Down [Remix]", 
             "url": "https://www.youtube.com/watch?v=FHPg-bQneMY&amp;", 
@@ -78,9 +78,9 @@
             "id": "2hflgl"
         }, 
         {
-            "num-comments": 180, 
+            "num-comments": 182, 
             "domain": "self.Music", 
-            "score": 73, 
+            "score": 77, 
             "nsfw": false, 
             "title": "Songs that creep you out or flat out scare the shit out of you.", 
             "url": "http://www.reddit.com/r/Music/comments/2hfto4/songs_that_creep_you_out_or_flat_out_scare_the/", 
@@ -90,9 +90,9 @@
             "id": "2hfto4"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 10, 
             "domain": "youtube.com", 
-            "score": 88, 
+            "score": 125, 
             "nsfw": false, 
             "title": "The Strokes - Last Nite [indie rock]", 
             "url": "https://www.youtube.com/watch?v=TOypSnKFHrE", 
@@ -102,9 +102,9 @@
             "id": "2hhqd7"
         }, 
         {
-            "num-comments": 206, 
+            "num-comments": 207, 
             "domain": "self.Music", 
-            "score": 66, 
+            "score": 65, 
             "nsfw": false, 
             "title": "What is your favourite song right now?", 
             "url": "http://www.reddit.com/r/Music/comments/2hfr9e/what_is_your_favourite_song_right_now/", 
@@ -116,7 +116,7 @@
         {
             "num-comments": 22, 
             "domain": "youtube.com", 
-            "score": 57, 
+            "score": 55, 
             "nsfw": false, 
             "title": "Alt-J - Arrival in Nara [Alternative]", 
             "url": "https://www.youtube.com/watch?v=oEYdFPD0UvY", 
@@ -140,7 +140,7 @@
         {
             "num-comments": 23, 
             "domain": "self.Music", 
-            "score": 46, 
+            "score": 41, 
             "nsfw": false, 
             "title": "Thank you Styx", 
             "url": "http://www.reddit.com/r/Music/comments/2hfk06/thank_you_styx/", 
@@ -152,7 +152,7 @@
         {
             "num-comments": 8, 
             "domain": "youtube.com", 
-            "score": 41, 
+            "score": 45, 
             "nsfw": false, 
             "title": "Black Sabbath - N.I.B. [Heavy Metal]", 
             "url": "https://www.youtube.com/watch?v=i_SGQycuXUw", 
@@ -164,7 +164,7 @@
         {
             "num-comments": 7, 
             "domain": "youtube.com", 
-            "score": 40, 
+            "score": 43, 
             "nsfw": true, 
             "title": "El Guincho - \"Bombay\" [Electronic, Latin]", 
             "url": "https://www.youtube.com/watch?v=-CreEuaS8QY", 
@@ -176,7 +176,7 @@
         {
             "num-comments": 4, 
             "domain": "youtube.com", 
-            "score": 27, 
+            "score": 28, 
             "nsfw": false, 
             "title": "Fugazi - I'm So Tired [Post-Hardcore]", 
             "url": "https://www.youtube.com/watch?v=4IKddfxkDWk", 
@@ -188,7 +188,7 @@
         {
             "num-comments": 2, 
             "domain": "m.soundcloud.com", 
-            "score": 28, 
+            "score": 29, 
             "nsfw": false, 
             "title": "Gorillaz Feat. Lou Reed - Some Kind of Nature [Electronic]", 
             "url": "https://m.soundcloud.com/i-van-share/09-some-kind-of-nature-ft-lou-reed", 
@@ -200,7 +200,7 @@
         {
             "num-comments": 14, 
             "domain": "self.Music", 
-            "score": 23, 
+            "score": 25, 
             "nsfw": false, 
             "title": "Anyone know what group this is?", 
             "url": "http://www.reddit.com/r/Music/comments/2hfqbh/anyone_know_what_group_this_is/", 
@@ -210,7 +210,7 @@
             "id": "2hfqbh"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 5, 
             "domain": "youtube.com", 
             "score": 23, 
             "nsfw": false, 
@@ -224,7 +224,7 @@
         {
             "num-comments": 6, 
             "domain": "youtube.com", 
-            "score": 24, 
+            "score": 30, 
             "nsfw": false, 
             "title": "Shakey Graves - Roll the Bones [Indie]", 
             "url": "https://www.youtube.com/watch?v=sD72LbIk02M", 
@@ -248,7 +248,7 @@
         {
             "num-comments": 0, 
             "domain": "youtube.com", 
-            "score": 20, 
+            "score": 18, 
             "nsfw": false, 
             "title": "Earth - Omens And Portents II: Carrion Crow [Instrumental]", 
             "url": "http://www.youtube.com/attribution_link?a=PSnzMWL5bK8&amp;u=%2Fwatch%3Fv%3DLKT0vKI3W8Y%26feature%3Dshare", 
@@ -258,9 +258,9 @@
             "id": "2hfupn"
         }, 
         {
-            "num-comments": 9, 
+            "num-comments": 10, 
             "domain": "avclub.com", 
-            "score": 19, 
+            "score": 20, 
             "nsfw": false, 
             "title": "Urban Outfitters is now the world\u2019s top seller of vinyl records", 
             "url": "http://www.avclub.com/article/urban-outfitters-now-worlds-top-seller-vinyl-recor-209700", 
@@ -272,7 +272,7 @@
         {
             "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 18, 
+            "score": 17, 
             "nsfw": false, 
             "title": "Echo &amp; the Bunnymen - The Killing Moon [new wave]", 
             "url": "https://www.youtube.com/watch?v=LWz0JC7afNQ", 
@@ -294,9 +294,9 @@
             "id": "2hfgx0"
         }, 
         {
-            "num-comments": 123, 
+            "num-comments": 448, 
             "domain": "self.Music", 
-            "score": 57, 
+            "score": 158, 
             "nsfw": false, 
             "title": "What is the best one hit wonder song ever made?", 
             "url": "http://www.reddit.com/r/Music/comments/2hiix8/what_is_the_best_one_hit_wonder_song_ever_made/", 

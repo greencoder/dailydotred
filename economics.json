@@ -1,14 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411740735, 
-    "description": "News and discussion about economics, from the perspective of economists.", 
+    "generated-utc": 1411743242, 
+    "description": "News and discussion about economics, from the perspective of economists", 
     "title": "The Dismal Science", 
     "full-url": "http://www.reddit.com/r/Economics/", 
     "posts": [
         {
-            "num-comments": 279, 
+            "num-comments": 284, 
             "domain": "theguardian.com", 
-            "score": 433, 
+            "score": 438, 
             "nsfw": false, 
             "title": "Thousands of Americans abroad are giving up their citizenship as the implementation of a complex new tax law causes banks to shut down accounts for US expatriates", 
             "url": "http://www.theguardian.com/money/2014/sep/24/americans-chased-by-irs-give-up-citizenship-after-being-forced-out-of-bank-accounts", 
@@ -20,7 +20,7 @@
         {
             "num-comments": 19, 
             "domain": "reuters.com", 
-            "score": 81, 
+            "score": 86, 
             "nsfw": false, 
             "title": "U.S. jobless claims up less than expected, point to firming labor market", 
             "url": "http://www.reuters.com/article/2014/09/25/us-economy-jobless-idUSKCN0HK1E420140925?feedType=RSS&amp;feedName=GCA-Economy2010", 
@@ -30,9 +30,9 @@
             "id": "2hfdg4"
         }, 
         {
-            "num-comments": 59, 
+            "num-comments": 60, 
             "domain": "qz.com", 
-            "score": 43, 
+            "score": 46, 
             "nsfw": false, 
             "title": "The secret to keeping mothers in the workforce lies not in giving them more time off but in getting more fathers to stay at home instead", 
             "url": "http://qz.com/266841/economic-case-for-paternity-leave/", 
@@ -56,7 +56,7 @@
         {
             "num-comments": 1, 
             "domain": "federalreserve.gov", 
-            "score": 19, 
+            "score": 20, 
             "nsfw": false, 
             "title": "Fed: 24Sep/Signaling Status: The Impact of Relative Income on Household Consumption and Financial Decisions", 
             "url": "http://www.federalreserve.gov/econresdata/feds/2014/files/201476pap.pdf", 
@@ -68,7 +68,7 @@
         {
             "num-comments": 7, 
             "domain": "nber.org", 
-            "score": 11, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Repugnance as a Constraint on Markets - from slavery and indentured servitude to lending money for interest, and from bans on eating horse meat in California to bans on dwarf tossing in France", 
             "url": "http://www.nber.org/papers/w12702?_ga=1.101398401.1231248957.1404335315", 
@@ -80,7 +80,7 @@
         {
             "num-comments": 12, 
             "domain": "newyorker.com", 
-            "score": 7, 
+            "score": 9, 
             "nsfw": false, 
             "title": "One of the most successful Billionaire on Wall Street says the governement should raise taxes on poor people", 
             "url": "http://www.newyorker.com/magazine/2014/07/07/moaning-moguls", 
@@ -102,9 +102,9 @@
             "id": "2hgh3n"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 7, 
             "domain": "nakedcapitalism.com", 
-            "score": 18, 
+            "score": 20, 
             "nsfw": false, 
             "title": "\"The Most Remarkable Chart I've Seen in Some Time\": Rich Gain More Ground in Every US Expansion", 
             "url": "http://www.nakedcapitalism.com/2014/09/remarkable-chart-ive-seen-time-rich-gain-ground-every-us-expansion.html", 
@@ -114,7 +114,7 @@
             "id": "2hiak3"
         }, 
         {
-            "num-comments": 14, 
+            "num-comments": 15, 
             "domain": "andrewleigh.com", 
             "score": 6, 
             "nsfw": false, 
@@ -128,7 +128,7 @@
         {
             "num-comments": 0, 
             "domain": "marketwatch.com", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Euro at lowest since 2012 on Draghi\u2019s dovish comments", 
             "url": "http://www.marketwatch.com/story/euro-hits-fresh-14-month-low-on-ecb-draghis-comments-2014-09-25?mod=googlemarkets", 
@@ -188,7 +188,7 @@
         {
             "num-comments": 0, 
             "domain": "federalreserve.gov", 
-            "score": 3, 
+            "score": 5, 
             "nsfw": false, 
             "title": "Fed: 24Sep/Bank Profitability and Debit Card Interchange Regulation: Bank Responses to the Durbin Amendment", 
             "url": "http://www.federalreserve.gov/econresdata/feds/2014/files/201477pap.pdf", 
@@ -198,9 +198,9 @@
             "id": "2hfjhv"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 4, 
             "domain": "alannasser.org", 
-            "score": 3, 
+            "score": 5, 
             "nsfw": false, 
             "title": "What Keynes Really Prescribed", 
             "url": "http://www.alannasser.org/articles/whatkeynesreallyprescribed.html", 
@@ -212,7 +212,7 @@
         {
             "num-comments": 2, 
             "domain": "aeon.co", 
-            "score": 6, 
+            "score": 5, 
             "nsfw": false, 
             "title": "To end inequality we must understand poverty", 
             "url": "http://aeon.co/magazine/society/to-end-inequality-we-must-understand-how-poverty-works/", 
@@ -260,7 +260,7 @@
         {
             "num-comments": 0, 
             "domain": "voxeu.org", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "G20 credibility depends on its trade agenda: Statement of the participants in the Third EU-Asia Rountable", 
             "url": "http://www.voxeu.org/article/g20-credibility-depends-its-trade-agenda-statement-participants-third-eu-asia-rountable", 

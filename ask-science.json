@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411740700, 
-    "description": "Ask a science question, get a science answer.", 
+    "generated-utc": 1411743211, 
+    "description": "Ask a science question, get a science answer", 
     "title": "AskScience: Got Questions? Get Answers.", 
     "full-url": "http://www.reddit.com/r/askscience/", 
     "posts": [
         {
-            "num-comments": 153, 
+            "num-comments": 229, 
             "domain": "self.askscience", 
-            "score": 837, 
+            "score": 1092, 
             "nsfw": false, 
             "title": "Do other animals find things 'funny' like we do?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hihb1/do_other_animals_find_things_funny_like_we_do/", 
@@ -20,7 +20,7 @@
         {
             "num-comments": 35, 
             "domain": "self.askscience", 
-            "score": 87, 
+            "score": 81, 
             "nsfw": false, 
             "title": "Is it possible that there is another planet in our solar system that we can't see?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfo9n/is_it_possible_that_there_is_another_planet_in/", 
@@ -32,7 +32,7 @@
         {
             "num-comments": 16, 
             "domain": "self.askscience", 
-            "score": 105, 
+            "score": 115, 
             "nsfw": false, 
             "title": "How do we differentiate the Earth's magnetic field weakening due to a pending reversal instead of a complete shutdown like is suspected to have happened to Mars?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hilf1/how_do_we_differentiate_the_earths_magnetic_field/", 
@@ -44,7 +44,7 @@
         {
             "num-comments": 14, 
             "domain": "self.askscience", 
-            "score": 36, 
+            "score": 38, 
             "nsfw": false, 
             "title": "When my guitar is out of tune, the strings are always in a too high pitch. Intuitively, it feels like it should be the other way since they would loosen. What's going on?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfxe2/when_my_guitar_is_out_of_tune_the_strings_are/", 
@@ -90,9 +90,9 @@
             "id": "2hgdcn"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 6, 
             "domain": "self.askscience", 
-            "score": 14, 
+            "score": 16, 
             "nsfw": false, 
             "title": "How fast is the sun moving through space and how can we measure that?", 
             "url": "http://www.reddit.com/r/askscience/comments/2him0l/how_fast_is_the_sun_moving_through_space_and_how/", 
@@ -104,7 +104,7 @@
         {
             "num-comments": 11, 
             "domain": "self.askscience", 
-            "score": 15, 
+            "score": 16, 
             "nsfw": false, 
             "title": "Does a horizontally moving mirror reflect any differently than an equivalently stationary one?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hhmmo/does_a_horizontally_moving_mirror_reflect_any/", 
@@ -116,7 +116,7 @@
         {
             "num-comments": 2, 
             "domain": "self.askscience", 
-            "score": 14, 
+            "score": 13, 
             "nsfw": false, 
             "title": "If I had a knob that allowed me to smoothly change the value of the fine structure constant, how far, and in what direction, would I have to turn it before I died and what exactly would I die from?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hh48c/if_i_had_a_knob_that_allowed_me_to_smoothly/", 
@@ -140,7 +140,7 @@
         {
             "num-comments": 4, 
             "domain": "self.askscience", 
-            "score": 14, 
+            "score": 12, 
             "nsfw": false, 
             "title": "How did dinosaurs circulate blood through their massive bodies?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hhis9/how_did_dinosaurs_circulate_blood_through_their/", 
@@ -164,7 +164,7 @@
         {
             "num-comments": 12, 
             "domain": "self.askscience", 
-            "score": 13, 
+            "score": 12, 
             "nsfw": false, 
             "title": "Can sound travel in space if the noise is made in a gas cloud?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfmlw/can_sound_travel_in_space_if_the_noise_is_made_in/", 
@@ -174,9 +174,9 @@
             "id": "2hfmlw"
         }, 
         {
-            "num-comments": 14, 
+            "num-comments": 15, 
             "domain": "self.askscience", 
-            "score": 12, 
+            "score": 11, 
             "nsfw": false, 
             "title": "If magnifying lenses can be used to concentrate the suns energy into a single point, why do they seem to have no value in energy production? Does the size of the lens allow it to concentrate a proportionate of energy?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hg6b9/if_magnifying_lenses_can_be_used_to_concentrate/", 
@@ -188,7 +188,7 @@
         {
             "num-comments": 9, 
             "domain": "self.askscience", 
-            "score": 10, 
+            "score": 11, 
             "nsfw": false, 
             "title": "What will happen to our solar system during the years when the Milky Way &amp; Andromeda galaxies collide?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfhxr/what_will_happen_to_our_solar_system_during_the/", 
@@ -198,7 +198,7 @@
             "id": "2hfhxr"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 5, 
             "domain": "self.askscience", 
             "score": 9, 
             "nsfw": false, 
@@ -212,7 +212,7 @@
         {
             "num-comments": 5, 
             "domain": "self.askscience", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Are the newly discovered ultra-thin \"diamond nanothreads\" as strong as spider silk?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hhwh8/are_the_newly_discovered_ultrathin_diamond/", 
@@ -222,7 +222,7 @@
             "id": "2hhwh8"
         }, 
         {
-            "num-comments": 5, 
+            "num-comments": 6, 
             "domain": "self.askscience", 
             "score": 7, 
             "nsfw": false, 
@@ -258,7 +258,7 @@
             "id": "2hh17x"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 4, 
             "domain": "self.askscience", 
             "score": 6, 
             "nsfw": false, 
@@ -296,7 +296,7 @@
         {
             "num-comments": 3, 
             "domain": "self.askscience", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Why do batteries in a series arrangement not discharge?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hhxh4/why_do_batteries_in_a_series_arrangement_not/", 

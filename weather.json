@@ -1,14 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411740703, 
-    "description": "Does this really need a description?", 
+    "generated-utc": 1411743214, 
+    "description": "Stories related to weather", 
     "title": "Weather subreddit", 
     "full-url": "http://www.reddit.com/r/weather/", 
     "posts": [
         {
             "num-comments": 14, 
             "domain": "twitter.com", 
-            "score": 34, 
+            "score": 31, 
             "nsfw": false, 
             "title": "A month ago I posted about a twitter bot I made that turned NWS radar images into GIFs. Now I've changed the color palette, projection and added a new basemap. What do you think?", 
             "url": "https://twitter.com/wxGIF/status/515124165138186240", 
@@ -20,7 +20,7 @@
         {
             "num-comments": 7, 
             "domain": "i.imgur.com", 
-            "score": 19, 
+            "score": 18, 
             "nsfw": false, 
             "title": "Gravity Waves?", 
             "url": "https://i.imgur.com/5dXhOPh.jpg", 
@@ -32,7 +32,7 @@
         {
             "num-comments": 0, 
             "domain": "m.imgur.com", 
-            "score": 13, 
+            "score": 14, 
             "nsfw": false, 
             "title": "Fall streaks at sunset on Thursday", 
             "url": "http://m.imgur.com/HEnzeMG", 
@@ -44,7 +44,7 @@
         {
             "num-comments": 0, 
             "domain": "earthobservatory.nasa.gov", 
-            "score": 6, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Dust and Clouds Dance Over the Sahara : NASA Image of the Day", 
             "url": "http://earthobservatory.nasa.gov/IOTD/view.php?id=84400&amp;src=eoa-iotd", 
@@ -56,7 +56,7 @@
         {
             "num-comments": 1, 
             "domain": "imgur.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "Took this picture of some cool looking clouds following a storm near Brisbane, Australia yesterday.", 
             "url": "http://imgur.com/BRZbx5D", 

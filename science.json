@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411740685, 
-    "description": "The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences. Find and submit the best writeup on the web about a discovery, and make sure it cites its sources.", 
+    "generated-utc": 1411743195, 
+    "description": "The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences.", 
     "title": "Science", 
     "full-url": "http://www.reddit.com/r/science/", 
     "posts": [
         {
-            "num-comments": 1205, 
+            "num-comments": 1209, 
             "domain": "carnegiescience.edu", 
-            "score": 4070, 
+            "score": 4082, 
             "nsfw": false, 
             "title": "A team of scientists has, for the first time, discovered how to produce ultra-thin \"diamond nanothreads\" that promise extraordinary properties, including strength and stiffness greater than that of today's strongest nanotubes and polymer fibers.", 
             "url": "http://carnegiescience.edu/news/smallestpossible_diamonds_form_ultrathin_nanothread", 
@@ -18,9 +18,9 @@
             "id": "2hfq89"
         }, 
         {
-            "num-comments": 278, 
+            "num-comments": 279, 
             "domain": "news.yorku.ca", 
-            "score": 3123, 
+            "score": 3128, 
             "nsfw": false, 
             "title": "Perfectionism is a bigger than perceived risk factor in suicide: Psychology expert calls for closer attention to its potential destructiveness, adding that clinical guidelines should include perfectionism as a separate factor for suicide risk assessment and intervention", 
             "url": "http://news.yorku.ca/2014/09/25/perfectionism-is-a-bigger-than-perceived-risk-factor-in-suicide-york-u-psychology-expert/", 
@@ -30,9 +30,9 @@
             "id": "2hfuhe"
         }, 
         {
-            "num-comments": 156, 
+            "num-comments": 195, 
             "domain": "carnegiescience.edu", 
-            "score": 2190, 
+            "score": 2508, 
             "nsfw": false, 
             "title": "Earth's water is older than the Sun: Water is found throughout our Solar System. Not just on Earth, but on icy comets and moons, and in the shadowed basins of Mercury. New work has now found that much of our Solar System\u2019s water likely originated as ices that formed in interstellar space", 
             "url": "https://carnegiescience.edu/news/earth%E2%80%99s_water_older_sun", 
@@ -44,7 +44,7 @@
         {
             "num-comments": 30, 
             "domain": "phys.org", 
-            "score": 1246, 
+            "score": 1261, 
             "nsfw": false, 
             "title": "New evidence of ancient multicellular life sets evolutionary timeline back 60 million years", 
             "url": "http://phys.org/news/2014-09-evidence-ancient-multicellular-life-evolutionary.html#jCp", 
@@ -56,7 +56,7 @@
         {
             "num-comments": 6, 
             "domain": "sciencedaily.com", 
-            "score": 248, 
+            "score": 254, 
             "nsfw": false, 
             "title": "Chemists recruit anthrax to deliver cancer drugs: With some tinkering, a deadly protein becomes an efficient carrier for antibody drugs", 
             "url": "http://www.sciencedaily.com/releases/2014/09/140925100921.htm", 
@@ -66,9 +66,9 @@
             "id": "2hfu07"
         }, 
         {
-            "num-comments": 24, 
+            "num-comments": 25, 
             "domain": "newseveryday.com", 
-            "score": 192, 
+            "score": 198, 
             "nsfw": false, 
             "title": "People Who Believe in Guardian Angels Rarely Take Risks: Study", 
             "url": "http://www.newseveryday.com/articles/1206/20140925/belief-on-guardian-angels-affects-peoples-risk-taking-behaviors-study.htm", 
@@ -78,9 +78,9 @@
             "id": "2hgtlo"
         }, 
         {
-            "num-comments": 29, 
+            "num-comments": 32, 
             "domain": "virologydownunder.blogspot.com", 
-            "score": 190, 
+            "score": 220, 
             "nsfw": false, 
             "title": "Infectious Ebola has been isolated in the semen of Ebola survivors 82 days after disease onset. Ebola survivors are advised to avoid unprotected sex for at least 90 days.", 
             "url": "http://virologydownunder.blogspot.com/2014/08/ebola-virus-in-semen-is-real-deal.html", 
@@ -92,7 +92,7 @@
         {
             "num-comments": 2, 
             "domain": "sciencedaily.com", 
-            "score": 122, 
+            "score": 124, 
             "nsfw": false, 
             "title": "Superradiance is the phenomenon in which a group of atoms collectively emit an intense pulse of light. Effect is exploited to make \"superabsorber\" device that efficiently grabs rare photons", 
             "url": "http://www.sciencedaily.com/releases/2014/09/140919100850.htm", 
@@ -104,7 +104,7 @@
         {
             "num-comments": 5, 
             "domain": "sciencedaily.com", 
-            "score": 122, 
+            "score": 126, 
             "nsfw": false, 
             "title": "Bacterial 'communication system' could be used to stop, kill cancer cells, study finds", 
             "url": "http://www.sciencedaily.com/releases/2014/09/140924145016.htm", 
@@ -114,9 +114,9 @@
             "id": "2hfqvy"
         }, 
         {
-            "num-comments": 17, 
+            "num-comments": 26, 
             "domain": "bbc.com", 
-            "score": 290, 
+            "score": 474, 
             "nsfw": false, 
             "title": "A spice commonly found in curries may boost the brain's ability to heal itself, according to a report in the journal Stem Cell Research and Therapy. The German study suggests a compound found in turmeric could encourage the growth of nerve cells thought to be part of the brain's repair kit.", 
             "url": "http://www.bbc.com/news/health-29361351", 
@@ -126,9 +126,9 @@
             "id": "2hiex8"
         }, 
         {
-            "num-comments": 11, 
+            "num-comments": 20, 
             "domain": "news.discovery.com", 
-            "score": 104, 
+            "score": 153, 
             "nsfw": false, 
             "title": "Most 'Earth-Like' Alien World Discovered", 
             "url": "http://news.discovery.com/space/alien-life-exoplanets/most-earth-like-alien-world-discovered-140417.htm", 
@@ -140,7 +140,7 @@
         {
             "num-comments": 0, 
             "domain": "spacetelescope.org", 
-            "score": 68, 
+            "score": 70, 
             "nsfw": false, 
             "title": "A galaxy of deception: Hubble snaps what looks like a young galaxy in the local Universe", 
             "url": "http://www.spacetelescope.org/news/heic1421/", 
@@ -150,9 +150,9 @@
             "id": "2hftut"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 5, 
             "domain": "futurity.org", 
-            "score": 66, 
+            "score": 68, 
             "nsfw": false, 
             "title": "Blue laser pumps light within an area 20 times smaller than its wavelength", 
             "url": "http://www.futurity.org/honey-who-shrunk-the-laser-light/", 
@@ -164,7 +164,7 @@
         {
             "num-comments": 2, 
             "domain": "medium.com", 
-            "score": 54, 
+            "score": 58, 
             "nsfw": false, 
             "title": "Astrophysicists Identify The \u201cHabitable\u201d Regions Of The Entire Universe", 
             "url": "https://medium.com/the-physics-arxiv-blog/astrophysicists-identify-habitable-regions-of-the-entire-universe-361f54c4730f", 
@@ -176,7 +176,7 @@
         {
             "num-comments": 0, 
             "domain": "sciencedaily.com", 
-            "score": 53, 
+            "score": 48, 
             "nsfw": false, 
             "title": "Sugars in the cornfield: Plants use defenses against pests, but they don't always work", 
             "url": "http://www.sciencedaily.com/releases/2014/09/140925102142.htm", 
@@ -188,7 +188,7 @@
         {
             "num-comments": 3, 
             "domain": "news.sciencemag.org", 
-            "score": 53, 
+            "score": 60, 
             "nsfw": false, 
             "title": "Good news for hunters of extraterrestrial life: Water may be more widespread in planetary systems than previously thought.", 
             "url": "http://news.sciencemag.org/earth/2014/09/half-earths-water-formed-sun-was-born", 
@@ -200,7 +200,7 @@
         {
             "num-comments": 1, 
             "domain": "news.sciencemag.org", 
-            "score": 36, 
+            "score": 48, 
             "nsfw": false, 
             "title": "How did the 'Berlin patient' rid himself of HIV?: Researchers are closer to unraveling the mystery of how Timothy Ray Brown, the only human cured of HIV, defeated the virus, according to a new study. Although the work doesn\u2019t provide a definitive answer, it rules out one possible explanation", 
             "url": "http://news.sciencemag.org/health/2014/09/how-did-berlin-patient-rid-himself-hiv?rss=1", 
@@ -212,7 +212,7 @@
         {
             "num-comments": 19, 
             "domain": "psmag.com", 
-            "score": 32, 
+            "score": 37, 
             "nsfw": false, 
             "title": "Study: Reading Fifty Shades of Grey Has No Sexual Effect - New research refutes the notion that reading the Fifty Shades of Grey trilogy strongly impacts women\u2019s sexual behavior.", 
             "url": "http://www.psmag.com/navigation/books-and-culture/fifty-shades-grey-trilogy-meh-women-health-gender-book-reading-literature-91166/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+miller-mccune%2Fmain_feed+%28Pacific+Standard+-+Main+Feed%29", 
@@ -224,7 +224,7 @@
         {
             "num-comments": 8, 
             "domain": "livescience.com", 
-            "score": 34, 
+            "score": 30, 
             "nsfw": false, 
             "title": "Only 1 Person Has Been Cured of HIV: New Study Suggests Why", 
             "url": "http://www.livescience.com/48015-berlin-patient-hiv-treatment.html", 
@@ -234,9 +234,9 @@
             "id": "2hgou8"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 6, 
             "domain": "bbc.com", 
-            "score": 118, 
+            "score": 257, 
             "nsfw": false, 
             "title": "Scientists have found the beginnings of life-bearing chemistry at the centre of the galaxy. Iso-propyl cyanide has been detected in a star-forming cloud 27,000 light-years from Earth. Its branched carbon structure is closer to the complex organic molecules of life than any previous finding", 
             "url": "http://www.bbc.com/news/science-environment-29368984", 
@@ -246,9 +246,9 @@
             "id": "2hiljw"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "news.nationalgeographic.com", 
-            "score": 31, 
+            "score": 32, 
             "nsfw": false, 
             "title": "U.S. Creates Largest Protected Area in the World, 3X Larger Than California", 
             "url": "http://news.nationalgeographic.com/news/2014/09/140924-pacific-remote-islands-marine-monument-expansion-conservation/", 
@@ -260,7 +260,7 @@
         {
             "num-comments": 0, 
             "domain": "washingtonpost.com", 
-            "score": 30, 
+            "score": 32, 
             "nsfw": false, 
             "title": "The water on our planet may be older than the sun, which is good news in the hunt for extraterrestrial life", 
             "url": "http://www.washingtonpost.com/news/speaking-of-science/wp/2014/09/25/the-water-on-our-planet-may-be-older-than-the-sun-which-is-good-news-in-the-hunt-for-extraterrestrial-life/", 
@@ -272,7 +272,7 @@
         {
             "num-comments": 0, 
             "domain": "embomolmed.embopress.org", 
-            "score": 32, 
+            "score": 28, 
             "nsfw": false, 
             "title": "New therapeutic strategy in which an miRNA mimic increases a target miRNA is shown to work in vivo. More common strategy is to inhibit or knock down miRNA", 
             "url": "http://embomolmed.embopress.org/content/early/2014/09/19/emmm.201303604", 
@@ -284,7 +284,7 @@
         {
             "num-comments": 2, 
             "domain": "newsweek.com", 
-            "score": 26, 
+            "score": 25, 
             "nsfw": false, 
             "title": "Water Found in Atmosphere of Neptune-Sized Planet, Trillions of Miles Away", 
             "url": "http://www.newsweek.com/water-found-atmosphere-neptune-sized-planet-trillions-miles-away-272973", 
@@ -296,7 +296,7 @@
         {
             "num-comments": 2, 
             "domain": "arstechnica.com", 
-            "score": 19, 
+            "score": 22, 
             "nsfw": false, 
             "title": "Global carbon dioxide emissions in one convenient map.", 
             "url": "http://arstechnica.com/science/2014/09/global-carbon-dioxide-emissions-in-a-map/", 

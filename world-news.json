@@ -1,14 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411740730, 
-    "description": "A place for major news from around the world, excluding US-internal news.", 
+    "generated-utc": 1411743237, 
+    "description": "A place for major news from around the world, excluding US-internal news", 
     "title": "World News", 
     "full-url": "http://www.reddit.com/r/worldnews/", 
     "posts": [
         {
-            "num-comments": 3553, 
+            "num-comments": 3561, 
             "domain": "smh.com.au", 
-            "score": 5022, 
+            "score": 5015, 
             "nsfw": false, 
             "title": "Terror laws clear Senate, enabling entire Australian web to be monitored and whistleblowers to be jailed", 
             "url": "http://www.smh.com.au/digital-life/consumer-security/terror-laws-clear-senate-enabling-entire-australian-web-to-be-monitored-and-whistleblowers-to-be-jailed-20140925-10m8ih.html", 
@@ -18,9 +18,9 @@
             "id": "2hfevd"
         }, 
         {
-            "num-comments": 1051, 
+            "num-comments": 1065, 
             "domain": "outsideonline.com", 
-            "score": 4070, 
+            "score": 4080, 
             "nsfw": false, 
             "title": "Obama declares world's largest marine preserve. Measures almost 500,000 square miles, fishing, undersea mining, and other commercial activity will be banned in the protected area.", 
             "url": "http://www.outsideonline.com/news-from-the-field/Obama-Acts-to-Create-Worlds-Largest-Marine-Preserve-.html?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=tweet", 
@@ -30,9 +30,9 @@
             "id": "2hhbny"
         }, 
         {
-            "num-comments": 1160, 
+            "num-comments": 1187, 
             "domain": "telegraph.co.uk", 
-            "score": 2921, 
+            "score": 2938, 
             "nsfw": false, 
             "title": "Ultra-Orthodox Jews cause chaos on flight to Israel by demanding segregation of men and women", 
             "url": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11121519/Ultra-Orthodox-Jews-cause-chaos-on-flight-to-Israel.html", 
@@ -42,9 +42,9 @@
             "id": "2hgbil"
         }, 
         {
-            "num-comments": 776, 
+            "num-comments": 779, 
             "domain": "cbc.ca", 
-            "score": 2392, 
+            "score": 2394, 
             "nsfw": false, 
             "title": "ISIS plot uncovered to attack New York, Paris subways, Iraq PM says", 
             "url": "http://www.cbc.ca/news/world/isis-plot-uncovered-to-attack-new-york-paris-subways-iraq-pm-says-1.2777707", 
@@ -54,9 +54,9 @@
             "id": "2hfsmm"
         }, 
         {
-            "num-comments": 720, 
+            "num-comments": 741, 
             "domain": "ibtimes.com", 
-            "score": 2294, 
+            "score": 2311, 
             "nsfw": false, 
             "title": "ISIS Overruns Iraqi Army Base Near Baghdad, Executes 300 Soldiers", 
             "url": "http://www.ibtimes.com/isis-overruns-iraqi-army-base-near-baghdad-executes-300-soldiers-1695131", 
@@ -66,9 +66,9 @@
             "id": "2hglhi"
         }, 
         {
-            "num-comments": 226, 
+            "num-comments": 230, 
             "domain": "weather.com", 
-            "score": 1952, 
+            "score": 1972, 
             "nsfw": false, 
             "title": "Fukushima, Japan Rocked By Two Earthquakes in One Hour; Epicenter Near Nuclear Plants", 
             "url": "http://www.weather.com/news/fukushima-two-earthquakes-one-hour-20140924", 
@@ -78,9 +78,9 @@
             "id": "2hgptn"
         }, 
         {
-            "num-comments": 115, 
+            "num-comments": 119, 
             "domain": "news.discovery.com", 
-            "score": 587, 
+            "score": 620, 
             "nsfw": false, 
             "title": "Mars Rover finds Ball", 
             "url": "http://news.discovery.com/space/curiosity-finds-a-weird-ball-on-mars-140924.htm", 
@@ -90,9 +90,9 @@
             "id": "2hgjwk"
         }, 
         {
-            "num-comments": 113, 
+            "num-comments": 114, 
             "domain": "jpost.com", 
-            "score": 428, 
+            "score": 437, 
             "nsfw": false, 
             "title": "Fatah, Hamas agree to cede control of Gaza to unity government", 
             "url": "http://www.jpost.com/Arab-Israeli-Conflict/Report-Fatah-Hamas-agree-to-cede-control-of-Gaza-to-unity-government-376331", 
@@ -102,9 +102,9 @@
             "id": "2hfnli"
         }, 
         {
-            "num-comments": 323, 
+            "num-comments": 435, 
             "domain": "time.com", 
-            "score": 1118, 
+            "score": 1561, 
             "nsfw": false, 
             "title": "No One Has Seen North Korea's Leader In Three Weeks", 
             "url": "http://time.com/3432195/north-korea-missing-kim-jong-un/", 
@@ -114,9 +114,9 @@
             "id": "2higx6"
         }, 
         {
-            "num-comments": 81, 
+            "num-comments": 99, 
             "domain": "straitstimes.com", 
-            "score": 711, 
+            "score": 852, 
             "nsfw": false, 
             "title": "China removes more than 100,000 'phantom' government officials who were paid but did no work", 
             "url": "http://www.straitstimes.com/news/asia/east-asia/story/china-removes-more-100000-phantom-government-officials-20140926", 
@@ -126,9 +126,9 @@
             "id": "2hi4ly"
         }, 
         {
-            "num-comments": 530, 
+            "num-comments": 871, 
             "domain": "bloomberg.com", 
-            "score": 3230, 
+            "score": 3965, 
             "nsfw": false, 
             "title": "Anil Agarwal, the billionaire founder of Vedanta Resources, said he &amp; his family decided to donate 75% of their wealth to charity after meeting Bill Gates, the world\u2019s richest person \u201cWhat we earn must be returned for the greater good of society. Life is not only about wealth.\u201d the billionaire said", 
             "url": "http://www.bloomberg.com/news/2014-09-26/billionaire-agarwal-to-donate-most-of-wealth-after-meeting-gates.html", 
@@ -138,9 +138,9 @@
             "id": "2hikpb"
         }, 
         {
-            "num-comments": 60, 
+            "num-comments": 62, 
             "domain": "csmonitor.com", 
-            "score": 382, 
+            "score": 395, 
             "nsfw": false, 
             "title": "China extends Japan a helping hand to resolve North Korea abductions: After the North backtracked on its promise to investigate within months the fate of Japanese abducted decades ago, an apparently impatient China said it would host a meeting next week between the two countries.", 
             "url": "http://www.csmonitor.com/World/Asia-Pacific/2014/0925/China-extends-Japan-a-helping-hand-to-resolve-North-Korea-abductions", 
@@ -150,9 +150,9 @@
             "id": "2hhi2p"
         }, 
         {
-            "num-comments": 67, 
+            "num-comments": 69, 
             "domain": "news.nationalpost.com", 
-            "score": 350, 
+            "score": 368, 
             "nsfw": false, 
             "title": "Man found with 51 Turtles stuffed in his pants.", 
             "url": "http://news.nationalpost.com/2014/09/25/canadian-man-found-with-51-live-turtles-stuffed-in-pants/", 
@@ -162,9 +162,9 @@
             "id": "2hh69a"
         }, 
         {
-            "num-comments": 105, 
+            "num-comments": 120, 
             "domain": "nytimes.com", 
-            "score": 382, 
+            "score": 420, 
             "nsfw": false, 
             "title": "Women\u2019s Rights Activist Executed by ISIS in Iraq", 
             "url": "http://www.nytimes.com/2014/09/26/world/middleeast/womens-rights-activist-executed-by-islamic-state-in-iraq.html", 
@@ -176,7 +176,7 @@
         {
             "num-comments": 24, 
             "domain": "lab.org.uk", 
-            "score": 319, 
+            "score": 322, 
             "nsfw": false, 
             "title": "Four Peruvian Anti-Logging Activists Murdered", 
             "url": "http://lab.org.uk/four-peruvian-anti-logging-activists-murdered", 
@@ -188,7 +188,7 @@
         {
             "num-comments": 130, 
             "domain": "nknews.org", 
-            "score": 294, 
+            "score": 292, 
             "nsfw": false, 
             "title": "Kim Jong Un absent from second session of 13th Supreme People\u2019s Assembly", 
             "url": "http://www.nknews.org/2014/09/kim-jong-un-absent-from-second-session-of-13th-supreme-peoples-assembly/", 
@@ -198,9 +198,9 @@
             "id": "2hfi9p"
         }, 
         {
-            "num-comments": 85, 
+            "num-comments": 91, 
             "domain": "aina.org", 
-            "score": 305, 
+            "score": 313, 
             "nsfw": false, 
             "title": "Islamists Destroy 7th Century Church, Mosque in Tikrit, Iraq", 
             "url": "http://www.aina.org/news/20140925012701.htm", 
@@ -210,9 +210,9 @@
             "id": "2hgta5"
         }, 
         {
-            "num-comments": 22, 
+            "num-comments": 23, 
             "domain": "independent.co.uk", 
-            "score": 292, 
+            "score": 308, 
             "nsfw": false, 
             "title": "More than 130 members of the Boko Haram terrorist group have surrendered to Nigeria's military. Mohammed Bashir, a man who had posed as the group\u2019s leader Abubakar Shekau in numerous videos, has also been killed in clashes.", 
             "url": "http://www.independent.co.uk/news/world/africa/boko-haram-members-surrender-to-nigerian-military-after-leader-killed-9755852.html", 
@@ -224,7 +224,7 @@
         {
             "num-comments": 118, 
             "domain": "reuters.com", 
-            "score": 252, 
+            "score": 254, 
             "nsfw": false, 
             "title": "Russian draft law would allow seizure of foreign property", 
             "url": "http://www.reuters.com/article/2014/09/25/us-russia-sanctions-law-idUSKCN0HK1EO20140925", 
@@ -234,9 +234,9 @@
             "id": "2hgai8"
         }, 
         {
-            "num-comments": 58, 
+            "num-comments": 60, 
             "domain": "reuters.com", 
-            "score": 241, 
+            "score": 248, 
             "nsfw": false, 
             "title": "Italy seizes assets of Putin ally and judo partner Rotenberg worth 30 million euros, including a hotel in the centre of Rome", 
             "url": "http://www.reuters.com/article/2014/09/23/uk-ukraine-crisis-italy-idAFKCN0HI12H20140923", 
@@ -246,9 +246,9 @@
             "id": "2hgyvb"
         }, 
         {
-            "num-comments": 310, 
+            "num-comments": 331, 
             "domain": "thelocal.dk", 
-            "score": 247, 
+            "score": 255, 
             "nsfw": false, 
             "title": "More Scandinavians joining Isis: The number of Europeans fighting for the Islamic State has increased dramatically in the past month with fears that Danes, Swedes and Norwegians are among them.", 
             "url": "http://www.thelocal.dk/20140924/new-fears-of-scandinavians-joining-islamic-state", 
@@ -258,9 +258,9 @@
             "id": "2hh8vy"
         }, 
         {
-            "num-comments": 113, 
+            "num-comments": 121, 
             "domain": "nbcnews.com", 
-            "score": 145, 
+            "score": 150, 
             "nsfw": false, 
             "title": "Incest Is 'Taboo' but Shouldn't Be Illegal, German Experts Say", 
             "url": "http://www.nbcnews.com/news/world/incest-taboo-shouldnt-be-illegal-german-experts-say-n211391", 
@@ -272,7 +272,7 @@
         {
             "num-comments": 12, 
             "domain": "nbc40.net", 
-            "score": 140, 
+            "score": 135, 
             "nsfw": false, 
             "title": "Sierra Leone quarantines 2 million to fight Ebola", 
             "url": "http://www.nbc40.net/story/26623318/sierra-leone-quarantines-2-million-to-fight-ebola", 
@@ -282,9 +282,9 @@
             "id": "2hgh4o"
         }, 
         {
-            "num-comments": 43, 
+            "num-comments": 44, 
             "domain": "cbc.ca", 
-            "score": 130, 
+            "score": 133, 
             "nsfw": false, 
             "title": "Canadian teacher suspended for slapping 'I'm gay' sticker on student", 
             "url": "http://www.cbc.ca/news/canada/british-columbia/teacher-daniel-mark-ogloff-suspended-for-slapping-i-m-gay-sticker-on-student-1.2777023", 
@@ -296,7 +296,7 @@
         {
             "num-comments": 75, 
             "domain": "france24.com", 
-            "score": 118, 
+            "score": 119, 
             "nsfw": false, 
             "title": "US has identified IS hostage executioner: FBI chief", 
             "url": "http://www.france24.com/en/20140925-us-has-identified-hostage-executioner-fbi-chief/", 

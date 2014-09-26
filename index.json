@@ -1,9 +1,9 @@
 {
-    "generated-utc": 1411705388, 
+    "generated-utc": 1411743265, 
     "subreddits": [
         {
             "category": "Entertainment", 
-            "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources. We do not accept disposable content like images, memes, video clips, blogspam, top lists, or short thoughtless posts. We keep a directory of series-specific subreddits that have much less stingy rules.", 
+            "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources.", 
             "title": "/r/television - A premium-quality television subreddit", 
             "full-url": "http://www.reddit.com/r/television/", 
             "api-url": "http://daily.red/television.json", 
@@ -12,7 +12,7 @@
         }, 
         {
             "category": "Entertainment", 
-            "description": "News &amp; Discussion of Major Motion Pictures", 
+            "description": "News and discussion of major motion pictures", 
             "title": "Movie News and Discussion", 
             "full-url": "http://www.reddit.com/r/movies/", 
             "api-url": "http://daily.red/movies.json", 
@@ -21,7 +21,7 @@
         }, 
         {
             "category": "Entertainment", 
-            "description": "The musical community of reddit.", 
+            "description": "The musical community of reddit", 
             "title": "Music", 
             "full-url": "http://www.reddit.com/r/Music/", 
             "api-url": "http://daily.red/music.json", 
@@ -30,7 +30,7 @@
         }, 
         {
             "category": "Entertainment", 
-            "description": "A subreddit for (almost) anything related to games - video games, board games, card games, etc. (but not [sports](http://www.reddit.com/r/sports)). For more informative gaming content such as news and articles, please visit /r/Games.", 
+            "description": "A subreddit for (almost) anything related to games - video games, board games, card games, etc.", 
             "title": "What's new in gaming", 
             "full-url": "http://www.reddit.com/r/gaming/", 
             "api-url": "http://daily.red/gaming.json", 
@@ -48,7 +48,7 @@
         }, 
         {
             "category": "Knowledge", 
-            "description": "News stories related to technology.", 
+            "description": "News stories related to technology", 
             "title": "Technology", 
             "full-url": "http://www.reddit.com/r/technology/", 
             "api-url": "http://daily.red/technology.json", 
@@ -57,7 +57,7 @@
         }, 
         {
             "category": "Knowledge", 
-            "description": "[/r/LifeProTips](http://www.reddit.com/r/lifeprotips) Tips that improve your life in one way or another.", 
+            "description": "Tips that improve your life in one way or another", 
             "title": "Life Pro Tips", 
             "full-url": "http://www.reddit.com/r/LifeProTips/", 
             "api-url": "http://daily.red/life-pro-tips.json", 
@@ -66,7 +66,7 @@
         }, 
         {
             "category": "Knowledge", 
-            "description": "The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences. Find and submit the best writeup on the web about a discovery, and make sure it cites its sources.", 
+            "description": "The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences.", 
             "title": "Science", 
             "full-url": "http://www.reddit.com/r/science/", 
             "api-url": "http://daily.red/science.json", 
@@ -84,7 +84,7 @@
         }, 
         {
             "category": "Knowledge", 
-            "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on longform articles and essays that stimulate intellectual discourse.", 
+            "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
             "title": "foodforthought: Intellectual Nourishment ", 
             "full-url": "http://www.reddit.com/r/Foodforthought/", 
             "api-url": "http://daily.red/food-for-thought.json", 
@@ -93,7 +93,7 @@
         }, 
         {
             "category": "Knowledge", 
-            "description": "Ask a science question, get a science answer.", 
+            "description": "Ask a science question, get a science answer", 
             "title": "AskScience: Got Questions? Get Answers.", 
             "full-url": "http://www.reddit.com/r/askscience/", 
             "api-url": "http://daily.red/ask-science.json", 
@@ -102,7 +102,16 @@
         }, 
         {
             "category": "News", 
-            "description": "A place for major news from around the world, excluding US-internal news.", 
+            "description": "Stories related to weather", 
+            "title": "Weather subreddit", 
+            "full-url": "http://www.reddit.com/r/weather/", 
+            "api-url": "http://daily.red/weather.json", 
+            "display-name": "Weather", 
+            "short-url": "/r/weather/"
+        }, 
+        {
+            "category": "News", 
+            "description": "A place for major news from around the world, excluding US-internal news", 
             "title": "World News", 
             "full-url": "http://www.reddit.com/r/worldnews/", 
             "api-url": "http://daily.red/world-news.json", 
@@ -111,7 +120,7 @@
         }, 
         {
             "category": "News", 
-            "description": "/r/news is: real news articles, primarily but not exclusively, news relating to the United States. /r/news isn't: editorials, commercials, political minutiae, shouting, justin bieber updates, kitty pictures. For a subreddit for all news-related content (editorials, satire, etc.) visit /r/inthenews.", 
+            "description": "Real news articles, primarily but not exclusively, news relating to the United States", 
             "title": "All news, US and international.", 
             "full-url": "http://www.reddit.com/r/news/", 
             "api-url": "http://daily.red/news.json", 
@@ -120,7 +129,7 @@
         }, 
         {
             "category": "News", 
-            "description": "A place to read and share positive and uplifting, feel good news stories.", 
+            "description": "A place to read and share positive and uplifting, feel good news stories", 
             "title": "Uplifting News", 
             "full-url": "http://www.reddit.com/r/UpliftingNews/", 
             "api-url": "http://daily.red/uplifting-news.json", 
@@ -129,7 +138,7 @@
         }, 
         {
             "category": "News", 
-            "description": "/r/inthenews is the subreddit for opinion, analysis, and discussion of recent events.", 
+            "description": "The subreddit for opinion, analysis, and discussion of recent events", 
             "title": "In the News: Opinion, Analysis, and Discussion", 
             "full-url": "http://www.reddit.com/r/inthenews/", 
             "api-url": "http://daily.red/in-the-news.json", 
@@ -138,7 +147,7 @@
         }, 
         {
             "category": "News", 
-            "description": "A place for major news from around the world, excluding US-internal news.", 
+            "description": "A place for major news from around the world, excluding US-internal news", 
             "title": "World News", 
             "full-url": "http://www.reddit.com/r/worldnews/", 
             "api-url": "http://daily.red/world-news.json", 
@@ -147,7 +156,7 @@
         }, 
         {
             "category": "News", 
-            "description": "News and discussion about economics, from the perspective of economists.", 
+            "description": "News and discussion about economics, from the perspective of economists", 
             "title": "The Dismal Science", 
             "full-url": "http://www.reddit.com/r/Economics/", 
             "api-url": "http://daily.red/economics.json", 
@@ -156,7 +165,7 @@
         }, 
         {
             "category": "Fun", 
-            "description": "A subreddit to share anything that goes on in your head whilst in the shower.", 
+            "description": "A subreddit to share anything that goes on in your head while in the shower", 
             "title": "Shower Thoughts", 
             "full-url": "http://www.reddit.com/r/Showerthoughts/", 
             "api-url": "http://daily.red/shower-thoughts.json", 
@@ -165,7 +174,7 @@
         }, 
         {
             "category": "Fun", 
-            "description": "Things that make you say \"What the F*ck\".", 
+            "description": "Things that make you say \"What the F*ck\"", 
             "title": "WTF?!", 
             "full-url": "http://www.reddit.com/r/WTF/", 
             "api-url": "http://daily.red/wtf.json", 
@@ -183,7 +192,7 @@
         }, 
         {
             "category": "Fun", 
-            "description": "Humor is the place for things that bring a wry smile to your face.", 
+            "description": "Humor is the place for things that bring a wry smile to your face", 
             "title": "Humor", 
             "full-url": "http://www.reddit.com/r/humor/", 
             "api-url": "http://daily.red/humor.json", 
@@ -192,7 +201,7 @@
         }, 
         {
             "category": "Fun", 
-            "description": "Did you hear about the man who butt-dialed 911 while drunk driving? How about the teenagers who carjacked a car, only to fail because neither of them could drive stick? Welcome to /r/NewsOfTheStupid, a subreddit created for news stories just like these, proving that humanity is on a downward spiral", 
+            "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
             "title": "News Of The Stupid", 
             "full-url": "http://www.reddit.com/r/NewsOfTheStupid/", 
             "api-url": "http://daily.red/news-of-the-stupid.json", 

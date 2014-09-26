@@ -1,14 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411740727, 
-    "description": "/r/inthenews is the subreddit for opinion, analysis, and discussion of recent events.", 
+    "generated-utc": 1411743234, 
+    "description": "The subreddit for opinion, analysis, and discussion of recent events", 
     "title": "In the News: Opinion, Analysis, and Discussion", 
     "full-url": "http://www.reddit.com/r/inthenews/", 
     "posts": [
         {
             "num-comments": 8, 
             "domain": "youtube.com", 
-            "score": 44, 
+            "score": 46, 
             "nsfw": false, 
             "title": "OK trooper tells local news: Best way not to get raped by cops is to \u2018follow the law\u2019", 
             "url": "https://www.youtube.com/watch?v=rnQYRErRhbo&amp;feature=youtu.be", 
@@ -18,9 +18,9 @@
             "id": "2hg1nu"
         }, 
         {
-            "num-comments": 8, 
+            "num-comments": 9, 
             "domain": "latimes.com", 
-            "score": 37, 
+            "score": 38, 
             "nsfw": false, 
             "title": "The Islamic State is recruiting women to \"have kids and cook\"", 
             "url": "http://www.latimes.com/world/middleeast/la-fg-isis-female-recruits-20140920-story.html#page=1", 
@@ -32,7 +32,7 @@
         {
             "num-comments": 0, 
             "domain": "pamelageller.com", 
-            "score": 36, 
+            "score": 34, 
             "nsfw": false, 
             "title": "VIDEO French Report: Woman Secretly Films Life in Raqqa, Syria under the Islamic State", 
             "url": "http://pamelageller.com/2014/09/video-french-report-woman-secretly-films-life-in-raqqa-under-the-islamic-state.html/", 
@@ -44,7 +44,7 @@
         {
             "num-comments": 2, 
             "domain": "wsws.org", 
-            "score": 30, 
+            "score": 31, 
             "nsfw": false, 
             "title": "Deceit and delusion at the United Nations - in one sentence, Obama criticized \"proxy wars\" between Sunni and Shia, then stated the US is training and equipping the largely-Sunni Syrian opposition to be a counterweight to the terrorists of ISIL and the brutality of the [Shia-related] Assad regime.", 
             "url": "http://www.wsws.org/en/articles/2014/09/25/pers-s25.html", 
@@ -56,7 +56,7 @@
         {
             "num-comments": 4, 
             "domain": "npr.org", 
-            "score": 29, 
+            "score": 31, 
             "nsfw": false, 
             "title": "Eric Holder To Step Down As Attorney General", 
             "url": "http://www.npr.org/blogs/thetwo-way/2014/09/25/351363171/eric-holder-to-step-down-as-attorney-general", 
@@ -80,7 +80,7 @@
         {
             "num-comments": 6, 
             "domain": "salon.com", 
-            "score": 21, 
+            "score": 19, 
             "nsfw": false, 
             "title": "The 3 biggest myths about pornography, debunked by Belle Knox", 
             "url": "http://www.salon.com/2014/09/24/the_3_biggest_myths_about_pornography_debunked_by_belle_knox_partner", 
@@ -92,7 +92,7 @@
         {
             "num-comments": 2, 
             "domain": "nbcwashington.com", 
-            "score": 21, 
+            "score": 20, 
             "nsfw": false, 
             "title": "Political Candidate Berates Family for Mexican Flag in Front Yard", 
             "url": "http://www.nbcwashington.com/news/national-international/Caught-on-Camera-Fontana-City-Council-Candidate-Berates-Ontario-Family-for-Mexican-Flag-277044671.html", 
@@ -128,7 +128,7 @@
         {
             "num-comments": 1, 
             "domain": "washingtonpost.com", 
-            "score": 16, 
+            "score": 15, 
             "nsfw": false, 
             "title": "President Obama channels President Bush at the United Nations", 
             "url": "http://www.washingtonpost.com/blogs/post-partisan/wp/2014/09/24/the-insiders-president-obama-channels-president-bush-at-the-united-nations/", 
@@ -140,7 +140,7 @@
         {
             "num-comments": 1, 
             "domain": "youtube.com", 
-            "score": 14, 
+            "score": 17, 
             "nsfw": false, 
             "title": "Students Bravely Fight Back Against 1984-Loving Conservative School Board", 
             "url": "https://www.youtube.com/watch?v=j-dxxULA6kg&amp;feature=youtu.be", 
@@ -152,7 +152,7 @@
         {
             "num-comments": 1, 
             "domain": "thecollegefix.com", 
-            "score": 15, 
+            "score": 14, 
             "nsfw": false, 
             "title": "Forbes\u2019 Firing Shows Why America Can\u2019t Have An Honest Debate About Campus Rape", 
             "url": "http://www.thecollegefix.com/post/19440/", 
@@ -164,7 +164,7 @@
         {
             "num-comments": 2, 
             "domain": "latimes.com", 
-            "score": 15, 
+            "score": 14, 
             "nsfw": false, 
             "title": "Woman huddles in rooftop hiding place as intruder looms [Photo]", 
             "url": "http://www.latimes.com/local/lanow/la-me-ln-woman-on-roof-with-intruder-20140925-htmlstory.html", 
@@ -224,7 +224,7 @@
         {
             "num-comments": 0, 
             "domain": "mediaite.com", 
-            "score": 12, 
+            "score": 14, 
             "nsfw": false, 
             "title": "Boston Teen Videotaped Doing Handstand Atop Fast Moving Subway Train", 
             "url": "http://www.mediaite.com/online/boston-teen-videotaped-doing-handstand-atop-fast-moving-subway-train/", 
@@ -236,7 +236,7 @@
         {
             "num-comments": 1, 
             "domain": "rollingstone.com", 
-            "score": 16, 
+            "score": 18, 
             "nsfw": false, 
             "title": "Inside the Koch Brothers' Toxic Empire", 
             "url": "http://www.rollingstone.com/politics/news/inside-the-koch-brothers-toxic-empire-20140924", 
@@ -260,7 +260,7 @@
         {
             "num-comments": 1, 
             "domain": "rightwingnews.com", 
-            "score": 7, 
+            "score": 8, 
             "nsfw": false, 
             "title": "American Muslim Leader Tells Obama to Stop Saying ISIS Has Nothing to Do With Islam", 
             "url": "http://www.rightwingnews.com/top-news/american-muslim-leader-tells-obama-stop-saying-isis-nothing-islam-video/", 

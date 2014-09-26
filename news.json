@@ -1,14 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411740717, 
-    "description": "/r/news is: real news articles, primarily but not exclusively, news relating to the United States. /r/news isn't: editorials, commercials, political minutiae, shouting, justin bieber updates, kitty pictures. For a subreddit for all news-related content (editorials, satire, etc.) visit /r/inthenews.", 
+    "generated-utc": 1411743224, 
+    "description": "Real news articles, primarily but not exclusively, news relating to the United States", 
     "title": "All news, US and international.", 
     "full-url": "http://www.reddit.com/r/news/", 
     "posts": [
         {
-            "num-comments": 2692, 
+            "num-comments": 2710, 
             "domain": "npr.org", 
-            "score": 3759, 
+            "score": 3762, 
             "nsfw": false, 
             "title": "Eric Holder To Step Down As Attorney General", 
             "url": "http://www.npr.org/blogs/thetwo-way/2014/09/25/351363171/eric-holder-to-step-down-as-attorney-general", 
@@ -18,9 +18,9 @@
             "id": "2hfmch"
         }, 
         {
-            "num-comments": 2152, 
+            "num-comments": 2191, 
             "domain": "theguardian.com", 
-            "score": 3618, 
+            "score": 3624, 
             "nsfw": false, 
             "title": "Fox News presenters mock female pilot who took part in campaign against Isis: Hosts crack sexist jokes about UAE\u2019s Major Mariam al-Mansouri, calling her \u2018boobs on the ground\u2019", 
             "url": "http://www.theguardian.com/media/2014/sep/25/fox-news-mock-female-pilot-isis-sexist-jokes", 
@@ -30,9 +30,9 @@
             "id": "2hgfcs"
         }, 
         {
-            "num-comments": 413, 
+            "num-comments": 420, 
             "domain": "latimes.com", 
-            "score": 2981, 
+            "score": 2986, 
             "nsfw": false, 
             "title": "California surfers beat tech billionaire in fight over beach access", 
             "url": "http://www.latimes.com/local/lanow/la-me-ln-surfers-billionaire-court-victory-beach-access-20140925-story.html", 
@@ -42,9 +42,9 @@
             "id": "2hff5a"
         }, 
         {
-            "num-comments": 480, 
+            "num-comments": 484, 
             "domain": "gbcghana.com", 
-            "score": 1060, 
+            "score": 1066, 
             "nsfw": false, 
             "title": "Chicago mother arrested for raping a man at gunpoint", 
             "url": "http://www.gbcghana.com/1.1850749", 
@@ -54,9 +54,9 @@
             "id": "2hfka3"
         }, 
         {
-            "num-comments": 203, 
+            "num-comments": 218, 
             "domain": "washingtonpost.com", 
-            "score": 602, 
+            "score": 616, 
             "nsfw": false, 
             "title": "FBI blasts Apple, Google for locking police out of phones", 
             "url": "http://www.washingtonpost.com/business/technology/2014/09/25/68c4e08e-4344-11e4-9a15-137aa0153527_story.html", 
@@ -66,9 +66,9 @@
             "id": "2hgqkm"
         }, 
         {
-            "num-comments": 187, 
+            "num-comments": 189, 
             "domain": "washingtonpost.com", 
-            "score": 550, 
+            "score": 551, 
             "nsfw": false, 
             "title": "The pay gap between CEOs and workers is much worse than you realize", 
             "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2014/09/25/the-pay-gap-between-ceos-and-workers-is-much-worse-than-you-realize/", 
@@ -78,9 +78,9 @@
             "id": "2hfk5u"
         }, 
         {
-            "num-comments": 46, 
+            "num-comments": 53, 
             "domain": "ksn.com", 
-            "score": 626, 
+            "score": 675, 
             "nsfw": false, 
             "title": "3 retired firefighters who worked at ground zero on 9/11 have died on the same day from cancer, an illness that many fear might be connected to toxic World Trade Center dust released during the attacks.", 
             "url": "http://ksn.com/2014/09/25/3-from-fdny-who-worked-at-ground-zero-die-in-1-day/", 
@@ -92,7 +92,7 @@
         {
             "num-comments": 62, 
             "domain": "abc7chicago.com", 
-            "score": 492, 
+            "score": 497, 
             "nsfw": false, 
             "title": "GlaxoSmithKline Fined $488.8M for 'Massive Bribery Network'", 
             "url": "http://abc7chicago.com/news/glaxosmithkline-fined-$4888m-for-massive-bribery-network-/316390/", 
@@ -102,9 +102,9 @@
             "id": "2hfhd5"
         }, 
         {
-            "num-comments": 177, 
+            "num-comments": 181, 
             "domain": "kfor.com", 
-            "score": 498, 
+            "score": 502, 
             "nsfw": false, 
             "title": "11 year old shoots moms ex boyfriend that was stabbing her", 
             "url": "http://kfor.com/2014/09/24/okc-police-child-calls-911-saying-mother-was-stabbed/", 
@@ -114,9 +114,9 @@
             "id": "2hft4z"
         }, 
         {
-            "num-comments": 398, 
+            "num-comments": 403, 
             "domain": "linkis.com", 
-            "score": 432, 
+            "score": 434, 
             "nsfw": false, 
             "title": "University of Michigan: \"withholding sex and affection\" and \"discounting the partner\u2019s feelings regarding sex\" is sexual violence", 
             "url": "http://linkis.com/thecollegefix.com/t1efE", 
@@ -126,9 +126,9 @@
             "id": "2hfm51"
         }, 
         {
-            "num-comments": 82, 
+            "num-comments": 86, 
             "domain": "lettertobaghdadi.com", 
-            "score": 357, 
+            "score": 365, 
             "nsfw": false, 
             "title": "Everyone is always asking for Muslims to renounce terrorism/ISIS. 126 top Islamic scholars just did that.", 
             "url": "http://lettertobaghdadi.com/", 
@@ -138,9 +138,9 @@
             "id": "2hfur1"
         }, 
         {
-            "num-comments": 76, 
+            "num-comments": 79, 
             "domain": "aina.org", 
-            "score": 296, 
+            "score": 305, 
             "nsfw": false, 
             "title": "Islamists in Tikrit have destroyed The Assyrian Green Church, built in 700 A.D.", 
             "url": "http://www.aina.org/news/20140925012701.htm", 
@@ -150,9 +150,9 @@
             "id": "2hh23k"
         }, 
         {
-            "num-comments": 32, 
+            "num-comments": 35, 
             "domain": "files.dep.state.pa.us", 
-            "score": 265, 
+            "score": 277, 
             "nsfw": false, 
             "title": "Pennsylvania releases official file of nearly 250 water supplies directly polluted by fracking", 
             "url": "http://files.dep.state.pa.us/OilGas/BOGM/BOGMPortalFiles/OilGasReports/Determination_Letters/Regional_Determination_Letters.pdf", 
@@ -162,9 +162,9 @@
             "id": "2hh5kl"
         }, 
         {
-            "num-comments": 53, 
+            "num-comments": 58, 
             "domain": "parsippanyfocus.com", 
-            "score": 204, 
+            "score": 212, 
             "nsfw": false, 
             "title": "New Jersey girl kidnaps herself by climbing into her own trunk; calls police who find her in her own trunk &amp; is arrested for making a false police report", 
             "url": "http://www.parsippanyfocus.com/lake-hiawatha-kidnapped-herself-arrested-and-released/", 
@@ -174,9 +174,9 @@
             "id": "2hg12t"
         }, 
         {
-            "num-comments": 262, 
+            "num-comments": 265, 
             "domain": "nation.foxnews.com", 
-            "score": 171, 
+            "score": 173, 
             "nsfw": false, 
             "title": "Female Teacher Charged With Having Sex With Three Male Students At School", 
             "url": "http://nation.foxnews.com/2014/09/20/female-teacher-charged-having-sex-three-male-students-school", 
@@ -186,9 +186,9 @@
             "id": "2hfefr"
         }, 
         {
-            "num-comments": 78, 
+            "num-comments": 90, 
             "domain": "newsok.com", 
-            "score": 188, 
+            "score": 203, 
             "nsfw": false, 
             "title": "Girl, 11, shoots man attacking mother in southeast Oklahoma City", 
             "url": "http://newsok.com/woman-stabbed-man-shot-in-southeast-oklahoma-city-early-wednesday/article/5345087", 
@@ -198,9 +198,9 @@
             "id": "2hhxin"
         }, 
         {
-            "num-comments": 887, 
+            "num-comments": 1527, 
             "domain": "9news.com.au", 
-            "score": 2661, 
+            "score": 3712, 
             "nsfw": false, 
             "title": "\"High-flying CEO quits after daughter writes list of 22 milestones he missed\"", 
             "url": "http://www.9news.com.au/world/2014/09/25/06/42/high-flying-ceo-quits-after-daughter-sends-him-22-things-he-missed", 
@@ -212,7 +212,7 @@
         {
             "num-comments": 13, 
             "domain": "wired.com", 
-            "score": 148, 
+            "score": 161, 
             "nsfw": false, 
             "title": "The Man on a Quest to Open-Source Cancer Research | WIRED", 
             "url": "http://www.wired.com/2014/09/man-quest-open-source-cancer-research/", 
@@ -224,7 +224,7 @@
         {
             "num-comments": 2, 
             "domain": "thesleuthjournal.com", 
-            "score": 153, 
+            "score": 165, 
             "nsfw": false, 
             "title": "Canadian Beekeepers Sue Bayer And Syngenta Over Neonicotinoid Pesticides", 
             "url": "http://www.thesleuthjournal.com/canadian-beekeepers-sue-bayer-syngenta-neonicotinoid-pesticides/", 
@@ -234,9 +234,9 @@
             "id": "2hgy2v"
         }, 
         {
-            "num-comments": 26, 
+            "num-comments": 27, 
             "domain": "argusleader.com", 
-            "score": 148, 
+            "score": 153, 
             "nsfw": false, 
             "title": "South Dakota teen working at a restaurant forced to wear 'gaytard' name tag, files discrimination complaint", 
             "url": "http://www.argusleader.com/story/news/crime/2014/09/24/yankton-teen-labeled-gaytard-files-discrimination-complaint/16161669/", 
@@ -246,9 +246,9 @@
             "id": "2hgvrr"
         }, 
         {
-            "num-comments": 110, 
+            "num-comments": 117, 
             "domain": "usatoday.com", 
-            "score": 94, 
+            "score": 92, 
             "nsfw": false, 
             "title": "Military to allow undocumented immigrants to serve", 
             "url": "http://www.usatoday.com/story/news/nation/2014/09/25/policy-to-allow-undocumented-immigrants-in-military/16225135/", 
@@ -260,7 +260,7 @@
         {
             "num-comments": 30, 
             "domain": "npr.org", 
-            "score": 69, 
+            "score": 67, 
             "nsfw": false, 
             "title": "Eric Holder To Step Down As Attorney General", 
             "url": "http://www.npr.org/blogs/thetwo-way/2014/09/25/351363171/eric-holder-to-step-down-as-attorney-general?sc=tw", 
@@ -272,7 +272,7 @@
         {
             "num-comments": 8, 
             "domain": "reviewjournal.com", 
-            "score": 65, 
+            "score": 64, 
             "nsfw": false, 
             "title": "Campaign manager charged with buying Texas school board votes with cocaine", 
             "url": "http://www.reviewjournal.com/trending/feed/campaign-manager-charged-buying-texas-school-board-votes-cocaine", 
@@ -282,7 +282,7 @@
             "id": "2hfxgs"
         }, 
         {
-            "num-comments": 12, 
+            "num-comments": 13, 
             "domain": "mercurynews.com", 
             "score": 62, 
             "nsfw": false, 
@@ -296,7 +296,7 @@
         {
             "num-comments": 6, 
             "domain": "reviewjournal.com", 
-            "score": 58, 
+            "score": 59, 
             "nsfw": false, 
             "title": "PI, not police, sought video that cleared teen of murder charge", 
             "url": "http://www.reviewjournal.com/news/las-vegas/pi-not-police-sought-video-cleared-teen-murder-charge", 

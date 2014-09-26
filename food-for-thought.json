@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411740695, 
-    "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on longform articles and essays that stimulate intellectual discourse.", 
+    "generated-utc": 1411743205, 
+    "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
     "full-url": "http://www.reddit.com/r/Foodforthought/", 
     "posts": [
         {
-            "num-comments": 6, 
+            "num-comments": 7, 
             "domain": "washingtonpost.com", 
-            "score": 19, 
+            "score": 21, 
             "nsfw": false, 
             "title": "Think you drink a lot? This chart will tell you. The top 10% have 10 drinks PER DAY on average.", 
             "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2014/09/25/think-you-drink-a-lot-this-chart-will-tell-you/?hpid=z5", 
@@ -18,9 +18,9 @@
             "id": "2hgr6b"
         }, 
         {
-            "num-comments": 11, 
+            "num-comments": 13, 
             "domain": "qz.com", 
-            "score": 10, 
+            "score": 11, 
             "nsfw": false, 
             "title": "How much is a date with you worth?", 
             "url": "http://qz.com/270421/how-much-is-a-date-with-you-worth/", 
@@ -67,20 +67,8 @@
         }, 
         {
             "num-comments": 1, 
-            "domain": "daviddegraw.org", 
-            "score": 5, 
-            "nsfw": false, 
-            "title": "Conditioned Consciousness: How The .01% Gets Away With Trillions", 
-            "url": "http://daviddegraw.org/conditioned-consciousness-how-the-01-gets-away-with-trillions/", 
-            "author": "june_oyster", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hfvje/conditioned_consciousness_how_the_01_gets_away/", 
-            "created-utc": 1411661333.0, 
-            "id": "2hfvje"
-        }, 
-        {
-            "num-comments": 1, 
             "domain": "firstlook.org", 
-            "score": 4, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Managing a Nightmare: The CIA Reveals How It Watched Over the Destruction of Gary Webb", 
             "url": "https://firstlook.org/theintercept/2014/09/25/managing-nightmare-cia-media-destruction-gary-webb/", 
@@ -128,7 +116,7 @@
         {
             "num-comments": 0, 
             "domain": "medium.com", 
-            "score": 3, 
+            "score": 5, 
             "nsfw": false, 
             "title": "The Beatings Never Really End", 
             "url": "https://medium.com/the-nib/the-beatings-never-really-end-de4a0c24826e", 
@@ -150,9 +138,9 @@
             "id": "2hfy9u"
         }, 
         {
-            "num-comments": 1, 
+            "num-comments": 2, 
             "domain": "nymag.com", 
-            "score": 12, 
+            "score": 24, 
             "nsfw": false, 
             "title": "Who Is Su - She was 22 when her memory was obliterated. Twenty-six years later, Su Meck is still learning about the family she raised and the husband she has no recollection of marrying", 
             "url": "http://nymag.com/news/features/su-meck-amnesia-2014-9/#print", 
@@ -164,7 +152,7 @@
         {
             "num-comments": 0, 
             "domain": "collectorsweekly.com", 
-            "score": 4, 
+            "score": 7, 
             "nsfw": false, 
             "title": "The Reclusive, Doll-Collecting Copper Queen of Fifth Avenue", 
             "url": "http://www.collectorsweekly.com/articles/the-reclusive-doll-collecting-copper-queen-of-fifth-avenue/", 

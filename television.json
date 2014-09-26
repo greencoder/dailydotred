@@ -1,14 +1,14 @@
 {
     "category": "Entertainment", 
-    "generated-utc": 1411740653, 
-    "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources. We do not accept disposable content like images, memes, video clips, blogspam, top lists, or short thoughtless posts. We keep a directory of series-specific subreddits that have much less stingy rules.", 
+    "generated-utc": 1411743157, 
+    "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources.", 
     "title": "/r/television - A premium-quality television subreddit", 
     "full-url": "http://www.reddit.com/r/television/", 
     "posts": [
         {
-            "num-comments": 1012, 
+            "num-comments": 1015, 
             "domain": "slate.com", 
-            "score": 3307, 
+            "score": 3303, 
             "nsfw": false, 
             "title": "Why Saturday Night Live writers lean on Kenan Thompson: \"If you want to get an extra laugh in your script, just add this line: 'KENAN REACTS'.\"", 
             "url": "http://www.slate.com/blogs/browbeat/2014/09/25/kenan_thompson_on_saturday_night_live_after_11_seasons_cast_member_quietly.html", 
@@ -18,9 +18,9 @@
             "id": "2hfitv"
         }, 
         {
-            "num-comments": 25, 
+            "num-comments": 26, 
             "domain": "nick.com", 
-            "score": 255, 
+            "score": 276, 
             "nsfw": false, 
             "title": "Every episode of Legend of Korra is available free to stream. Get caught up before Book 4.", 
             "url": "http://www.nick.com/legend-of-korra/episodes/", 
@@ -32,7 +32,7 @@
         {
             "num-comments": 56, 
             "domain": "variety.com", 
-            "score": 107, 
+            "score": 115, 
             "nsfw": false, 
             "title": "Rachel McAdams in final negotiations for True Detective season 2 female lead", 
             "url": "http://variety.com/2014/tv/news/rachel-mcadams-true-detective-female-lead-1201302327/", 
@@ -42,9 +42,9 @@
             "id": "2hg113"
         }, 
         {
-            "num-comments": 23, 
+            "num-comments": 25, 
             "domain": "mtv.com", 
-            "score": 117, 
+            "score": 155, 
             "nsfw": false, 
             "title": "Every episode of MTV's surreal animated classic: The Maxx", 
             "url": "http://www.mtv.com/shows/the_maxx/series.jhtml", 
@@ -54,9 +54,9 @@
             "id": "2hhqz4"
         }, 
         {
-            "num-comments": 23, 
+            "num-comments": 28, 
             "domain": "nydailynews.com", 
-            "score": 40, 
+            "score": 67, 
             "nsfw": false, 
             "title": "\u2018Married with Children\u2019 spinoff in the works, named Top of the Heap, stars David Faustino as Bud Bundy", 
             "url": "http://www.nydailynews.com/entertainment/tv/married-children-spinoff-works-article-1.1937676", 
@@ -68,7 +68,7 @@
         {
             "num-comments": 16, 
             "domain": "insidetv.ew.com", 
-            "score": 38, 
+            "score": 37, 
             "nsfw": false, 
             "title": "Dominion and Defiance renewed by Syfy", 
             "url": "http://insidetv.ew.com/2014/09/25/dominion-defiance-renewed-by-syfy/", 
@@ -80,7 +80,7 @@
         {
             "num-comments": 26, 
             "domain": "avclub.com", 
-            "score": 26, 
+            "score": 25, 
             "nsfw": false, 
             "title": "AT&amp;T now offering a $39 HBO Go/Amazon Prime package", 
             "url": "http://www.avclub.com/article/t-now-offering-39-hbo-goamazon-prime-package-209631", 
@@ -92,7 +92,7 @@
         {
             "num-comments": 43, 
             "domain": "self.television", 
-            "score": 15, 
+            "score": 16, 
             "nsfw": false, 
             "title": "What show would you say is the finest example of western animation?", 
             "url": "http://www.reddit.com/r/television/comments/2hgwzj/what_show_would_you_say_is_the_finest_example_of/", 
@@ -100,18 +100,6 @@
             "permalink": "http://www.reddit.com/r/television/comments/2hgwzj/what_show_would_you_say_is_the_finest_example_of/", 
             "created-utc": 1411681028.0, 
             "id": "2hgwzj"
-        }, 
-        {
-            "num-comments": 4, 
-            "domain": "youtube.com", 
-            "score": 30, 
-            "nsfw": false, 
-            "title": "Full Ren and Stimpy Episodes on YouTube!", 
-            "url": "https://www.youtube.com/watch?v=3auT0ApyN_Y", 
-            "author": "Mimalmo", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hibfw/full_ren_and_stimpy_episodes_on_youtube/", 
-            "created-utc": 1411715475.0, 
-            "id": "2hibfw"
         }, 
         {
             "num-comments": 8, 
@@ -140,7 +128,7 @@
         {
             "num-comments": 5, 
             "domain": "rollingstone.com", 
-            "score": 10, 
+            "score": 11, 
             "nsfw": false, 
             "title": "Every Freaks and Geeks episode ranked in honour of the show's 15th anniversary", 
             "url": "http://www.rollingstone.com/tv/lists/every-freaks-and-geeks-episode-ranked-20140925", 
@@ -150,9 +138,9 @@
             "id": "2hgzjl"
         }, 
         {
-            "num-comments": 38, 
+            "num-comments": 39, 
             "domain": "self.television", 
-            "score": 11, 
+            "score": 13, 
             "nsfw": false, 
             "title": "What network dramas do you think are on par with the level of quality seen in cable television?", 
             "url": "http://www.reddit.com/r/television/comments/2hgurh/what_network_dramas_do_you_think_are_on_par_with/", 
@@ -162,9 +150,9 @@
             "id": "2hgurh"
         }, 
         {
-            "num-comments": 33, 
+            "num-comments": 36, 
             "domain": "self.television", 
-            "score": 8, 
+            "score": 14, 
             "nsfw": false, 
             "title": "If you could show me only one clip of your favorite show to convince me to watch it, what would it be?", 
             "url": "http://www.reddit.com/r/television/comments/2hi2gd/if_you_could_show_me_only_one_clip_of_your/", 
@@ -174,9 +162,9 @@
             "id": "2hi2gd"
         }, 
         {
-            "num-comments": 22, 
+            "num-comments": 23, 
             "domain": "self.television", 
-            "score": 9, 
+            "score": 12, 
             "nsfw": false, 
             "title": "So who else watched the pilot of How To Get Away With Murder tonight?", 
             "url": "http://www.reddit.com/r/television/comments/2hhuow/so_who_else_watched_the_pilot_of_how_to_get_away/", 
@@ -186,9 +174,9 @@
             "id": "2hhuow"
         }, 
         {
-            "num-comments": 11, 
+            "num-comments": 12, 
             "domain": "self.television", 
-            "score": 8, 
+            "score": 10, 
             "nsfw": false, 
             "title": "No \"New on TV for the week\" posts this fall?", 
             "url": "http://www.reddit.com/r/television/comments/2hftqa/no_new_on_tv_for_the_week_posts_this_fall/", 
@@ -200,7 +188,7 @@
         {
             "num-comments": 7, 
             "domain": "self.television", 
-            "score": 9, 
+            "score": 7, 
             "nsfw": false, 
             "title": "I'd be really interested in a PBS revival of Pioneer House and 1900 House.", 
             "url": "http://www.reddit.com/r/television/comments/2hh07u/id_be_really_interested_in_a_pbs_revival_of/", 
@@ -212,7 +200,7 @@
         {
             "num-comments": 10, 
             "domain": "youtube.com", 
-            "score": 6, 
+            "score": 5, 
             "nsfw": false, 
             "title": "The Legacy of \"Star Wars: The Clone Wars\"", 
             "url": "https://www.youtube.com/watch?v=vnH1JKr4o_8", 
@@ -236,7 +224,7 @@
         {
             "num-comments": 2, 
             "domain": "cbs.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "CBS pushes back Mom for BBT reruns", 
             "url": "http://www.cbs.com/shows/fall-premieres/news/1003199/", 
@@ -246,9 +234,9 @@
             "id": "2hgtd1"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 5, 
             "domain": "esquire.com", 
-            "score": 5, 
+            "score": 8, 
             "nsfw": false, 
             "title": "'Freaks and Geeks' at 15: What Happened to the Cast Over the Years - Esquire", 
             "url": "http://www.esquire.com/blogs/culture/freaks-and-geeks-cast-now", 
@@ -260,7 +248,7 @@
         {
             "num-comments": 21, 
             "domain": "self.television", 
-            "score": 6, 
+            "score": 4, 
             "nsfw": false, 
             "title": "That one object that you want above all others...", 
             "url": "http://www.reddit.com/r/television/comments/2hh3lt/that_one_object_that_you_want_above_all_others/", 
@@ -270,9 +258,9 @@
             "id": "2hh3lt"
         }, 
         {
-            "num-comments": 5, 
+            "num-comments": 6, 
             "domain": "aljazeera.com", 
-            "score": 13, 
+            "score": 61, 
             "nsfw": false, 
             "title": "Thailand PM bemoans 'divisive' soap operas: New prime minister slams TV soaps and threatens he will write them himself if their scripts do not improve.", 
             "url": "http://www.aljazeera.com/news/asia-pacific/2014/09/thailand-pm-bemoans-divisive-soap-operas-20149269242984400.html", 
@@ -304,6 +292,18 @@
             "permalink": "http://www.reddit.com/r/television/comments/2hg30q/our_zoo_what_do_you_think_about_it_serious/", 
             "created-utc": 1411665347.0, 
             "id": "2hg30q"
+        }, 
+        {
+            "num-comments": 7, 
+            "domain": "youtube.com", 
+            "score": 16, 
+            "nsfw": false, 
+            "title": "Scene from The Sopranos that always stuck with me -- 3 O'Clock [Spoiler?]", 
+            "url": "https://www.youtube.com/watch?v=spVlCFwiciQ", 
+            "author": "maddabattacola", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hirnv/scene_from_the_sopranos_that_always_stuck_with_me/", 
+            "created-utc": 1411733394.0, 
+            "id": "2hirnv"
         }
     ], 
     "api-url": "http://daily.red/television.json", 

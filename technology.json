@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411740676, 
-    "description": "News stories related to technology.", 
+    "generated-utc": 1411743186, 
+    "description": "News stories related to technology", 
     "title": "Technology", 
     "full-url": "http://www.reddit.com/r/technology/", 
     "posts": [
         {
-            "num-comments": 850, 
+            "num-comments": 901, 
             "domain": "online.wsj.com", 
-            "score": 4029, 
+            "score": 4071, 
             "nsfw": false, 
             "title": "The FBI Is Upset That Google And Apple Are Bolstering Smartphone Security", 
             "url": "http://online.wsj.com/articles/fbi-director-raises-concerns-about-smartphone-security-plans-1411671434", 
@@ -18,9 +18,9 @@
             "id": "2hha3o"
         }, 
         {
-            "num-comments": 725, 
+            "num-comments": 733, 
             "domain": "cultofmac.com", 
-            "score": 2486, 
+            "score": 2487, 
             "nsfw": false, 
             "title": "Top Apple execs sell $143m worth of stocks", 
             "url": "http://www.cultofmac.com/297706/top-apple-execs-sell-143m-worth-stock/", 
@@ -30,9 +30,9 @@
             "id": "2hfo88"
         }, 
         {
-            "num-comments": 615, 
+            "num-comments": 626, 
             "domain": "computerworld.com", 
-            "score": 2146, 
+            "score": 2162, 
             "nsfw": false, 
             "title": "Even as it cuts 14% of its workforce, Microsoft threatens to leave for Canada if its 1,000 H-1B visas requests aren't granted.", 
             "url": "http://www.computerworld.com/article/2687534/microsoft-frustrated-as-ever-with-h-1b-policy-considers-options.html", 
@@ -42,9 +42,9 @@
             "id": "2hfop8"
         }, 
         {
-            "num-comments": 155, 
+            "num-comments": 157, 
             "domain": "arstechnica.com", 
-            "score": 1783, 
+            "score": 1817, 
             "nsfw": false, 
             "title": "FCC Democrats want to ban fast lanes and impose stricter rules on wireless", 
             "url": "http://arstechnica.com/tech-policy/2014/09/fcc-democrats-want-to-ban-fast-lanes-and-impose-stricter-rules-on-wireless/", 
@@ -54,9 +54,9 @@
             "id": "2hfrmm"
         }, 
         {
-            "num-comments": 64, 
+            "num-comments": 79, 
             "domain": "ctvnews.ca", 
-            "score": 1195, 
+            "score": 1339, 
             "nsfw": false, 
             "title": "FBI criticizes Apple, Google's decision to encrypt phones beyond law's reach", 
             "url": "http://www.ctvnews.ca/sci-tech/fbi-criticizes-apple-google-s-decision-to-encrypt-phones-beyond-law-s-reach-1.2024947", 
@@ -66,9 +66,9 @@
             "id": "2hhku7"
         }, 
         {
-            "num-comments": 74, 
+            "num-comments": 75, 
             "domain": "dslreports.com", 
-            "score": 638, 
+            "score": 654, 
             "nsfw": false, 
             "title": "AT&amp;T: We Can Only Compete With MegaComcast If We Can Acquire DirecTV", 
             "url": "http://www.dslreports.com/shownews/ATT-We-Can-Only-Compete-With-MegaComcast-If-We-Can-Eat-DirecTV-130596", 
@@ -78,9 +78,9 @@
             "id": "2hfp23"
         }, 
         {
-            "num-comments": 395, 
+            "num-comments": 387, 
             "domain": "9to5mac.com", 
-            "score": 517, 
+            "score": 531, 
             "nsfw": false, 
             "title": "Apple responds to iPhone 6 Bendgate controversy, says only 9 customers have complained", 
             "url": "http://9to5mac.com/2014/09/25/apple-responds-to-iphone-6-bendgate-controversy-says-only-9-customers-have-complained/", 
@@ -90,9 +90,9 @@
             "id": "2hg9nh"
         }, 
         {
-            "num-comments": 59, 
+            "num-comments": 61, 
             "domain": "betabeat.com", 
-            "score": 502, 
+            "score": 507, 
             "nsfw": false, 
             "title": "Jon Stewart on Alibaba: \u2018The Communists Have Beaten Us at Capitalism\u2019", 
             "url": "http://betabeat.com/2014/09/jon-stewart-on-alibaba-the-communists-have-beaten-us-at-capitalism/", 
@@ -102,9 +102,9 @@
             "id": "2hfpsj"
         }, 
         {
-            "num-comments": 209, 
+            "num-comments": 215, 
             "domain": "mashable.com", 
-            "score": 414, 
+            "score": 429, 
             "nsfw": false, 
             "title": "Google's Eric Schmidt on the iPhone 6 and 6 Plus: \"Samsung had these products a year ago\"", 
             "url": "http://mashable.com/2014/09/25/eric-schmidt-iphone-6/", 
@@ -116,7 +116,7 @@
         {
             "num-comments": 4, 
             "domain": "washingtonpost.com", 
-            "score": 377, 
+            "score": 375, 
             "nsfw": false, 
             "title": "The FTC was built 100 years ago to fight monopolists. Now, it\u2019s Washington\u2019s most powerful technology cop.", 
             "url": "http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/25/the-ftc-was-built-100-years-ago-to-fight-monopolists-now-its-washingtons-most-powerful-technology-cop/?tid=rssfeed", 
@@ -126,9 +126,9 @@
             "id": "2hfx6w"
         }, 
         {
-            "num-comments": 81, 
+            "num-comments": 84, 
             "domain": "theverge.com", 
-            "score": 220, 
+            "score": 224, 
             "nsfw": false, 
             "title": "The Verge is posting facetious articles and moderators are trolling their own comment sections. The tone has become spiteful and combative and the site is not nearly as much fun to visit as it used to be. A reader addresses this with examples.", 
             "url": "http://www.theverge.com/2014/9/24/6839413/the-verge-today", 
@@ -140,7 +140,7 @@
         {
             "num-comments": 11, 
             "domain": "wired.com", 
-            "score": 170, 
+            "score": 171, 
             "nsfw": false, 
             "title": "The Man on a Quest to Open Source Cancer Research", 
             "url": "http://www.wired.com/2014/09/man-quest-open-source-cancer-research/", 
@@ -152,7 +152,7 @@
         {
             "num-comments": 13, 
             "domain": "goodelectronics.org", 
-            "score": 153, 
+            "score": 159, 
             "nsfw": false, 
             "title": "Cancer cluster strikes main iPhone factory: Thirteen workers, ranging from 19 to 24 have been diagnosed with leukemia; five cases proved fatal", 
             "url": "http://goodelectronics.org/news-en/cancer-cluster-strikes-chinese-iphone-factory", 
@@ -162,9 +162,9 @@
             "id": "2hgm17"
         }, 
         {
-            "num-comments": 26, 
+            "num-comments": 28, 
             "domain": "theverge.com", 
-            "score": 110, 
+            "score": 114, 
             "nsfw": false, 
             "title": "As Bash damage spreads, experts warn of network attacks and an internet meltdown", 
             "url": "http://www.theverge.com/2014/9/25/6843669/bash-shellshock-network-worm-could-cause-internet-meltdown", 
@@ -174,9 +174,9 @@
             "id": "2hg0x7"
         }, 
         {
-            "num-comments": 22, 
+            "num-comments": 23, 
             "domain": "securitywatch.pcmag.com", 
-            "score": 112, 
+            "score": 116, 
             "nsfw": false, 
             "title": "Serious Bash Flaw Lets Attackers Hijack Linux and Mac Computers", 
             "url": "http://securitywatch.pcmag.com/internet/327769-serious-bash-flaw-lets-attackers-hijack-linux-and-mac-computers", 
@@ -186,9 +186,9 @@
             "id": "2hfuc8"
         }, 
         {
-            "num-comments": 38, 
+            "num-comments": 39, 
             "domain": "usatoday.com", 
-            "score": 98, 
+            "score": 110, 
             "nsfw": false, 
             "title": "Tesla test drives hit roadblock in Iowa - The Iowa Department of Transportation said the test drives were illegal for two reasons: Tesla isn't licensed as an auto dealer in Iowa, and state law prohibits carmakers from selling directly to the public.", 
             "url": "http://www.usatoday.com/story/money/cars/2014/09/24/tesla-test-drives-cut-short-in-iowa/16183133/", 
@@ -200,7 +200,7 @@
         {
             "num-comments": 6, 
             "domain": "theguardian.com", 
-            "score": 82, 
+            "score": 83, 
             "nsfw": false, 
             "title": "Google hits back at News Corp\u2019s claims that it is a platform for piracy", 
             "url": "http://www.theguardian.com/media/2014/sep/25/google-hits-back-news-corp-piracy-claims", 
@@ -224,7 +224,7 @@
         {
             "num-comments": 14, 
             "domain": "scientificamerican.com", 
-            "score": 30, 
+            "score": 31, 
             "nsfw": false, 
             "title": "Can Ebola \"Bombs\" Be Made for Warfare?", 
             "url": "http://www.scientificamerican.com/article/can-ebola-bombs-be-made-for-warfare/", 
@@ -236,7 +236,7 @@
         {
             "num-comments": 2, 
             "domain": "nytimes.com", 
-            "score": 25, 
+            "score": 26, 
             "nsfw": false, 
             "title": "Comcast Lashes Out at Rivals Opposed to Merger Plan", 
             "url": "http://www.nytimes.com/2014/09/25/business/media/comcast-accuses-rivals-of-extortion-in-opposing-its-bid-for-time-warner-cable.html", 
@@ -260,7 +260,7 @@
         {
             "num-comments": 3, 
             "domain": "smh.com.au", 
-            "score": 24, 
+            "score": 26, 
             "nsfw": false, 
             "title": "Terror laws clear Australian Senate, enabling entire Australian web to be monitored and whistleblowers to be jailed", 
             "url": "http://www.smh.com.au/digital-life/consumer-security/terror-laws-clear-senate-enabling-entire-australian-web-to-be-monitored-and-whistleblowers-to-be-jailed-20140925-10m8ih.html", 
@@ -270,9 +270,9 @@
             "id": "2hhabm"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 10, 
             "domain": "self.technology", 
-            "score": 20, 
+            "score": 31, 
             "nsfw": false, 
             "title": "How could \"Shellshock\" remain undiscovered for such a long period ~25 years ?", 
             "url": "http://www.reddit.com/r/technology/comments/2hiina/how_could_shellshock_remain_undiscovered_for_such/", 
@@ -284,7 +284,7 @@
         {
             "num-comments": 0, 
             "domain": "purchaseprinter.com", 
-            "score": 20, 
+            "score": 21, 
             "nsfw": false, 
             "title": "Home Depot Partners W/ MakerBot - In Store 3D Printing Services", 
             "url": "http://www.purchaseprinter.com/printing-products/3d-printers/home-depot-3d-printers-for-sale/", 
@@ -294,9 +294,9 @@
             "id": "2hhsjq"
         }, 
         {
-            "num-comments": 10, 
+            "num-comments": 11, 
             "domain": "techcrunch.com", 
-            "score": 18, 
+            "score": 19, 
             "nsfw": false, 
             "title": "#GamerGate \u2013 An Issue With Two Sides", 
             "url": "http://techcrunch.com/2014/09/25/gamergate-an-issue-with-2-sides/", 
