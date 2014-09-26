@@ -1,26 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411754918, 
+    "generated-utc": 1411768851, 
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
     "full-url": "http://www.reddit.com/r/history/", 
     "posts": [
         {
-            "num-comments": 188, 
-            "domain": "self.history", 
-            "score": 286, 
-            "nsfw": false, 
-            "title": "The U.S. (Turn of 21st C.) v England (Turn of 20th C.)", 
-            "url": "http://www.reddit.com/r/history/comments/2hgkvt/the_us_turn_of_21st_c_v_england_turn_of_20th_c/", 
-            "author": "ghnyc11", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hgkvt/the_us_turn_of_21st_c_v_england_turn_of_20th_c/", 
-            "created-utc": 1411674587.0, 
-            "id": "2hgkvt"
-        }, 
-        {
-            "num-comments": 26, 
+            "num-comments": 58, 
             "domain": "bostonglobe.com", 
-            "score": 371, 
+            "score": 669, 
             "nsfw": false, 
             "title": "Discovered Inside Boston Statue: 113-Yr-Old Time Capsule - Fiber optic camera used to detect the capsule, which is in a sealed copper box size of a shoe box, secured to the sculpture with copper straps", 
             "url": "http://www.bostonglobe.com/metro/2014/09/23/time-capsule-found-inside-lion-statue-removed-from-old-state-house/SwtlRRyMDcgxLL4fvAmlnN/story.html", 
@@ -32,7 +20,7 @@
         {
             "num-comments": 28, 
             "domain": "psmag.com", 
-            "score": 105, 
+            "score": 109, 
             "nsfw": false, 
             "title": "\"The Most Pointless Ferry in Maryland\": an old ferry service that dates back to 1683", 
             "url": "http://www.psmag.com/navigation/business-economics/pointless-ferry-maryland-tred-avon-transportation-boat-ride-91209/", 
@@ -42,21 +30,9 @@
             "id": "2hibyi"
         }, 
         {
-            "num-comments": 25, 
-            "domain": "self.history", 
-            "score": 69, 
-            "nsfw": false, 
-            "title": "Where did the Mongols keep their slaves?", 
-            "url": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
-            "author": "hipwithyoungsters", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
-            "created-utc": 1411682502.0, 
-            "id": "2hgzir"
-        }, 
-        {
             "num-comments": 7, 
             "domain": "spiegel.de", 
-            "score": 69, 
+            "score": 77, 
             "nsfw": false, 
             "title": "The Archeological Excavations that Led to the Gas Chambers of Sobibor", 
             "url": "http://www.spiegel.de/international/zeitgeist/the-archeological-excavations-that-led-to-the-gas-chambers-of-sobibor-a-993733.html", 
@@ -66,9 +42,21 @@
             "id": "2hio72"
         }, 
         {
+            "num-comments": 26, 
+            "domain": "self.history", 
+            "score": 70, 
+            "nsfw": false, 
+            "title": "Where did the Mongols keep their slaves?", 
+            "url": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
+            "author": "hipwithyoungsters", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
+            "created-utc": 1411682502.0, 
+            "id": "2hgzir"
+        }, 
+        {
             "num-comments": 3, 
             "domain": "spiegel.de", 
-            "score": 58, 
+            "score": 60, 
             "nsfw": false, 
             "title": "Interview with Sobib\u00f3r Survivor Philip Bialowitz", 
             "url": "http://www.spiegel.de/international/europe/interview-with-sobibor-survivor-philip-bialowitz-a-993928.html", 
@@ -80,7 +68,7 @@
         {
             "num-comments": 2, 
             "domain": "neh.gov", 
-            "score": 30, 
+            "score": 32, 
             "nsfw": false, 
             "title": "Politics and war brought Teddy Roosevelt and Franklin Delano Roosevelt ever closer", 
             "url": "http://www.neh.gov/humanities/2014/septemberoctober/feature/politics-and-war-brought-teddy-roosevelt-and-franklin-delan", 
@@ -90,7 +78,19 @@
             "id": "2hivk9"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 5, 
+            "domain": "self.history", 
+            "score": 7, 
+            "nsfw": false, 
+            "title": "Early history of Croatia", 
+            "url": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
+            "author": "xXJUICYNIGGAXx", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
+            "created-utc": 1411741181.0, 
+            "id": "2hj2fe"
+        }, 
+        {
+            "num-comments": 3, 
             "domain": "theatlantic.com", 
             "score": 7, 
             "nsfw": false, 
@@ -104,14 +104,26 @@
         {
             "num-comments": 2, 
             "domain": "self.history", 
-            "score": 6, 
+            "score": 5, 
             "nsfw": false, 
-            "title": "Early history of Croatia", 
-            "url": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
-            "author": "xXJUICYNIGGAXx", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
-            "created-utc": 1411741181.0, 
-            "id": "2hj2fe"
+            "title": "World War I broke out largely because of an arms race, and World War II because of the lack of an arms race- Herman Kahn. Meaning?", 
+            "url": "http://www.reddit.com/r/history/comments/2hjh8x/world_war_i_broke_out_largely_because_of_an_arms/", 
+            "author": "BoOogaBoOoga", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjh8x/world_war_i_broke_out_largely_because_of_an_arms/", 
+            "created-utc": 1411749538.0, 
+            "id": "2hjh8x"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "self.history", 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "slaughter house 5", 
+            "url": "http://www.reddit.com/r/history/comments/2hjwp4/slaughter_house_5/", 
+            "author": "erdocsg", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjwp4/slaughter_house_5/", 
+            "created-utc": 1411758298.0, 
+            "id": "2hjwp4"
         }, 
         {
             "num-comments": 1, 
@@ -126,33 +138,21 @@
             "id": "2hhxhy"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "self.history", 
             "score": 1, 
             "nsfw": false, 
-            "title": "World War I broke out largely because of an arms race, and World War II because of the lack of an arms race- Herman Kahn. Meaning?", 
-            "url": "http://www.reddit.com/r/history/comments/2hjh8x/world_war_i_broke_out_largely_because_of_an_arms/", 
-            "author": "BoOogaBoOoga", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hjh8x/world_war_i_broke_out_largely_because_of_an_arms/", 
-            "created-utc": 1411749538.0, 
-            "id": "2hjh8x"
-        }, 
-        {
-            "num-comments": 7, 
-            "domain": "self.history", 
-            "score": 3, 
-            "nsfw": false, 
-            "title": "Links to Napoleon History?", 
-            "url": "http://www.reddit.com/r/history/comments/2hgg1t/links_to_napoleon_history/", 
-            "author": "CJRudman", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hgg1t/links_to_napoleon_history/", 
-            "created-utc": 1411672067.0, 
-            "id": "2hgg1t"
+            "title": "Family Folklore(possible truth) assistance request", 
+            "url": "http://www.reddit.com/r/history/comments/2hjkmo/family_folklorepossible_truth_assistance_request/", 
+            "author": "MizzouSEC", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjkmo/family_folklorepossible_truth_assistance_request/", 
+            "created-utc": 1411751387.0, 
+            "id": "2hjkmo"
         }, 
         {
             "num-comments": 2, 
             "domain": "historyireland.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "The Irish Medieval Pilgrimage to Santiago de Compostela ,more than just a pilgrimage, the Irish often didn't return (X post r/SpanishHistory).", 
             "url": "http://www.historyireland.com/medieval-history-pre-1500/the-irish-medieval-pilgrimage-to-santiago-de-compostela/", 
@@ -186,28 +186,16 @@
             "id": "2hjfq8"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "self.history", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "What are events, dates, life-spans worth memorizing? Any time period", 
-            "url": "http://www.reddit.com/r/history/comments/2hgh7m/what_are_events_dates_lifespans_worth_memorizing/", 
-            "author": "cosmicservant", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hgh7m/what_are_events_dates_lifespans_worth_memorizing/", 
-            "created-utc": 1411672685.0, 
-            "id": "2hgh7m"
-        }, 
-        {
             "num-comments": 11, 
             "domain": "self.history", 
             "score": 0, 
             "nsfw": false, 
-            "title": "Why did this happen?", 
-            "url": "http://www.reddit.com/r/history/comments/2hgirz/why_did_this_happen/", 
-            "author": "AtcMD", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hgirz/why_did_this_happen/", 
-            "created-utc": 1411673473.0, 
-            "id": "2hgirz"
+            "title": "Is Germany really responsible for the WW2", 
+            "url": "http://www.reddit.com/r/history/comments/2hjvzj/is_germany_really_responsible_for_the_ww2/", 
+            "author": "Nestleworstcompany", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjvzj/is_germany_really_responsible_for_the_ww2/", 
+            "created-utc": 1411757890.0, 
+            "id": "2hjvzj"
         }, 
         {
             "num-comments": 10, 

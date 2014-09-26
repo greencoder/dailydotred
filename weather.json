@@ -1,6 +1,6 @@
 {
     "category": "News", 
-    "generated-utc": 1411754931, 
+    "generated-utc": 1411768832, 
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
     "full-url": "http://www.reddit.com/r/weather/", 
@@ -8,7 +8,7 @@
         {
             "num-comments": 8, 
             "domain": "i.imgur.com", 
-            "score": 23, 
+            "score": 25, 
             "nsfw": false, 
             "title": "Gravity Waves?", 
             "url": "https://i.imgur.com/5dXhOPh.jpg", 
@@ -18,9 +18,9 @@
             "id": "2hgudm"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 5, 
             "domain": "imgur.com", 
-            "score": 19, 
+            "score": 27, 
             "nsfw": false, 
             "title": "Fallstreak hole/Hole Punch clouds in Central Alabama this morning.", 
             "url": "http://imgur.com/a/RGTRx", 
@@ -56,7 +56,7 @@
         {
             "num-comments": 2, 
             "domain": "imgur.com", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Took this picture of some cool looking clouds following a storm near Brisbane, Australia yesterday.", 
             "url": "http://imgur.com/BRZbx5D", 
@@ -64,6 +64,18 @@
             "permalink": "http://www.reddit.com/r/weather/comments/2hh2sz/took_this_picture_of_some_cool_looking_clouds/", 
             "created-utc": 1411684350.0, 
             "id": "2hh2sz"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "youtube.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "What Southern Arizona's monsoon looks like from inside a fire lookout tower (xpost from r/tucson)", 
+            "url": "https://www.youtube.com/watch?v=pstcVVYCGr0", 
+            "author": "azpmguy", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hjxrw/what_southern_arizonas_monsoon_looks_like_from/", 
+            "created-utc": 1411758885.0, 
+            "id": "2hjxrw"
         }, 
         {
             "num-comments": 0, 

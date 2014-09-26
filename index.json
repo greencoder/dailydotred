@@ -1,41 +1,59 @@
 {
-    "generated-utc": 1411754979, 
+    "generated-utc": 1411768908, 
     "subreddits": [
         {
-            "category": "Entertainment", 
-            "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources.", 
-            "title": "/r/television - A premium-quality television subreddit", 
-            "full-url": "http://www.reddit.com/r/television/", 
-            "api-url": "http://daily.red/television.json", 
-            "display-name": "Television", 
-            "short-url": "/r/television/"
+            "category": "News", 
+            "description": "Real news articles, primarily but not exclusively, news relating to the United States", 
+            "title": "All news, US and international.", 
+            "full-url": "http://www.reddit.com/r/news/", 
+            "api-url": "http://daily.red/news.json", 
+            "display-name": "News", 
+            "short-url": "/r/news/"
         }, 
         {
-            "category": "Entertainment", 
-            "description": "News and discussion of major motion pictures", 
-            "title": "Movie News and Discussion", 
-            "full-url": "http://www.reddit.com/r/movies/", 
-            "api-url": "http://daily.red/movies.json", 
-            "display-name": "Movies", 
-            "short-url": "/r/movies/"
+            "category": "News", 
+            "description": "A place for major news from around the world, excluding US-internal news", 
+            "title": "World News", 
+            "full-url": "http://www.reddit.com/r/worldnews/", 
+            "api-url": "http://daily.red/world-news.json", 
+            "display-name": "World News", 
+            "short-url": "/r/worldnews/"
         }, 
         {
-            "category": "Entertainment", 
-            "description": "The musical community of reddit", 
-            "title": "Music", 
-            "full-url": "http://www.reddit.com/r/Music/", 
-            "api-url": "http://daily.red/music.json", 
-            "display-name": "Music", 
-            "short-url": "/r/Music/"
+            "category": "News", 
+            "description": "The subreddit for opinion, analysis, and discussion of recent events", 
+            "title": "In the News: Opinion, Analysis, and Discussion", 
+            "full-url": "http://www.reddit.com/r/inthenews/", 
+            "api-url": "http://daily.red/in-the-news.json", 
+            "display-name": "In the News", 
+            "short-url": "/r/inthenews/"
         }, 
         {
-            "category": "Entertainment", 
-            "description": "A subreddit for (almost) anything related to games - video games, board games, card games, etc.", 
-            "title": "What's new in gaming", 
-            "full-url": "http://www.reddit.com/r/gaming/", 
-            "api-url": "http://daily.red/gaming.json", 
-            "display-name": "Gaming", 
-            "short-url": "/r/gaming/"
+            "category": "News", 
+            "description": "A place to read and share positive and uplifting, feel good news stories", 
+            "title": "Uplifting News", 
+            "full-url": "http://www.reddit.com/r/UpliftingNews/", 
+            "api-url": "http://daily.red/uplifting-news.json", 
+            "display-name": "Uplifting News", 
+            "short-url": "/r/UpliftingNews/"
+        }, 
+        {
+            "category": "News", 
+            "description": "News and discussion about economics, from the perspective of economists", 
+            "title": "The Dismal Science", 
+            "full-url": "http://www.reddit.com/r/Economics/", 
+            "api-url": "http://daily.red/economics.json", 
+            "display-name": "Economics", 
+            "short-url": "/r/Economics/"
+        }, 
+        {
+            "category": "News", 
+            "description": "Stories related to weather", 
+            "title": "Weather subreddit", 
+            "full-url": "http://www.reddit.com/r/weather/", 
+            "api-url": "http://daily.red/weather.json", 
+            "display-name": "Weather", 
+            "short-url": "/r/weather/"
         }, 
         {
             "category": "Knowledge", 
@@ -54,15 +72,6 @@
             "api-url": "http://daily.red/technology.json", 
             "display-name": "Technology", 
             "short-url": "/r/technology/"
-        }, 
-        {
-            "category": "Knowledge", 
-            "description": "Tips that improve your life in one way or another", 
-            "title": "Life Pro Tips", 
-            "full-url": "http://www.reddit.com/r/LifeProTips/", 
-            "api-url": "http://daily.red/life-pro-tips.json", 
-            "display-name": "Life Pro Tips", 
-            "short-url": "/r/LifeProTips/"
         }, 
         {
             "category": "Knowledge", 
@@ -101,76 +110,49 @@
             "short-url": "/r/askscience/"
         }, 
         {
-            "category": "News", 
-            "description": "Stories related to weather", 
-            "title": "Weather subreddit", 
-            "full-url": "http://www.reddit.com/r/weather/", 
-            "api-url": "http://daily.red/weather.json", 
-            "display-name": "Weather", 
-            "short-url": "/r/weather/"
+            "category": "Knowledge", 
+            "description": "Tips that improve your life in one way or another", 
+            "title": "Life Pro Tips", 
+            "full-url": "http://www.reddit.com/r/LifeProTips/", 
+            "api-url": "http://daily.red/life-pro-tips.json", 
+            "display-name": "Life Pro Tips", 
+            "short-url": "/r/LifeProTips/"
         }, 
         {
-            "category": "News", 
-            "description": "A place for major news from around the world, excluding US-internal news", 
-            "title": "World News", 
-            "full-url": "http://www.reddit.com/r/worldnews/", 
-            "api-url": "http://daily.red/world-news.json", 
-            "display-name": "World News", 
-            "short-url": "/r/worldnews/"
+            "category": "Entertainment", 
+            "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources.", 
+            "title": "/r/television - A premium-quality television subreddit", 
+            "full-url": "http://www.reddit.com/r/television/", 
+            "api-url": "http://daily.red/television.json", 
+            "display-name": "Television", 
+            "short-url": "/r/television/"
         }, 
         {
-            "category": "News", 
-            "description": "Real news articles, primarily but not exclusively, news relating to the United States", 
-            "title": "All news, US and international.", 
-            "full-url": "http://www.reddit.com/r/news/", 
-            "api-url": "http://daily.red/news.json", 
-            "display-name": "News", 
-            "short-url": "/r/news/"
+            "category": "Entertainment", 
+            "description": "News and discussion of major motion pictures", 
+            "title": "Movie News and Discussion", 
+            "full-url": "http://www.reddit.com/r/movies/", 
+            "api-url": "http://daily.red/movies.json", 
+            "display-name": "Movies", 
+            "short-url": "/r/movies/"
         }, 
         {
-            "category": "News", 
-            "description": "A place to read and share positive and uplifting, feel good news stories", 
-            "title": "Uplifting News", 
-            "full-url": "http://www.reddit.com/r/UpliftingNews/", 
-            "api-url": "http://daily.red/uplifting-news.json", 
-            "display-name": "Uplifting News", 
-            "short-url": "/r/UpliftingNews/"
+            "category": "Entertainment", 
+            "description": "The musical community of reddit", 
+            "title": "Music", 
+            "full-url": "http://www.reddit.com/r/Music/", 
+            "api-url": "http://daily.red/music.json", 
+            "display-name": "Music", 
+            "short-url": "/r/Music/"
         }, 
         {
-            "category": "News", 
-            "description": "The subreddit for opinion, analysis, and discussion of recent events", 
-            "title": "In the News: Opinion, Analysis, and Discussion", 
-            "full-url": "http://www.reddit.com/r/inthenews/", 
-            "api-url": "http://daily.red/in-the-news.json", 
-            "display-name": "In the News", 
-            "short-url": "/r/inthenews/"
-        }, 
-        {
-            "category": "News", 
-            "description": "News and discussion about economics, from the perspective of economists", 
-            "title": "The Dismal Science", 
-            "full-url": "http://www.reddit.com/r/Economics/", 
-            "api-url": "http://daily.red/economics.json", 
-            "display-name": "Economics", 
-            "short-url": "/r/Economics/"
-        }, 
-        {
-            "category": "Fun", 
-            "description": "A subreddit to share anything that goes on in your head while in the shower", 
-            "title": "Shower Thoughts", 
-            "full-url": "http://www.reddit.com/r/Showerthoughts/", 
-            "api-url": "http://daily.red/shower-thoughts.json", 
-            "display-name": "Shower Thoughts", 
-            "short-url": "/r/Showerthoughts/"
-        }, 
-        {
-            "category": "Fun", 
-            "description": "Things that make you say \"What the F*ck\"", 
-            "title": "WTF?!", 
-            "full-url": "http://www.reddit.com/r/WTF/", 
-            "api-url": "http://daily.red/wtf.json", 
-            "display-name": "WTF", 
-            "short-url": "/r/WTF/"
+            "category": "Entertainment", 
+            "description": "A subreddit for (almost) anything related to games - video games, board games, card games, etc.", 
+            "title": "What's new in gaming", 
+            "full-url": "http://www.reddit.com/r/gaming/", 
+            "api-url": "http://daily.red/gaming.json", 
+            "display-name": "Gaming", 
+            "short-url": "/r/gaming/"
         }, 
         {
             "category": "Fun", 
@@ -192,12 +174,30 @@
         }, 
         {
             "category": "Fun", 
+            "description": "Things that make you say \"What the F*ck\"", 
+            "title": "WTF?!", 
+            "full-url": "http://www.reddit.com/r/WTF/", 
+            "api-url": "http://daily.red/wtf.json", 
+            "display-name": "WTF", 
+            "short-url": "/r/WTF/"
+        }, 
+        {
+            "category": "Fun", 
             "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
             "title": "News Of The Stupid", 
             "full-url": "http://www.reddit.com/r/NewsOfTheStupid/", 
             "api-url": "http://daily.red/news-of-the-stupid.json", 
             "display-name": "News of the Stupid", 
             "short-url": "/r/NewsOfTheStupid/"
+        }, 
+        {
+            "category": "Fun", 
+            "description": "A subreddit to share anything that goes on in your head while in the shower", 
+            "title": "Shower Thoughts", 
+            "full-url": "http://www.reddit.com/r/Showerthoughts/", 
+            "api-url": "http://daily.red/shower-thoughts.json", 
+            "display-name": "Shower Thoughts", 
+            "short-url": "/r/Showerthoughts/"
         }
     ]
 }

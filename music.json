@@ -1,26 +1,14 @@
 {
     "category": "Entertainment", 
-    "generated-utc": 1411754890, 
+    "generated-utc": 1411768880, 
     "description": "The musical community of reddit", 
     "title": "Music", 
     "full-url": "http://www.reddit.com/r/Music/", 
     "posts": [
         {
-            "num-comments": 2277, 
+            "num-comments": 575, 
             "domain": "self.Music", 
-            "score": 750, 
-            "nsfw": false, 
-            "title": "What is the best one hit wonder song ever made?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hiix8/what_is_the_best_one_hit_wonder_song_ever_made/", 
-            "author": "TristanCorb", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hiix8/what_is_the_best_one_hit_wonder_song_ever_made/", 
-            "created-utc": 1411724232.0, 
-            "id": "2hiix8"
-        }, 
-        {
-            "num-comments": 196, 
-            "domain": "self.Music", 
-            "score": 806, 
+            "score": 2306, 
             "nsfw": false, 
             "title": "Radiohead's Thom Yorke releases new album, Tomorrow's Modern Boxes, through BitTorrent", 
             "url": "http://www.reddit.com/r/Music/comments/2hj68b/radioheads_thom_yorke_releases_new_album/", 
@@ -30,9 +18,21 @@
             "id": "2hj68b"
         }, 
         {
-            "num-comments": 39, 
+            "num-comments": 2527, 
+            "domain": "self.Music", 
+            "score": 860, 
+            "nsfw": false, 
+            "title": "What is the best one hit wonder song ever made?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hiix8/what_is_the_best_one_hit_wonder_song_ever_made/", 
+            "author": "TristanCorb", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hiix8/what_is_the_best_one_hit_wonder_song_ever_made/", 
+            "created-utc": 1411724232.0, 
+            "id": "2hiix8"
+        }, 
+        {
+            "num-comments": 42, 
             "domain": "youtube.com", 
-            "score": 315, 
+            "score": 314, 
             "nsfw": false, 
             "title": "Coheed And Cambria - In Keeping Secrets of Silent Earth: 3 [Progressive Rock]", 
             "url": "https://www.youtube.com/watch?v=1uYsu13XGgM", 
@@ -42,9 +42,9 @@
             "id": "2hhaki"
         }, 
         {
-            "num-comments": 18, 
+            "num-comments": 19, 
             "domain": "youtube.com", 
-            "score": 183, 
+            "score": 201, 
             "nsfw": false, 
             "title": "The Strokes - Last Nite [indie rock]", 
             "url": "https://www.youtube.com/watch?v=TOypSnKFHrE", 
@@ -54,9 +54,9 @@
             "id": "2hhqd7"
         }, 
         {
-            "num-comments": 434, 
+            "num-comments": 482, 
             "domain": "self.Music", 
-            "score": 148, 
+            "score": 163, 
             "nsfw": false, 
             "title": "What is your favorite acoustic song from a non-acoustic band?", 
             "url": "http://www.reddit.com/r/Music/comments/2hisrq/what_is_your_favorite_acoustic_song_from_a/", 
@@ -66,21 +66,21 @@
             "id": "2hisrq"
         }, 
         {
-            "num-comments": 8, 
-            "domain": "youtube.com", 
-            "score": 49, 
+            "num-comments": 346, 
+            "domain": "self.Music", 
+            "score": 71, 
             "nsfw": false, 
-            "title": "Black Sabbath - N.I.B. [Heavy Metal]", 
-            "url": "https://www.youtube.com/watch?v=i_SGQycuXUw", 
-            "author": "mr_goo0se", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hg8z4/black_sabbath_nib_heavy_metal/", 
-            "created-utc": 1411668398.0, 
-            "id": "2hg8z4"
+            "title": "We are Finch, a band from Temecula, CA with a new album coming out on September 30th- Back To Oblivion, AUA", 
+            "url": "http://www.reddit.com/r/Music/comments/2hjicr/we_are_finch_a_band_from_temecula_ca_with_a_new/", 
+            "author": "finchbacktooblivion", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hjicr/we_are_finch_a_band_from_temecula_ca_with_a_new/", 
+            "created-utc": 1411750162.0, 
+            "id": "2hjicr"
         }, 
         {
             "num-comments": 6, 
             "domain": "youtube.com", 
-            "score": 37, 
+            "score": 35, 
             "nsfw": false, 
             "title": "Shakey Graves - Roll the Bones [Indie]", 
             "url": "https://www.youtube.com/watch?v=sD72LbIk02M", 
@@ -92,7 +92,7 @@
         {
             "num-comments": 2, 
             "domain": "m.soundcloud.com", 
-            "score": 32, 
+            "score": 36, 
             "nsfw": false, 
             "title": "Gorillaz Feat. Lou Reed - Some Kind of Nature [Electronic]", 
             "url": "https://m.soundcloud.com/i-van-share/09-some-kind-of-nature-ft-lou-reed", 
@@ -104,7 +104,7 @@
         {
             "num-comments": 5, 
             "domain": "youtube.com", 
-            "score": 31, 
+            "score": 34, 
             "nsfw": false, 
             "title": "Fugazi - I'm So Tired [Post-Hardcore]", 
             "url": "https://www.youtube.com/watch?v=4IKddfxkDWk", 
@@ -114,9 +114,9 @@
             "id": "2hhayw"
         }, 
         {
-            "num-comments": 41, 
+            "num-comments": 44, 
             "domain": "self.Music", 
-            "score": 25, 
+            "score": 29, 
             "nsfw": false, 
             "title": "I got signed! What do I need to make sure is on the contract before I sign it?", 
             "url": "http://www.reddit.com/r/Music/comments/2hiabk/i_got_signed_what_do_i_need_to_make_sure_is_on/", 
@@ -126,9 +126,9 @@
             "id": "2hiabk"
         }, 
         {
-            "num-comments": 8, 
+            "num-comments": 11, 
             "domain": "self.Music", 
-            "score": 24, 
+            "score": 25, 
             "nsfw": false, 
             "title": "New Weezer single \"Lonely\"", 
             "url": "http://www.reddit.com/r/Music/comments/2hib82/new_weezer_single_lonely/", 
@@ -138,21 +138,9 @@
             "id": "2hib82"
         }, 
         {
-            "num-comments": 5, 
-            "domain": "youtube.com", 
-            "score": 24, 
-            "nsfw": false, 
-            "title": "Peter Gabriel - Sledgehammer [Rock]", 
-            "url": "https://www.youtube.com/watch?v=KkiqTmwEQ-U", 
-            "author": "braunheiser", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hg56f/peter_gabriel_sledgehammer_rock/", 
-            "created-utc": 1411666469.0, 
-            "id": "2hg56f"
-        }, 
-        {
-            "num-comments": 6, 
+            "num-comments": 8, 
             "domain": "self.Music", 
-            "score": 20, 
+            "score": 21, 
             "nsfw": false, 
             "title": "Here's a list of a few music festivals happening tonight &amp; this weekend that you can watch streaming live", 
             "url": "http://www.reddit.com/r/Music/comments/2hix7l/heres_a_list_of_a_few_music_festivals_happening/", 
@@ -162,33 +150,9 @@
             "id": "2hix7l"
         }, 
         {
-            "num-comments": 10, 
-            "domain": "avclub.com", 
-            "score": 20, 
-            "nsfw": false, 
-            "title": "Urban Outfitters is now the world\u2019s top seller of vinyl records", 
-            "url": "http://www.avclub.com/article/urban-outfitters-now-worlds-top-seller-vinyl-recor-209700", 
-            "author": "ianthomasmalone", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hggxc/urban_outfitters_is_now_the_worlds_top_seller_of/", 
-            "created-utc": 1411672506.0, 
-            "id": "2hggxc"
-        }, 
-        {
-            "num-comments": 16, 
+            "num-comments": 196, 
             "domain": "self.Music", 
-            "score": 16, 
-            "nsfw": false, 
-            "title": "The Who released a new single today, part of their 50th anniversary. What does it take for a band to gain the longevity that they have?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hiz7f/the_who_released_a_new_single_today_part_of_their/", 
-            "author": "BelugaBoy", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hiz7f/the_who_released_a_new_single_today_part_of_their/", 
-            "created-utc": 1411739111.0, 
-            "id": "2hiz7f"
-        }, 
-        {
-            "num-comments": 164, 
-            "domain": "self.Music", 
-            "score": 16, 
+            "score": 22, 
             "nsfw": false, 
             "title": "Concerts you've been to that would make other music fans jealous.", 
             "url": "http://www.reddit.com/r/Music/comments/2hivc1/concerts_youve_been_to_that_would_make_other/", 
@@ -198,31 +162,7 @@
             "id": "2hivc1"
         }, 
         {
-            "num-comments": 3, 
-            "domain": "youtube.com", 
-            "score": 18, 
-            "nsfw": false, 
-            "title": "Echo &amp; the Bunnymen - The Killing Moon [new wave]", 
-            "url": "https://www.youtube.com/watch?v=LWz0JC7afNQ", 
-            "author": "auchim", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hg6b7/echo_the_bunnymen_the_killing_moon_new_wave/", 
-            "created-utc": 1411667073.0, 
-            "id": "2hg6b7"
-        }, 
-        {
-            "num-comments": 42, 
-            "domain": "self.Music", 
-            "score": 18, 
-            "nsfw": false, 
-            "title": "What songs have you heard that you have realized or later discovered are based on a novel?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hhxdl/what_songs_have_you_heard_that_you_have_realized/", 
-            "author": "myshoelaceshurt", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hhxdl/what_songs_have_you_heard_that_you_have_realized/", 
-            "created-utc": 1411703574.0, 
-            "id": "2hhxdl"
-        }, 
-        {
-            "num-comments": 38, 
+            "num-comments": 57, 
             "domain": "self.Music", 
             "score": 19, 
             "nsfw": false, 
@@ -234,9 +174,45 @@
             "id": "2hj4bj"
         }, 
         {
-            "num-comments": 12, 
+            "num-comments": 18, 
             "domain": "self.Music", 
-            "score": 10, 
+            "score": 14, 
+            "nsfw": false, 
+            "title": "The Who released a new single today, part of their 50th anniversary. What does it take for a band to gain the longevity that they have?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hiz7f/the_who_released_a_new_single_today_part_of_their/", 
+            "author": "BelugaBoy", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hiz7f/the_who_released_a_new_single_today_part_of_their/", 
+            "created-utc": 1411739111.0, 
+            "id": "2hiz7f"
+        }, 
+        {
+            "num-comments": 45, 
+            "domain": "self.Music", 
+            "score": 16, 
+            "nsfw": false, 
+            "title": "What songs have you heard that you have realized or later discovered are based on a novel?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hhxdl/what_songs_have_you_heard_that_you_have_realized/", 
+            "author": "myshoelaceshurt", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hhxdl/what_songs_have_you_heard_that_you_have_realized/", 
+            "created-utc": 1411703574.0, 
+            "id": "2hhxdl"
+        }, 
+        {
+            "num-comments": 30, 
+            "domain": "self.Music", 
+            "score": 17, 
+            "nsfw": false, 
+            "title": "Recently started listening to Jazz and I love it. Suggestions?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hjdjs/recently_started_listening_to_jazz_and_i_love_it/", 
+            "author": "devmikale", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hjdjs/recently_started_listening_to_jazz_and_i_love_it/", 
+            "created-utc": 1411747531.0, 
+            "id": "2hjdjs"
+        }, 
+        {
+            "num-comments": 15, 
+            "domain": "self.Music", 
+            "score": 12, 
             "nsfw": false, 
             "title": "Has anyone noticed The Beatles are on Spotify now?", 
             "url": "http://www.reddit.com/r/Music/comments/2hios1/has_anyone_noticed_the_beatles_are_on_spotify_now/", 
@@ -246,16 +222,16 @@
             "id": "2hios1"
         }, 
         {
-            "num-comments": 5, 
-            "domain": "npr.org", 
-            "score": 13, 
+            "num-comments": 31, 
+            "domain": "self.Music", 
+            "score": 12, 
             "nsfw": false, 
-            "title": "Trent Reznor &amp; Atticus Ross - Gone Girl (Motion Picture Soundtrack)", 
-            "url": "http://www.npr.org/2014/09/25/350948108/first-listen-trent-reznor-atticus-ross-gone-girl-motion-picture-soundtrack", 
-            "author": "fernandotakai", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hga7b/trent_reznor_atticus_ross_gone_girl_motion/", 
-            "created-utc": 1411669035.0, 
-            "id": "2hga7b"
+            "title": "My little sister is getting married. What song should we dance to?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hiscg/my_little_sister_is_getting_married_what_song/", 
+            "author": "ElevenHurricanes", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hiscg/my_little_sister_is_getting_married_what_song/", 
+            "created-utc": 1411733996.0, 
+            "id": "2hiscg"
         }, 
         {
             "num-comments": 2, 
@@ -270,21 +246,9 @@
             "id": "2hhbwa"
         }, 
         {
-            "num-comments": 25, 
-            "domain": "self.Music", 
-            "score": 12, 
-            "nsfw": false, 
-            "title": "My little sister is getting married. What song should we dance to?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hiscg/my_little_sister_is_getting_married_what_song/", 
-            "author": "ElevenHurricanes", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hiscg/my_little_sister_is_getting_married_what_song/", 
-            "created-utc": 1411733996.0, 
-            "id": "2hiscg"
-        }, 
-        {
             "num-comments": 9, 
             "domain": "youtu.be", 
-            "score": 10, 
+            "score": 11, 
             "nsfw": false, 
             "title": "The Smashing Pumpkins - Today [90s alternative rock] Great song, the second single from Siamese Dream.", 
             "url": "http://youtu.be/xmUZ6nCFNoU", 
@@ -304,6 +268,42 @@
             "permalink": "http://www.reddit.com/r/Music/comments/2hhbpf/teenage_fanclub_star_sign_alternative_rockpower/", 
             "created-utc": 1411689694.0, 
             "id": "2hhbpf"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "self.Music", 
+            "score": 7, 
+            "nsfw": false, 
+            "title": "Interview with Chad Gilbert from New Found Glory about the band's new record and free tour.", 
+            "url": "http://www.reddit.com/r/Music/comments/2hj8rp/interview_with_chad_gilbert_from_new_found_glory/", 
+            "author": "krispwnsu", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hj8rp/interview_with_chad_gilbert_from_new_found_glory/", 
+            "created-utc": 1411744851.0, 
+            "id": "2hj8rp"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "self.Music", 
+            "score": 6, 
+            "nsfw": false, 
+            "title": "Smashing Pumpkins in Mono", 
+            "url": "http://www.reddit.com/r/Music/comments/2hj6kk/smashing_pumpkins_in_mono/", 
+            "author": "bleiva33", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hj6kk/smashing_pumpkins_in_mono/", 
+            "created-utc": 1411743592.0, 
+            "id": "2hj6kk"
+        }, 
+        {
+            "num-comments": 13, 
+            "domain": "self.Music", 
+            "score": 8, 
+            "nsfw": false, 
+            "title": "Favorite Fall Tunes", 
+            "url": "http://www.reddit.com/r/Music/comments/2hj0a2/favorite_fall_tunes/", 
+            "author": "art36", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hj0a2/favorite_fall_tunes/", 
+            "created-utc": 1411739820.0, 
+            "id": "2hj0a2"
         }
     ], 
     "api-url": "http://daily.red/music.json", 

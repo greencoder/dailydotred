@@ -1,14 +1,14 @@
 {
     "category": "Fun", 
-    "generated-utc": 1411754974, 
+    "generated-utc": 1411768893, 
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
     "full-url": "http://www.reddit.com/r/humor/", 
     "posts": [
         {
-            "num-comments": 112, 
+            "num-comments": 115, 
             "domain": "metro.co.uk", 
-            "score": 466, 
+            "score": 478, 
             "nsfw": false, 
             "title": "'Naked therapist' strips on web cam to help porn addicted men", 
             "url": "http://metro.co.uk/2014/09/15/naked-therapist-helps-to-treat-men-with-porn-addiction-by-stripping-for-them-online-4869190/", 
@@ -18,9 +18,9 @@
             "id": "2hgyzu"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 19, 
             "domain": "metro.co.uk", 
-            "score": 103, 
+            "score": 204, 
             "nsfw": false, 
             "title": "Love Jesus? Love fitness? Love sleeping with people other than your partner? Then Fitness Swingers is for you!", 
             "url": "http://metro.co.uk/2014/09/25/christian-swingers-network-is-only-for-the-super-fit-4881652/", 
@@ -28,18 +28,6 @@
             "permalink": "http://www.reddit.com/r/humor/comments/2hiw7b/love_jesus_love_fitness_love_sleeping_with_people/", 
             "created-utc": 1411737087.0, 
             "id": "2hiw7b"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "youtu.be", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "So this is how you do CrossFit", 
-            "url": "http://youtu.be/6kaAvlyIN1Y", 
-            "author": "Yevbel", 
-            "permalink": "http://www.reddit.com/r/humor/comments/2higt9/so_this_is_how_you_do_crossfit/", 
-            "created-utc": 1411721459.0, 
-            "id": "2higt9"
         }
     ], 
     "api-url": "http://daily.red/humor.json", 

@@ -1,14 +1,14 @@
 {
     "category": "Entertainment", 
-    "generated-utc": 1411754880, 
+    "generated-utc": 1411768870, 
     "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources.", 
     "title": "/r/television - A premium-quality television subreddit", 
     "full-url": "http://www.reddit.com/r/television/", 
     "posts": [
         {
-            "num-comments": 249, 
+            "num-comments": 375, 
             "domain": "youtu.be", 
-            "score": 658, 
+            "score": 1209, 
             "nsfw": false, 
             "title": "The Simpsons meet the Griffins", 
             "url": "http://youtu.be/vV4QiJ5M1qQ", 
@@ -18,9 +18,9 @@
             "id": "2hizhr"
         }, 
         {
-            "num-comments": 27, 
+            "num-comments": 28, 
             "domain": "mtv.com", 
-            "score": 192, 
+            "score": 195, 
             "nsfw": false, 
             "title": "Every episode of MTV's surreal animated classic: The Maxx", 
             "url": "http://www.mtv.com/shows/the_maxx/series.jhtml", 
@@ -30,9 +30,9 @@
             "id": "2hhqz4"
         }, 
         {
-            "num-comments": 13, 
+            "num-comments": 17, 
             "domain": "aljazeera.com", 
-            "score": 151, 
+            "score": 177, 
             "nsfw": false, 
             "title": "Thailand PM bemoans 'divisive' soap operas: New prime minister slams TV soaps and threatens he will write them himself if their scripts do not improve.", 
             "url": "http://www.aljazeera.com/news/asia-pacific/2014/09/thailand-pm-bemoans-divisive-soap-operas-20149269242984400.html", 
@@ -42,21 +42,9 @@
             "id": "2hiolj"
         }, 
         {
-            "num-comments": 34, 
-            "domain": "nydailynews.com", 
-            "score": 71, 
-            "nsfw": false, 
-            "title": "\u2018Married with Children\u2019 spinoff in the works, named Top of the Heap, stars David Faustino as Bud Bundy", 
-            "url": "http://www.nydailynews.com/entertainment/tv/married-children-spinoff-works-article-1.1937676", 
-            "author": "techstress", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hhpwf/married_with_children_spinoff_in_the_works_named/", 
-            "created-utc": 1411698616.0, 
-            "id": "2hhpwf"
-        }, 
-        {
-            "num-comments": 12, 
+            "num-comments": 22, 
             "domain": "en.wikipedia.org", 
-            "score": 92, 
+            "score": 210, 
             "nsfw": false, 
             "title": "50 Years ago, they left for a three hour cruise. Gilligan's island is 50 today.", 
             "url": "http://en.wikipedia.org/wiki/Gilligan's_Island", 
@@ -66,21 +54,33 @@
             "id": "2hj7xa"
         }, 
         {
-            "num-comments": 18, 
-            "domain": "insidetv.ew.com", 
-            "score": 36, 
+            "num-comments": 35, 
+            "domain": "nydailynews.com", 
+            "score": 74, 
             "nsfw": false, 
-            "title": "Dominion and Defiance renewed by Syfy", 
-            "url": "http://insidetv.ew.com/2014/09/25/dominion-defiance-renewed-by-syfy/", 
-            "author": "Dorkside", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hg3oj/dominion_and_defiance_renewed_by_syfy/", 
-            "created-utc": 1411665686.0, 
-            "id": "2hg3oj"
+            "title": "\u2018Married with Children\u2019 spinoff in the works, named Top of the Heap, stars David Faustino as Bud Bundy", 
+            "url": "http://www.nydailynews.com/entertainment/tv/married-children-spinoff-works-article-1.1937676", 
+            "author": "techstress", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hhpwf/married_with_children_spinoff_in_the_works_named/", 
+            "created-utc": 1411698616.0, 
+            "id": "2hhpwf"
         }, 
         {
-            "num-comments": 22, 
+            "num-comments": 42, 
+            "domain": "nick.com", 
+            "score": 130, 
+            "nsfw": false, 
+            "title": "Legend of Korra: \"Book 4 Official Trailer\"", 
+            "url": "http://www.nick.com/videos/clip/korra-book-4-trailer-89471257.html?xid=nicktwitter", 
+            "author": "sas624", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hjtqr/legend_of_korra_book_4_official_trailer/", 
+            "created-utc": 1411756528.0, 
+            "id": "2hjtqr"
+        }, 
+        {
+            "num-comments": 29, 
             "domain": "youtube.com", 
-            "score": 21, 
+            "score": 25, 
             "nsfw": false, 
             "title": "Scene from The Sopranos that always stuck with me -- 3 O'Clock [Spoiler?]", 
             "url": "https://www.youtube.com/watch?v=spVlCFwiciQ", 
@@ -90,21 +90,9 @@
             "id": "2hirnv"
         }, 
         {
-            "num-comments": 25, 
+            "num-comments": 57, 
             "domain": "self.television", 
-            "score": 20, 
-            "nsfw": false, 
-            "title": "So who else watched the pilot of How To Get Away With Murder tonight?", 
-            "url": "http://www.reddit.com/r/television/comments/2hhuow/so_who_else_watched_the_pilot_of_how_to_get_away/", 
-            "author": "ink1026", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hhuow/so_who_else_watched_the_pilot_of_how_to_get_away/", 
-            "created-utc": 1411701658.0, 
-            "id": "2hhuow"
-        }, 
-        {
-            "num-comments": 48, 
-            "domain": "self.television", 
-            "score": 18, 
+            "score": 22, 
             "nsfw": false, 
             "title": "If you could show me only one clip of your favorite show to convince me to watch it, what would it be?", 
             "url": "http://www.reddit.com/r/television/comments/2hi2gd/if_you_could_show_me_only_one_clip_of_your/", 
@@ -114,16 +102,16 @@
             "id": "2hi2gd"
         }, 
         {
-            "num-comments": 44, 
-            "domain": "self.television", 
-            "score": 19, 
+            "num-comments": 13, 
+            "domain": "esquire.com", 
+            "score": 15, 
             "nsfw": false, 
-            "title": "What show would you say is the finest example of western animation?", 
-            "url": "http://www.reddit.com/r/television/comments/2hgwzj/what_show_would_you_say_is_the_finest_example_of/", 
-            "author": "Captobvious789", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hgwzj/what_show_would_you_say_is_the_finest_example_of/", 
-            "created-utc": 1411681028.0, 
-            "id": "2hgwzj"
+            "title": "'Freaks and Geeks' at 15: What Happened to the Cast Over the Years - Esquire", 
+            "url": "http://www.esquire.com/blogs/culture/freaks-and-geeks-cast-now", 
+            "author": "charlatan", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hiim2/freaks_and_geeks_at_15_what_happened_to_the_cast/", 
+            "created-utc": 1411723868.0, 
+            "id": "2hiim2"
         }, 
         {
             "num-comments": 9, 
@@ -138,21 +126,45 @@
             "id": "2hgydw"
         }, 
         {
-            "num-comments": 12, 
-            "domain": "esquire.com", 
-            "score": 19, 
+            "num-comments": 28, 
+            "domain": "self.television", 
+            "score": 17, 
             "nsfw": false, 
-            "title": "'Freaks and Geeks' at 15: What Happened to the Cast Over the Years - Esquire", 
-            "url": "http://www.esquire.com/blogs/culture/freaks-and-geeks-cast-now", 
-            "author": "charlatan", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hiim2/freaks_and_geeks_at_15_what_happened_to_the_cast/", 
-            "created-utc": 1411723868.0, 
-            "id": "2hiim2"
+            "title": "So who else watched the pilot of How To Get Away With Murder tonight?", 
+            "url": "http://www.reddit.com/r/television/comments/2hhuow/so_who_else_watched_the_pilot_of_how_to_get_away/", 
+            "author": "ink1026", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hhuow/so_who_else_watched_the_pilot_of_how_to_get_away/", 
+            "created-utc": 1411701658.0, 
+            "id": "2hhuow"
         }, 
         {
-            "num-comments": 44, 
+            "num-comments": 45, 
             "domain": "self.television", 
-            "score": 13, 
+            "score": 18, 
+            "nsfw": false, 
+            "title": "What show would you say is the finest example of western animation?", 
+            "url": "http://www.reddit.com/r/television/comments/2hgwzj/what_show_would_you_say_is_the_finest_example_of/", 
+            "author": "Captobvious789", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hgwzj/what_show_would_you_say_is_the_finest_example_of/", 
+            "created-utc": 1411681028.0, 
+            "id": "2hgwzj"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "huffingtonpost.com", 
+            "score": 17, 
+            "nsfw": false, 
+            "title": "'Transparent' On Amazon Is Terrific And Belongs In TV's Top Tier", 
+            "url": "http://www.huffingtonpost.com/2014/09/25/transparent-amazon-review_n_5883154.html", 
+            "author": "GleeUnit", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hjibb/transparent_on_amazon_is_terrific_and_belongs_in/", 
+            "created-utc": 1411750144.0, 
+            "id": "2hjibb"
+        }, 
+        {
+            "num-comments": 48, 
+            "domain": "self.television", 
+            "score": 15, 
             "nsfw": false, 
             "title": "What network dramas do you think are on par with the level of quality seen in cable television?", 
             "url": "http://www.reddit.com/r/television/comments/2hgurh/what_network_dramas_do_you_think_are_on_par_with/", 
@@ -162,9 +174,21 @@
             "id": "2hgurh"
         }, 
         {
+            "num-comments": 0, 
+            "domain": "youtube.com", 
+            "score": 13, 
+            "nsfw": false, 
+            "title": "Heroes are Remembered... Legends Never Die (The Official Trailer for the Final Season of \"The Legend of Korra\")", 
+            "url": "https://www.youtube.com/watch?v=NCEFMY4TWGw", 
+            "author": "MulciberTenebras", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hjwal/heroes_are_remembered_legends_never_die_the/", 
+            "created-utc": 1411758071.0, 
+            "id": "2hjwal"
+        }, 
+        {
             "num-comments": 8, 
             "domain": "rollingstone.com", 
-            "score": 10, 
+            "score": 12, 
             "nsfw": false, 
             "title": "Every Freaks and Geeks episode ranked in honour of the show's 15th anniversary", 
             "url": "http://www.rollingstone.com/tv/lists/every-freaks-and-geeks-episode-ranked-20140925", 
@@ -174,31 +198,19 @@
             "id": "2hgzjl"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "sharpmagazine.com", 
-            "score": 9, 
+            "num-comments": 8, 
+            "domain": "youtu.be", 
+            "score": 63, 
             "nsfw": false, 
-            "title": "An Oral History of the Trailer Park Boys", 
-            "url": "http://sharpmagazine.com/culture/an-oral-history-of-the-trailer-park-boys/", 
-            "author": "zsreport", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hivdh/an_oral_history_of_the_trailer_park_boys/", 
-            "created-utc": 1411736475.0, 
-            "id": "2hivdh"
+            "title": "Legend of Korra: Book 4 \"Balance\" Official Trailer", 
+            "url": "http://youtu.be/NCEFMY4TWGw", 
+            "author": "natotater", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hjzo1/legend_of_korra_book_4_balance_official_trailer/", 
+            "created-utc": 1411759937.0, 
+            "id": "2hjzo1"
         }, 
         {
-            "num-comments": 7, 
-            "domain": "self.television", 
-            "score": 7, 
-            "nsfw": false, 
-            "title": "I'd be really interested in a PBS revival of Pioneer House and 1900 House.", 
-            "url": "http://www.reddit.com/r/television/comments/2hh07u/id_be_really_interested_in_a_pbs_revival_of/", 
-            "author": "meganahs", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hh07u/id_be_really_interested_in_a_pbs_revival_of/", 
-            "created-utc": 1411682868.0, 
-            "id": "2hh07u"
-        }, 
-        {
-            "num-comments": 13, 
+            "num-comments": 17, 
             "domain": "self.television", 
             "score": 8, 
             "nsfw": false, 
@@ -210,9 +222,45 @@
             "id": "2hi0xo"
         }, 
         {
+            "num-comments": 7, 
+            "domain": "self.television", 
+            "score": 8, 
+            "nsfw": false, 
+            "title": "I'd be really interested in a PBS revival of Pioneer House and 1900 House.", 
+            "url": "http://www.reddit.com/r/television/comments/2hh07u/id_be_really_interested_in_a_pbs_revival_of/", 
+            "author": "meganahs", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hh07u/id_be_really_interested_in_a_pbs_revival_of/", 
+            "created-utc": 1411682868.0, 
+            "id": "2hh07u"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "gigaom.com", 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "The Binge Box: Netflix Subscribers Are Now Watching 93 Minutes - a Day", 
+            "url": "https://gigaom.com/2014/09/25/binge-alert-subscribers-now-watch-more-than-90-minutes-of-netflix-every-single-day/", 
+            "author": "jonfla", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hjeve/the_binge_box_netflix_subscribers_are_now/", 
+            "created-utc": 1411748255.0, 
+            "id": "2hjeve"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "youtube.com", 
+            "score": 5, 
+            "nsfw": false, 
+            "title": "Classic Everwood monologue: Ephram's Tragic Flaw", 
+            "url": "https://youtube.com/watch?v=J4x-PntRm_A", 
+            "author": "MyAnonSourceIsACat", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hitkk/classic_everwood_monologue_ephrams_tragic_flaw/", 
+            "created-utc": 1411735012.0, 
+            "id": "2hitkk"
+        }, 
+        {
             "num-comments": 12, 
             "domain": "self.television", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Computer noises are worse than laugh tracks.", 
             "url": "http://www.reddit.com/r/television/comments/2hgngx/computer_noises_are_worse_than_laugh_tracks/", 
@@ -222,33 +270,33 @@
             "id": "2hgngx"
         }, 
         {
-            "num-comments": 12, 
+            "num-comments": 2, 
             "domain": "youtube.com", 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "It's Your Move debuted 30 years ago today. (Awesome 1980s sitcom with Jason Bateman)", 
+            "url": "http://www.youtube.com/watch?v=iH6Ungv6Rfg", 
+            "author": "Glennergy", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hjue2/its_your_move_debuted_30_years_ago_today_awesome/", 
+            "created-utc": 1411756926.0, 
+            "id": "2hjue2"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "sharpmagazine.com", 
             "score": 5, 
             "nsfw": false, 
-            "title": "The Legacy of \"Star Wars: The Clone Wars\"", 
-            "url": "https://www.youtube.com/watch?v=vnH1JKr4o_8", 
-            "author": "MulciberTenebras", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hhb15/the_legacy_of_star_wars_the_clone_wars/", 
-            "created-utc": 1411689248.0, 
-            "id": "2hhb15"
-        }, 
-        {
-            "num-comments": 2, 
-            "domain": "cbs.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "CBS pushes back Mom for BBT reruns", 
-            "url": "http://www.cbs.com/shows/fall-premieres/news/1003199/", 
-            "author": "littlebev", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hgtd1/cbs_pushes_back_mom_for_bbt_reruns/", 
-            "created-utc": 1411679051.0, 
-            "id": "2hgtd1"
+            "title": "An Oral History of the Trailer Park Boys", 
+            "url": "http://sharpmagazine.com/culture/an-oral-history-of-the-trailer-park-boys/", 
+            "author": "zsreport", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hivdh/an_oral_history_of_the_trailer_park_boys/", 
+            "created-utc": 1411736475.0, 
+            "id": "2hivdh"
         }, 
         {
             "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "Soul Mates - Two mates can't stop being friends throughout history and being idiots in the process. Like a modern Black Adder", 
             "url": "https://www.youtube.com/watch?v=NjZiEp5jOwg", 
@@ -256,54 +304,6 @@
             "permalink": "http://www.reddit.com/r/television/comments/2hi39j/soul_mates_two_mates_cant_stop_being_friends/", 
             "created-utc": 1411707995.0, 
             "id": "2hi39j"
-        }, 
-        {
-            "num-comments": 21, 
-            "domain": "self.television", 
-            "score": 5, 
-            "nsfw": false, 
-            "title": "That one object that you want above all others...", 
-            "url": "http://www.reddit.com/r/television/comments/2hh3lt/that_one_object_that_you_want_above_all_others/", 
-            "author": "Gravon", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hh3lt/that_one_object_that_you_want_above_all_others/", 
-            "created-utc": 1411684818.0, 
-            "id": "2hh3lt"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "self.television", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "Fellow redditors, did any of you see \"Our zoo\" on BBC?", 
-            "url": "http://www.reddit.com/r/television/comments/2hh0o3/fellow_redditors_did_any_of_you_see_our_zoo_on_bbc/", 
-            "author": "Miss_Otis", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hh0o3/fellow_redditors_did_any_of_you_see_our_zoo_on_bbc/", 
-            "created-utc": 1411683132.0, 
-            "id": "2hh0o3"
-        }, 
-        {
-            "num-comments": 7, 
-            "domain": "deadline.com", 
-            "score": 3, 
-            "nsfw": false, 
-            "title": "Outlander midseason premiere set for April 4 on Starz", 
-            "url": "http://deadline.com/2014/09/outlander-midseason-premiere-april-4-2015-starz-841196/", 
-            "author": "Dorkside", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hh08n/outlander_midseason_premiere_set_for_april_4_on/", 
-            "created-utc": 1411682886.0, 
-            "id": "2hh08n"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "self.television", 
-            "score": 3, 
-            "nsfw": false, 
-            "title": "Our Zoo: What do you think about it? [serious]", 
-            "url": "http://www.reddit.com/r/television/comments/2hg30q/our_zoo_what_do_you_think_about_it_serious/", 
-            "author": "mickeysbeer", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hg30q/our_zoo_what_do_you_think_about_it_serious/", 
-            "created-utc": 1411665347.0, 
-            "id": "2hg30q"
         }
     ], 
     "api-url": "http://daily.red/television.json", 

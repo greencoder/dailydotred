@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411754923, 
+    "generated-utc": 1411768856, 
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
     "full-url": "http://www.reddit.com/r/Foodforthought/", 
     "posts": [
         {
-            "num-comments": 17, 
+            "num-comments": 19, 
             "domain": "nymag.com", 
-            "score": 86, 
+            "score": 136, 
             "nsfw": false, 
             "title": "Who Is Su - She was 22 when her memory was obliterated. Twenty-six years later, Su Meck is still learning about the family she raised and the husband she has no recollection of marrying", 
             "url": "http://nymag.com/news/features/su-meck-amnesia-2014-9/#print", 
@@ -30,6 +30,18 @@
             "id": "2hgr6b"
         }, 
         {
+            "num-comments": 1, 
+            "domain": "propublica.org", 
+            "score": 12, 
+            "nsfw": false, 
+            "title": "Inside the New York Fed: Secret Recordings and a Culture Clash -- A confidential report and a fired examiner\u2019s hidden recorder penetrate the cloistered world of Wall Street\u2019s top regulator\u2014and its history of deference to banks", 
+            "url": "http://www.propublica.org/article/carmen-segarras-secret-recordings-from-inside-new-york-fed", 
+            "author": "DoremusJessup", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hj007/inside_the_new_york_fed_secret_recordings_and_a/", 
+            "created-utc": 1411739644.0, 
+            "id": "2hj007"
+        }, 
+        {
             "num-comments": 0, 
             "domain": "collectorsweekly.com", 
             "score": 8, 
@@ -40,18 +52,6 @@
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hiul2/the_reclusive_dollcollecting_copper_queen_of/", 
             "created-utc": 1411735830.0, 
             "id": "2hiul2"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "propublica.org", 
-            "score": 7, 
-            "nsfw": false, 
-            "title": "Inside the New York Fed: Secret Recordings and a Culture Clash -- A confidential report and a fired examiner\u2019s hidden recorder penetrate the cloistered world of Wall Street\u2019s top regulator\u2014and its history of deference to banks", 
-            "url": "http://www.propublica.org/article/carmen-segarras-secret-recordings-from-inside-new-york-fed", 
-            "author": "DoremusJessup", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hj007/inside_the_new_york_fed_secret_recordings_and_a/", 
-            "created-utc": 1411739644.0, 
-            "id": "2hj007"
         }, 
         {
             "num-comments": 1, 
@@ -68,7 +68,7 @@
         {
             "num-comments": 1, 
             "domain": "news.vice.com", 
-            "score": 7, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Muslim Scholars Make the Theological Case Against the Islamic State", 
             "url": "https://news.vice.com/article/muslim-scholars-make-the-theological-case-against-the-islamic-state", 
@@ -80,7 +80,7 @@
         {
             "num-comments": 0, 
             "domain": "newrepublic.com", 
-            "score": 6, 
+            "score": 4, 
             "nsfw": false, 
             "title": "What If Counterfactuals Never Existed? Studying history with hypotheticals ['Altered Pasts' reviewed by Cass R. Sunstein]", 
             "url": "http://www.newrepublic.com/article/119357/altered-pasts-reviewed-cass-r-sunstein", 
@@ -92,7 +92,7 @@
         {
             "num-comments": 0, 
             "domain": "medium.com", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "The Beatings Never Really End", 
             "url": "https://medium.com/the-nib/the-beatings-never-really-end-de4a0c24826e", 
@@ -104,7 +104,7 @@
         {
             "num-comments": 0, 
             "domain": "theguardian.com", 
-            "score": 4, 
+            "score": 2, 
             "nsfw": false, 
             "title": "Life in Timbuktu: how the ancient city of gold is slowly turning to dust", 
             "url": "http://www.theguardian.com/cities/2014/sep/16/-sp-life-timbuktu-mali-ancient-city-gold-slowly-turning-to-dust", 
@@ -115,20 +115,20 @@
         }, 
         {
             "num-comments": 1, 
-            "domain": "washingtonpost.com", 
-            "score": 4, 
+            "domain": "stuff.co.nz", 
+            "score": 1, 
             "nsfw": false, 
-            "title": "Mass shooting hysteria and the death of John Crawford", 
-            "url": "http://www.washingtonpost.com/news/the-watch/wp/2014/09/25/mass-shooting-hysteria-and-the-death-of-john-crawford/", 
-            "author": "cavehobbit", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hjdf8/mass_shooting_hysteria_and_the_death_of_john/", 
-            "created-utc": 1411747469.0, 
-            "id": "2hjdf8"
+            "title": "Into the Black The Easy Rider tragedy It was one of New Zealand\u2019s worst ever maritime disasters. Eight people drowned. Only one survived. Here, using never before reported material, the full story of the Easy Rider is finally told.", 
+            "url": "http://www.stuff.co.nz/interactives/2014/into-the-black/?Src=longreads", 
+            "author": "LuckyBdx4", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hk05l/into_the_black_the_easy_rider_tragedy_it_was_one/", 
+            "created-utc": 1411760165.0, 
+            "id": "2hk05l"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 6, 
             "domain": "boston.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "title": "The downside of diversity", 
             "url": "http://www.boston.com/news/globe/ideas/articles/2007/08/05/the_downside_of_diversity/", 
@@ -140,7 +140,7 @@
         {
             "num-comments": 0, 
             "domain": "salon.com", 
-            "score": 2, 
+            "score": 0, 
             "nsfw": false, 
             "title": "The domestic violence gender trap: Hope Solo, Ray Rice and the tired myopia of \u201cwomen do it too\u201d", 
             "url": "http://www.salon.com/2014/09/25/the_domestic_violence_gender_trap_hope_solo_ray_rice_and_the_tired_myopia_of_women_do_it_too/?utm_source=facebook&amp;utm_medium=socialflow", 
@@ -151,8 +151,20 @@
         }, 
         {
             "num-comments": 0, 
+            "domain": "opinionator.blogs.nytimes.com", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "How Does Islam Relate to Christianity and Judaism? \u2018Christianity and Islam share the paradox of being religions that claim to be universal, while retaining particular dogmas and practices that are exclusive to them.\u2019", 
+            "url": "http://opinionator.blogs.nytimes.com/2014/09/25/why-do-shiites-and-sunnis-fight/", 
+            "author": "joanofarf", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hjze9/how_does_islam_relate_to_christianity_and_judaism/", 
+            "created-utc": 1411759769.0, 
+            "id": "2hjze9"
+        }, 
+        {
+            "num-comments": 1, 
             "domain": "bostonglobe.com", 
-            "score": 1, 
+            "score": 3, 
             "nsfw": false, 
             "title": "The bias fighters: Psychologists are testing ways to reduce unconscious racial prejudice--not just in the police, but in all of us.", 
             "url": "http://www.bostonglobe.com/ideas/2014/09/20/the-bias-fighters/lTZh1WyzG2sG5CmXoh8dRP/story.html", 
@@ -162,16 +174,16 @@
             "id": "2hjjox"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "theguardian.com", 
-            "score": 1, 
+            "num-comments": 1, 
+            "domain": "washingtonpost.com", 
+            "score": 2, 
             "nsfw": false, 
-            "title": "How much can Eric Holder get done on race before he steps down as attorney general?", 
-            "url": "http://www.theguardian.com/commentisfree/2014/sep/25/eric-holder-obama-racism-america", 
-            "author": "LasherDeviance", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hg4g6/how_much_can_eric_holder_get_done_on_race_before/", 
-            "created-utc": 1411666059.0, 
-            "id": "2hg4g6"
+            "title": "Mass shooting hysteria and the death of John Crawford", 
+            "url": "http://www.washingtonpost.com/news/the-watch/wp/2014/09/25/mass-shooting-hysteria-and-the-death-of-john-crawford/", 
+            "author": "cavehobbit", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hjdf8/mass_shooting_hysteria_and_the_death_of_john/", 
+            "created-utc": 1411747469.0, 
+            "id": "2hjdf8"
         }
     ], 
     "api-url": "http://daily.red/food-for-thought.json", 
