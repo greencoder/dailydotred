@@ -1,26 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411743214, 
+    "generated-utc": 1411754931, 
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
     "full-url": "http://www.reddit.com/r/weather/", 
     "posts": [
         {
-            "num-comments": 14, 
-            "domain": "twitter.com", 
-            "score": 31, 
-            "nsfw": false, 
-            "title": "A month ago I posted about a twitter bot I made that turned NWS radar images into GIFs. Now I've changed the color palette, projection and added a new basemap. What do you think?", 
-            "url": "https://twitter.com/wxGIF/status/515124165138186240", 
-            "author": "mattparrilla", 
-            "permalink": "http://www.reddit.com/r/weather/comments/2hfdew/a_month_ago_i_posted_about_a_twitter_bot_i_made/", 
-            "created-utc": 1411650424.0, 
-            "id": "2hfdew"
-        }, 
-        {
-            "num-comments": 7, 
+            "num-comments": 8, 
             "domain": "i.imgur.com", 
-            "score": 18, 
+            "score": 23, 
             "nsfw": false, 
             "title": "Gravity Waves?", 
             "url": "https://i.imgur.com/5dXhOPh.jpg", 
@@ -30,7 +18,19 @@
             "id": "2hgudm"
         }, 
         {
-            "num-comments": 0, 
+            "num-comments": 3, 
+            "domain": "imgur.com", 
+            "score": 19, 
+            "nsfw": false, 
+            "title": "Fallstreak hole/Hole Punch clouds in Central Alabama this morning.", 
+            "url": "http://imgur.com/a/RGTRx", 
+            "author": "guitardude_04", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hj554/fallstreak_holehole_punch_clouds_in_central/", 
+            "created-utc": 1411742782.0, 
+            "id": "2hj554"
+        }, 
+        {
+            "num-comments": 1, 
             "domain": "m.imgur.com", 
             "score": 14, 
             "nsfw": false, 
@@ -44,7 +44,7 @@
         {
             "num-comments": 0, 
             "domain": "earthobservatory.nasa.gov", 
-            "score": 8, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Dust and Clouds Dance Over the Sahara : NASA Image of the Day", 
             "url": "http://earthobservatory.nasa.gov/IOTD/view.php?id=84400&amp;src=eoa-iotd", 
@@ -54,7 +54,7 @@
             "id": "2hgyjh"
         }, 
         {
-            "num-comments": 1, 
+            "num-comments": 2, 
             "domain": "imgur.com", 
             "score": 5, 
             "nsfw": false, 
@@ -64,18 +64,6 @@
             "permalink": "http://www.reddit.com/r/weather/comments/2hh2sz/took_this_picture_of_some_cool_looking_clouds/", 
             "created-utc": 1411684350.0, 
             "id": "2hh2sz"
-        }, 
-        {
-            "num-comments": 5, 
-            "domain": "self.weather", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "Any way to have certain watches/warnings from NWS automatically post to my facebook page?", 
-            "url": "http://www.reddit.com/r/weather/comments/2hfgsy/any_way_to_have_certain_watcheswarnings_from_nws/", 
-            "author": "MacCop", 
-            "permalink": "http://www.reddit.com/r/weather/comments/2hfgsy/any_way_to_have_certain_watcheswarnings_from_nws/", 
-            "created-utc": 1411652704.0, 
-            "id": "2hfgsy"
         }, 
         {
             "num-comments": 0, 
@@ -88,18 +76,6 @@
             "permalink": "http://www.reddit.com/r/weather/comments/2hgsg6/arizona_seeing_potential_for_severe_weather_maybe/", 
             "created-utc": 1411678573.0, 
             "id": "2hgsg6"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "self.weather", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "The Lunatics", 
-            "url": "http://www.reddit.com/r/weather/comments/2hfzsm/the_lunatics/", 
-            "author": "Weatherlawyer", 
-            "permalink": "http://www.reddit.com/r/weather/comments/2hfzsm/the_lunatics/", 
-            "created-utc": 1411663637.0, 
-            "id": "2hfzsm"
         }
     ], 
     "api-url": "http://daily.red/weather.json", 

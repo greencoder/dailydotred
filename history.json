@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411743200, 
+    "generated-utc": 1411754918, 
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
     "full-url": "http://www.reddit.com/r/history/", 
     "posts": [
         {
-            "num-comments": 175, 
+            "num-comments": 188, 
             "domain": "self.history", 
-            "score": 278, 
+            "score": 286, 
             "nsfw": false, 
             "title": "The U.S. (Turn of 21st C.) v England (Turn of 20th C.)", 
             "url": "http://www.reddit.com/r/history/comments/2hgkvt/the_us_turn_of_21st_c_v_england_turn_of_20th_c/", 
@@ -18,33 +18,21 @@
             "id": "2hgkvt"
         }, 
         {
-            "num-comments": 4, 
-            "domain": "slate.com", 
-            "score": 78, 
+            "num-comments": 26, 
+            "domain": "bostonglobe.com", 
+            "score": 371, 
             "nsfw": false, 
-            "title": "The story of the longest held American POW, John T. Downey.", 
-            "url": "http://www.slate.com/articles/news_and_politics/history/2014/09/john_t_downey_cia_agent_captured_by_china_during_the_korean_war_the_story.html", 
-            "author": "chad1312", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hfmkc/the_story_of_the_longest_held_american_pow_john_t/", 
-            "created-utc": 1411656319.0, 
-            "id": "2hfmkc"
+            "title": "Discovered Inside Boston Statue: 113-Yr-Old Time Capsule - Fiber optic camera used to detect the capsule, which is in a sealed copper box size of a shoe box, secured to the sculpture with copper straps", 
+            "url": "http://www.bostonglobe.com/metro/2014/09/23/time-capsule-found-inside-lion-statue-removed-from-old-state-house/SwtlRRyMDcgxLL4fvAmlnN/story.html", 
+            "author": "anutensil", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hivim/discovered_inside_boston_statue_113yrold_time/", 
+            "created-utc": 1411736582.0, 
+            "id": "2hivim"
         }, 
         {
-            "num-comments": 22, 
-            "domain": "self.history", 
-            "score": 71, 
-            "nsfw": false, 
-            "title": "Where did the Mongols keep their slaves?", 
-            "url": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
-            "author": "hipwithyoungsters", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
-            "created-utc": 1411682502.0, 
-            "id": "2hgzir"
-        }, 
-        {
-            "num-comments": 21, 
+            "num-comments": 28, 
             "domain": "psmag.com", 
-            "score": 87, 
+            "score": 105, 
             "nsfw": false, 
             "title": "\"The Most Pointless Ferry in Maryland\": an old ferry service that dates back to 1683", 
             "url": "http://www.psmag.com/navigation/business-economics/pointless-ferry-maryland-tred-avon-transportation-boat-ride-91209/", 
@@ -54,9 +42,21 @@
             "id": "2hibyi"
         }, 
         {
-            "num-comments": 5, 
+            "num-comments": 25, 
+            "domain": "self.history", 
+            "score": 69, 
+            "nsfw": false, 
+            "title": "Where did the Mongols keep their slaves?", 
+            "url": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
+            "author": "hipwithyoungsters", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
+            "created-utc": 1411682502.0, 
+            "id": "2hgzir"
+        }, 
+        {
+            "num-comments": 7, 
             "domain": "spiegel.de", 
-            "score": 48, 
+            "score": 69, 
             "nsfw": false, 
             "title": "The Archeological Excavations that Led to the Gas Chambers of Sobibor", 
             "url": "http://www.spiegel.de/international/zeitgeist/the-archeological-excavations-that-led-to-the-gas-chambers-of-sobibor-a-993733.html", 
@@ -66,9 +66,9 @@
             "id": "2hio72"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "spiegel.de", 
-            "score": 43, 
+            "score": 58, 
             "nsfw": false, 
             "title": "Interview with Sobib\u00f3r Survivor Philip Bialowitz", 
             "url": "http://www.spiegel.de/international/europe/interview-with-sobibor-survivor-philip-bialowitz-a-993928.html", 
@@ -78,28 +78,40 @@
             "id": "2hiok4"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "youtu.be", 
-            "score": 13, 
+            "num-comments": 2, 
+            "domain": "neh.gov", 
+            "score": 30, 
             "nsfw": false, 
-            "title": "Under The Knife - Great new YouTube channel dedicated to the slightly grim history of pre-anaesthetic surgery!", 
-            "url": "http://youtu.be/LBINzHYUraw", 
-            "author": "alex2578", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hff7g/under_the_knife_great_new_youtube_channel/", 
-            "created-utc": 1411651657.0, 
-            "id": "2hff7g"
+            "title": "Politics and war brought Teddy Roosevelt and Franklin Delano Roosevelt ever closer", 
+            "url": "http://www.neh.gov/humanities/2014/septemberoctober/feature/politics-and-war-brought-teddy-roosevelt-and-franklin-delan", 
+            "author": "marquis_of_chaos", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hivk9/politics_and_war_brought_teddy_roosevelt_and/", 
+            "created-utc": 1411736621.0, 
+            "id": "2hivk9"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "cam.ac.uk", 
-            "score": 8, 
+            "num-comments": 2, 
+            "domain": "theatlantic.com", 
+            "score": 7, 
             "nsfw": false, 
-            "title": "Recent finds at Willendorf in Austria reveal that modern humans were living in cool steppe-like conditions some 43,500 years ago \u2013 and that their presence overlapped with that of Neanderthals for far longer than we thought", 
-            "url": "http://www.cam.ac.uk/research/news/they-werent-wimps-how-modern-humans-like-neanderthals-braved-the-northern-cold", 
-            "author": "marquis_of_chaos", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hfn93/recent_finds_at_willendorf_in_austria_reveal_that/", 
-            "created-utc": 1411656747.0, 
-            "id": "2hfn93"
+            "title": "The Man Who Saved the World by Doing Absolutely Nothing", 
+            "url": "http://www.theatlantic.com/technology/archive/2013/09/the-man-who-saved-the-world-by-doing-absolutely-nothing/280050/", 
+            "author": "Osterstriker", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjbep/the_man_who_saved_the_world_by_doing_absolutely/", 
+            "created-utc": 1411746353.0, 
+            "id": "2hjbep"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "self.history", 
+            "score": 6, 
+            "nsfw": false, 
+            "title": "Early history of Croatia", 
+            "url": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
+            "author": "xXJUICYNIGGAXx", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
+            "created-utc": 1411741181.0, 
+            "id": "2hj2fe"
         }, 
         {
             "num-comments": 1, 
@@ -114,9 +126,21 @@
             "id": "2hhxhy"
         }, 
         {
+            "num-comments": 2, 
+            "domain": "self.history", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "World War I broke out largely because of an arms race, and World War II because of the lack of an arms race- Herman Kahn. Meaning?", 
+            "url": "http://www.reddit.com/r/history/comments/2hjh8x/world_war_i_broke_out_largely_because_of_an_arms/", 
+            "author": "BoOogaBoOoga", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjh8x/world_war_i_broke_out_largely_because_of_an_arms/", 
+            "created-utc": 1411749538.0, 
+            "id": "2hjh8x"
+        }, 
+        {
             "num-comments": 7, 
             "domain": "self.history", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Links to Napoleon History?", 
             "url": "http://www.reddit.com/r/history/comments/2hgg1t/links_to_napoleon_history/", 
@@ -126,28 +150,40 @@
             "id": "2hgg1t"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "calgaryherald.com", 
-            "score": 2, 
+            "num-comments": 2, 
+            "domain": "historyireland.com", 
+            "score": 1, 
             "nsfw": false, 
-            "title": "Haida Gwaii underwater expedition may have revealed earliest site of human habitation in Canada", 
-            "url": "http://www.calgaryherald.com/news/metro/Haida+Gwaii+underwater+expedition+have+revealed+earliest/10227722/story.html", 
-            "author": "marquis_of_chaos", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hfmp8/haida_gwaii_underwater_expedition_may_have/", 
-            "created-utc": 1411656411.0, 
-            "id": "2hfmp8"
+            "title": "The Irish Medieval Pilgrimage to Santiago de Compostela ,more than just a pilgrimage, the Irish often didn't return (X post r/SpanishHistory).", 
+            "url": "http://www.historyireland.com/medieval-history-pre-1500/the-irish-medieval-pilgrimage-to-santiago-de-compostela/", 
+            "author": "CDfm", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjjpm/the_irish_medieval_pilgrimage_to_santiago_de/", 
+            "created-utc": 1411750928.0, 
+            "id": "2hjjpm"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "self.history", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "Great channel that talks about world war 1 week by week", 
+            "url": "http://www.reddit.com/r/history/comments/2hjjl8/great_channel_that_talks_about_world_war_1_week/", 
+            "author": "ACEofSPAD3ZzZ", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjjl8/great_channel_that_talks_about_world_war_1_week/", 
+            "created-utc": 1411750852.0, 
+            "id": "2hjjl8"
         }, 
         {
             "num-comments": 1, 
-            "domain": "self.history", 
-            "score": 2, 
+            "domain": "techtimes.com", 
+            "score": 1, 
             "nsfw": false, 
-            "title": "Postmodernism for Dummies", 
-            "url": "http://www.reddit.com/r/history/comments/2hffo4/postmodernism_for_dummies/", 
-            "author": "TomBombadil123", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hffo4/postmodernism_for_dummies/", 
-            "created-utc": 1411651965.0, 
-            "id": "2hffo4"
+            "title": "Stone Age tools did not originate from Africa, toolmaking skills developed independently worldwide.", 
+            "url": "http://www.techtimes.com/articles/16534/20140926/stone-age-tools-did-not-originate-from-africa-toolmaking-skills-developed-independently-worldwide.htm", 
+            "author": "subtleshill", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjfq8/stone_age_tools_did_not_originate_from_africa/", 
+            "created-utc": 1411748704.0, 
+            "id": "2hjfq8"
         }, 
         {
             "num-comments": 2, 
