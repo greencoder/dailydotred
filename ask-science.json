@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411697786, 
+    "generated-utc": 1411705337, 
     "description": "Ask a science question, get a science answer.", 
     "title": "AskScience: Got Questions? Get Answers.", 
     "full-url": "http://www.reddit.com/r/askscience/", 
     "posts": [
         {
-            "num-comments": 382, 
+            "num-comments": 414, 
             "domain": "self.askscience", 
-            "score": 2602, 
+            "score": 2748, 
             "nsfw": false, 
             "title": "The SWARM satellite recently revealed the Earth's magnetic field is weakening, possibly indicating a geo-magnetic reversal. What effects on the planet could we expect if this occurred?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hf6tu/the_swarm_satellite_recently_revealed_the_earths/", 
@@ -18,9 +18,9 @@
             "id": "2hf6tu"
         }, 
         {
-            "num-comments": 28, 
+            "num-comments": 29, 
             "domain": "self.askscience", 
-            "score": 62, 
+            "score": 70, 
             "nsfw": false, 
             "title": "Is it possible that there is another planet in our solar system that we can't see?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfo9n/is_it_possible_that_there_is_another_planet_in/", 
@@ -28,6 +28,18 @@
             "permalink": "http://www.reddit.com/r/askscience/comments/2hfo9n/is_it_possible_that_there_is_another_planet_in/", 
             "created-utc": 1411657306.0, 
             "id": "2hfo9n"
+        }, 
+        {
+            "num-comments": 10, 
+            "domain": "self.askscience", 
+            "score": 43, 
+            "nsfw": false, 
+            "title": "Where does an infant's gut microbiota originate? Is it inherited from the mother?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hf7hg/where_does_an_infants_gut_microbiota_originate_is/", 
+            "author": "N8theGr8", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hf7hg/where_does_an_infants_gut_microbiota_originate_is/", 
+            "created-utc": 1411645576.0, 
+            "id": "2hf7hg"
         }, 
         {
             "num-comments": 6, 
@@ -42,21 +54,9 @@
             "id": "2hegai"
         }, 
         {
-            "num-comments": 10, 
+            "num-comments": 11, 
             "domain": "self.askscience", 
-            "score": 41, 
-            "nsfw": false, 
-            "title": "Where does an infant's gut microbiota originate? Is it inherited from the mother?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hf7hg/where_does_an_infants_gut_microbiota_originate_is/", 
-            "author": "N8theGr8", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hf7hg/where_does_an_infants_gut_microbiota_originate_is/", 
-            "created-utc": 1411645576.0, 
-            "id": "2hf7hg"
-        }, 
-        {
-            "num-comments": 10, 
-            "domain": "self.askscience", 
-            "score": 26, 
+            "score": 31, 
             "nsfw": false, 
             "title": "When my guitar is out of tune, the strings are always in a too high pitch. Intuitively, it feels like it should be the other way since they would loosen. What's going on?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfxe2/when_my_guitar_is_out_of_tune_the_strings_are/", 
@@ -68,7 +68,7 @@
         {
             "num-comments": 2, 
             "domain": "self.askscience", 
-            "score": 13, 
+            "score": 12, 
             "nsfw": false, 
             "title": "Does cognitive dissonance make us act more impulsive?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hf274/does_cognitive_dissonance_make_us_act_more/", 
@@ -90,9 +90,21 @@
             "id": "2het9e"
         }, 
         {
+            "num-comments": 1, 
+            "domain": "self.askscience", 
+            "score": 14, 
+            "nsfw": false, 
+            "title": "Is your stomach truly ever \"empty\" and if so how long after eating does it take for it all to pass?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hghtt/is_your_stomach_truly_ever_empty_and_if_so_how/", 
+            "author": "Bulk_To_Be_The_Hulk", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hghtt/is_your_stomach_truly_ever_empty_and_if_so_how/", 
+            "created-utc": 1411672977.0, 
+            "id": "2hghtt"
+        }, 
+        {
             "num-comments": 12, 
             "domain": "self.askscience", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Can sound travel in space if the noise is made in a gas cloud?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfmlw/can_sound_travel_in_space_if_the_noise_is_made_in/", 
@@ -100,6 +112,30 @@
             "permalink": "http://www.reddit.com/r/askscience/comments/2hfmlw/can_sound_travel_in_space_if_the_noise_is_made_in/", 
             "created-utc": 1411656345.0, 
             "id": "2hfmlw"
+        }, 
+        {
+            "num-comments": 11, 
+            "domain": "self.askscience", 
+            "score": 8, 
+            "nsfw": false, 
+            "title": "If magnifying lenses can be used to concentrate the suns energy into a single point, why do they seem to have no value in energy production? Does the size of the lens allow it to concentrate a proportionate of energy?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hg6b9/if_magnifying_lenses_can_be_used_to_concentrate/", 
+            "author": "Sex_with_Kthulu", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hg6b9/if_magnifying_lenses_can_be_used_to_concentrate/", 
+            "created-utc": 1411667075.0, 
+            "id": "2hg6b9"
+        }, 
+        {
+            "num-comments": 9, 
+            "domain": "self.askscience", 
+            "score": 6, 
+            "nsfw": false, 
+            "title": "Ironing. What is happening at a molecular level?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hfmtd/ironing_what_is_happening_at_a_molecular_level/", 
+            "author": "Sinoeth", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hfmtd/ironing_what_is_happening_at_a_molecular_level/", 
+            "created-utc": 1411656483.0, 
+            "id": "2hfmtd"
         }, 
         {
             "num-comments": 2, 
@@ -114,33 +150,33 @@
             "id": "2heygm"
         }, 
         {
+            "num-comments": 5, 
+            "domain": "self.askscience", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "Is the water in a river always the same, or always \"new\" water?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hh17x/is_the_water_in_a_river_always_the_same_or_always/", 
+            "author": "RJism", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hh17x/is_the_water_in_a_river_always_the_same_or_always/", 
+            "created-utc": 1411683456.0, 
+            "id": "2hh17x"
+        }, 
+        {
             "num-comments": 1, 
             "domain": "self.askscience", 
-            "score": 9, 
+            "score": 10, 
             "nsfw": false, 
-            "title": "Is your stomach truly ever \"empty\" and if so how long after eating does it take for it all to pass?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hghtt/is_your_stomach_truly_ever_empty_and_if_so_how/", 
-            "author": "Bulk_To_Be_The_Hulk", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hghtt/is_your_stomach_truly_ever_empty_and_if_so_how/", 
-            "created-utc": 1411672977.0, 
-            "id": "2hghtt"
+            "title": "Do pain medications like NSAIDs and Aspirin impact the population of good bacteria in the gut?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hgdcn/do_pain_medications_like_nsaids_and_aspirin/", 
+            "author": "BuddhabellyChronicle", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hgdcn/do_pain_medications_like_nsaids_and_aspirin/", 
+            "created-utc": 1411670643.0, 
+            "id": "2hgdcn"
         }, 
         {
-            "num-comments": 11, 
+            "num-comments": 8, 
             "domain": "self.askscience", 
             "score": 7, 
-            "nsfw": false, 
-            "title": "If magnifying lenses can be used to concentrate the suns energy into a single point, why do they seem to have no value in energy production? Does the size of the lens allow it to concentrate a proportionate of energy?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hg6b9/if_magnifying_lenses_can_be_used_to_concentrate/", 
-            "author": "Sex_with_Kthulu", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hg6b9/if_magnifying_lenses_can_be_used_to_concentrate/", 
-            "created-utc": 1411667075.0, 
-            "id": "2hg6b9"
-        }, 
-        {
-            "num-comments": 7, 
-            "domain": "self.askscience", 
-            "score": 6, 
             "nsfw": false, 
             "title": "What will happen to our solar system during the years when the Milky Way &amp; Andromeda galaxies collide?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfhxr/what_will_happen_to_our_solar_system_during_the/", 
@@ -152,7 +188,7 @@
         {
             "num-comments": 16, 
             "domain": "self.askscience", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Why MSL board computers are so weak?", 
             "url": "http://www.reddit.com/r/askscience/comments/2heztt/why_msl_board_computers_are_so_weak/", 
@@ -162,19 +198,7 @@
             "id": "2heztt"
         }, 
         {
-            "num-comments": 8, 
-            "domain": "self.askscience", 
-            "score": 8, 
-            "nsfw": false, 
-            "title": "Ironing. What is happening at a molecular level?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hfmtd/ironing_what_is_happening_at_a_molecular_level/", 
-            "author": "Sinoeth", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hfmtd/ironing_what_is_happening_at_a_molecular_level/", 
-            "created-utc": 1411656483.0, 
-            "id": "2hfmtd"
-        }, 
-        {
-            "num-comments": 25, 
+            "num-comments": 26, 
             "domain": "self.askscience", 
             "score": 4, 
             "nsfw": false, 
@@ -200,7 +224,7 @@
         {
             "num-comments": 3, 
             "domain": "self.askscience", 
-            "score": 6, 
+            "score": 4, 
             "nsfw": false, 
             "title": "When the atom bombs went off, new elements/isotopes were formed. How long did it take for them to disperse about the Earth? And have they been/will they ever be evenly distributed around Earth?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfh3e/when_the_atom_bombs_went_off_new_elementsisotopes/", 
@@ -212,7 +236,7 @@
         {
             "num-comments": 2, 
             "domain": "self.askscience", 
-            "score": 5, 
+            "score": 4, 
             "nsfw": false, 
             "title": "When a part of the body becomes inflamed, is the pressure and volume of the intercellular fluid increasing, or are the cells themselves expanding?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfd1a/when_a_part_of_the_body_becomes_inflamed_is_the/", 
@@ -234,33 +258,9 @@
             "id": "2herd5"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "self.askscience", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "Why does lightning not strike straight but instead arched and bendy?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hdyof/why_does_lightning_not_strike_straight_but/", 
-            "author": "TheDrugUser", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hdyof/why_does_lightning_not_strike_straight_but/", 
-            "created-utc": 1411607631.0, 
-            "id": "2hdyof"
-        }, 
-        {
-            "num-comments": 3, 
-            "domain": "self.askscience", 
-            "score": 6, 
-            "nsfw": false, 
-            "title": "Is the water in a river always the same, or always \"new\" water?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hh17x/is_the_water_in_a_river_always_the_same_or_always/", 
-            "author": "RJism", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hh17x/is_the_water_in_a_river_always_the_same_or_always/", 
-            "created-utc": 1411683456.0, 
-            "id": "2hh17x"
-        }, 
-        {
             "num-comments": 10, 
             "domain": "self.askscience", 
-            "score": 3, 
+            "score": 2, 
             "nsfw": false, 
             "title": "How far would an insect have to fall to die? And would it ever \"splat?\"", 
             "url": "http://www.reddit.com/r/askscience/comments/2hen5j/how_far_would_an_insect_have_to_fall_to_die_and/", 
@@ -272,7 +272,7 @@
         {
             "num-comments": 4, 
             "domain": "self.askscience", 
-            "score": 4, 
+            "score": 3, 
             "nsfw": false, 
             "title": "At what speed must a person be traveling for them to be physically hurt by air friction?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hebtx/at_what_speed_must_a_person_be_traveling_for_them/", 
@@ -294,16 +294,16 @@
             "id": "2hfqg6"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 9, 
             "domain": "self.askscience", 
-            "score": 1, 
+            "score": 4, 
             "nsfw": false, 
-            "title": "Is an alcohol disinfectant used during intestinal surgery?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hh0vf/is_an_alcohol_disinfectant_used_during_intestinal/", 
-            "author": "Frustratedcowboy", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hh0vf/is_an_alcohol_disinfectant_used_during_intestinal/", 
-            "created-utc": 1411683251.0, 
-            "id": "2hh0vf"
+            "title": "Does a horizontally moving mirror reflect any differently than an equivalently stationary one?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hhmmo/does_a_horizontally_moving_mirror_reflect_any/", 
+            "author": "AsAChemicalEngineer", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hhmmo/does_a_horizontally_moving_mirror_reflect_any/", 
+            "created-utc": 1411696566.0, 
+            "id": "2hhmmo"
         }
     ], 
     "api-url": "http://daily.red/ask-science.json", 

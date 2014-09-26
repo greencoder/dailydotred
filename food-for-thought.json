@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411697782, 
+    "generated-utc": 1411705333, 
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on longform articles and essays that stimulate intellectual discourse.", 
     "title": "foodforthought: Intellectual Nourishment ", 
     "full-url": "http://www.reddit.com/r/Foodforthought/", 
     "posts": [
         {
-            "num-comments": 55, 
+            "num-comments": 62, 
             "domain": "outsideonline.com", 
-            "score": 492, 
+            "score": 541, 
             "nsfw": false, 
             "title": "Every year, more than 500 Americans will be struck by lightning\u2014and roughly 90 percent of them will survive. Though they remain among the living, their minds and bodies will be instantly, fundamentally altered in ways that still leave scientists scratching their heads", 
             "url": "http://www.outsideonline.com/outdoor-adventure/nature/The-Body-Electric.html", 
@@ -32,7 +32,7 @@
         {
             "num-comments": 4, 
             "domain": "theguardian.com", 
-            "score": 14, 
+            "score": 15, 
             "nsfw": false, 
             "title": "The myth of religious violence | The popular belief that religion is the cause of the world\u2019s bloodiest conflicts is central to our modern conviction that faith and politics should never mix. But the messy history of their separation suggests it was never so simple", 
             "url": "http://www.theguardian.com/world/2014/sep/25/-sp-karen-armstrong-religious-violence-myth-secular", 
@@ -44,7 +44,7 @@
         {
             "num-comments": 2, 
             "domain": "bbc.co.uk", 
-            "score": 11, 
+            "score": 8, 
             "nsfw": false, 
             "title": "The Uncatchable Greece's most wanted man who gives to the poor", 
             "url": "http://www.bbc.co.uk/news/special/2014/newsspec_8700/index.html", 
@@ -54,9 +54,21 @@
             "id": "2he8ys"
         }, 
         {
+            "num-comments": 1, 
+            "domain": "washingtonpost.com", 
+            "score": 11, 
+            "nsfw": false, 
+            "title": "Think you drink a lot? This chart will tell you. The top 10% have 10 drinks PER DAY on average.", 
+            "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2014/09/25/think-you-drink-a-lot-this-chart-will-tell-you/?hpid=z5", 
+            "author": "cimoreneoflinderwall", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hgr6b/think_you_drink_a_lot_this_chart_will_tell_you/", 
+            "created-utc": 1411677905.0, 
+            "id": "2hgr6b"
+        }, 
+        {
             "num-comments": 0, 
             "domain": "psmag.com", 
-            "score": 5, 
+            "score": 7, 
             "nsfw": false, 
             "title": "People All Over the World Are Afraid of Happiness", 
             "url": "http://www.psmag.com/navigation/books-and-culture/hating-happiness-who-is-afraid-different-cultures-western-psychology-research-91269/", 
@@ -79,20 +91,8 @@
         }, 
         {
             "num-comments": 1, 
-            "domain": "washingtonpost.com", 
-            "score": 9, 
-            "nsfw": false, 
-            "title": "Think you drink a lot? This chart will tell you. The top 10% have 10 drinks PER DAY on average.", 
-            "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2014/09/25/think-you-drink-a-lot-this-chart-will-tell-you/?hpid=z5", 
-            "author": "cimoreneoflinderwall", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hgr6b/think_you_drink_a_lot_this_chart_will_tell_you/", 
-            "created-utc": 1411677905.0, 
-            "id": "2hgr6b"
-        }, 
-        {
-            "num-comments": 1, 
             "domain": "news.vice.com", 
-            "score": 5, 
+            "score": 10, 
             "nsfw": false, 
             "title": "Muslim Scholars Make the Theological Case Against the Islamic State", 
             "url": "https://news.vice.com/article/muslim-scholars-make-the-theological-case-against-the-islamic-state", 
@@ -102,9 +102,9 @@
             "id": "2hgnqz"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 7, 
             "domain": "qz.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "How much is a date with you worth?", 
             "url": "http://qz.com/270421/how-much-is-a-date-with-you-worth/", 
@@ -116,7 +116,7 @@
         {
             "num-comments": 0, 
             "domain": "theatlantic.com", 
-            "score": 3, 
+            "score": 5, 
             "nsfw": false, 
             "title": "Murder in a Time Before Google", 
             "url": "http://www.theatlantic.com/technology/archive/2014/09/murder-in-a-time-before-google/380618/", 
@@ -139,8 +139,32 @@
         }, 
         {
             "num-comments": 0, 
+            "domain": "pewsocialtrends.org", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Record Share of Americans Have Never Married: In 2012, one-in-five adults ages 25 and older had never been married; in 1960, only about one-in-ten adults in that age range had never been married.", 
+            "url": "http://www.pewsocialtrends.org/2014/09/24/record-share-of-americans-have-never-married/", 
+            "author": "AngelaMotorman", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hfy9u/record_share_of_americans_have_never_married_in/", 
+            "created-utc": 1411662801.0, 
+            "id": "2hfy9u"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "firstlook.org", 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "Managing a Nightmare: The CIA Reveals How It Watched Over the Destruction of Gary Webb", 
+            "url": "https://firstlook.org/theintercept/2014/09/25/managing-nightmare-cia-media-destruction-gary-webb/", 
+            "author": "lingben", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hhia1/managing_a_nightmare_the_cia_reveals_how_it/", 
+            "created-utc": 1411693797.0, 
+            "id": "2hhia1"
+        }, 
+        {
+            "num-comments": 0, 
             "domain": "salon.com", 
-            "score": 0, 
+            "score": 2, 
             "nsfw": false, 
             "title": "The domestic violence gender trap: Hope Solo, Ray Rice and the tired myopia of \u201cwomen do it too\u201d", 
             "url": "http://www.salon.com/2014/09/25/the_domestic_violence_gender_trap_hope_solo_ray_rice_and_the_tired_myopia_of_women_do_it_too/?utm_source=facebook&amp;utm_medium=socialflow", 
@@ -163,20 +187,8 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "pewsocialtrends.org", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "Record Share of Americans Have Never Married: In 2012, one-in-five adults ages 25 and older had never been married; in 1960, only about one-in-ten adults in that age range had never been married.", 
-            "url": "http://www.pewsocialtrends.org/2014/09/24/record-share-of-americans-have-never-married/", 
-            "author": "AngelaMotorman", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hfy9u/record_share_of_americans_have_never_married_in/", 
-            "created-utc": 1411662801.0, 
-            "id": "2hfy9u"
-        }, 
-        {
-            "num-comments": 0, 
             "domain": "daviddegraw.org", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "Conditioned Consciousness: How The .01% Gets Away With Trillions", 
             "url": "http://daviddegraw.org/conditioned-consciousness-how-the-01-gets-away-with-trillions/", 

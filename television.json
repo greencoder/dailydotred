@@ -1,14 +1,14 @@
 {
     "category": "Entertainment", 
-    "generated-utc": 1411697744, 
+    "generated-utc": 1411705289, 
     "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources. We do not accept disposable content like images, memes, video clips, blogspam, top lists, or short thoughtless posts. We keep a directory of series-specific subreddits that have much less stingy rules.", 
     "title": "/r/television - A premium-quality television subreddit", 
     "full-url": "http://www.reddit.com/r/television/", 
     "posts": [
         {
-            "num-comments": 872, 
+            "num-comments": 918, 
             "domain": "slate.com", 
-            "score": 3189, 
+            "score": 3256, 
             "nsfw": false, 
             "title": "Why Saturday Night Live writers lean on Kenan Thompson: \"If you want to get an extra laugh in your script, just add this line: 'KENAN REACTS'.\"", 
             "url": "http://www.slate.com/blogs/browbeat/2014/09/25/kenan_thompson_on_saturday_night_live_after_11_seasons_cast_member_quietly.html", 
@@ -18,9 +18,9 @@
             "id": "2hfitv"
         }, 
         {
-            "num-comments": 20, 
+            "num-comments": 23, 
             "domain": "nick.com", 
-            "score": 158, 
+            "score": 176, 
             "nsfw": false, 
             "title": "Every episode of Legend of Korra is available free to stream. Get caught up before Book 4.", 
             "url": "http://www.nick.com/legend-of-korra/episodes/", 
@@ -30,9 +30,9 @@
             "id": "2hftoc"
         }, 
         {
-            "num-comments": 39, 
+            "num-comments": 46, 
             "domain": "variety.com", 
-            "score": 64, 
+            "score": 80, 
             "nsfw": false, 
             "title": "Rachel McAdams in final negotiations for True Detective season 2 female lead", 
             "url": "http://variety.com/2014/tv/news/rachel-mcadams-true-detective-female-lead-1201302327/", 
@@ -42,9 +42,9 @@
             "id": "2hg113"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 8, 
             "domain": "insidetv.ew.com", 
-            "score": 27, 
+            "score": 33, 
             "nsfw": false, 
             "title": "Dominion and Defiance renewed by Syfy", 
             "url": "http://insidetv.ew.com/2014/09/25/dominion-defiance-renewed-by-syfy/", 
@@ -54,9 +54,9 @@
             "id": "2hg3oj"
         }, 
         {
-            "num-comments": 23, 
+            "num-comments": 25, 
             "domain": "avclub.com", 
-            "score": 25, 
+            "score": 24, 
             "nsfw": false, 
             "title": "AT&amp;T now offering a $39 HBO Go/Amazon Prime package", 
             "url": "http://www.avclub.com/article/t-now-offering-39-hbo-goamazon-prime-package-209631", 
@@ -66,9 +66,9 @@
             "id": "2hfilx"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 5, 
             "domain": "wired.com", 
-            "score": 14, 
+            "score": 16, 
             "nsfw": false, 
             "title": "WIRED Binge-Watching Guide: Justified", 
             "url": "http://www.wired.com/2014/09/binge-guide-justified/?mbid=social_twitter", 
@@ -78,7 +78,7 @@
             "id": "2hfs0d"
         }, 
         {
-            "num-comments": 92, 
+            "num-comments": 93, 
             "domain": "self.television", 
             "score": 15, 
             "nsfw": false, 
@@ -90,9 +90,9 @@
             "id": "2he81s"
         }, 
         {
-            "num-comments": 27, 
+            "num-comments": 31, 
             "domain": "self.television", 
-            "score": 11, 
+            "score": 13, 
             "nsfw": false, 
             "title": "What show would you say is the finest example of western animation?", 
             "url": "http://www.reddit.com/r/television/comments/2hgwzj/what_show_would_you_say_is_the_finest_example_of/", 
@@ -102,21 +102,9 @@
             "id": "2hgwzj"
         }, 
         {
-            "num-comments": 9, 
+            "num-comments": 19, 
             "domain": "self.television", 
-            "score": 9, 
-            "nsfw": false, 
-            "title": "No \"New on TV for the week\" posts this fall?", 
-            "url": "http://www.reddit.com/r/television/comments/2hftqa/no_new_on_tv_for_the_week_posts_this_fall/", 
-            "author": "roperose", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hftqa/no_new_on_tv_for_the_week_posts_this_fall/", 
-            "created-utc": 1411660382.0, 
-            "id": "2hftqa"
-        }, 
-        {
-            "num-comments": 15, 
-            "domain": "self.television", 
-            "score": 7, 
+            "score": 6, 
             "nsfw": false, 
             "title": "That one object that you want above all others...", 
             "url": "http://www.reddit.com/r/television/comments/2hh3lt/that_one_object_that_you_want_above_all_others/", 
@@ -126,19 +114,19 @@
             "id": "2hh3lt"
         }, 
         {
-            "num-comments": 8, 
-            "domain": "vulture.com", 
-            "score": 8, 
+            "num-comments": 9, 
+            "domain": "self.television", 
+            "score": 11, 
             "nsfw": false, 
-            "title": "There Are Just So Many Things Wrong With the New York Times\u2019 Shonda Rhimes Article", 
-            "url": "http://www.vulture.com/2014/09/shonda-rhimes-new-york-times-alessandra-stanley.html", 
-            "author": "heliotropedit", 
-            "permalink": "http://www.reddit.com/r/television/comments/2he4hu/there_are_just_so_many_things_wrong_with_the_new/", 
-            "created-utc": 1411611129.0, 
-            "id": "2he4hu"
+            "title": "No \"New on TV for the week\" posts this fall?", 
+            "url": "http://www.reddit.com/r/television/comments/2hftqa/no_new_on_tv_for_the_week_posts_this_fall/", 
+            "author": "roperose", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hftqa/no_new_on_tv_for_the_week_posts_this_fall/", 
+            "created-utc": 1411660382.0, 
+            "id": "2hftqa"
         }, 
         {
-            "num-comments": 18, 
+            "num-comments": 28, 
             "domain": "self.television", 
             "score": 9, 
             "nsfw": false, 
@@ -150,9 +138,21 @@
             "id": "2hgurh"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 8, 
+            "domain": "vulture.com", 
+            "score": 9, 
+            "nsfw": false, 
+            "title": "There Are Just So Many Things Wrong With the New York Times\u2019 Shonda Rhimes Article", 
+            "url": "http://www.vulture.com/2014/09/shonda-rhimes-new-york-times-alessandra-stanley.html", 
+            "author": "heliotropedit", 
+            "permalink": "http://www.reddit.com/r/television/comments/2he4hu/there_are_just_so_many_things_wrong_with_the_new/", 
+            "created-utc": 1411611129.0, 
+            "id": "2he4hu"
+        }, 
+        {
+            "num-comments": 6, 
             "domain": "youtube.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "The Legacy of \"Star Wars: The Clone Wars\"", 
             "url": "https://www.youtube.com/watch?v=vnH1JKr4o_8", 
@@ -162,9 +162,9 @@
             "id": "2hhb15"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 4, 
             "domain": "rollingstone.com", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Every Freaks and Geeks episode ranked in honour of the show's 15th anniversary", 
             "url": "http://www.rollingstone.com/tv/lists/every-freaks-and-geeks-episode-ranked-20140925", 
@@ -174,9 +174,9 @@
             "id": "2hgzjl"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 6, 
             "domain": "youtube.com", 
-            "score": 2, 
+            "score": 7, 
             "nsfw": false, 
             "title": "The Official List Of What You Have To Watch - Collegehumor", 
             "url": "https://www.youtube.com/watch?v=JNUPn1rt3Ac", 
@@ -188,7 +188,7 @@
         {
             "num-comments": 4, 
             "domain": "deadline.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "title": "Outlander midseason premiere set for April 4 on Starz", 
             "url": "http://deadline.com/2014/09/outlander-midseason-premiere-april-4-2015-starz-841196/", 
@@ -200,7 +200,7 @@
         {
             "num-comments": 7, 
             "domain": "self.television", 
-            "score": 4, 
+            "score": 7, 
             "nsfw": false, 
             "title": "I'd be really interested in a PBS revival of Pioneer House and 1900 House.", 
             "url": "http://www.reddit.com/r/television/comments/2hh07u/id_be_really_interested_in_a_pbs_revival_of/", 
@@ -212,7 +212,7 @@
         {
             "num-comments": 2, 
             "domain": "cbs.com", 
-            "score": 2, 
+            "score": 6, 
             "nsfw": false, 
             "title": "CBS pushes back Mom for BBT reruns", 
             "url": "http://www.cbs.com/shows/fall-premieres/news/1003199/", 
@@ -222,21 +222,9 @@
             "id": "2hgtd1"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "self.television", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "Our Zoo: What do you think about it? [serious]", 
-            "url": "http://www.reddit.com/r/television/comments/2hg30q/our_zoo_what_do_you_think_about_it_serious/", 
-            "author": "mickeysbeer", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hg30q/our_zoo_what_do_you_think_about_it_serious/", 
-            "created-utc": 1411665347.0, 
-            "id": "2hg30q"
-        }, 
-        {
             "num-comments": 12, 
             "domain": "self.television", 
-            "score": 4, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Computer noises are worse than laugh tracks.", 
             "url": "http://www.reddit.com/r/television/comments/2hgngx/computer_noises_are_worse_than_laugh_tracks/", 
@@ -244,6 +232,18 @@
             "permalink": "http://www.reddit.com/r/television/comments/2hgngx/computer_noises_are_worse_than_laugh_tracks/", 
             "created-utc": 1411675936.0, 
             "id": "2hgngx"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "self.television", 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "Our Zoo: What do you think about it? [serious]", 
+            "url": "http://www.reddit.com/r/television/comments/2hg30q/our_zoo_what_do_you_think_about_it_serious/", 
+            "author": "mickeysbeer", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hg30q/our_zoo_what_do_you_think_about_it_serious/", 
+            "created-utc": 1411665347.0, 
+            "id": "2hg30q"
         }, 
         {
             "num-comments": 8, 
@@ -256,6 +256,18 @@
             "permalink": "http://www.reddit.com/r/television/comments/2hgme6/favorite_tvtofilm_adaptations/", 
             "created-utc": 1411675370.0, 
             "id": "2hgme6"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "giantfreakinrobot.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "NBC is making a sitcom with Adam Sandler based on the movie Real Genius", 
+            "url": "http://www.giantfreakinrobot.com/scifi/real-genius-sitcom-works-nbc-adam-sandler.html", 
+            "author": "theyellowdragon", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hhimt/nbc_is_making_a_sitcom_with_adam_sandler_based_on/", 
+            "created-utc": 1411694025.0, 
+            "id": "2hhimt"
         }, 
         {
             "num-comments": 2, 
@@ -272,7 +284,7 @@
         {
             "num-comments": 0, 
             "domain": "deadline.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "\u2018Winx Club\u2019 Spinoff Series Heads To Netflix", 
             "url": "http://deadline.com/2014/09/winx-club-wow-spinoff-series-netflix-841008/", 
@@ -292,18 +304,6 @@
             "permalink": "http://www.reddit.com/r/television/comments/2hh0o3/fellow_redditors_did_any_of_you_see_our_zoo_on_bbc/", 
             "created-utc": 1411683132.0, 
             "id": "2hh0o3"
-        }, 
-        {
-            "num-comments": 12, 
-            "domain": "self.television", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "What TV series has the lowest main casting number \u00e0 la Quantum Leap ?", 
-            "url": "http://www.reddit.com/r/television/comments/2hgqan/what_tv_series_has_the_lowest_main_casting_number/", 
-            "author": "Perpete", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hgqan/what_tv_series_has_the_lowest_main_casting_number/", 
-            "created-utc": 1411677426.0, 
-            "id": "2hgqan"
         }
     ], 
     "api-url": "http://daily.red/television.json", 

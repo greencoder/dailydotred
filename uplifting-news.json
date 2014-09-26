@@ -1,14 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411697799, 
+    "generated-utc": 1411705351, 
     "description": "A place to read and share positive and uplifting, feel good news stories.", 
     "title": "Uplifting News", 
     "full-url": "http://www.reddit.com/r/UpliftingNews/", 
     "posts": [
         {
-            "num-comments": 91, 
+            "num-comments": 99, 
             "domain": "mlive.com", 
-            "score": 310, 
+            "score": 357, 
             "nsfw": false, 
             "title": "Autistic student voted to homecoming court at Detroit-area high school", 
             "url": "http://www.mlive.com/news/detroit/index.ssf/2014/09/autistic_student_voted_to_home.html", 
@@ -20,7 +20,7 @@
         {
             "num-comments": 3, 
             "domain": "telegram.com", 
-            "score": 32, 
+            "score": 35, 
             "nsfw": false, 
             "title": "Healed heron heads home", 
             "url": "http://www.telegram.com/article/20140923/NEWS/309239869/1101/local", 
@@ -30,7 +30,7 @@
             "id": "2hf3wy"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 7, 
             "domain": "bbc.co.uk", 
             "score": 22, 
             "nsfw": false, 
@@ -44,7 +44,7 @@
         {
             "num-comments": 0, 
             "domain": "firstcoastnews.com", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Woman reunited with missing service dog", 
             "url": "http://www.firstcoastnews.com/story/news/local/2014/09/22/woman-searches-for-missing-service-dog/16070497/", 
@@ -54,16 +54,16 @@
             "id": "2he4rm"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "newsarama.com", 
-            "score": 1, 
+            "num-comments": 1, 
+            "domain": "newscenter.berkeley.edu", 
+            "score": 3, 
             "nsfw": false, 
-            "title": "Analyzing the 'CRISIS' Clues From FUTURES END: BOOSTER GOLD, SUPERMAN DOOMED", 
-            "url": "http://www.newsarama.com/22227-analyzing-the-crisis-clues-from-futures-end-booster-gold-superman-doomed.html", 
-            "author": "poepoz", 
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hhes9/analyzing_the_crisis_clues_from_futures_end/", 
-            "created-utc": 1411691617.0, 
-            "id": "2hhes9"
+            "title": "New college athletic team breaks barriers for the disabled.", 
+            "url": "http://newscenter.berkeley.edu/2014/09/22/new-athletic-team-breaks-barriers-for-the-disabled/", 
+            "author": "InfernalWedgie", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hhjqx/new_college_athletic_team_breaks_barriers_for_the/", 
+            "created-utc": 1411694709.0, 
+            "id": "2hhjqx"
         }
     ], 
     "api-url": "http://daily.red/uplifting-news.json", 

@@ -1,38 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411697803, 
+    "generated-utc": 1411705356, 
     "description": "/r/inthenews is the subreddit for opinion, analysis, and discussion of recent events.", 
     "title": "In the News: Opinion, Analysis, and Discussion", 
     "full-url": "http://www.reddit.com/r/inthenews/", 
     "posts": [
         {
-            "num-comments": 2, 
-            "domain": "wsws.org", 
-            "score": 31, 
-            "nsfw": false, 
-            "title": "Deceit and delusion at the United Nations - in one sentence, Obama criticized \"proxy wars\" between Sunni and Shia, then stated the US is training and equipping the largely-Sunni Syrian opposition to be a counterweight to the terrorists of ISIL and the brutality of the [Shia-related] Assad regime.", 
-            "url": "http://www.wsws.org/en/articles/2014/09/25/pers-s25.html", 
-            "author": "SlabFork", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfe5x/deceit_and_delusion_at_the_united_nations_in_one/", 
-            "created-utc": 1411650938.0, 
-            "id": "2hfe5x"
-        }, 
-        {
-            "num-comments": 3, 
-            "domain": "npr.org", 
-            "score": 31, 
-            "nsfw": false, 
-            "title": "Eric Holder To Step Down As Attorney General", 
-            "url": "http://www.npr.org/blogs/thetwo-way/2014/09/25/351363171/eric-holder-to-step-down-as-attorney-general", 
-            "author": "blackvault", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfo79/eric_holder_to_step_down_as_attorney_general/", 
-            "created-utc": 1411657275.0, 
-            "id": "2hfo79"
-        }, 
-        {
-            "num-comments": 6, 
+            "num-comments": 7, 
             "domain": "youtube.com", 
-            "score": 35, 
+            "score": 37, 
             "nsfw": false, 
             "title": "OK trooper tells local news: Best way not to get raped by cops is to \u2018follow the law\u2019", 
             "url": "https://www.youtube.com/watch?v=rnQYRErRhbo&amp;feature=youtu.be", 
@@ -43,8 +19,32 @@
         }, 
         {
             "num-comments": 4, 
+            "domain": "npr.org", 
+            "score": 30, 
+            "nsfw": false, 
+            "title": "Eric Holder To Step Down As Attorney General", 
+            "url": "http://www.npr.org/blogs/thetwo-way/2014/09/25/351363171/eric-holder-to-step-down-as-attorney-general", 
+            "author": "blackvault", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfo79/eric_holder_to_step_down_as_attorney_general/", 
+            "created-utc": 1411657275.0, 
+            "id": "2hfo79"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "wsws.org", 
+            "score": 35, 
+            "nsfw": false, 
+            "title": "Deceit and delusion at the United Nations - in one sentence, Obama criticized \"proxy wars\" between Sunni and Shia, then stated the US is training and equipping the largely-Sunni Syrian opposition to be a counterweight to the terrorists of ISIL and the brutality of the [Shia-related] Assad regime.", 
+            "url": "http://www.wsws.org/en/articles/2014/09/25/pers-s25.html", 
+            "author": "SlabFork", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfe5x/deceit_and_delusion_at_the_united_nations_in_one/", 
+            "created-utc": 1411650938.0, 
+            "id": "2hfe5x"
+        }, 
+        {
+            "num-comments": 4, 
             "domain": "dealbook.nytimes.com", 
-            "score": 23, 
+            "score": 25, 
             "nsfw": false, 
             "title": "Lenders remotely deactivating vehicles over missed auto loan payments", 
             "url": "http://dealbook.nytimes.com/2014/09/24/miss-a-payment-good-luck-moving-that-car/?_php=true&amp;_type=blogs&amp;src=twr&amp;_r=0", 
@@ -56,7 +56,7 @@
         {
             "num-comments": 6, 
             "domain": "salon.com", 
-            "score": 22, 
+            "score": 21, 
             "nsfw": false, 
             "title": "The 3 biggest myths about pornography, debunked by Belle Knox", 
             "url": "http://www.salon.com/2014/09/24/the_3_biggest_myths_about_pornography_debunked_by_belle_knox_partner", 
@@ -68,7 +68,7 @@
         {
             "num-comments": 0, 
             "domain": "pamelageller.com", 
-            "score": 18, 
+            "score": 26, 
             "nsfw": false, 
             "title": "VIDEO French Report: Woman Secretly Films Life in Raqqa, Syria under the Islamic State", 
             "url": "http://pamelageller.com/2014/09/video-french-report-woman-secretly-films-life-in-raqqa-under-the-islamic-state.html/", 
@@ -90,21 +90,9 @@
             "id": "2hg512"
         }, 
         {
-            "num-comments": 4, 
-            "domain": "dailysignal.com", 
-            "score": 13, 
-            "nsfw": false, 
-            "title": "For Gun Shop Owners, It\u2019s No Longer Hip to Be \u2018Square\u2019", 
-            "url": "http://dailysignal.com/2014/09/25/gun-shop-owners-longer-hip-square/", 
-            "author": "cavehobbit", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfx6m/for_gun_shop_owners_its_no_longer_hip_to_be_square/", 
-            "created-utc": 1411662207.0, 
-            "id": "2hfx6m"
-        }, 
-        {
             "num-comments": 2, 
             "domain": "nymag.com", 
-            "score": 15, 
+            "score": 18, 
             "nsfw": false, 
             "title": "Forbes Fires Columnist for Bravely Addressing Frats\u2019 Real Problem: Drunk Chicks", 
             "url": "http://nymag.com/daily/intelligencer/2014/09/bill-frezza-forbes-writer-fired-for-frat-post.html?mid=facebook_nymag", 
@@ -114,16 +102,16 @@
             "id": "2hfrzn"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "washingtonpost.com", 
-            "score": 11, 
+            "num-comments": 4, 
+            "domain": "latimes.com", 
+            "score": 23, 
             "nsfw": false, 
-            "title": "President Obama channels President Bush at the United Nations", 
-            "url": "http://www.washingtonpost.com/blogs/post-partisan/wp/2014/09/24/the-insiders-president-obama-channels-president-bush-at-the-united-nations/", 
-            "author": "AriseTigerKillandEat", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hg45g/president_obama_channels_president_bush_at_the/", 
-            "created-utc": 1411665912.0, 
-            "id": "2hg45g"
+            "title": "The Islamic State is recruiting women to \"have kids and cook\"", 
+            "url": "http://www.latimes.com/world/middleeast/la-fg-isis-female-recruits-20140920-story.html#page=1", 
+            "author": "secaa23", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hgush/the_islamic_state_is_recruiting_women_to_have/", 
+            "created-utc": 1411679800.0, 
+            "id": "2hgush"
         }, 
         {
             "num-comments": 1, 
@@ -139,8 +127,32 @@
         }, 
         {
             "num-comments": 1, 
-            "domain": "thecollegefix.com", 
+            "domain": "washingtonpost.com", 
             "score": 13, 
+            "nsfw": false, 
+            "title": "President Obama channels President Bush at the United Nations", 
+            "url": "http://www.washingtonpost.com/blogs/post-partisan/wp/2014/09/24/the-insiders-president-obama-channels-president-bush-at-the-united-nations/", 
+            "author": "AriseTigerKillandEat", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hg45g/president_obama_channels_president_bush_at_the/", 
+            "created-utc": 1411665912.0, 
+            "id": "2hg45g"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "dailysignal.com", 
+            "score": 13, 
+            "nsfw": false, 
+            "title": "For Gun Shop Owners, It\u2019s No Longer Hip to Be \u2018Square\u2019", 
+            "url": "http://dailysignal.com/2014/09/25/gun-shop-owners-longer-hip-square/", 
+            "author": "cavehobbit", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfx6m/for_gun_shop_owners_its_no_longer_hip_to_be_square/", 
+            "created-utc": 1411662207.0, 
+            "id": "2hfx6m"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "thecollegefix.com", 
+            "score": 15, 
             "nsfw": false, 
             "title": "Forbes\u2019 Firing Shows Why America Can\u2019t Have An Honest Debate About Campus Rape", 
             "url": "http://www.thecollegefix.com/post/19440/", 
@@ -150,9 +162,33 @@
             "id": "2hfxpa"
         }, 
         {
+            "num-comments": 2, 
+            "domain": "latimes.com", 
+            "score": 14, 
+            "nsfw": false, 
+            "title": "Woman huddles in rooftop hiding place as intruder looms [Photo]", 
+            "url": "http://www.latimes.com/local/lanow/la-me-ln-woman-on-roof-with-intruder-20140925-htmlstory.html", 
+            "author": "gn3xu5", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hg31i/woman_huddles_in_rooftop_hiding_place_as_intruder/", 
+            "created-utc": 1411665358.0, 
+            "id": "2hg31i"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "youtube.com", 
+            "score": 15, 
+            "nsfw": false, 
+            "title": "Students Bravely Fight Back Against 1984-Loving Conservative School Board", 
+            "url": "https://www.youtube.com/watch?v=j-dxxULA6kg&amp;feature=youtu.be", 
+            "author": "turdbox", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfzg8/students_bravely_fight_back_against_1984loving/", 
+            "created-utc": 1411663441.0, 
+            "id": "2hfzg8"
+        }, 
+        {
             "num-comments": 0, 
             "domain": "news.yahoo.com", 
-            "score": 11, 
+            "score": 14, 
             "nsfw": false, 
             "title": "Sierra Leone quarantines one million ahead of UN Ebola talks", 
             "url": "http://news.yahoo.com/sierra-leone-quarantines-one-million-ahead-un-ebola-095913410.html", 
@@ -164,7 +200,7 @@
         {
             "num-comments": 0, 
             "domain": "motherjones.com", 
-            "score": 11, 
+            "score": 10, 
             "nsfw": false, 
             "title": "Gov. Susana Martinez's emails have mysteriously disappeared", 
             "url": "http://www.motherjones.com/politics/2014/09/susana-martinez-destroyed-emails-hard-drives-new-mexico?google_editors_picks=true", 
@@ -176,7 +212,7 @@
         {
             "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 12, 
+            "score": 13, 
             "nsfw": false, 
             "title": "Guy doesn't wear seat belt is asked for drivers license, shot. Guess victims color.", 
             "url": "https://www.youtube.com/watch?v=RBUUO_VFYMs&amp;feature=share", 
@@ -186,33 +222,9 @@
             "id": "2helug"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "latimes.com", 
-            "score": 15, 
-            "nsfw": false, 
-            "title": "The Islamic State is recruiting women to \"have kids and cook\"", 
-            "url": "http://www.latimes.com/world/middleeast/la-fg-isis-female-recruits-20140920-story.html#page=1", 
-            "author": "secaa23", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hgush/the_islamic_state_is_recruiting_women_to_have/", 
-            "created-utc": 1411679800.0, 
-            "id": "2hgush"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "youtube.com", 
-            "score": 10, 
-            "nsfw": false, 
-            "title": "Students Bravely Fight Back Against 1984-Loving Conservative School Board", 
-            "url": "https://www.youtube.com/watch?v=j-dxxULA6kg&amp;feature=youtu.be", 
-            "author": "turdbox", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfzg8/students_bravely_fight_back_against_1984loving/", 
-            "created-utc": 1411663441.0, 
-            "id": "2hfzg8"
-        }, 
-        {
             "num-comments": 0, 
             "domain": "thediplomat.com", 
-            "score": 10, 
+            "score": 12, 
             "nsfw": false, 
             "title": "Taiwan has 'vast underground command center' for use in the event of war with China", 
             "url": "http://thediplomat.com/2014/09/taiwan-asias-secret-air-power/", 
@@ -222,28 +234,16 @@
             "id": "2hgr7n"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "news.yahoo.com", 
-            "score": 8, 
-            "nsfw": false, 
-            "title": "US: Immigrant families fail to report to agents", 
-            "url": "http://news.yahoo.com/apnewsbreak-immigrant-families-ignore-165707460--politics.html", 
-            "author": "JimmyNelson", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hgdpt/us_immigrant_families_fail_to_report_to_agents/", 
-            "created-utc": 1411670845.0, 
-            "id": "2hgdpt"
-        }, 
-        {
             "num-comments": 1, 
-            "domain": "latimes.com", 
-            "score": 12, 
+            "domain": "bbc.com", 
+            "score": 14, 
             "nsfw": false, 
-            "title": "Woman huddles in rooftop hiding place as intruder looms [Photo]", 
-            "url": "http://www.latimes.com/local/lanow/la-me-ln-woman-on-roof-with-intruder-20140925-htmlstory.html", 
-            "author": "gn3xu5", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hg31i/woman_huddles_in_rooftop_hiding_place_as_intruder/", 
-            "created-utc": 1411665358.0, 
-            "id": "2hg31i"
+            "title": "$1.5m for US woman punched by police", 
+            "url": "http://www.bbc.com/news/world-us-canada-29365980", 
+            "author": "censoredandagain", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfz9l/15m_for_us_woman_punched_by_police/", 
+            "created-utc": 1411663356.0, 
+            "id": "2hfz9l"
         }, 
         {
             "num-comments": 0, 
@@ -258,9 +258,21 @@
             "id": "2hfd48"
         }, 
         {
+            "num-comments": 2, 
+            "domain": "news.yahoo.com", 
+            "score": 8, 
+            "nsfw": false, 
+            "title": "US: Immigrant families fail to report to agents", 
+            "url": "http://news.yahoo.com/apnewsbreak-immigrant-families-ignore-165707460--politics.html", 
+            "author": "JimmyNelson", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hgdpt/us_immigrant_families_fail_to_report_to_agents/", 
+            "created-utc": 1411670845.0, 
+            "id": "2hgdpt"
+        }, 
+        {
             "num-comments": 4, 
             "domain": "finance.yahoo.com", 
-            "score": 9, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Al Sharpton Says He's Helping The White House Pick The Next Attorney General", 
             "url": "http://finance.yahoo.com/news/al-sharpton-says-hes-helping-172500559.html", 
@@ -270,21 +282,9 @@
             "id": "2hgo9x"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "bbc.com", 
-            "score": 11, 
-            "nsfw": false, 
-            "title": "$1.5m for US woman punched by police", 
-            "url": "http://www.bbc.com/news/world-us-canada-29365980", 
-            "author": "censoredandagain", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hfz9l/15m_for_us_woman_punched_by_police/", 
-            "created-utc": 1411663356.0, 
-            "id": "2hfz9l"
-        }, 
-        {
             "num-comments": 0, 
             "domain": "inhabitat.com", 
-            "score": 7, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Now this is an increase in crop production by changed method that I can get behind (rather than GMO foodstuffs)... Funny the only solution corporations can come up with costs the consumers a lot more money...", 
             "url": "http://inhabitat.com/16-year-old-irish-girls-win-google-science-fair-2014-with-world-changing-crop-yield-breakthrough/", 

@@ -1,14 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411697795, 
+    "generated-utc": 1411705346, 
     "description": "/r/news is: real news articles, primarily but not exclusively, news relating to the United States. /r/news isn't: editorials, commercials, political minutiae, shouting, justin bieber updates, kitty pictures. For a subreddit for all news-related content (editorials, satire, etc.) visit /r/inthenews.", 
     "title": "All news, US and international.", 
     "full-url": "http://www.reddit.com/r/news/", 
     "posts": [
         {
-            "num-comments": 2470, 
+            "num-comments": 2566, 
             "domain": "npr.org", 
-            "score": 3698, 
+            "score": 3727, 
             "nsfw": false, 
             "title": "Eric Holder To Step Down As Attorney General", 
             "url": "http://www.npr.org/blogs/thetwo-way/2014/09/25/351363171/eric-holder-to-step-down-as-attorney-general", 
@@ -18,9 +18,9 @@
             "id": "2hfmch"
         }, 
         {
-            "num-comments": 2429, 
+            "num-comments": 2516, 
             "domain": "islandpacket.com", 
-            "score": 3457, 
+            "score": 3494, 
             "nsfw": false, 
             "title": "S.C. trooper stopped a man for a seat belt violation outside Columbia and then shot him", 
             "url": "http://www.islandpacket.com/2014/09/24/3333131/sc-trooper-charged-with-felony.html", 
@@ -30,9 +30,9 @@
             "id": "2hf04d"
         }, 
         {
-            "num-comments": 4291, 
+            "num-comments": 4342, 
             "domain": "wistv.com", 
-            "score": 3307, 
+            "score": 3314, 
             "nsfw": false, 
             "title": "WARNING: Graphic dash cam video released in trooper-involved shooting", 
             "url": "http://www.wistv.com/clip/10620673/warning-graphic-dash-cam-video-released-in-trooper-involved-shooting", 
@@ -42,9 +42,9 @@
             "id": "2hejec"
         }, 
         {
-            "num-comments": 347, 
+            "num-comments": 363, 
             "domain": "latimes.com", 
-            "score": 2608, 
+            "score": 2761, 
             "nsfw": false, 
             "title": "California surfers beat tech billionaire in fight over beach access", 
             "url": "http://www.latimes.com/local/lanow/la-me-ln-surfers-billionaire-court-victory-beach-access-20140925-story.html", 
@@ -54,9 +54,9 @@
             "id": "2hff5a"
         }, 
         {
-            "num-comments": 401, 
+            "num-comments": 422, 
             "domain": "foxnews.com", 
-            "score": 2029, 
+            "score": 2086, 
             "nsfw": false, 
             "title": "Woman punched on film by California Highway Patrol officer reaches $1.5M settlement", 
             "url": "http://www.foxnews.com/us/2014/09/25/woman-punched-on-film-by-california-highway-patrol-officer-reaches-15m/", 
@@ -66,21 +66,9 @@
             "id": "2hev3o"
         }, 
         {
-            "num-comments": 309, 
-            "domain": "whdh.com", 
-            "score": 1437, 
-            "nsfw": false, 
-            "title": "A mother is calling for justice after her teenage daughter was raped and the accused attackers posted it all on Snapchat", 
-            "url": "http://www.whdh.com/story/26620924/mom-says-sexual-attack-of-teen-was-posted-on-snapchat", 
-            "author": "sweettoasted", 
-            "permalink": "http://www.reddit.com/r/news/comments/2he4pi/a_mother_is_calling_for_justice_after_her_teenage/", 
-            "created-utc": 1411611262.0, 
-            "id": "2he4pi"
-        }, 
-        {
-            "num-comments": 415, 
+            "num-comments": 1034, 
             "domain": "theguardian.com", 
-            "score": 1638, 
+            "score": 3069, 
             "nsfw": false, 
             "title": "Fox News presenters mock female pilot who took part in campaign against Isis: Hosts crack sexist jokes about UAE\u2019s Major Mariam al-Mansouri, calling her \u2018boobs on the ground\u2019", 
             "url": "http://www.theguardian.com/media/2014/sep/25/fox-news-mock-female-pilot-isis-sexist-jokes", 
@@ -90,9 +78,21 @@
             "id": "2hgfcs"
         }, 
         {
-            "num-comments": 361, 
+            "num-comments": 316, 
+            "domain": "whdh.com", 
+            "score": 1448, 
+            "nsfw": false, 
+            "title": "A mother is calling for justice after her teenage daughter was raped and the accused attackers posted it all on Snapchat", 
+            "url": "http://www.whdh.com/story/26620924/mom-says-sexual-attack-of-teen-was-posted-on-snapchat", 
+            "author": "sweettoasted", 
+            "permalink": "http://www.reddit.com/r/news/comments/2he4pi/a_mother_is_calling_for_justice_after_her_teenage/", 
+            "created-utc": 1411611262.0, 
+            "id": "2he4pi"
+        }, 
+        {
+            "num-comments": 391, 
             "domain": "gbcghana.com", 
-            "score": 756, 
+            "score": 866, 
             "nsfw": false, 
             "title": "Chicago mother arrested for raping a man at gunpoint", 
             "url": "http://www.gbcghana.com/1.1850749", 
@@ -102,9 +102,9 @@
             "id": "2hfka3"
         }, 
         {
-            "num-comments": 263, 
+            "num-comments": 270, 
             "domain": "usatoday.com", 
-            "score": 579, 
+            "score": 651, 
             "nsfw": false, 
             "title": "Iowa barring test driving of Telsa vehicles", 
             "url": "http://www.usatoday.com/story/money/cars/2014/09/24/tesla-test-drives-cut-short-in-iowa/16183133/", 
@@ -114,9 +114,9 @@
             "id": "2hfbyy"
         }, 
         {
-            "num-comments": 37, 
+            "num-comments": 39, 
             "domain": "nasa.gov", 
-            "score": 423, 
+            "score": 454, 
             "nsfw": false, 
             "title": "NASA Telescopes Find Clear Skies and Water Vapor on Exoplanet", 
             "url": "http://www.nasa.gov/press/2014/september/nasa-telescopes-find-clear-skies-and-water-vapor-on-exoplanet/#.VCP0e_l_v-4", 
@@ -126,9 +126,9 @@
             "id": "2hf4ht"
         }, 
         {
-            "num-comments": 91, 
+            "num-comments": 105, 
             "domain": "cnn.com", 
-            "score": 421, 
+            "score": 440, 
             "nsfw": false, 
             "title": "Pennsylvania woman blamed for her own rape in state response to lawsuit", 
             "url": "http://www.cnn.com/2014/09/24/justice/woman-blamed-for-her-rape/index.html?sr=reddit", 
@@ -138,9 +138,9 @@
             "id": "2hf4fw"
         }, 
         {
-            "num-comments": 48, 
+            "num-comments": 52, 
             "domain": "abc7chicago.com", 
-            "score": 385, 
+            "score": 419, 
             "nsfw": false, 
             "title": "GlaxoSmithKline Fined $488.8M for 'Massive Bribery Network'", 
             "url": "http://abc7chicago.com/news/glaxosmithkline-fined-$4888m-for-massive-bribery-network-/316390/", 
@@ -150,9 +150,9 @@
             "id": "2hfhd5"
         }, 
         {
-            "num-comments": 47, 
+            "num-comments": 59, 
             "domain": "theguardian.com", 
-            "score": 360, 
+            "score": 379, 
             "nsfw": false, 
             "title": "US army drill sergeant found guilty of sexually assaulting eight soldiers | Military judge rules that Angel M Sanchez abused his authority and assaulted and harassed eight female soldiers", 
             "url": "http://www.theguardian.com/world/2014/sep/24/army-drill-sergeant-guilty-sexual-assault-sanchez-missouri", 
@@ -162,9 +162,9 @@
             "id": "2hf927"
         }, 
         {
-            "num-comments": 132, 
+            "num-comments": 143, 
             "domain": "washingtonpost.com", 
-            "score": 356, 
+            "score": 427, 
             "nsfw": false, 
             "title": "The pay gap between CEOs and workers is much worse than you realize", 
             "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2014/09/25/the-pay-gap-between-ceos-and-workers-is-much-worse-than-you-realize/", 
@@ -174,9 +174,9 @@
             "id": "2hfk5u"
         }, 
         {
-            "num-comments": 267, 
+            "num-comments": 299, 
             "domain": "linkis.com", 
-            "score": 303, 
+            "score": 337, 
             "nsfw": false, 
             "title": "University of Michigan: \"withholding sex and affection\" and \"discounting the partner\u2019s feelings regarding sex\" is sexual violence", 
             "url": "http://linkis.com/thecollegefix.com/t1efE", 
@@ -186,33 +186,9 @@
             "id": "2hfm51"
         }, 
         {
-            "num-comments": 23, 
-            "domain": "nytimes.com", 
-            "score": 242, 
-            "nsfw": false, 
-            "title": "Civil liberties groups have filed a federal class action lawsuit charging that inmates at the jail in Scott County, Mississippi, are \u201cindefinitely detained\u201d and denied counsel.", 
-            "url": "http://www.nytimes.com/2014/09/25/us/in-a-mississippi-jail-convictions-and-counsel-appear-optional.html?ref=us", 
-            "author": "madazzahatter", 
-            "permalink": "http://www.reddit.com/r/news/comments/2hf2p4/civil_liberties_groups_have_filed_a_federal_class/", 
-            "created-utc": 1411640576.0, 
-            "id": "2hf2p4"
-        }, 
-        {
-            "num-comments": 39, 
-            "domain": "inhabitat.com", 
-            "score": 217, 
-            "nsfw": false, 
-            "title": "16-Year-Old Irish Girls Win Google Science Fair 2014 With World-Changing Crop Yield Breakthrough", 
-            "url": "http://inhabitat.com/16-year-old-irish-girls-win-google-science-fair-2014-with-world-changing-crop-yield-breakthrough/", 
-            "author": "1ch", 
-            "permalink": "http://www.reddit.com/r/news/comments/2heotc/16yearold_irish_girls_win_google_science_fair/", 
-            "created-utc": 1411625717.0, 
-            "id": "2heotc"
-        }, 
-        {
-            "num-comments": 139, 
+            "num-comments": 147, 
             "domain": "kfor.com", 
-            "score": 258, 
+            "score": 345, 
             "nsfw": false, 
             "title": "11 year old shoots moms ex boyfriend that was stabbing her", 
             "url": "http://kfor.com/2014/09/24/okc-police-child-calls-911-saying-mother-was-stabbed/", 
@@ -222,9 +198,33 @@
             "id": "2hft4z"
         }, 
         {
-            "num-comments": 56, 
+            "num-comments": 23, 
+            "domain": "nytimes.com", 
+            "score": 252, 
+            "nsfw": false, 
+            "title": "Civil liberties groups have filed a federal class action lawsuit charging that inmates at the jail in Scott County, Mississippi, are \u201cindefinitely detained\u201d and denied counsel.", 
+            "url": "http://www.nytimes.com/2014/09/25/us/in-a-mississippi-jail-convictions-and-counsel-appear-optional.html?ref=us", 
+            "author": "madazzahatter", 
+            "permalink": "http://www.reddit.com/r/news/comments/2hf2p4/civil_liberties_groups_have_filed_a_federal_class/", 
+            "created-utc": 1411640576.0, 
+            "id": "2hf2p4"
+        }, 
+        {
+            "num-comments": 41, 
+            "domain": "inhabitat.com", 
+            "score": 223, 
+            "nsfw": false, 
+            "title": "16-Year-Old Irish Girls Win Google Science Fair 2014 With World-Changing Crop Yield Breakthrough", 
+            "url": "http://inhabitat.com/16-year-old-irish-girls-win-google-science-fair-2014-with-world-changing-crop-yield-breakthrough/", 
+            "author": "1ch", 
+            "permalink": "http://www.reddit.com/r/news/comments/2heotc/16yearold_irish_girls_win_google_science_fair/", 
+            "created-utc": 1411625717.0, 
+            "id": "2heotc"
+        }, 
+        {
+            "num-comments": 63, 
             "domain": "lettertobaghdadi.com", 
-            "score": 212, 
+            "score": 254, 
             "nsfw": false, 
             "title": "Everyone is always asking for Muslims to renounce terrorism/ISIS. 126 top Islamic scholars just did that.", 
             "url": "http://lettertobaghdadi.com/", 
@@ -234,9 +234,9 @@
             "id": "2hfur1"
         }, 
         {
-            "num-comments": 233, 
+            "num-comments": 243, 
             "domain": "nation.foxnews.com", 
-            "score": 157, 
+            "score": 162, 
             "nsfw": false, 
             "title": "Female Teacher Charged With Having Sex With Three Male Students At School", 
             "url": "http://nation.foxnews.com/2014/09/20/female-teacher-charged-having-sex-three-male-students-school", 
@@ -246,21 +246,9 @@
             "id": "2hfefr"
         }, 
         {
-            "num-comments": 59, 
-            "domain": "foxnews.com", 
-            "score": 119, 
-            "nsfw": false, 
-            "title": "Philadelphia mom arrested for bringing registered gun across New Jersey border may be spared prison sentence", 
-            "url": "http://www.foxnews.com/us/2014/09/24/mom-arrested-for-bringing-registered-gun-across-nj-border-may-be-spared-prison/", 
-            "author": "Sunking278", 
-            "permalink": "http://www.reddit.com/r/news/comments/2he684/philadelphia_mom_arrested_for_bringing_registered/", 
-            "created-utc": 1411612144.0, 
-            "id": "2he684"
-        }, 
-        {
-            "num-comments": 39, 
+            "num-comments": 43, 
             "domain": "parsippanyfocus.com", 
-            "score": 134, 
+            "score": 153, 
             "nsfw": false, 
             "title": "New Jersey girl kidnaps herself by climbing into her own trunk; calls police who find her in her own trunk &amp; is arrested for making a false police report", 
             "url": "http://www.parsippanyfocus.com/lake-hiawatha-kidnapped-herself-arrested-and-released/", 
@@ -270,9 +258,33 @@
             "id": "2hg12t"
         }, 
         {
-            "num-comments": 30, 
+            "num-comments": 106, 
+            "domain": "washingtonpost.com", 
+            "score": 261, 
+            "nsfw": false, 
+            "title": "FBI blasts Apple, Google for locking police out of phones", 
+            "url": "http://www.washingtonpost.com/business/technology/2014/09/25/68c4e08e-4344-11e4-9a15-137aa0153527_story.html", 
+            "author": "brandhay", 
+            "permalink": "http://www.reddit.com/r/news/comments/2hgqkm/fbi_blasts_apple_google_for_locking_police_out_of/", 
+            "created-utc": 1411677580.0, 
+            "id": "2hgqkm"
+        }, 
+        {
+            "num-comments": 62, 
+            "domain": "foxnews.com", 
+            "score": 117, 
+            "nsfw": false, 
+            "title": "Philadelphia mom arrested for bringing registered gun across New Jersey border may be spared prison sentence", 
+            "url": "http://www.foxnews.com/us/2014/09/24/mom-arrested-for-bringing-registered-gun-across-nj-border-may-be-spared-prison/", 
+            "author": "Sunking278", 
+            "permalink": "http://www.reddit.com/r/news/comments/2he684/philadelphia_mom_arrested_for_bringing_registered/", 
+            "created-utc": 1411612144.0, 
+            "id": "2he684"
+        }, 
+        {
+            "num-comments": 31, 
             "domain": "dw.de", 
-            "score": 114, 
+            "score": 117, 
             "nsfw": false, 
             "title": "Germany to offer South Korea tips on reunification: Berlin and Seoul set up advisory panel to pass on the foreign policy lessons Germany learned from reunification in 1990.", 
             "url": "http://www.dw.de/germany-to-offer-south-korea-tips-on-reunification/a-17954420", 
@@ -282,9 +294,9 @@
             "id": "2hf0wy"
         }, 
         {
-            "num-comments": 32, 
+            "num-comments": 34, 
             "domain": "rollingout.com", 
-            "score": 87, 
+            "score": 93, 
             "nsfw": false, 
             "title": "Atlanta rappers lose freestyle battle to female, set her on fire", 
             "url": "http://rollingout.com/criminal-behavior/atlanta-rappers-lose-freestyle-battle-female-decide-teach-violent-lesson/#_", 
@@ -292,18 +304,6 @@
             "permalink": "http://www.reddit.com/r/news/comments/2hesdv/atlanta_rappers_lose_freestyle_battle_to_female/", 
             "created-utc": 1411629103.0, 
             "id": "2hesdv"
-        }, 
-        {
-            "num-comments": 51, 
-            "domain": "washingtonpost.com", 
-            "score": 144, 
-            "nsfw": false, 
-            "title": "FBI blasts Apple, Google for locking police out of phones", 
-            "url": "http://www.washingtonpost.com/business/technology/2014/09/25/68c4e08e-4344-11e4-9a15-137aa0153527_story.html", 
-            "author": "brandhay", 
-            "permalink": "http://www.reddit.com/r/news/comments/2hgqkm/fbi_blasts_apple_google_for_locking_police_out_of/", 
-            "created-utc": 1411677580.0, 
-            "id": "2hgqkm"
         }
     ], 
     "api-url": "http://daily.red/news.json", 

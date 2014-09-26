@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411697760, 
+    "generated-utc": 1411705308, 
     "description": "You learn something new every day; what did you learn today? Submit interesting and specific facts about something that you just found out here.", 
     "title": "Today I Learned (TIL)", 
     "full-url": "http://www.reddit.com/r/todayilearned/", 
     "posts": [
         {
-            "num-comments": 705, 
+            "num-comments": 706, 
             "domain": "ibtimes.com", 
-            "score": 4038, 
+            "score": 4044, 
             "nsfw": false, 
             "title": "TIL that according to a recent report from the FCC, the average cable bill rose four times the rate of inflation in 2012. More than three-quarters of American households have no choice in a local cable provider.", 
             "url": "http://www.ibtimes.com/cable-bills-rising-amid-comcast-twc-merger-scrutiny-fcc-media-bureau-report-shows-pay-tv-1587304", 
@@ -18,21 +18,9 @@
             "id": "2he5mw"
         }, 
         {
-            "num-comments": 1019, 
-            "domain": "consumerist.com", 
-            "score": 3584, 
-            "nsfw": false, 
-            "title": "TIL that a man successfully \"foreclosed\" on a Wells Fargo office because they failed to respond to his letters of inquiry and then ignored his $1,000 small claims judgement.", 
-            "url": "http://consumerist.com/2011/03/03/patrick-rodgers-describes-how-he-foreclosed-on-wells-fargo-step-by-step/", 
-            "author": "tapedeck84", 
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hfmlx/til_that_a_man_successfully_foreclosed_on_a_wells/", 
-            "created-utc": 1411656346.0, 
-            "id": "2hfmlx"
-        }, 
-        {
-            "num-comments": 1418, 
+            "num-comments": 1566, 
             "domain": "pbs.org", 
-            "score": 3606, 
+            "score": 3630, 
             "nsfw": false, 
             "title": "TIL in his final days Lyndon B. Johnson would listen to \"Bridge Over Troubled Water\" by Simon and Garfunkel repeatedly while agonizing over his legacy; worrying that he would only be remembered for the Vietnam War and not as the architect of equal rights and Medicare.", 
             "url": "http://www.pbs.org/newshour/rundown/lbjs-last-interview/", 
@@ -42,9 +30,21 @@
             "id": "2hft6s"
         }, 
         {
-            "num-comments": 643, 
+            "num-comments": 1063, 
+            "domain": "consumerist.com", 
+            "score": 3558, 
+            "nsfw": false, 
+            "title": "TIL that a man successfully \"foreclosed\" on a Wells Fargo office because they failed to respond to his letters of inquiry and then ignored his $1,000 small claims judgement.", 
+            "url": "http://consumerist.com/2011/03/03/patrick-rodgers-describes-how-he-foreclosed-on-wells-fargo-step-by-step/", 
+            "author": "tapedeck84", 
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hfmlx/til_that_a_man_successfully_foreclosed_on_a_wells/", 
+            "created-utc": 1411656346.0, 
+            "id": "2hfmlx"
+        }, 
+        {
+            "num-comments": 653, 
             "domain": "twentytwowords.com", 
-            "score": 3439, 
+            "score": 3437, 
             "nsfw": false, 
             "title": "TIL the first-ever webcam was invented at the University of Cambridge to watch a coffee pot in the break room. Now people could see if there was fresh coffee without getting up from their desks.", 
             "url": "http://twentytwowords.com/the-first-webcam-was-invented-to-watch-a-coffee-pot/", 
@@ -54,9 +54,9 @@
             "id": "2hf25r"
         }, 
         {
-            "num-comments": 315, 
+            "num-comments": 532, 
             "domain": "smithsonianmag.com", 
-            "score": 3766, 
+            "score": 3772, 
             "nsfw": false, 
             "title": "TIL every sweater that Mr. Rogers wore in Mister Rogers' Neighborhood was hand-knit by his mother.", 
             "url": "http://www.smithsonianmag.com/arts-culture/the-indelible-mister-rogers-136524510/", 
@@ -66,9 +66,9 @@
             "id": "2hgrv4"
         }, 
         {
-            "num-comments": 408, 
+            "num-comments": 422, 
             "domain": "plannedparenthood.tumblr.com", 
-            "score": 2097, 
+            "score": 2147, 
             "nsfw": false, 
             "title": "TIL that Plan B, the emergency contraceptive, is less effective in women weighing 165 lbs or more and virtually non effective in women weighing more than 175 lbs", 
             "url": "http://plannedparenthood.tumblr.com/post/68197145284/does-my-weight-affect-which-emergency-contraception-i", 
@@ -78,9 +78,9 @@
             "id": "2heljo"
         }, 
         {
-            "num-comments": 100, 
+            "num-comments": 103, 
             "domain": "en.wikipedia.org", 
-            "score": 1891, 
+            "score": 1957, 
             "nsfw": false, 
             "title": "TIL that in 1996, a female gorilla named Binti Jua saved the life of a 3 year old boy who fell into her encampment by carefully carrying him to the door and growling at any approaching gorilla", 
             "url": "http://en.wikipedia.org/wiki/Binti_Jua#August_16.2C_1996", 
@@ -90,9 +90,9 @@
             "id": "2henn8"
         }, 
         {
-            "num-comments": 151, 
+            "num-comments": 173, 
             "domain": "pcgamer.com", 
-            "score": 1784, 
+            "score": 1922, 
             "nsfw": false, 
             "title": "TIL Gabe Newell is so confident in Valve's Steam Guard he has announced his Steam username and password and challenged people to get in", 
             "url": "http://www.pcgamer.com/2011/03/05/gabe-newell-gives-out-his-steam-password/", 
@@ -102,9 +102,9 @@
             "id": "2hfbni"
         }, 
         {
-            "num-comments": 227, 
+            "num-comments": 247, 
             "domain": "huffingtonpost.com", 
-            "score": 1555, 
+            "score": 1672, 
             "nsfw": false, 
             "title": "TIL some inmates in Greenland hold the keys of their own cells, may leave the premises during the day to go to work/school and are even allowed to go hunting with rifles to shoot birds and seals.", 
             "url": "http://www.huffingtonpost.com/2012/01/04/greenland-prison-system_n_1181697.html", 
@@ -114,9 +114,9 @@
             "id": "2hf5ux"
         }, 
         {
-            "num-comments": 96, 
+            "num-comments": 102, 
             "domain": "en.wikipedia.org", 
-            "score": 1438, 
+            "score": 1500, 
             "nsfw": false, 
             "title": "TIL that Bob Marley's father, Norval Marley, was a white English man. Working as an overseer on a Jamaican plantation, he impregnated the singer's African mother when he was 60 and she was just 17 years old", 
             "url": "http://en.wikipedia.org/wiki/Norval_Marley", 
@@ -126,9 +126,9 @@
             "id": "2hewx4"
         }, 
         {
-            "num-comments": 49, 
+            "num-comments": 56, 
             "domain": "en.wikipedia.org", 
-            "score": 1424, 
+            "score": 1665, 
             "nsfw": false, 
             "title": "TIL of Clement Vallandigham, a lawyer who, while trying to demonstrate how the victim might have accidentally shot himself, shot himself and died. He then won the case.", 
             "url": "https://en.wikipedia.org/wiki/Clement_Vallandigham#Death", 
@@ -138,9 +138,9 @@
             "id": "2hfk4y"
         }, 
         {
-            "num-comments": 174, 
+            "num-comments": 255, 
             "domain": "temporachristiana.wordpress.com", 
-            "score": 1130, 
+            "score": 1293, 
             "nsfw": false, 
             "title": "TIL that in Jerusalem, under the Ottomans, Jews would celebrate Islamic religious holidays with Muslims, and Muslims would join Jews in celebrating Jewish religious holidays.", 
             "url": "https://temporachristiana.wordpress.com/category/modern-world/page/19/", 
@@ -150,9 +150,9 @@
             "id": "2hfgee"
         }, 
         {
-            "num-comments": 121, 
+            "num-comments": 125, 
             "domain": "en.wikipedia.org", 
-            "score": 1070, 
+            "score": 1103, 
             "nsfw": false, 
             "title": "TIL Germans score higher than the English on IELTS, The International English Language Testing System", 
             "url": "http://en.wikipedia.org/wiki/International_English_Language_Testing_System#Results_by_first_language_of_candidate_.28academic.29", 
@@ -162,9 +162,9 @@
             "id": "2hewpn"
         }, 
         {
-            "num-comments": 46, 
+            "num-comments": 49, 
             "domain": "en.wikipedia.org", 
-            "score": 1051, 
+            "score": 1104, 
             "nsfw": false, 
             "title": "TIL that Okapis have 14 inch long prehensile tongues and are capable of reaching and cleaning their own eyes and ears with it.", 
             "url": "http://en.wikipedia.org/wiki/Okapi#Characteristics_and_behavior", 
@@ -174,9 +174,9 @@
             "id": "2hf09a"
         }, 
         {
-            "num-comments": 71, 
+            "num-comments": 73, 
             "domain": "en.wikipedia.org", 
-            "score": 926, 
+            "score": 958, 
             "nsfw": false, 
             "title": "TIL a nightmare refers to a literal night mare: a \"mare\" is a demon which gives you bad dreams.", 
             "url": "http://en.wikipedia.org/wiki/Mare_(folklore)", 
@@ -186,9 +186,9 @@
             "id": "2hes4w"
         }, 
         {
-            "num-comments": 48, 
+            "num-comments": 69, 
             "domain": "gohawaii.about.com", 
-            "score": 912, 
+            "score": 1361, 
             "nsfw": false, 
             "title": "TIL there is a version of the Bible translated into Hawaiian Pidgin called 'Da Jesus Book'", 
             "url": "http://gohawaii.about.com/od/language/fr/Da-Jesus-Book.htm", 
@@ -198,9 +198,9 @@
             "id": "2hgf53"
         }, 
         {
-            "num-comments": 71, 
+            "num-comments": 72, 
             "domain": "en.wikipedia.org", 
-            "score": 636, 
+            "score": 644, 
             "nsfw": false, 
             "title": "TIL Snoop Dogg and Nate Dogg are actually cousins", 
             "url": "http://en.wikipedia.org/wiki/Snoop_Dogg", 
@@ -210,21 +210,9 @@
             "id": "2hebv0"
         }, 
         {
-            "num-comments": 87, 
+            "num-comments": 30, 
             "domain": "en.wikipedia.org", 
-            "score": 571, 
-            "nsfw": false, 
-            "title": "TIL a male honey bee ejaculates so forcefully that it dies shortly after", 
-            "url": "http://www.en.wikipedia.org/wiki/Drone_(bee)", 
-            "author": "n0rion", 
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hf2c7/til_a_male_honey_bee_ejaculates_so_forcefully/", 
-            "created-utc": 1411640151.0, 
-            "id": "2hf2c7"
-        }, 
-        {
-            "num-comments": 21, 
-            "domain": "en.wikipedia.org", 
-            "score": 599, 
+            "score": 708, 
             "nsfw": false, 
             "title": "TIL that Adrien Beard was chosen to voice the character \"Token\", because he was the only African-American employed at South Park Studios at the time of token's first appearance.", 
             "url": "http://en.wikipedia.org/wiki/Adrien_Beard", 
@@ -234,21 +222,21 @@
             "id": "2hfi1o"
         }, 
         {
-            "num-comments": 22, 
+            "num-comments": 89, 
             "domain": "en.wikipedia.org", 
-            "score": 533, 
+            "score": 599, 
             "nsfw": false, 
-            "title": "TIL American Revolutionary War officer William Stacy escaped death by burning at the stake because he and his captor were both Freemasons. He also ice-skated thirty miles up a frozen river to warn his sons about a possible Native American attack when he was 56 years old.", 
-            "url": "http://en.wikipedia.org/wiki/William_Stacy", 
-            "author": "The_Persian_Cat", 
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hf2rf/til_american_revolutionary_war_officer_william/", 
-            "created-utc": 1411640657.0, 
-            "id": "2hf2rf"
+            "title": "TIL a male honey bee ejaculates so forcefully that it dies shortly after", 
+            "url": "http://www.en.wikipedia.org/wiki/Drone_(bee)", 
+            "author": "n0rion", 
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hf2c7/til_a_male_honey_bee_ejaculates_so_forcefully/", 
+            "created-utc": 1411640151.0, 
+            "id": "2hf2c7"
         }, 
         {
-            "num-comments": 18, 
+            "num-comments": 20, 
             "domain": "eenzameuitvaart.nl", 
-            "score": 562, 
+            "score": 781, 
             "nsfw": false, 
             "title": "TIL if you die in Amsterdam without anyone attending your funeral, a poet will write a poem for you and recite it at your burial. A biography of their life is also written on their website for anyone to read. They are to remain unnamed.", 
             "url": "http://www.eenzameuitvaart.nl/pers-publiciteit/", 
@@ -258,21 +246,21 @@
             "id": "2hgayt"
         }, 
         {
-            "num-comments": 41, 
-            "domain": "ora.tv", 
-            "score": 365, 
+            "num-comments": 23, 
+            "domain": "en.wikipedia.org", 
+            "score": 561, 
             "nsfw": false, 
-            "title": "TIL in Sandy Springs, Georgia, it's illegal to buy a sex toy unless you have a prescription from a doctor.", 
-            "url": "http://www.ora.tv/wtfark/sex-toys-and-the-city-georgia-town-makes-sex-toys-illegal-unless-you-have-a-doctors-note-0_39shfxi08gkv", 
-            "author": "mrylande", 
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hfeju/til_in_sandy_springs_georgia_its_illegal_to_buy_a/", 
-            "created-utc": 1411651229.0, 
-            "id": "2hfeju"
+            "title": "TIL American Revolutionary War officer William Stacy escaped death by burning at the stake because he and his captor were both Freemasons. He also ice-skated thirty miles up a frozen river to warn his sons about a possible Native American attack when he was 56 years old.", 
+            "url": "http://en.wikipedia.org/wiki/William_Stacy", 
+            "author": "The_Persian_Cat", 
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hf2rf/til_american_revolutionary_war_officer_william/", 
+            "created-utc": 1411640657.0, 
+            "id": "2hf2rf"
         }, 
         {
-            "num-comments": 29, 
+            "num-comments": 41, 
             "domain": "en.wikipedia.org", 
-            "score": 413, 
+            "score": 599, 
             "nsfw": false, 
             "title": "Today I learned Tom and Jerry cartoons won seven Oscars, and were nominated for six more.", 
             "url": "http://en.wikipedia.org/wiki/Tom_and_Jerry#Filmography", 
@@ -282,9 +270,21 @@
             "id": "2hg9cs"
         }, 
         {
-            "num-comments": 56, 
+            "num-comments": 44, 
+            "domain": "ora.tv", 
+            "score": 401, 
+            "nsfw": false, 
+            "title": "TIL in Sandy Springs, Georgia, it's illegal to buy a sex toy unless you have a prescription from a doctor.", 
+            "url": "http://www.ora.tv/wtfark/sex-toys-and-the-city-georgia-town-makes-sex-toys-illegal-unless-you-have-a-doctors-note-0_39shfxi08gkv", 
+            "author": "mrylande", 
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hfeju/til_in_sandy_springs_georgia_its_illegal_to_buy_a/", 
+            "created-utc": 1411651229.0, 
+            "id": "2hfeju"
+        }, 
+        {
+            "num-comments": 58, 
             "domain": "en.wikipedia.org", 
-            "score": 339, 
+            "score": 383, 
             "nsfw": false, 
             "title": "TIL that rubbing peanut butter on a stubbed toe acts as a pain killer, due to the oil in the peanuts.", 
             "url": "http://en.wikipedia.org/wiki/Toe#ClinicalRelevance", 
@@ -294,9 +294,9 @@
             "id": "2hfo5r"
         }, 
         {
-            "num-comments": 20, 
+            "num-comments": 25, 
             "domain": "rottentomatoes.com", 
-            "score": 322, 
+            "score": 452, 
             "nsfw": false, 
             "title": "TIL Alfred Hitchcock directed a remake of one of his own movies, The Man Who Knew Too Much (1934 and 1956). Both of which have 89% and 91%, respectively on Rotten Tomatoes.", 
             "url": "http://www.rottentomatoes.com/m/godzilla_2014/news/1931078/movies_re-freshed/?utm_source=zergnet.com&amp;utm_medium=referral&amp;utm_campaign=zergnet_264718", 

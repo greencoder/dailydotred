@@ -1,14 +1,14 @@
 {
     "category": "News", 
-    "generated-utc": 1411697805, 
+    "generated-utc": 1411705359, 
     "description": "A place for major news from around the world, excluding US-internal news.", 
     "title": "World News", 
     "full-url": "http://www.reddit.com/r/worldnews/", 
     "posts": [
         {
-            "num-comments": 3088, 
+            "num-comments": 3335, 
             "domain": "smh.com.au", 
-            "score": 4979, 
+            "score": 5004, 
             "nsfw": false, 
             "title": "Terror laws clear Senate, enabling entire Australian web to be monitored and whistleblowers to be jailed", 
             "url": "http://www.smh.com.au/digital-life/consumer-security/terror-laws-clear-senate-enabling-entire-australian-web-to-be-monitored-and-whistleblowers-to-be-jailed-20140925-10m8ih.html", 
@@ -18,9 +18,9 @@
             "id": "2hfevd"
         }, 
         {
-            "num-comments": 952, 
+            "num-comments": 957, 
             "domain": "inhabitat.com", 
-            "score": 3610, 
+            "score": 3621, 
             "nsfw": false, 
             "title": "16-Year-Old Irish Girls Win Google Science Fair 2014 With World-Changing Crop Yield Breakthrough", 
             "url": "http://inhabitat.com/16-year-old-irish-girls-win-google-science-fair-2014-with-world-changing-crop-yield-breakthrough/", 
@@ -30,21 +30,9 @@
             "id": "2heown"
         }, 
         {
-            "num-comments": 106, 
-            "domain": "theguardian.com", 
-            "score": 2877, 
-            "nsfw": false, 
-            "title": "Turkey\u2019s \u2018turtle beach\u2019, saved from bulldozers in the 1980s, faces new threat from developers - The 91-yr-old Englishwoman who famously saved the beach \u2013 a key nesting site for loggerhead turtles \u2013 25 yrs ago, launches petition to protect it from new plans for tourist development", 
-            "url": "http://www.theguardian.com/travel/2014/sep/25/turkey-turtle-beach-faces-threat-development", 
-            "author": "anutensil", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hf7hw/turkeys_turtle_beach_saved_from_bulldozers_in_the/", 
-            "created-utc": 1411645585.0, 
-            "id": "2hf7hw"
-        }, 
-        {
-            "num-comments": 473, 
+            "num-comments": 519, 
             "domain": "dailymail.co.uk", 
-            "score": 2894, 
+            "score": 3076, 
             "nsfw": false, 
             "title": "The son of the heir to the Saudi Arabian throne has personally put the royal seal of approval on the attacks against Isis, by taking part in bombing runs.", 
             "url": "http://www.dailymail.co.uk/news/article-2769089/Saudi-prince-Emirate-s-female-pilot-lead-blitz-ISIS-Arab-states-send-squadrons-fighters-blast-terror-group-Iraq-Syria.html", 
@@ -54,21 +42,21 @@
             "id": "2hf9gx"
         }, 
         {
-            "num-comments": 312, 
-            "domain": "time.com", 
-            "score": 1952, 
+            "num-comments": 112, 
+            "domain": "theguardian.com", 
+            "score": 3042, 
             "nsfw": false, 
-            "title": "The Olympic Committee adds anti-discrimination clause for host cities, in response to Russia's homophobic policies", 
-            "url": "http://time.com/3427596/olympic-committee-host-discrimination/", 
-            "author": "KarmaTracker", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2he3hr/the_olympic_committee_adds_antidiscrimination/", 
-            "created-utc": 1411610535.0, 
-            "id": "2he3hr"
+            "title": "Turkey\u2019s \u2018turtle beach\u2019, saved from bulldozers in the 1980s, faces new threat from developers - The 91-yr-old Englishwoman who famously saved the beach \u2013 a key nesting site for loggerhead turtles \u2013 25 yrs ago, launches petition to protect it from new plans for tourist development", 
+            "url": "http://www.theguardian.com/travel/2014/sep/25/turkey-turtle-beach-faces-threat-development", 
+            "author": "anutensil", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hf7hw/turkeys_turtle_beach_saved_from_bulldozers_in_the/", 
+            "created-utc": 1411645585.0, 
+            "id": "2hf7hw"
         }, 
         {
-            "num-comments": 641, 
+            "num-comments": 707, 
             "domain": "cbc.ca", 
-            "score": 1865, 
+            "score": 2220, 
             "nsfw": false, 
             "title": "ISIS plot uncovered to attack New York, Paris subways, Iraq PM says", 
             "url": "http://www.cbc.ca/news/world/isis-plot-uncovered-to-attack-new-york-paris-subways-iraq-pm-says-1.2777707", 
@@ -78,9 +66,9 @@
             "id": "2hfsmm"
         }, 
         {
-            "num-comments": 261, 
+            "num-comments": 276, 
             "domain": "uk.reuters.com", 
-            "score": 1198, 
+            "score": 1277, 
             "nsfw": false, 
             "title": "China to send 700 troops to South Sudan to assist UN mission - fighting has threatened Beijing's oil investments -", 
             "url": "http://uk.reuters.com/article/2014/09/25/china-southsudan-un-idUKL3N0RQ35L20140925", 
@@ -90,33 +78,9 @@
             "id": "2hezzd"
         }, 
         {
-            "num-comments": 237, 
-            "domain": "bbc.com", 
-            "score": 781, 
-            "nsfw": false, 
-            "title": "A \"deadly serious\" bug potentially affecting hundreds of millions of computers, servers and devices has been discovered. Experts say it is more serious than Heartbleed.", 
-            "url": "http://www.bbc.com/news/technology-29361794", 
-            "author": "DVos", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hf8jw/a_deadly_serious_bug_potentially_affecting/", 
-            "created-utc": 1411646593.0, 
-            "id": "2hf8jw"
-        }, 
-        {
-            "num-comments": 39, 
-            "domain": "couriermail.com.au", 
-            "score": 651, 
-            "nsfw": false, 
-            "title": "Australian power company caught overcharging customers to recoup losses due to increase in residential solar.", 
-            "url": "http://www.couriermail.com.au/news/queensland/consumers-to-pay-as-energex-recovers-revenue-cap-gap-of-4698-million/story-fnihsrf2-1227069557540", 
-            "author": "UdderHunter", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hdz5z/australian_power_company_caught_overcharging/", 
-            "created-utc": 1411607943.0, 
-            "id": "2hdz5z"
-        }, 
-        {
-            "num-comments": 406, 
+            "num-comments": 658, 
             "domain": "telegraph.co.uk", 
-            "score": 1009, 
+            "score": 2021, 
             "nsfw": false, 
             "title": "Ultra-Orthodox Jews cause chaos on flight to Israel by demanding segregation of men and women", 
             "url": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11121519/Ultra-Orthodox-Jews-cause-chaos-on-flight-to-Israel.html", 
@@ -126,9 +90,21 @@
             "id": "2hgbil"
         }, 
         {
-            "num-comments": 178, 
+            "num-comments": 254, 
+            "domain": "bbc.com", 
+            "score": 898, 
+            "nsfw": false, 
+            "title": "A \"deadly serious\" bug potentially affecting hundreds of millions of computers, servers and devices has been discovered. Experts say it is more serious than Heartbleed.", 
+            "url": "http://www.bbc.com/news/technology-29361794", 
+            "author": "DVos", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hf8jw/a_deadly_serious_bug_potentially_affecting/", 
+            "created-utc": 1411646593.0, 
+            "id": "2hf8jw"
+        }, 
+        {
+            "num-comments": 191, 
             "domain": "timesofoman.com", 
-            "score": 630, 
+            "score": 669, 
             "nsfw": false, 
             "title": "India's spacecraft beams back first Mars photos", 
             "url": "http://www.timesofoman.com/News/40473/Article-Indias-spacecraft-beams-back-first-Mars-photos", 
@@ -138,33 +114,9 @@
             "id": "2hey9j"
         }, 
         {
-            "num-comments": 307, 
-            "domain": "wjla.com", 
-            "score": 413, 
-            "nsfw": false, 
-            "title": "Bodies of Ebola Victims Being Thrown Into Rivers", 
-            "url": "http://www.wjla.com/articles/2014/09/cdc-ebola-cases-could-hit-1-4-million-by-mid-january-107421.html", 
-            "author": "MuhJickThizz", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hed61/bodies_of_ebola_victims_being_thrown_into_rivers/", 
-            "created-utc": 1411616557.0, 
-            "id": "2hed61"
-        }, 
-        {
-            "num-comments": 52, 
-            "domain": "hurriyetdailynews.com", 
-            "score": 402, 
-            "nsfw": false, 
-            "title": "Arab-Kurdish couple ties the knot in landmark gay wedding in Istanbul, Turkey", 
-            "url": "http://www.hurriyetdailynews.com/arab-kurdish-couple-ties-the-knot-in-landmark-gay-wedding.aspx?PageID=238&amp;NID=72121&amp;NewsCatID=339", 
-            "author": "Turanid", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hf00w/arabkurdish_couple_ties_the_knot_in_landmark_gay/", 
-            "created-utc": 1411637663.0, 
-            "id": "2hf00w"
-        }, 
-        {
-            "num-comments": 173, 
+            "num-comments": 401, 
             "domain": "ibtimes.com", 
-            "score": 566, 
+            "score": 1364, 
             "nsfw": false, 
             "title": "ISIS Overruns Iraqi Army Base Near Baghdad, Executes 300 Soldiers", 
             "url": "http://www.ibtimes.com/isis-overruns-iraqi-army-base-near-baghdad-executes-300-soldiers-1695131", 
@@ -174,21 +126,45 @@
             "id": "2hglhi"
         }, 
         {
-            "num-comments": 116, 
-            "domain": "smh.com.au", 
-            "score": 282, 
+            "num-comments": 311, 
+            "domain": "wjla.com", 
+            "score": 428, 
             "nsfw": false, 
-            "title": "Ukrainian Army picks up random civilians for prisoner exchange.", 
-            "url": "http://www.smh.com.au/world/ukraine-picks-motley-group-to-exchange-for-prisoners-20140925-10lqh0.html", 
-            "author": "sirboozebum", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hed9g/ukrainian_army_picks_up_random_civilians_for/", 
-            "created-utc": 1411616620.0, 
-            "id": "2hed9g"
+            "title": "Bodies of Ebola Victims Being Thrown Into Rivers", 
+            "url": "http://www.wjla.com/articles/2014/09/cdc-ebola-cases-could-hit-1-4-million-by-mid-january-107421.html", 
+            "author": "MuhJickThizz", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hed61/bodies_of_ebola_victims_being_thrown_into_rivers/", 
+            "created-utc": 1411616557.0, 
+            "id": "2hed61"
         }, 
         {
-            "num-comments": 54, 
+            "num-comments": 53, 
+            "domain": "hurriyetdailynews.com", 
+            "score": 419, 
+            "nsfw": false, 
+            "title": "Arab-Kurdish couple ties the knot in landmark gay wedding in Istanbul, Turkey", 
+            "url": "http://www.hurriyetdailynews.com/arab-kurdish-couple-ties-the-knot-in-landmark-gay-wedding.aspx?PageID=238&amp;NID=72121&amp;NewsCatID=339", 
+            "author": "Turanid", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hf00w/arabkurdish_couple_ties_the_knot_in_landmark_gay/", 
+            "created-utc": 1411637663.0, 
+            "id": "2hf00w"
+        }, 
+        {
+            "num-comments": 118, 
+            "domain": "weather.com", 
+            "score": 1074, 
+            "nsfw": false, 
+            "title": "Fukushima, Japan Rocked By Two Earthquakes in One Hour; Epicenter Near Nuclear Plants", 
+            "url": "http://www.weather.com/news/fukushima-two-earthquakes-one-hour-20140924", 
+            "author": "LukeSkywalker22", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hgptn/fukushima_japan_rocked_by_two_earthquakes_in_one/", 
+            "created-utc": 1411677177.0, 
+            "id": "2hgptn"
+        }, 
+        {
+            "num-comments": 70, 
             "domain": "jpost.com", 
-            "score": 315, 
+            "score": 370, 
             "nsfw": false, 
             "title": "Fatah, Hamas agree to cede control of Gaza to unity government", 
             "url": "http://www.jpost.com/Arab-Israeli-Conflict/Report-Fatah-Hamas-agree-to-cede-control-of-Gaza-to-unity-government-376331", 
@@ -198,9 +174,21 @@
             "id": "2hfnli"
         }, 
         {
-            "num-comments": 209, 
+            "num-comments": 117, 
+            "domain": "smh.com.au", 
+            "score": 284, 
+            "nsfw": false, 
+            "title": "Ukrainian Army picks up random civilians for prisoner exchange.", 
+            "url": "http://www.smh.com.au/world/ukraine-picks-motley-group-to-exchange-for-prisoners-20140925-10lqh0.html", 
+            "author": "sirboozebum", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hed9g/ukrainian_army_picks_up_random_civilians_for/", 
+            "created-utc": 1411616620.0, 
+            "id": "2hed9g"
+        }, 
+        {
+            "num-comments": 220, 
             "domain": "abcnews.go.com", 
-            "score": 270, 
+            "score": 300, 
             "nsfw": false, 
             "title": "Dutch Military Personnel Told Not to Wear Uniform on Bus or Train For Fear of Radical Muslim Attacks", 
             "url": "http://abcnews.go.com/International/wireStory/dutch-troops-told-wear-uniform-bus-train-25748296", 
@@ -212,7 +200,7 @@
         {
             "num-comments": 20, 
             "domain": "news.yahoo.com", 
-            "score": 247, 
+            "score": 249, 
             "nsfw": false, 
             "title": "Over 1,000 arrested in unprecedented swoop: Europol", 
             "url": "http://news.yahoo.com/over-1-000-arrested-organised-crime-swoop-europol-000815771.html", 
@@ -222,7 +210,7 @@
             "id": "2hf1uk"
         }, 
         {
-            "num-comments": 195, 
+            "num-comments": 196, 
             "domain": "telegraph.co.uk", 
             "score": 245, 
             "nsfw": false, 
@@ -234,21 +222,9 @@
             "id": "2he7jf"
         }, 
         {
-            "num-comments": 60, 
-            "domain": "weather.com", 
-            "score": 425, 
-            "nsfw": false, 
-            "title": "Fukushima, Japan Rocked By Two Earthquakes in One Hour; Epicenter Near Nuclear Plants", 
-            "url": "http://www.weather.com/news/fukushima-two-earthquakes-one-hour-20140924", 
-            "author": "LukeSkywalker22", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hgptn/fukushima_japan_rocked_by_two_earthquakes_in_one/", 
-            "created-utc": 1411677177.0, 
-            "id": "2hgptn"
-        }, 
-        {
-            "num-comments": 18, 
+            "num-comments": 21, 
             "domain": "lab.org.uk", 
-            "score": 243, 
+            "score": 288, 
             "nsfw": false, 
             "title": "Four Peruvian Anti-Logging Activists Murdered", 
             "url": "http://lab.org.uk/four-peruvian-anti-logging-activists-murdered", 
@@ -258,9 +234,9 @@
             "id": "2hfixb"
         }, 
         {
-            "num-comments": 111, 
+            "num-comments": 119, 
             "domain": "nknews.org", 
-            "score": 226, 
+            "score": 268, 
             "nsfw": false, 
             "title": "Kim Jong Un absent from second session of 13th Supreme People\u2019s Assembly", 
             "url": "http://www.nknews.org/2014/09/kim-jong-un-absent-from-second-session-of-13th-supreme-peoples-assembly/", 
@@ -270,21 +246,9 @@
             "id": "2hfi9p"
         }, 
         {
-            "num-comments": 76, 
-            "domain": "dailymail.co.uk", 
-            "score": 200, 
-            "nsfw": false, 
-            "title": "British airstrikes on ISIS could start tomorrow as David Cameron holds Cabinet", 
-            "url": "http://www.dailymail.co.uk/news/article-2769182/Cameron-holds-war-Cabinet-amid-surge-public-support-British-airstrikes-psychopathic-murderers-ISIS.html", 
-            "author": "nickhuang109", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hfkf6/british_airstrikes_on_isis_could_start_tomorrow/", 
-            "created-utc": 1411655030.0, 
-            "id": "2hfkf6"
-        }, 
-        {
             "num-comments": 17, 
             "domain": "usnews.com", 
-            "score": 182, 
+            "score": 184, 
             "nsfw": false, 
             "title": "Azerbaijan nabs 26 alleged ISIS militants", 
             "url": "http://www.usnews.com/news/world/articles/2014/09/23/azerbaijan-nabs-26-alleged-militants", 
@@ -294,9 +258,9 @@
             "id": "2hf66l"
         }, 
         {
-            "num-comments": 41, 
+            "num-comments": 40, 
             "domain": "smithsonianmag.com", 
-            "score": 176, 
+            "score": 175, 
             "nsfw": false, 
             "title": "The Waters Around Malaysia, Not Somalia, are the World\u2019s Worst for Pirates- Despite the attention piracy in the Horn of Africa has received, over 40% of pirate attacks over last 2 decades took place in Southeast Asia", 
             "url": "http://www.smithsonianmag.com/smart-news/waters-around-malaysia-not-somalia-are-worlds-worst-pirates-180952827/", 
@@ -304,6 +268,42 @@
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hezw5/the_waters_around_malaysia_not_somalia_are_the/", 
             "created-utc": 1411637504.0, 
             "id": "2hezw5"
+        }, 
+        {
+            "num-comments": 40, 
+            "domain": "cbsnews.com", 
+            "score": 168, 
+            "nsfw": false, 
+            "title": "Turkey ready to join ISIS fight - Moving from reluctance to refusal and finally to acceptance, Turkey is joining its NATO allies and fellow Sunni Muslim nations in a coalition to destroy the Islamic State of Iraq and Syria (ISIS).", 
+            "url": "http://www.cbsnews.com/news/turkey-ready-to-join-isis-fight/", 
+            "author": "1x10_-24", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hey4c/turkey_ready_to_join_isis_fight_moving_from/", 
+            "created-utc": 1411635366.0, 
+            "id": "2hey4c"
+        }, 
+        {
+            "num-comments": 38, 
+            "domain": "blink.htcsense.com", 
+            "score": 135, 
+            "nsfw": false, 
+            "title": "Mexican cartels steal billions from oil industry", 
+            "url": "http://blink.htcsense.com/web/articleweb.aspx?regionid=3&amp;articleid=29378653", 
+            "author": "Peppa-Jack", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hek59/mexican_cartels_steal_billions_from_oil_industry/", 
+            "created-utc": 1411621725.0, 
+            "id": "2hek59"
+        }, 
+        {
+            "num-comments": 80, 
+            "domain": "reuters.com", 
+            "score": 183, 
+            "nsfw": false, 
+            "title": "Russian draft law would allow seizure of foreign property", 
+            "url": "http://www.reuters.com/article/2014/09/25/us-russia-sanctions-law-idUSKCN0HK1EO20140925", 
+            "author": "windwaker02", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hgai8/russian_draft_law_would_allow_seizure_of_foreign/", 
+            "created-utc": 1411669192.0, 
+            "id": "2hgai8"
         }
     ], 
     "api-url": "http://daily.red/world-news.json", 

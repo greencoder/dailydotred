@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411697765, 
+    "generated-utc": 1411705313, 
     "description": "News stories related to technology.", 
     "title": "Technology", 
     "full-url": "http://www.reddit.com/r/technology/", 
     "posts": [
         {
-            "num-comments": 2557, 
+            "num-comments": 2581, 
             "domain": "self.technology", 
-            "score": 3837, 
+            "score": 3853, 
             "nsfw": false, 
             "title": "If we really hate comcast and time warner this much we should just bite the bullet and cancel service. That's the only way to send them any kind of message they care about. ..a financial one.", 
             "url": "http://www.reddit.com/r/technology/comments/2heabw/if_we_really_hate_comcast_and_time_warner_this/", 
@@ -18,9 +18,9 @@
             "id": "2heabw"
         }, 
         {
-            "num-comments": 604, 
+            "num-comments": 688, 
             "domain": "cultofmac.com", 
-            "score": 2421, 
+            "score": 2490, 
             "nsfw": false, 
             "title": "Top Apple execs sell $143m worth of stocks", 
             "url": "http://www.cultofmac.com/297706/top-apple-execs-sell-143m-worth-stock/", 
@@ -30,9 +30,9 @@
             "id": "2hfo88"
         }, 
         {
-            "num-comments": 429, 
+            "num-comments": 532, 
             "domain": "computerworld.com", 
-            "score": 1512, 
+            "score": 1928, 
             "nsfw": false, 
             "title": "Even as it cuts 14% of its workforce, Microsoft threatens to leave for Canada if its 1,000 H-1B visas requests aren't granted.", 
             "url": "http://www.computerworld.com/article/2687534/microsoft-frustrated-as-ever-with-h-1b-policy-considers-options.html", 
@@ -42,9 +42,9 @@
             "id": "2hfop8"
         }, 
         {
-            "num-comments": 87, 
+            "num-comments": 126, 
             "domain": "arstechnica.com", 
-            "score": 1057, 
+            "score": 1548, 
             "nsfw": false, 
             "title": "FCC Democrats want to ban fast lanes and impose stricter rules on wireless", 
             "url": "http://arstechnica.com/tech-policy/2014/09/fcc-democrats-want-to-ban-fast-lanes-and-impose-stricter-rules-on-wireless/", 
@@ -54,21 +54,9 @@
             "id": "2hfrmm"
         }, 
         {
-            "num-comments": 28, 
-            "domain": "smh.com.au", 
-            "score": 426, 
-            "nsfw": false, 
-            "title": "Australian Senate Introduces Laws To Allow Total Internet Surveillance", 
-            "url": "http://www.smh.com.au/digital-life/consumer-security/new-laws-could-give-asio-a-warrant-for-the-entire-internet-jail-journalists-and-whistleblowers-20140923-10kzjz.html", 
-            "author": "Torquemada1970", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hfb91/australian_senate_introduces_laws_to_allow_total/", 
-            "created-utc": 1411648837.0, 
-            "id": "2hfb91"
-        }, 
-        {
-            "num-comments": 53, 
+            "num-comments": 62, 
             "domain": "dslreports.com", 
-            "score": 459, 
+            "score": 588, 
             "nsfw": false, 
             "title": "AT&amp;T: We Can Only Compete With MegaComcast If We Can Acquire DirecTV", 
             "url": "http://www.dslreports.com/shownews/ATT-We-Can-Only-Compete-With-MegaComcast-If-We-Can-Eat-DirecTV-130596", 
@@ -78,21 +66,21 @@
             "id": "2hfp23"
         }, 
         {
-            "num-comments": 4, 
-            "domain": "muckrock.com", 
-            "score": 307, 
+            "num-comments": 33, 
+            "domain": "smh.com.au", 
+            "score": 480, 
             "nsfw": false, 
-            "title": "Before they could track cell phone data, police had to sign a NDA with the FBI: \"it makes clear that Harris, the FCC, and the FBI are working together to facilitate the proliferation of these devices among state and local law enforcement agencies\"", 
-            "url": "https://www.muckrock.com/news/archives/2014/sep/22/they-could-track-cell-phone-data-police-had-sign-n/", 
-            "author": "electronics-engineer", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hf0so/before_they_could_track_cell_phone_data_police/", 
-            "created-utc": 1411638445.0, 
-            "id": "2hf0so"
+            "title": "Australian Senate Introduces Laws To Allow Total Internet Surveillance", 
+            "url": "http://www.smh.com.au/digital-life/consumer-security/new-laws-could-give-asio-a-warrant-for-the-entire-internet-jail-journalists-and-whistleblowers-20140923-10kzjz.html", 
+            "author": "Torquemada1970", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hfb91/australian_senate_introduces_laws_to_allow_total/", 
+            "created-utc": 1411648837.0, 
+            "id": "2hfb91"
         }, 
         {
-            "num-comments": 43, 
+            "num-comments": 46, 
             "domain": "betabeat.com", 
-            "score": 335, 
+            "score": 425, 
             "nsfw": false, 
             "title": "Jon Stewart on Alibaba: \u2018The Communists Have Beaten Us at Capitalism\u2019", 
             "url": "http://betabeat.com/2014/09/jon-stewart-on-alibaba-the-communists-have-beaten-us-at-capitalism/", 
@@ -102,21 +90,21 @@
             "id": "2hfpsj"
         }, 
         {
-            "num-comments": 12, 
-            "domain": "stuff.co.nz", 
-            "score": 211, 
+            "num-comments": 4, 
+            "domain": "muckrock.com", 
+            "score": 332, 
             "nsfw": false, 
-            "title": "Aussie govt 'bullied' to pass security laws", 
-            "url": "http://www.stuff.co.nz/technology/digital-living/61483438/aussie-govt-bullied-to-pass-security-laws.html", 
-            "author": "Microthrowaway64", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hewtt/aussie_govt_bullied_to_pass_security_laws/", 
-            "created-utc": 1411633838.0, 
-            "id": "2hewtt"
+            "title": "Before they could track cell phone data, police had to sign a NDA with the FBI: \"it makes clear that Harris, the FCC, and the FBI are working together to facilitate the proliferation of these devices among state and local law enforcement agencies\"", 
+            "url": "https://www.muckrock.com/news/archives/2014/sep/22/they-could-track-cell-phone-data-police-had-sign-n/", 
+            "author": "electronics-engineer", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hf0so/before_they_could_track_cell_phone_data_police/", 
+            "created-utc": 1411638445.0, 
+            "id": "2hf0so"
         }, 
         {
-            "num-comments": 202, 
+            "num-comments": 323, 
             "domain": "9to5mac.com", 
-            "score": 267, 
+            "score": 431, 
             "nsfw": false, 
             "title": "Apple responds to iPhone 6 Bendgate controversy, says only 9 customers have complained", 
             "url": "http://9to5mac.com/2014/09/25/apple-responds-to-iphone-6-bendgate-controversy-says-only-9-customers-have-complained/", 
@@ -126,33 +114,9 @@
             "id": "2hg9nh"
         }, 
         {
-            "num-comments": 61, 
-            "domain": "theverge.com", 
-            "score": 188, 
-            "nsfw": false, 
-            "title": "The Verge is posting facetious articles and moderators are trolling their own comment sections. The tone has become spiteful and combative and the site is not nearly as much fun to visit as it used to be. A reader addresses this with examples.", 
-            "url": "http://www.theverge.com/2014/9/24/6839413/the-verge-today", 
-            "author": "smekas", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hfln1/the_verge_is_posting_facetious_articles_and/", 
-            "created-utc": 1411655778.0, 
-            "id": "2hfln1"
-        }, 
-        {
-            "num-comments": 2, 
-            "domain": "washingtonpost.com", 
-            "score": 220, 
-            "nsfw": false, 
-            "title": "The FTC was built 100 years ago to fight monopolists. Now, it\u2019s Washington\u2019s most powerful technology cop.", 
-            "url": "http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/25/the-ftc-was-built-100-years-ago-to-fight-monopolists-now-its-washingtons-most-powerful-technology-cop/?tid=rssfeed", 
-            "author": "Libertatea", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hfx6w/the_ftc_was_built_100_years_ago_to_fight/", 
-            "created-utc": 1411662210.0, 
-            "id": "2hfx6w"
-        }, 
-        {
-            "num-comments": 105, 
+            "num-comments": 156, 
             "domain": "mashable.com", 
-            "score": 224, 
+            "score": 342, 
             "nsfw": false, 
             "title": "Google's Eric Schmidt on the iPhone 6 and 6 Plus: \"Samsung had these products a year ago\"", 
             "url": "http://mashable.com/2014/09/25/eric-schmidt-iphone-6/", 
@@ -162,33 +126,45 @@
             "id": "2hg3vb"
         }, 
         {
-            "num-comments": 84, 
-            "domain": "threatpost.com", 
-            "score": 158, 
+            "num-comments": 4, 
+            "domain": "washingtonpost.com", 
+            "score": 303, 
             "nsfw": false, 
-            "title": "Major Bash Vulnerability Affects Linux, UNIX, Mac OS X", 
-            "url": "http://threatpost.com/major-bash-vulnerability-affects-linux-unix-mac-os-x/108521", 
-            "author": "pirates-running-amok", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2he3gn/major_bash_vulnerability_affects_linux_unix_mac/", 
-            "created-utc": 1411610520.0, 
-            "id": "2he3gn"
+            "title": "The FTC was built 100 years ago to fight monopolists. Now, it\u2019s Washington\u2019s most powerful technology cop.", 
+            "url": "http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/25/the-ftc-was-built-100-years-ago-to-fight-monopolists-now-its-washingtons-most-powerful-technology-cop/?tid=rssfeed", 
+            "author": "Libertatea", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hfx6w/the_ftc_was_built_100_years_ago_to_fight/", 
+            "created-utc": 1411662210.0, 
+            "id": "2hfx6w"
         }, 
         {
             "num-comments": 14, 
-            "domain": "dslreports.com", 
-            "score": 145, 
+            "domain": "stuff.co.nz", 
+            "score": 215, 
             "nsfw": false, 
-            "title": "AT&amp;T, Verizon Don't Want Caps Included in Broadband Definitions", 
-            "url": "http://www.dslreports.com/shownews/ATT-Verizon-Dont-Want-Caps-Included-in-Broadband-Definitions-130590", 
-            "author": "screaming_librarian", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hdy3e/att_verizon_dont_want_caps_included_in_broadband/", 
-            "created-utc": 1411607244.0, 
-            "id": "2hdy3e"
+            "title": "Aussie govt 'bullied' to pass security laws", 
+            "url": "http://www.stuff.co.nz/technology/digital-living/61483438/aussie-govt-bullied-to-pass-security-laws.html", 
+            "author": "Microthrowaway64", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hewtt/aussie_govt_bullied_to_pass_security_laws/", 
+            "created-utc": 1411633838.0, 
+            "id": "2hewtt"
+        }, 
+        {
+            "num-comments": 71, 
+            "domain": "theverge.com", 
+            "score": 206, 
+            "nsfw": false, 
+            "title": "The Verge is posting facetious articles and moderators are trolling their own comment sections. The tone has become spiteful and combative and the site is not nearly as much fun to visit as it used to be. A reader addresses this with examples.", 
+            "url": "http://www.theverge.com/2014/9/24/6839413/the-verge-today", 
+            "author": "smekas", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hfln1/the_verge_is_posting_facetious_articles_and/", 
+            "created-utc": 1411655778.0, 
+            "id": "2hfln1"
         }, 
         {
             "num-comments": 36, 
             "domain": "cnet.com", 
-            "score": 135, 
+            "score": 139, 
             "nsfw": false, 
             "title": "'Bigger than Heartbleed': Bash bug could leave IT systems shellshocked", 
             "url": "http://www.cnet.com/uk/news/bigger-than-heartbleed-bash-bug-could-leave-it-systems-shellshocked/", 
@@ -200,7 +176,7 @@
         {
             "num-comments": 8, 
             "domain": "wired.com", 
-            "score": 110, 
+            "score": 137, 
             "nsfw": false, 
             "title": "The Man on a Quest to Open Source Cancer Research", 
             "url": "http://www.wired.com/2014/09/man-quest-open-source-cancer-research/", 
@@ -210,9 +186,9 @@
             "id": "2hfzpl"
         }, 
         {
-            "num-comments": 18, 
+            "num-comments": 21, 
             "domain": "theverge.com", 
-            "score": 90, 
+            "score": 98, 
             "nsfw": false, 
             "title": "As Bash damage spreads, experts warn of network attacks and an internet meltdown", 
             "url": "http://www.theverge.com/2014/9/25/6843669/bash-shellshock-network-worm-could-cause-internet-meltdown", 
@@ -222,9 +198,9 @@
             "id": "2hg0x7"
         }, 
         {
-            "num-comments": 18, 
+            "num-comments": 20, 
             "domain": "securitywatch.pcmag.com", 
-            "score": 89, 
+            "score": 98, 
             "nsfw": false, 
             "title": "Serious Bash Flaw Lets Attackers Hijack Linux and Mac Computers", 
             "url": "http://securitywatch.pcmag.com/internet/327769-serious-bash-flaw-lets-attackers-hijack-linux-and-mac-computers", 
@@ -236,7 +212,7 @@
         {
             "num-comments": 29, 
             "domain": "bbc.co.uk", 
-            "score": 79, 
+            "score": 88, 
             "nsfw": false, 
             "title": "BT says fibre breakthrough could see its existing FTTC lines delivering 800Mbps download speeds by December 2015", 
             "url": "http://www.bbc.co.uk/news/technology-29360758", 
@@ -248,7 +224,7 @@
         {
             "num-comments": 0, 
             "domain": "engadget.com", 
-            "score": 77, 
+            "score": 75, 
             "nsfw": false, 
             "title": "'Bash' command flaw leaves Linux, OS X and more open to attack", 
             "url": "http://www.engadget.com/2014/09/24/bash-shell-security-flaw/", 
@@ -260,7 +236,7 @@
         {
             "num-comments": 58, 
             "domain": "seattletimes.com", 
-            "score": 73, 
+            "score": 75, 
             "nsfw": false, 
             "title": "BlackBerry CEO takes jab at Apple: Try bending our phone", 
             "url": "http://seattletimes.com/html/businesstechnology/2024620700_blackberryiphonebendxml.html?cmpid=2628", 
@@ -270,9 +246,9 @@
             "id": "2heu06"
         }, 
         {
-            "num-comments": 8, 
+            "num-comments": 10, 
             "domain": "goodelectronics.org", 
-            "score": 74, 
+            "score": 119, 
             "nsfw": false, 
             "title": "Cancer cluster strikes main iPhone factory: Thirteen workers, ranging from 19 to 24 have been diagnosed with leukemia; five cases proved fatal", 
             "url": "http://goodelectronics.org/news-en/cancer-cluster-strikes-chinese-iphone-factory", 
@@ -282,21 +258,21 @@
             "id": "2hgm17"
         }, 
         {
-            "num-comments": 33, 
-            "domain": "businessinsider.com", 
-            "score": 47, 
+            "num-comments": 117, 
+            "domain": "online.wsj.com", 
+            "score": 1626, 
             "nsfw": false, 
-            "title": "All Of The iPhone's Competitors Survived The Bend Test", 
-            "url": "http://www.businessinsider.com/all-of-the-iphones-competitors-survived-the-bend-test-2014-9", 
-            "author": "dirkgently007", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hef44/all_of_the_iphones_competitors_survived_the_bend/", 
-            "created-utc": 1411617894.0, 
-            "id": "2hef44"
+            "title": "The FBI Is Upset That Google And Apple Are Bolstering Smartphone Security", 
+            "url": "http://online.wsj.com/articles/fbi-director-raises-concerns-about-smartphone-security-plans-1411671434", 
+            "author": "demengrad", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hha3o/the_fbi_is_upset_that_google_and_apple_are/", 
+            "created-utc": 1411688680.0, 
+            "id": "2hha3o"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 5, 
             "domain": "theguardian.com", 
-            "score": 60, 
+            "score": 73, 
             "nsfw": false, 
             "title": "Google hits back at News Corp\u2019s claims that it is a platform for piracy", 
             "url": "http://www.theguardian.com/media/2014/sep/25/google-hits-back-news-corp-piracy-claims", 
@@ -304,6 +280,30 @@
             "permalink": "http://www.reddit.com/r/technology/comments/2hgktb/google_hits_back_at_news_corps_claims_that_it_is/", 
             "created-utc": 1411674560.0, 
             "id": "2hgktb"
+        }, 
+        {
+            "num-comments": 6, 
+            "domain": "androidpolice.com", 
+            "score": 58, 
+            "nsfw": false, 
+            "title": "See the unseen: $199 Thermal Imaging camera", 
+            "url": "http://www.androidpolice.com/2014/09/25/hands-on-with-the-199-seek-thermal-smartphone-infrared-camera-yes-really-actually-this-is-amazing/", 
+            "author": "rowanthenerd", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hg8dm/see_the_unseen_199_thermal_imaging_camera/", 
+            "created-utc": 1411668105.0, 
+            "id": "2hg8dm"
+        }, 
+        {
+            "num-comments": 33, 
+            "domain": "businessinsider.com", 
+            "score": 46, 
+            "nsfw": false, 
+            "title": "All Of The iPhone's Competitors Survived The Bend Test", 
+            "url": "http://www.businessinsider.com/all-of-the-iphones-competitors-survived-the-bend-test-2014-9", 
+            "author": "dirkgently007", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hef44/all_of_the_iphones_competitors_survived_the_bend/", 
+            "created-utc": 1411617894.0, 
+            "id": "2hef44"
         }
     ], 
     "api-url": "http://daily.red/technology.json", 
