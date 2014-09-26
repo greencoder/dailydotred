@@ -1,13 +1,14 @@
 {
     "category": "Fun", 
+    "generated-utc": 1411697826, 
     "description": "Humor is the place for things that bring a wry smile to your face.", 
     "title": "Humor", 
     "full-url": "http://www.reddit.com/r/humor/", 
     "posts": [
         {
-            "num-comments": 38, 
+            "num-comments": 40, 
             "domain": "metro.co.uk", 
-            "score": 148, 
+            "score": 157, 
             "nsfw": false, 
             "title": "'Naked therapist' strips on web cam to help porn addicted men", 
             "url": "http://metro.co.uk/2014/09/15/naked-therapist-helps-to-treat-men-with-porn-addiction-by-stripping-for-them-online-4869190/", 
@@ -17,6 +18,7 @@
             "id": "2hgyzu"
         }
     ], 
+    "api-url": "http://daily.red/humor.json", 
     "display-name": "Humor", 
     "short-url": "/r/humor/"
 }

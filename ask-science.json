@@ -1,5 +1,6 @@
 {
     "category": "Knowledge", 
+    "generated-utc": 1411697786, 
     "description": "Ask a science question, get a science answer.", 
     "title": "AskScience: Got Questions? Get Answers.", 
     "full-url": "http://www.reddit.com/r/askscience/", 
@@ -7,7 +8,7 @@
         {
             "num-comments": 382, 
             "domain": "self.askscience", 
-            "score": 2583, 
+            "score": 2602, 
             "nsfw": false, 
             "title": "The SWARM satellite recently revealed the Earth's magnetic field is weakening, possibly indicating a geo-magnetic reversal. What effects on the planet could we expect if this occurred?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hf6tu/the_swarm_satellite_recently_revealed_the_earths/", 
@@ -19,7 +20,7 @@
         {
             "num-comments": 28, 
             "domain": "self.askscience", 
-            "score": 57, 
+            "score": 62, 
             "nsfw": false, 
             "title": "Is it possible that there is another planet in our solar system that we can't see?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfo9n/is_it_possible_that_there_is_another_planet_in/", 
@@ -31,7 +32,7 @@
         {
             "num-comments": 6, 
             "domain": "self.askscience", 
-            "score": 40, 
+            "score": 41, 
             "nsfw": false, 
             "title": "What's it called when your body goes on \"Auto-pilot\"?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hegai/whats_it_called_when_your_body_goes_on_autopilot/", 
@@ -43,7 +44,7 @@
         {
             "num-comments": 10, 
             "domain": "self.askscience", 
-            "score": 38, 
+            "score": 41, 
             "nsfw": false, 
             "title": "Where does an infant's gut microbiota originate? Is it inherited from the mother?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hf7hg/where_does_an_infants_gut_microbiota_originate_is/", 
@@ -55,7 +56,7 @@
         {
             "num-comments": 10, 
             "domain": "self.askscience", 
-            "score": 27, 
+            "score": 26, 
             "nsfw": false, 
             "title": "When my guitar is out of tune, the strings are always in a too high pitch. Intuitively, it feels like it should be the other way since they would loosen. What's going on?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfxe2/when_my_guitar_is_out_of_tune_the_strings_are/", 
@@ -67,7 +68,7 @@
         {
             "num-comments": 2, 
             "domain": "self.askscience", 
-            "score": 14, 
+            "score": 13, 
             "nsfw": false, 
             "title": "Does cognitive dissonance make us act more impulsive?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hf274/does_cognitive_dissonance_make_us_act_more/", 
@@ -199,7 +200,7 @@
         {
             "num-comments": 3, 
             "domain": "self.askscience", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "When the atom bombs went off, new elements/isotopes were formed. How long did it take for them to disperse about the Earth? And have they been/will they ever be evenly distributed around Earth?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hfh3e/when_the_atom_bombs_went_off_new_elementsisotopes/", 
@@ -223,7 +224,7 @@
         {
             "num-comments": 8, 
             "domain": "self.askscience", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "title": "Why does the glue of envolopes glow purple when opening them?", 
             "url": "http://www.reddit.com/r/askscience/comments/2herd5/why_does_the_glue_of_envolopes_glow_purple_when/", 
@@ -259,7 +260,7 @@
         {
             "num-comments": 10, 
             "domain": "self.askscience", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "title": "How far would an insect have to fall to die? And would it ever \"splat?\"", 
             "url": "http://www.reddit.com/r/askscience/comments/2hen5j/how_far_would_an_insect_have_to_fall_to_die_and/", 
@@ -305,6 +306,7 @@
             "id": "2hh0vf"
         }
     ], 
+    "api-url": "http://daily.red/ask-science.json", 
     "display-name": "Ask Science", 
     "short-url": "/r/askscience/"
 }

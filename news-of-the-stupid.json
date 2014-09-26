@@ -1,5 +1,6 @@
 {
     "category": "Fun", 
+    "generated-utc": 1411697830, 
     "description": "Did you hear about the man who butt-dialed 911 while drunk driving? How about the teenagers who carjacked a car, only to fail because neither of them could drive stick? Welcome to /r/NewsOfTheStupid, a subreddit created for news stories just like these, proving that humanity is on a downward spiral", 
     "title": "News Of The Stupid", 
     "full-url": "http://www.reddit.com/r/NewsOfTheStupid/", 
@@ -31,7 +32,7 @@
         {
             "num-comments": 2, 
             "domain": "oregonlive.com", 
-            "score": 16, 
+            "score": 17, 
             "nsfw": false, 
             "title": "Portland mom bit, choked 9-year-old son after he passed gas", 
             "url": "http://www.oregonlive.com/portland/index.ssf/2014/09/portland_mom_who_bit_choked_9-.html", 
@@ -43,7 +44,7 @@
         {
             "num-comments": 0, 
             "domain": "thesmokinggun.com", 
-            "score": 15, 
+            "score": 14, 
             "nsfw": false, 
             "title": "Mom Hid Infant In Trunk To Avoid Ticket", 
             "url": "http://www.thesmokinggun.com/documents/baby-hidden-in-car-trunk-465321", 
@@ -53,9 +54,9 @@
             "id": "2hdzis"
         }, 
         {
-            "num-comments": 0, 
+            "num-comments": 1, 
             "domain": "consumerist.com", 
-            "score": 19, 
+            "score": 20, 
             "nsfw": false, 
             "title": "Missing Ketchup Prompts Alleged BB Gun Shooting At McDonald's Drive-Thru", 
             "url": "http://consumerist.com/2014/09/25/missing-ketchup-prompts-alleged-bb-gun-shooting-at-mcdonalds-drive-thru/", 
@@ -65,9 +66,9 @@
             "id": "2hggfx"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "koco.com", 
-            "score": 19, 
+            "score": 22, 
             "nsfw": false, 
             "title": "Man mistaken for squirrel shot dead", 
             "url": "http://www.koco.com/national/man-mistaken-for-squirrel-shot-dead/28240588", 
@@ -91,7 +92,7 @@
         {
             "num-comments": 1, 
             "domain": "mirror.co.uk", 
-            "score": 13, 
+            "score": 14, 
             "nsfw": false, 
             "title": "Fixated worker URINATED in female colleague's water bottle during seven year campaign of harassment", 
             "url": "http://www.mirror.co.uk/news/uk-news/fixated-worker-urinated-female-colleagues-4320602", 
@@ -115,7 +116,7 @@
         {
             "num-comments": 1, 
             "domain": "nbclosangeles.com", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Masturbating Passenger Forces Plane to Land in Nebraska", 
             "url": "http://www.nbclosangeles.com/news/california/Woodside-Man-Accused-of-Masturbating-In-Flight-Escorted-Off-LAX-Bound-Virgin-America-Plane-276838091.html", 
@@ -127,7 +128,7 @@
         {
             "num-comments": 0, 
             "domain": "abc.net.au", 
-            "score": 7, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Train surfer killed while spraying graffiti, police say", 
             "url": "http://www.abc.net.au/news/2014-09-25/man-killed-while-train-surfing-spraying-graffiti-in-brisbane/5769802", 
@@ -187,7 +188,7 @@
         {
             "num-comments": 1, 
             "domain": "nbcnewyork.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "Police: High School Coach Left Son Home Alone", 
             "url": "http://www.nbcnewyork.com/news/local/Police-High-school-Coach-Left-Son-Home-Alone-276595891.html", 
@@ -269,6 +270,7 @@
             "id": "2he9p9"
         }
     ], 
+    "api-url": "http://daily.red/news-of-the-stupid.json", 
     "display-name": "News of the Stupid", 
     "short-url": "/r/NewsOfTheStupid/"
 }

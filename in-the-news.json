@@ -1,5 +1,6 @@
 {
     "category": "News", 
+    "generated-utc": 1411697803, 
     "description": "/r/inthenews is the subreddit for opinion, analysis, and discussion of recent events.", 
     "title": "In the News: Opinion, Analysis, and Discussion", 
     "full-url": "http://www.reddit.com/r/inthenews/", 
@@ -7,7 +8,7 @@
         {
             "num-comments": 2, 
             "domain": "wsws.org", 
-            "score": 29, 
+            "score": 31, 
             "nsfw": false, 
             "title": "Deceit and delusion at the United Nations - in one sentence, Obama criticized \"proxy wars\" between Sunni and Shia, then stated the US is training and equipping the largely-Sunni Syrian opposition to be a counterweight to the terrorists of ISIL and the brutality of the [Shia-related] Assad regime.", 
             "url": "http://www.wsws.org/en/articles/2014/09/25/pers-s25.html", 
@@ -31,7 +32,7 @@
         {
             "num-comments": 6, 
             "domain": "youtube.com", 
-            "score": 30, 
+            "score": 35, 
             "nsfw": false, 
             "title": "OK trooper tells local news: Best way not to get raped by cops is to \u2018follow the law\u2019", 
             "url": "https://www.youtube.com/watch?v=rnQYRErRhbo&amp;feature=youtu.be", 
@@ -67,7 +68,7 @@
         {
             "num-comments": 0, 
             "domain": "pamelageller.com", 
-            "score": 20, 
+            "score": 18, 
             "nsfw": false, 
             "title": "VIDEO French Report: Woman Secretly Films Life in Raqqa, Syria under the Islamic State", 
             "url": "http://pamelageller.com/2014/09/video-french-report-woman-secretly-films-life-in-raqqa-under-the-islamic-state.html/", 
@@ -79,7 +80,7 @@
         {
             "num-comments": 0, 
             "domain": "news.investors.com", 
-            "score": 16, 
+            "score": 18, 
             "nsfw": false, 
             "title": "Press Helps Obama Censor The News", 
             "url": "http://news.investors.com/ibd-editorials/092414-718834-the-press-is-helping-obama-censor-the-news.htm", 
@@ -91,7 +92,7 @@
         {
             "num-comments": 4, 
             "domain": "dailysignal.com", 
-            "score": 14, 
+            "score": 13, 
             "nsfw": false, 
             "title": "For Gun Shop Owners, It\u2019s No Longer Hip to Be \u2018Square\u2019", 
             "url": "http://dailysignal.com/2014/09/25/gun-shop-owners-longer-hip-square/", 
@@ -115,7 +116,7 @@
         {
             "num-comments": 1, 
             "domain": "washingtonpost.com", 
-            "score": 12, 
+            "score": 11, 
             "nsfw": false, 
             "title": "President Obama channels President Bush at the United Nations", 
             "url": "http://www.washingtonpost.com/blogs/post-partisan/wp/2014/09/24/the-insiders-president-obama-channels-president-bush-at-the-united-nations/", 
@@ -151,7 +152,7 @@
         {
             "num-comments": 0, 
             "domain": "news.yahoo.com", 
-            "score": 12, 
+            "score": 11, 
             "nsfw": false, 
             "title": "Sierra Leone quarantines one million ahead of UN Ebola talks", 
             "url": "http://news.yahoo.com/sierra-leone-quarantines-one-million-ahead-un-ebola-095913410.html", 
@@ -187,7 +188,7 @@
         {
             "num-comments": 1, 
             "domain": "latimes.com", 
-            "score": 14, 
+            "score": 15, 
             "nsfw": false, 
             "title": "The Islamic State is recruiting women to \"have kids and cook\"", 
             "url": "http://www.latimes.com/world/middleeast/la-fg-isis-female-recruits-20140920-story.html#page=1", 
@@ -199,7 +200,7 @@
         {
             "num-comments": 1, 
             "domain": "youtube.com", 
-            "score": 11, 
+            "score": 10, 
             "nsfw": false, 
             "title": "Students Bravely Fight Back Against 1984-Loving Conservative School Board", 
             "url": "https://www.youtube.com/watch?v=j-dxxULA6kg&amp;feature=youtu.be", 
@@ -235,7 +236,7 @@
         {
             "num-comments": 1, 
             "domain": "latimes.com", 
-            "score": 11, 
+            "score": 12, 
             "nsfw": false, 
             "title": "Woman huddles in rooftop hiding place as intruder looms [Photo]", 
             "url": "http://www.latimes.com/local/lanow/la-me-ln-woman-on-roof-with-intruder-20140925-htmlstory.html", 
@@ -257,7 +258,7 @@
             "id": "2hfd48"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 4, 
             "domain": "finance.yahoo.com", 
             "score": 9, 
             "nsfw": false, 
@@ -283,7 +284,7 @@
         {
             "num-comments": 0, 
             "domain": "inhabitat.com", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Now this is an increase in crop production by changed method that I can get behind (rather than GMO foodstuffs)... Funny the only solution corporations can come up with costs the consumers a lot more money...", 
             "url": "http://inhabitat.com/16-year-old-irish-girls-win-google-science-fair-2014-with-world-changing-crop-yield-breakthrough/", 
@@ -305,6 +306,7 @@
             "id": "2hfgu1"
         }
     ], 
+    "api-url": "http://daily.red/in-the-news.json", 
     "display-name": "In the News", 
     "short-url": "/r/inthenews/"
 }

@@ -1,13 +1,14 @@
 {
     "category": "Knowledge", 
+    "generated-utc": 1411697782, 
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on longform articles and essays that stimulate intellectual discourse.", 
     "title": "foodforthought: Intellectual Nourishment ", 
     "full-url": "http://www.reddit.com/r/Foodforthought/", 
     "posts": [
         {
-            "num-comments": 53, 
+            "num-comments": 55, 
             "domain": "outsideonline.com", 
-            "score": 495, 
+            "score": 492, 
             "nsfw": false, 
             "title": "Every year, more than 500 Americans will be struck by lightning\u2014and roughly 90 percent of them will survive. Though they remain among the living, their minds and bodies will be instantly, fundamentally altered in ways that still leave scientists scratching their heads", 
             "url": "http://www.outsideonline.com/outdoor-adventure/nature/The-Body-Electric.html", 
@@ -19,7 +20,7 @@
         {
             "num-comments": 2, 
             "domain": "forbes.com", 
-            "score": 20, 
+            "score": 19, 
             "nsfw": false, 
             "title": "Trial by jury isn't a crime, so why do we treat it as such?", 
             "url": "http://www.forbes.com/sites/realspin/2014/09/24/wanting-a-trial-by-jury-is-not-a-crime-so-why-do-we-treat-it-like-one/", 
@@ -43,7 +44,7 @@
         {
             "num-comments": 2, 
             "domain": "bbc.co.uk", 
-            "score": 9, 
+            "score": 11, 
             "nsfw": false, 
             "title": "The Uncatchable Greece's most wanted man who gives to the poor", 
             "url": "http://www.bbc.co.uk/news/special/2014/newsspec_8700/index.html", 
@@ -67,7 +68,7 @@
         {
             "num-comments": 0, 
             "domain": "npr.org", 
-            "score": 8, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Hearing That Things Can Change Helps Teens Dodge Depression", 
             "url": "http://www.npr.org/blogs/health/2014/09/24/350933822/hearing-that-things-can-change-reduces-depression-in-teens?utm_source=facebook.com&amp;utm_medium=social&amp;utm_campaign=npr&amp;utm_term=nprnews&amp;utm_content=20140924", 
@@ -91,7 +92,7 @@
         {
             "num-comments": 1, 
             "domain": "news.vice.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "Muslim Scholars Make the Theological Case Against the Islamic State", 
             "url": "https://news.vice.com/article/muslim-scholars-make-the-theological-case-against-the-islamic-state", 
@@ -103,7 +104,7 @@
         {
             "num-comments": 6, 
             "domain": "qz.com", 
-            "score": 6, 
+            "score": 4, 
             "nsfw": false, 
             "title": "How much is a date with you worth?", 
             "url": "http://qz.com/270421/how-much-is-a-date-with-you-worth/", 
@@ -115,7 +116,7 @@
         {
             "num-comments": 0, 
             "domain": "theatlantic.com", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Murder in a Time Before Google", 
             "url": "http://www.theatlantic.com/technology/archive/2014/09/murder-in-a-time-before-google/380618/", 
@@ -175,7 +176,7 @@
         {
             "num-comments": 0, 
             "domain": "daviddegraw.org", 
-            "score": 0, 
+            "score": 1, 
             "nsfw": false, 
             "title": "Conditioned Consciousness: How The .01% Gets Away With Trillions", 
             "url": "http://daviddegraw.org/conditioned-consciousness-how-the-01-gets-away-with-trillions/", 
@@ -233,6 +234,7 @@
             "id": "2hfa8s"
         }
     ], 
+    "api-url": "http://daily.red/food-for-thought.json", 
     "display-name": "Food for Thought", 
     "short-url": "/r/Foodforthought/"
 }

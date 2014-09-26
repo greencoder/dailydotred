@@ -1,13 +1,14 @@
 {
     "category": "Entertainment", 
+    "generated-utc": 1411697752, 
     "description": "The musical community of reddit.", 
     "title": "Music", 
     "full-url": "http://www.reddit.com/r/Music/", 
     "posts": [
         {
-            "num-comments": 554, 
+            "num-comments": 566, 
             "domain": "smh.com.au", 
-            "score": 2765, 
+            "score": 2812, 
             "nsfw": false, 
             "title": "AC/DC's Malcolm Young reportedly in care for dementia in Sydney", 
             "url": "http://www.smh.com.au/entertainment/music/acdcs-malcolm-young-reportedly-in-care-for-dementia-in-sydney-20140925-10m1hs.html", 
@@ -29,9 +30,9 @@
             "id": "2he9k6"
         }, 
         {
-            "num-comments": 172, 
+            "num-comments": 178, 
             "domain": "youtube.com", 
-            "score": 1270, 
+            "score": 1308, 
             "nsfw": false, 
             "title": "OutKast - Hey Ya! [Cover] Not what you're expecting", 
             "url": "https://www.youtube.com/watch?v=2JeCm34hmks", 
@@ -41,9 +42,9 @@
             "id": "2hfsol"
         }, 
         {
-            "num-comments": 137, 
+            "num-comments": 138, 
             "domain": "consequenceofsound.net", 
-            "score": 1060, 
+            "score": 1071, 
             "nsfw": false, 
             "title": "PornHub launches its own record label", 
             "url": "http://consequenceofsound.net/2014/09/pornhub-launches-its-own-record-label/", 
@@ -55,7 +56,7 @@
         {
             "num-comments": 117, 
             "domain": "youtu.be", 
-            "score": 712, 
+            "score": 729, 
             "nsfw": false, 
             "title": "Jimmy Eat World - Sweetness [Pop Punk, Emo]", 
             "url": "http://youtu.be/ROatPGGMvXg", 
@@ -67,7 +68,7 @@
         {
             "num-comments": 38, 
             "domain": "youtube.com", 
-            "score": 204, 
+            "score": 216, 
             "nsfw": false, 
             "title": "Counting Crows - Mr. Jones [Rock]", 
             "url": "https://www.youtube.com/watch?v=-oqAU5VxFWs", 
@@ -79,7 +80,7 @@
         {
             "num-comments": 32, 
             "domain": "self.Music", 
-            "score": 121, 
+            "score": 119, 
             "nsfw": false, 
             "title": "On this day in 1991 RHCP released their 5th studio album &amp; what I believe to be their best - Blood Sugar Sex Magik", 
             "url": "http://www.reddit.com/r/Music/comments/2heae4/on_this_day_in_1991_rhcp_released_their_5th/", 
@@ -91,7 +92,7 @@
         {
             "num-comments": 9, 
             "domain": "youtube.com", 
-            "score": 116, 
+            "score": 112, 
             "nsfw": false, 
             "title": "Yo La Tengo - Autumn Sweater [Indie]", 
             "url": "http://www.youtube.com/attribution_link?a=EZfEfnJmQqM&amp;u=%2Fwatch%3Fv%3DUIkMeaAfIRw%26feature%3Dshare", 
@@ -103,7 +104,7 @@
         {
             "num-comments": 22, 
             "domain": "youtube.com", 
-            "score": 74, 
+            "score": 70, 
             "nsfw": false, 
             "title": "Gramatik vs. The Beatles - Don't Let Me Down [Remix]", 
             "url": "https://www.youtube.com/watch?v=FHPg-bQneMY&amp;", 
@@ -113,9 +114,9 @@
             "id": "2hflgl"
         }, 
         {
-            "num-comments": 141, 
+            "num-comments": 142, 
             "domain": "self.Music", 
-            "score": 63, 
+            "score": 61, 
             "nsfw": false, 
             "title": "Songs that creep you out or flat out scare the shit out of you.", 
             "url": "http://www.reddit.com/r/Music/comments/2hfto4/songs_that_creep_you_out_or_flat_out_scare_the/", 
@@ -127,7 +128,7 @@
         {
             "num-comments": 21, 
             "domain": "youtube.com", 
-            "score": 56, 
+            "score": 60, 
             "nsfw": false, 
             "title": "Alt-J - Arrival in Nara [Alternative]", 
             "url": "https://www.youtube.com/watch?v=oEYdFPD0UvY", 
@@ -139,7 +140,7 @@
         {
             "num-comments": 184, 
             "domain": "self.Music", 
-            "score": 55, 
+            "score": 59, 
             "nsfw": false, 
             "title": "What is your favourite song right now?", 
             "url": "http://www.reddit.com/r/Music/comments/2hfr9e/what_is_your_favourite_song_right_now/", 
@@ -151,7 +152,7 @@
         {
             "num-comments": 4, 
             "domain": "youtube.com", 
-            "score": 56, 
+            "score": 59, 
             "nsfw": false, 
             "title": "ZZ Top - La Grange [Blues Rock] (Haw Haw Haw Haw)", 
             "url": "https://www.youtube.com/watch?v=Vppbdf-qtGU", 
@@ -163,7 +164,7 @@
         {
             "num-comments": 18, 
             "domain": "self.Music", 
-            "score": 44, 
+            "score": 43, 
             "nsfw": false, 
             "title": "Thank you Styx", 
             "url": "http://www.reddit.com/r/Music/comments/2hfk06/thank_you_styx/", 
@@ -175,7 +176,7 @@
         {
             "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 44, 
+            "score": 47, 
             "nsfw": false, 
             "title": "De Jeugd Van Tegenwoordig - Sterrenstof [Hip Hop] [Dutch]", 
             "url": "https://www.youtube.com/watch?v=cNMXSKfWfLQ", 
@@ -223,7 +224,7 @@
         {
             "num-comments": 7, 
             "domain": "youtube.com", 
-            "score": 39, 
+            "score": 37, 
             "nsfw": true, 
             "title": "El Guincho - \"Bombay\" [Electronic, Latin]", 
             "url": "https://www.youtube.com/watch?v=-CreEuaS8QY", 
@@ -233,9 +234,9 @@
             "id": "2hfvl2"
         }, 
         {
-            "num-comments": 15, 
+            "num-comments": 16, 
             "domain": "youtube.com", 
-            "score": 29, 
+            "score": 25, 
             "nsfw": false, 
             "title": "Deftones - Headup [Rock] I dare you not to feel this song's energy. The Deftones were amazing at capturing their live energy on their studio records.", 
             "url": "https://www.youtube.com/watch?v=2s6zRaaFeUE", 
@@ -259,7 +260,7 @@
         {
             "num-comments": 5, 
             "domain": "youtube.com", 
-            "score": 26, 
+            "score": 27, 
             "nsfw": false, 
             "title": "Black Sabbath - N.I.B. [Heavy Metal]", 
             "url": "https://www.youtube.com/watch?v=i_SGQycuXUw", 
@@ -295,7 +296,7 @@
         {
             "num-comments": 0, 
             "domain": "youtube.com", 
-            "score": 17, 
+            "score": 18, 
             "nsfw": false, 
             "title": "Earth - Omens And Portents II: Carrion Crow [Instrumental]", 
             "url": "http://www.youtube.com/attribution_link?a=PSnzMWL5bK8&amp;u=%2Fwatch%3Fv%3DLKT0vKI3W8Y%26feature%3Dshare", 
@@ -305,6 +306,7 @@
             "id": "2hfupn"
         }
     ], 
+    "api-url": "http://daily.red/music.json", 
     "display-name": "Music", 
     "short-url": "/r/Music/"
 }

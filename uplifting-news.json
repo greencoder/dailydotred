@@ -1,13 +1,14 @@
 {
     "category": "News", 
+    "generated-utc": 1411697799, 
     "description": "A place to read and share positive and uplifting, feel good news stories.", 
     "title": "Uplifting News", 
     "full-url": "http://www.reddit.com/r/UpliftingNews/", 
     "posts": [
         {
-            "num-comments": 89, 
+            "num-comments": 91, 
             "domain": "mlive.com", 
-            "score": 300, 
+            "score": 310, 
             "nsfw": false, 
             "title": "Autistic student voted to homecoming court at Detroit-area high school", 
             "url": "http://www.mlive.com/news/detroit/index.ssf/2014/09/autistic_student_voted_to_home.html", 
@@ -65,6 +66,7 @@
             "id": "2hhes9"
         }
     ], 
+    "api-url": "http://daily.red/uplifting-news.json", 
     "display-name": "Uplifting News", 
     "short-url": "/r/UpliftingNews/"
 }

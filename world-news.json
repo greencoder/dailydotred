@@ -1,13 +1,14 @@
 {
     "category": "News", 
+    "generated-utc": 1411697805, 
     "description": "A place for major news from around the world, excluding US-internal news.", 
     "title": "World News", 
     "full-url": "http://www.reddit.com/r/worldnews/", 
     "posts": [
         {
-            "num-comments": 3044, 
+            "num-comments": 3088, 
             "domain": "smh.com.au", 
-            "score": 4975, 
+            "score": 4979, 
             "nsfw": false, 
             "title": "Terror laws clear Senate, enabling entire Australian web to be monitored and whistleblowers to be jailed", 
             "url": "http://www.smh.com.au/digital-life/consumer-security/terror-laws-clear-senate-enabling-entire-australian-web-to-be-monitored-and-whistleblowers-to-be-jailed-20140925-10m8ih.html", 
@@ -17,9 +18,9 @@
             "id": "2hfevd"
         }, 
         {
-            "num-comments": 950, 
+            "num-comments": 952, 
             "domain": "inhabitat.com", 
-            "score": 3605, 
+            "score": 3610, 
             "nsfw": false, 
             "title": "16-Year-Old Irish Girls Win Google Science Fair 2014 With World-Changing Crop Yield Breakthrough", 
             "url": "http://inhabitat.com/16-year-old-irish-girls-win-google-science-fair-2014-with-world-changing-crop-yield-breakthrough/", 
@@ -29,9 +30,9 @@
             "id": "2heown"
         }, 
         {
-            "num-comments": 107, 
+            "num-comments": 106, 
             "domain": "theguardian.com", 
-            "score": 2854, 
+            "score": 2877, 
             "nsfw": false, 
             "title": "Turkey\u2019s \u2018turtle beach\u2019, saved from bulldozers in the 1980s, faces new threat from developers - The 91-yr-old Englishwoman who famously saved the beach \u2013 a key nesting site for loggerhead turtles \u2013 25 yrs ago, launches petition to protect it from new plans for tourist development", 
             "url": "http://www.theguardian.com/travel/2014/sep/25/turkey-turtle-beach-faces-threat-development", 
@@ -41,9 +42,9 @@
             "id": "2hf7hw"
         }, 
         {
-            "num-comments": 471, 
+            "num-comments": 473, 
             "domain": "dailymail.co.uk", 
-            "score": 2852, 
+            "score": 2894, 
             "nsfw": false, 
             "title": "The son of the heir to the Saudi Arabian throne has personally put the royal seal of approval on the attacks against Isis, by taking part in bombing runs.", 
             "url": "http://www.dailymail.co.uk/news/article-2769089/Saudi-prince-Emirate-s-female-pilot-lead-blitz-ISIS-Arab-states-send-squadrons-fighters-blast-terror-group-Iraq-Syria.html", 
@@ -53,9 +54,9 @@
             "id": "2hf9gx"
         }, 
         {
-            "num-comments": 310, 
+            "num-comments": 312, 
             "domain": "time.com", 
-            "score": 1945, 
+            "score": 1952, 
             "nsfw": false, 
             "title": "The Olympic Committee adds anti-discrimination clause for host cities, in response to Russia's homophobic policies", 
             "url": "http://time.com/3427596/olympic-committee-host-discrimination/", 
@@ -65,9 +66,9 @@
             "id": "2he3hr"
         }, 
         {
-            "num-comments": 628, 
+            "num-comments": 641, 
             "domain": "cbc.ca", 
-            "score": 1799, 
+            "score": 1865, 
             "nsfw": false, 
             "title": "ISIS plot uncovered to attack New York, Paris subways, Iraq PM says", 
             "url": "http://www.cbc.ca/news/world/isis-plot-uncovered-to-attack-new-york-paris-subways-iraq-pm-says-1.2777707", 
@@ -77,9 +78,9 @@
             "id": "2hfsmm"
         }, 
         {
-            "num-comments": 258, 
+            "num-comments": 261, 
             "domain": "uk.reuters.com", 
-            "score": 1181, 
+            "score": 1198, 
             "nsfw": false, 
             "title": "China to send 700 troops to South Sudan to assist UN mission - fighting has threatened Beijing's oil investments -", 
             "url": "http://uk.reuters.com/article/2014/09/25/china-southsudan-un-idUKL3N0RQ35L20140925", 
@@ -89,9 +90,9 @@
             "id": "2hezzd"
         }, 
         {
-            "num-comments": 235, 
+            "num-comments": 237, 
             "domain": "bbc.com", 
-            "score": 760, 
+            "score": 781, 
             "nsfw": false, 
             "title": "A \"deadly serious\" bug potentially affecting hundreds of millions of computers, servers and devices has been discovered. Experts say it is more serious than Heartbleed.", 
             "url": "http://www.bbc.com/news/technology-29361794", 
@@ -103,7 +104,7 @@
         {
             "num-comments": 39, 
             "domain": "couriermail.com.au", 
-            "score": 657, 
+            "score": 651, 
             "nsfw": false, 
             "title": "Australian power company caught overcharging customers to recoup losses due to increase in residential solar.", 
             "url": "http://www.couriermail.com.au/news/queensland/consumers-to-pay-as-energex-recovers-revenue-cap-gap-of-4698-million/story-fnihsrf2-1227069557540", 
@@ -113,9 +114,9 @@
             "id": "2hdz5z"
         }, 
         {
-            "num-comments": 376, 
+            "num-comments": 406, 
             "domain": "telegraph.co.uk", 
-            "score": 910, 
+            "score": 1009, 
             "nsfw": false, 
             "title": "Ultra-Orthodox Jews cause chaos on flight to Israel by demanding segregation of men and women", 
             "url": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11121519/Ultra-Orthodox-Jews-cause-chaos-on-flight-to-Israel.html", 
@@ -125,9 +126,9 @@
             "id": "2hgbil"
         }, 
         {
-            "num-comments": 176, 
+            "num-comments": 178, 
             "domain": "timesofoman.com", 
-            "score": 625, 
+            "score": 630, 
             "nsfw": false, 
             "title": "India's spacecraft beams back first Mars photos", 
             "url": "http://www.timesofoman.com/News/40473/Article-Indias-spacecraft-beams-back-first-Mars-photos", 
@@ -137,9 +138,9 @@
             "id": "2hey9j"
         }, 
         {
-            "num-comments": 306, 
+            "num-comments": 307, 
             "domain": "wjla.com", 
-            "score": 418, 
+            "score": 413, 
             "nsfw": false, 
             "title": "Bodies of Ebola Victims Being Thrown Into Rivers", 
             "url": "http://www.wjla.com/articles/2014/09/cdc-ebola-cases-could-hit-1-4-million-by-mid-january-107421.html", 
@@ -151,7 +152,7 @@
         {
             "num-comments": 52, 
             "domain": "hurriyetdailynews.com", 
-            "score": 393, 
+            "score": 402, 
             "nsfw": false, 
             "title": "Arab-Kurdish couple ties the knot in landmark gay wedding in Istanbul, Turkey", 
             "url": "http://www.hurriyetdailynews.com/arab-kurdish-couple-ties-the-knot-in-landmark-gay-wedding.aspx?PageID=238&amp;NID=72121&amp;NewsCatID=339", 
@@ -161,9 +162,9 @@
             "id": "2hf00w"
         }, 
         {
-            "num-comments": 158, 
+            "num-comments": 173, 
             "domain": "ibtimes.com", 
-            "score": 502, 
+            "score": 566, 
             "nsfw": false, 
             "title": "ISIS Overruns Iraqi Army Base Near Baghdad, Executes 300 Soldiers", 
             "url": "http://www.ibtimes.com/isis-overruns-iraqi-army-base-near-baghdad-executes-300-soldiers-1695131", 
@@ -175,7 +176,7 @@
         {
             "num-comments": 116, 
             "domain": "smh.com.au", 
-            "score": 284, 
+            "score": 282, 
             "nsfw": false, 
             "title": "Ukrainian Army picks up random civilians for prisoner exchange.", 
             "url": "http://www.smh.com.au/world/ukraine-picks-motley-group-to-exchange-for-prisoners-20140925-10lqh0.html", 
@@ -185,9 +186,9 @@
             "id": "2hed9g"
         }, 
         {
-            "num-comments": 49, 
+            "num-comments": 54, 
             "domain": "jpost.com", 
-            "score": 304, 
+            "score": 315, 
             "nsfw": false, 
             "title": "Fatah, Hamas agree to cede control of Gaza to unity government", 
             "url": "http://www.jpost.com/Arab-Israeli-Conflict/Report-Fatah-Hamas-agree-to-cede-control-of-Gaza-to-unity-government-376331", 
@@ -197,9 +198,9 @@
             "id": "2hfnli"
         }, 
         {
-            "num-comments": 208, 
+            "num-comments": 209, 
             "domain": "abcnews.go.com", 
-            "score": 268, 
+            "score": 270, 
             "nsfw": false, 
             "title": "Dutch Military Personnel Told Not to Wear Uniform on Bus or Train For Fear of Radical Muslim Attacks", 
             "url": "http://abcnews.go.com/International/wireStory/dutch-troops-told-wear-uniform-bus-train-25748296", 
@@ -211,7 +212,7 @@
         {
             "num-comments": 20, 
             "domain": "news.yahoo.com", 
-            "score": 250, 
+            "score": 247, 
             "nsfw": false, 
             "title": "Over 1,000 arrested in unprecedented swoop: Europol", 
             "url": "http://news.yahoo.com/over-1-000-arrested-organised-crime-swoop-europol-000815771.html", 
@@ -223,7 +224,7 @@
         {
             "num-comments": 195, 
             "domain": "telegraph.co.uk", 
-            "score": 240, 
+            "score": 245, 
             "nsfw": false, 
             "title": "Up to five British jihadists including a teenager from Brighton are believed to have been killed in Syria during US airstrikes, according to reports", 
             "url": "http://www.telegraph.co.uk/news/worldnews/middleeast/syria/11120127/Brighton-jihadi-among-five-killed-in-Syria-drone-strike.html", 
@@ -233,9 +234,9 @@
             "id": "2he7jf"
         }, 
         {
-            "num-comments": 56, 
+            "num-comments": 60, 
             "domain": "weather.com", 
-            "score": 371, 
+            "score": 425, 
             "nsfw": false, 
             "title": "Fukushima, Japan Rocked By Two Earthquakes in One Hour; Epicenter Near Nuclear Plants", 
             "url": "http://www.weather.com/news/fukushima-two-earthquakes-one-hour-20140924", 
@@ -247,7 +248,7 @@
         {
             "num-comments": 18, 
             "domain": "lab.org.uk", 
-            "score": 239, 
+            "score": 243, 
             "nsfw": false, 
             "title": "Four Peruvian Anti-Logging Activists Murdered", 
             "url": "http://lab.org.uk/four-peruvian-anti-logging-activists-murdered", 
@@ -257,9 +258,9 @@
             "id": "2hfixb"
         }, 
         {
-            "num-comments": 108, 
+            "num-comments": 111, 
             "domain": "nknews.org", 
-            "score": 218, 
+            "score": 226, 
             "nsfw": false, 
             "title": "Kim Jong Un absent from second session of 13th Supreme People\u2019s Assembly", 
             "url": "http://www.nknews.org/2014/09/kim-jong-un-absent-from-second-session-of-13th-supreme-peoples-assembly/", 
@@ -269,9 +270,9 @@
             "id": "2hfi9p"
         }, 
         {
-            "num-comments": 74, 
+            "num-comments": 76, 
             "domain": "dailymail.co.uk", 
-            "score": 194, 
+            "score": 200, 
             "nsfw": false, 
             "title": "British airstrikes on ISIS could start tomorrow as David Cameron holds Cabinet", 
             "url": "http://www.dailymail.co.uk/news/article-2769182/Cameron-holds-war-Cabinet-amid-surge-public-support-British-airstrikes-psychopathic-murderers-ISIS.html", 
@@ -283,7 +284,7 @@
         {
             "num-comments": 17, 
             "domain": "usnews.com", 
-            "score": 177, 
+            "score": 182, 
             "nsfw": false, 
             "title": "Azerbaijan nabs 26 alleged ISIS militants", 
             "url": "http://www.usnews.com/news/world/articles/2014/09/23/azerbaijan-nabs-26-alleged-militants", 
@@ -295,7 +296,7 @@
         {
             "num-comments": 41, 
             "domain": "smithsonianmag.com", 
-            "score": 174, 
+            "score": 176, 
             "nsfw": false, 
             "title": "The Waters Around Malaysia, Not Somalia, are the World\u2019s Worst for Pirates- Despite the attention piracy in the Horn of Africa has received, over 40% of pirate attacks over last 2 decades took place in Southeast Asia", 
             "url": "http://www.smithsonianmag.com/smart-news/waters-around-malaysia-not-somalia-are-worlds-worst-pirates-180952827/", 
@@ -305,6 +306,7 @@
             "id": "2hezw5"
         }
     ], 
+    "api-url": "http://daily.red/world-news.json", 
     "display-name": "World News", 
     "short-url": "/r/worldnews/"
 }
