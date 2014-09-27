@@ -1,14 +1,13 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411826470, 
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
-    "full-url": "http://www.reddit.com/r/history/", 
+    "generated-utc": 1411835094, 
     "posts": [
         {
-            "num-comments": 140, 
+            "num-comments": 141, 
             "domain": "bostonglobe.com", 
-            "score": 1128, 
+            "score": 1134, 
             "nsfw": false, 
             "title": "Discovered Inside Boston Statue: 113-Yr-Old Time Capsule - Fiber optic camera used to detect the capsule, which is in a sealed copper box size of a shoe box, secured to the sculpture with copper straps", 
             "url": "http://www.bostonglobe.com/metro/2014/09/23/time-capsule-found-inside-lion-statue-removed-from-old-state-house/SwtlRRyMDcgxLL4fvAmlnN/story.html", 
@@ -20,7 +19,7 @@
         {
             "num-comments": 28, 
             "domain": "psmag.com", 
-            "score": 117, 
+            "score": 115, 
             "nsfw": false, 
             "title": "\"The Most Pointless Ferry in Maryland\": an old ferry service that dates back to 1683", 
             "url": "http://www.psmag.com/navigation/business-economics/pointless-ferry-maryland-tred-avon-transportation-boat-ride-91209/", 
@@ -30,9 +29,9 @@
             "id": "2hibyi"
         }, 
         {
-            "num-comments": 39, 
+            "num-comments": 48, 
             "domain": "self.history", 
-            "score": 186, 
+            "score": 273, 
             "nsfw": false, 
             "title": "slaughter house 5", 
             "url": "http://www.reddit.com/r/history/comments/2hjwp4/slaughter_house_5/", 
@@ -44,7 +43,7 @@
         {
             "num-comments": 8, 
             "domain": "spiegel.de", 
-            "score": 89, 
+            "score": 94, 
             "nsfw": false, 
             "title": "The Archeological Excavations that Led to the Gas Chambers of Sobibor", 
             "url": "http://www.spiegel.de/international/zeitgeist/the-archeological-excavations-that-led-to-the-gas-chambers-of-sobibor-a-993733.html", 
@@ -56,7 +55,7 @@
         {
             "num-comments": 4, 
             "domain": "spiegel.de", 
-            "score": 60, 
+            "score": 67, 
             "nsfw": false, 
             "title": "Interview with Sobib\u00f3r Survivor Philip Bialowitz", 
             "url": "http://www.spiegel.de/international/europe/interview-with-sobibor-survivor-philip-bialowitz-a-993928.html", 
@@ -68,7 +67,7 @@
         {
             "num-comments": 3, 
             "domain": "neh.gov", 
-            "score": 42, 
+            "score": 41, 
             "nsfw": false, 
             "title": "Politics and war brought Teddy Roosevelt and Franklin Delano Roosevelt ever closer", 
             "url": "http://www.neh.gov/humanities/2014/septemberoctober/feature/politics-and-war-brought-teddy-roosevelt-and-franklin-delan", 
@@ -92,7 +91,7 @@
         {
             "num-comments": 4, 
             "domain": "self.history", 
-            "score": 7, 
+            "score": 6, 
             "nsfw": false, 
             "title": "World War I broke out largely because of an arms race, and World War II because of the lack of an arms race- Herman Kahn. Meaning?", 
             "url": "http://www.reddit.com/r/history/comments/2hjh8x/world_war_i_broke_out_largely_because_of_an_arms/", 
@@ -116,7 +115,7 @@
         {
             "num-comments": 0, 
             "domain": "self.history", 
-            "score": 2, 
+            "score": 1, 
             "nsfw": false, 
             "title": "The Arms race, what are some of your favorite reads.", 
             "url": "http://www.reddit.com/r/history/comments/2hl7sf/the_arms_race_what_are_some_of_your_favorite_reads/", 
@@ -174,7 +173,7 @@
             "id": "2hjjl8"
         }
     ], 
+    "reddit-url": "http://www.reddit.com/r/history/", 
     "api-url": "http://daily.red/history.json", 
-    "display-name": "History", 
-    "short-url": "/r/history/"
+    "display-name": "History"
 }

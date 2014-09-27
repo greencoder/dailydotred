@@ -1,14 +1,13 @@
 {
     "category": "Fun", 
-    "generated-utc": 1411826511, 
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
-    "full-url": "http://www.reddit.com/r/humor/", 
+    "generated-utc": 1411835136, 
     "posts": [
         {
-            "num-comments": 36, 
+            "num-comments": 37, 
             "domain": "metro.co.uk", 
-            "score": 381, 
+            "score": 383, 
             "nsfw": false, 
             "title": "Love Jesus? Love fitness? Love sleeping with people other than your partner? Then Fitness Swingers is for you!", 
             "url": "http://metro.co.uk/2014/09/25/christian-swingers-network-is-only-for-the-super-fit-4881652/", 
@@ -20,7 +19,7 @@
         {
             "num-comments": 0, 
             "domain": "youtu.be", 
-            "score": 2, 
+            "score": 0, 
             "nsfw": false, 
             "title": "Just an OK way of doing CrossFit.", 
             "url": "http://youtu.be/6kaAvlyIN1Y", 
@@ -30,7 +29,7 @@
             "id": "2hl52m"
         }
     ], 
+    "reddit-url": "http://www.reddit.com/r/humor/", 
     "api-url": "http://daily.red/humor.json", 
-    "display-name": "Humor", 
-    "short-url": "/r/humor/"
+    "display-name": "Humor"
 }

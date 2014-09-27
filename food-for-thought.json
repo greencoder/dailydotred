@@ -1,14 +1,13 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411826474, 
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
-    "full-url": "http://www.reddit.com/r/Foodforthought/", 
+    "generated-utc": 1411835099, 
     "posts": [
         {
             "num-comments": 24, 
             "domain": "nymag.com", 
-            "score": 202, 
+            "score": 204, 
             "nsfw": false, 
             "title": "Who Is Su - She was 22 when her memory was obliterated. Twenty-six years later, Su Meck is still learning about the family she raised and the husband she has no recollection of marrying", 
             "url": "http://nymag.com/news/features/su-meck-amnesia-2014-9/#print", 
@@ -18,9 +17,9 @@
             "id": "2hiurj"
         }, 
         {
-            "num-comments": 10, 
+            "num-comments": 11, 
             "domain": "bloombergview.com", 
-            "score": 223, 
+            "score": 254, 
             "nsfw": false, 
             "title": "The Secret Goldman Sachs Tapes", 
             "url": "http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes", 
@@ -32,7 +31,7 @@
         {
             "num-comments": 1, 
             "domain": "propublica.org", 
-            "score": 25, 
+            "score": 24, 
             "nsfw": false, 
             "title": "Inside the New York Fed: Secret Recordings and a Culture Clash -- A confidential report and a fired examiner\u2019s hidden recorder penetrate the cloistered world of Wall Street\u2019s top regulator\u2014and its history of deference to banks", 
             "url": "http://www.propublica.org/article/carmen-segarras-secret-recordings-from-inside-new-york-fed", 
@@ -44,7 +43,7 @@
         {
             "num-comments": 0, 
             "domain": "collectorsweekly.com", 
-            "score": 11, 
+            "score": 10, 
             "nsfw": false, 
             "title": "The Reclusive, Doll-Collecting Copper Queen of Fifth Avenue", 
             "url": "http://www.collectorsweekly.com/articles/the-reclusive-doll-collecting-copper-queen-of-fifth-avenue/", 
@@ -56,7 +55,7 @@
         {
             "num-comments": 1, 
             "domain": "missoulanews.bigskypress.com", 
-            "score": 7, 
+            "score": 10, 
             "nsfw": false, 
             "title": "Redskins Team Name Still Controversial- The Daily Show Behind the Scenes", 
             "url": "http://missoulanews.bigskypress.com/GreenRoom/archives/2014/09/26/ill-fucking-cut-you-behind-the-scenes-of-the-1491s-segment-on-the-daily-show", 
@@ -104,7 +103,7 @@
         {
             "num-comments": 8, 
             "domain": "boston.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "The downside of diversity", 
             "url": "http://www.boston.com/news/globe/ideas/articles/2007/08/05/the_downside_of_diversity/", 
@@ -116,7 +115,7 @@
         {
             "num-comments": 0, 
             "domain": "theguardian.com", 
-            "score": 6, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Life in Timbuktu: how the ancient city of gold is slowly turning to dust", 
             "url": "http://www.theguardian.com/cities/2014/sep/16/-sp-life-timbuktu-mali-ancient-city-gold-slowly-turning-to-dust", 
@@ -128,7 +127,7 @@
         {
             "num-comments": 11, 
             "domain": "stuff.co.nz", 
-            "score": 5, 
+            "score": 4, 
             "nsfw": false, 
             "title": "Into the Black The Easy Rider tragedy It was one of New Zealand\u2019s worst ever maritime disasters. Eight people drowned. Only one survived. Here, using never before reported material, the full story of the Easy Rider is finally told.", 
             "url": "http://www.stuff.co.nz/interactives/2014/into-the-black/?Src=longreads", 
@@ -140,7 +139,7 @@
         {
             "num-comments": 2, 
             "domain": "aeon.co", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "title": "The other half - To end inequality, we must realise that it isn\u2019t about the rich, it\u2019s about the poor. And we know almost nothing about them", 
             "url": "http://aeon.co/magazine/society/to-end-inequality-we-must-understand-how-poverty-works/", 
@@ -152,7 +151,7 @@
         {
             "num-comments": 2, 
             "domain": "bbc.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "Demanding justice for Irish abused by nuns", 
             "url": "http://www.bbc.com/news/magazine-29307705", 
@@ -164,7 +163,7 @@
         {
             "num-comments": 0, 
             "domain": "spectrum.ieee.org", 
-            "score": 2, 
+            "score": 1, 
             "nsfw": false, 
             "title": "The Great Lightbulb Conspiracy", 
             "url": "http://spectrum.ieee.org/geek-life/history/the-great-lightbulb-conspiracy", 
@@ -188,7 +187,7 @@
         {
             "num-comments": 1, 
             "domain": "washingtonpost.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "Mass shooting hysteria and the death of John Crawford", 
             "url": "http://www.washingtonpost.com/news/the-watch/wp/2014/09/25/mass-shooting-hysteria-and-the-death-of-john-crawford/", 
@@ -198,7 +197,7 @@
             "id": "2hjdf8"
         }
     ], 
+    "reddit-url": "http://www.reddit.com/r/Foodforthought/", 
     "api-url": "http://daily.red/food-for-thought.json", 
-    "display-name": "Food for Thought", 
-    "short-url": "/r/Foodforthought/"
+    "display-name": "Food for Thought"
 }

@@ -1,203 +1,181 @@
 {
-    "generated-utc": 1411826526, 
+    "generated-utc": 1411835157, 
     "subreddits": [
         {
             "category": "News", 
             "description": "Real news articles, primarily but not exclusively, news relating to the United States", 
             "title": "All news, US and international.", 
-            "full-url": "http://www.reddit.com/r/news/", 
+            "reddit-url": "http://www.reddit.com/r/news/", 
             "api-url": "http://daily.red/news.json", 
-            "display-name": "News", 
-            "short-url": "/r/news/"
+            "display-name": "News"
         }, 
         {
             "category": "News", 
             "description": "A place for major news from around the world, excluding US-internal news", 
             "title": "World News", 
-            "full-url": "http://www.reddit.com/r/worldnews/", 
+            "reddit-url": "http://www.reddit.com/r/worldnews/", 
             "api-url": "http://daily.red/world-news.json", 
-            "display-name": "World News", 
-            "short-url": "/r/worldnews/"
+            "display-name": "World News"
         }, 
         {
             "category": "News", 
             "description": "The subreddit for opinion, analysis, and discussion of recent events", 
             "title": "In the News: Opinion, Analysis, and Discussion", 
-            "full-url": "http://www.reddit.com/r/inthenews/", 
+            "reddit-url": "http://www.reddit.com/r/inthenews/", 
             "api-url": "http://daily.red/in-the-news.json", 
-            "display-name": "In the News", 
-            "short-url": "/r/inthenews/"
+            "display-name": "In the News"
         }, 
         {
             "category": "News", 
             "description": "A place to read and share positive and uplifting, feel good news stories", 
             "title": "Uplifting News", 
-            "full-url": "http://www.reddit.com/r/UpliftingNews/", 
+            "reddit-url": "http://www.reddit.com/r/UpliftingNews/", 
             "api-url": "http://daily.red/uplifting-news.json", 
-            "display-name": "Uplifting News", 
-            "short-url": "/r/UpliftingNews/"
+            "display-name": "Uplifting News"
         }, 
         {
             "category": "News", 
             "description": "News and discussion about economics, from the perspective of economists", 
             "title": "The Dismal Science", 
-            "full-url": "http://www.reddit.com/r/Economics/", 
+            "reddit-url": "http://www.reddit.com/r/Economics/", 
             "api-url": "http://daily.red/economics.json", 
-            "display-name": "Economics", 
-            "short-url": "/r/Economics/"
+            "display-name": "Economics"
         }, 
         {
             "category": "News", 
             "description": "Stories related to weather", 
             "title": "Weather subreddit", 
-            "full-url": "http://www.reddit.com/r/weather/", 
+            "reddit-url": "http://www.reddit.com/r/weather/", 
             "api-url": "http://daily.red/weather.json", 
-            "display-name": "Weather", 
-            "short-url": "/r/weather/"
+            "display-name": "Weather"
         }, 
         {
             "category": "Knowledge", 
             "description": "You learn something new every day; what did you learn today? Submit interesting and specific facts about something that you just found out here.", 
             "title": "Today I Learned (TIL)", 
-            "full-url": "http://www.reddit.com/r/todayilearned/", 
+            "reddit-url": "http://www.reddit.com/r/todayilearned/", 
             "api-url": "http://daily.red/today-i-learned.json", 
-            "display-name": "Today I Learned", 
-            "short-url": "/r/todayilearned/"
+            "display-name": "Today I Learned"
         }, 
         {
             "category": "Knowledge", 
             "description": "News stories related to technology", 
             "title": "Technology", 
-            "full-url": "http://www.reddit.com/r/technology/", 
+            "reddit-url": "http://www.reddit.com/r/technology/", 
             "api-url": "http://daily.red/technology.json", 
-            "display-name": "Technology", 
-            "short-url": "/r/technology/"
+            "display-name": "Technology"
         }, 
         {
             "category": "Knowledge", 
             "description": "The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences.", 
             "title": "Science", 
-            "full-url": "http://www.reddit.com/r/science/", 
+            "reddit-url": "http://www.reddit.com/r/science/", 
             "api-url": "http://daily.red/science.json", 
-            "display-name": "Science", 
-            "short-url": "/r/science/"
+            "display-name": "Science"
         }, 
         {
             "category": "Knowledge", 
             "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
             "title": "History", 
-            "full-url": "http://www.reddit.com/r/history/", 
+            "reddit-url": "http://www.reddit.com/r/history/", 
             "api-url": "http://daily.red/history.json", 
-            "display-name": "History", 
-            "short-url": "/r/history/"
+            "display-name": "History"
         }, 
         {
             "category": "Knowledge", 
             "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
             "title": "foodforthought: Intellectual Nourishment ", 
-            "full-url": "http://www.reddit.com/r/Foodforthought/", 
+            "reddit-url": "http://www.reddit.com/r/Foodforthought/", 
             "api-url": "http://daily.red/food-for-thought.json", 
-            "display-name": "Food for Thought", 
-            "short-url": "/r/Foodforthought/"
+            "display-name": "Food for Thought"
         }, 
         {
             "category": "Knowledge", 
             "description": "Ask a science question, get a science answer", 
             "title": "AskScience: Got Questions? Get Answers.", 
-            "full-url": "http://www.reddit.com/r/askscience/", 
+            "reddit-url": "http://www.reddit.com/r/askscience/", 
             "api-url": "http://daily.red/ask-science.json", 
-            "display-name": "Ask Science", 
-            "short-url": "/r/askscience/"
+            "display-name": "Ask Science"
         }, 
         {
             "category": "Knowledge", 
             "description": "Tips that improve your life in one way or another", 
             "title": "Life Pro Tips", 
-            "full-url": "http://www.reddit.com/r/LifeProTips/", 
+            "reddit-url": "http://www.reddit.com/r/LifeProTips/", 
             "api-url": "http://daily.red/life-pro-tips.json", 
-            "display-name": "Life Pro Tips", 
-            "short-url": "/r/LifeProTips/"
+            "display-name": "Life Pro Tips"
         }, 
         {
             "category": "Entertainment", 
             "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources.", 
             "title": "/r/television - A premium-quality television subreddit", 
-            "full-url": "http://www.reddit.com/r/television/", 
+            "reddit-url": "http://www.reddit.com/r/television/", 
             "api-url": "http://daily.red/television.json", 
-            "display-name": "Television", 
-            "short-url": "/r/television/"
+            "display-name": "Television"
         }, 
         {
             "category": "Entertainment", 
             "description": "News and discussion of major motion pictures", 
             "title": "Movie News and Discussion", 
-            "full-url": "http://www.reddit.com/r/movies/", 
+            "reddit-url": "http://www.reddit.com/r/movies/", 
             "api-url": "http://daily.red/movies.json", 
-            "display-name": "Movies", 
-            "short-url": "/r/movies/"
+            "display-name": "Movies"
         }, 
         {
             "category": "Entertainment", 
             "description": "The musical community of reddit", 
             "title": "Music", 
-            "full-url": "http://www.reddit.com/r/Music/", 
+            "reddit-url": "http://www.reddit.com/r/Music/", 
             "api-url": "http://daily.red/music.json", 
-            "display-name": "Music", 
-            "short-url": "/r/Music/"
+            "display-name": "Music"
         }, 
         {
             "category": "Entertainment", 
             "description": "A subreddit for (almost) anything related to games - video games, board games, card games, etc.", 
             "title": "What's new in gaming", 
-            "full-url": "http://www.reddit.com/r/gaming/", 
+            "reddit-url": "http://www.reddit.com/r/gaming/", 
             "api-url": "http://daily.red/gaming.json", 
-            "display-name": "Gaming", 
-            "short-url": "/r/gaming/"
+            "display-name": "Gaming"
         }, 
         {
             "category": "Fun", 
             "description": "Does this really need a description?", 
             "title": "funny", 
-            "full-url": "http://www.reddit.com/r/funny/", 
+            "reddit-url": "http://www.reddit.com/r/funny/", 
             "api-url": "http://daily.red/funny.json", 
-            "display-name": "Funny", 
-            "short-url": "/r/funny/"
+            "display-name": "Funny"
         }, 
         {
             "category": "Fun", 
             "description": "Humor is the place for things that bring a wry smile to your face", 
             "title": "Humor", 
-            "full-url": "http://www.reddit.com/r/humor/", 
+            "reddit-url": "http://www.reddit.com/r/humor/", 
             "api-url": "http://daily.red/humor.json", 
-            "display-name": "Humor", 
-            "short-url": "/r/humor/"
+            "display-name": "Humor"
         }, 
         {
             "category": "Fun", 
             "description": "Things that make you say \"What the F*ck\"", 
             "title": "WTF?!", 
-            "full-url": "http://www.reddit.com/r/WTF/", 
+            "reddit-url": "http://www.reddit.com/r/WTF/", 
             "api-url": "http://daily.red/wtf.json", 
-            "display-name": "WTF", 
-            "short-url": "/r/WTF/"
+            "display-name": "WTF"
         }, 
         {
             "category": "Fun", 
             "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
             "title": "News Of The Stupid", 
-            "full-url": "http://www.reddit.com/r/NewsOfTheStupid/", 
+            "reddit-url": "http://www.reddit.com/r/NewsOfTheStupid/", 
             "api-url": "http://daily.red/news-of-the-stupid.json", 
-            "display-name": "News of the Stupid", 
-            "short-url": "/r/NewsOfTheStupid/"
+            "display-name": "News of the Stupid"
         }, 
         {
             "category": "Fun", 
             "description": "A subreddit to share anything that goes on in your head while in the shower", 
             "title": "Shower Thoughts", 
-            "full-url": "http://www.reddit.com/r/Showerthoughts/", 
+            "reddit-url": "http://www.reddit.com/r/Showerthoughts/", 
             "api-url": "http://daily.red/shower-thoughts.json", 
-            "display-name": "Shower Thoughts", 
-            "short-url": "/r/Showerthoughts/"
+            "display-name": "Shower Thoughts"
         }
     ]
 }

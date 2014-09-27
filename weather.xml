@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Weather digest</title>
+  <link>http://www.daily.red/weather.html</link>
+  <description>Stories related to weather</description>
+  <category>News</category>
+  <language>en-us</language>
+  <pubDate>Sat, 27 Sep 2014 16:24:34 -0000</pubDate>
+  <ttl>240</ttl>
+  <atom:link href="http://www.daily.red/weather.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>Fallstreak hole/Hole Punch clouds in Central Alabama this morning.</title>
+    <link>http://imgur.com/a/RGTRx</link>
+    <guid>http://www.reddit.com/r/weather/comments/2hj554/fallstreak_holehole_punch_clouds_in_central/</guid>
+    <description>BY GUITARDUDE_04 &#183; POSTED 09/26/14 10:46 AM EST &#183; IMGUR.COM &#183; SCORE 61</description>
+    <category>News</category>
+  </item>
+
+  <item>
+    <title>What Southern Arizona's monsoon looks like from inside a fire lookout tower (xpost from r/tucson)</title>
+    <link>https://www.youtube.com/watch?v=pstcVVYCGr0</link>
+    <guid>http://www.reddit.com/r/weather/comments/2hjxrw/what_southern_arizonas_monsoon_looks_like_from/</guid>
+    <description>BY AZPMGUY &#183; POSTED 09/26/14 3:14 PM EST &#183; YOUTUBE.COM &#183; SCORE 5</description>
+    <category>News</category>
+  </item>
+
+  <item>
+    <title>Tampa Thunderstorm</title>
+    <link>http://youtu.be/QjW70rPwPyU</link>
+    <guid>http://www.reddit.com/r/weather/comments/2hknm7/tampa_thunderstorm/</guid>
+    <description>BY ICONSUMEPORN &#183; POSTED 09/26/14 7:31 PM EST &#183; YOUTU.BE &#183; SCORE 1</description>
+    <category>News</category>
+  </item>
+
+</channel>
+</rss>

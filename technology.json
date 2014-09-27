@@ -1,14 +1,13 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411826460, 
     "description": "News stories related to technology", 
     "title": "Technology", 
-    "full-url": "http://www.reddit.com/r/technology/", 
+    "generated-utc": 1411835084, 
     "posts": [
         {
-            "num-comments": 283, 
+            "num-comments": 284, 
             "domain": "dailydot.com", 
-            "score": 3717, 
+            "score": 3736, 
             "nsfw": false, 
             "title": "The NSA's been renting its technology to private American companies since 1990", 
             "url": "http://www.dailydot.com/politics/nsa-technology-transfer-program-national-security-agency-ttp/", 
@@ -18,9 +17,9 @@
             "id": "2hj40e"
         }, 
         {
-            "num-comments": 576, 
+            "num-comments": 609, 
             "domain": "techdirt.com", 
-            "score": 3689, 
+            "score": 3714, 
             "nsfw": false, 
             "title": "FBI Director Angry At Homebuilders For Putting Up Walls That Hide Any Crimes Therein", 
             "url": "https://www.techdirt.com/articles/20140925/17303928647/fbi-director-angry-homebuilders-putting-up-walls-that-hide-any-crimes-therein.shtml", 
@@ -30,9 +29,9 @@
             "id": "2hjej2"
         }, 
         {
-            "num-comments": 164, 
+            "num-comments": 168, 
             "domain": "commondreams.org", 
-            "score": 2038, 
+            "score": 2108, 
             "nsfw": false, 
             "title": "FBI Director Equates Protecting Personal Privacy with Lawlessness: James Comey says that moves by Apple and Google to offer encryption to customers allows cell phone users to \"place themselves beyond the law.\"", 
             "url": "http://www.commondreams.org/news/2014/09/26/fbi-director-equates-protecting-personal-privacy-lawlessness", 
@@ -42,9 +41,9 @@
             "id": "2hj9jq"
         }, 
         {
-            "num-comments": 103, 
+            "num-comments": 106, 
             "domain": "pitchfork.com", 
-            "score": 1080, 
+            "score": 1093, 
             "nsfw": false, 
             "title": "Thom Yorke to distribute new album via BitTorrent.", 
             "url": "http://pitchfork.com/news/56876-thom-yorke-announces-new-album-tomorrows-modern-boxes/", 
@@ -54,9 +53,9 @@
             "id": "2hj5dw"
         }, 
         {
-            "num-comments": 113, 
+            "num-comments": 115, 
             "domain": "blog.sfgate.com", 
-            "score": 966, 
+            "score": 964, 
             "nsfw": false, 
             "title": "Report: Solar could cut utility profits 15%", 
             "url": "http://blog.sfgate.com/energy/2014/09/25/report-solar-could-cut-utility-profits-15/", 
@@ -66,9 +65,9 @@
             "id": "2hitiy"
         }, 
         {
-            "num-comments": 60, 
+            "num-comments": 61, 
             "domain": "techcentral.co.za", 
-            "score": 751, 
+            "score": 757, 
             "nsfw": false, 
             "title": "BT and Coke installing free Wi-Fi access points in Coca-Cola vending machines in rural parts of South Africa", 
             "url": "http://www.techcentral.co.za/coke-machines-in-sa-to-dispense-free-wi-fi/51208/", 
@@ -78,9 +77,9 @@
             "id": "2hii88"
         }, 
         {
-            "num-comments": 39, 
+            "num-comments": 40, 
             "domain": "dslreports.com", 
-            "score": 661, 
+            "score": 665, 
             "nsfw": false, 
             "title": "Google Says They're Making Progress on Broadband By Balloon", 
             "url": "http://www.dslreports.com/shownews/Google-Says-Theyre-Making-Progress-on-Broadband-By-Balloon-130616", 
@@ -90,9 +89,9 @@
             "id": "2hj5qu"
         }, 
         {
-            "num-comments": 77, 
+            "num-comments": 82, 
             "domain": "computerworld.com", 
-            "score": 513, 
+            "score": 550, 
             "nsfw": false, 
             "title": "Samsung now offers a 3.2TB SSD module", 
             "url": "http://www.computerworld.com/article/2687942/samsung-now-offers-a-32tb-ssd.html", 
@@ -102,9 +101,9 @@
             "id": "2hjgv6"
         }, 
         {
-            "num-comments": 558, 
+            "num-comments": 834, 
             "domain": "consumerreports.org", 
-            "score": 1690, 
+            "score": 2072, 
             "nsfw": false, 
             "title": "Consumer Reports test results find iPhone 6 and 6 Plus not as bendy as believed", 
             "url": "http://www.consumerreports.org/cro/news/2014/09/consumer-reports-tests-iphone-6-bendgate/index.htm", 
@@ -114,9 +113,9 @@
             "id": "2hkxss"
         }, 
         {
-            "num-comments": 50, 
+            "num-comments": 49, 
             "domain": "techodrom.com", 
-            "score": 345, 
+            "score": 347, 
             "nsfw": false, 
             "title": "First Robotic Octopus created", 
             "url": "http://www.techodrom.com/etc/robotic-octopus-created/", 
@@ -126,9 +125,9 @@
             "id": "2hiuxl"
         }, 
         {
-            "num-comments": 168, 
+            "num-comments": 182, 
             "domain": "businessinsider.com", 
-            "score": 388, 
+            "score": 413, 
             "nsfw": false, 
             "title": "POLICE: 'Apple Will Become The Phone Of Choice For The Pedophile'", 
             "url": "http://www.businessinsider.com/police-apple-will-become-the-phone-of-choice-for-the-pedophile-2014-9", 
@@ -138,9 +137,9 @@
             "id": "2hjd61"
         }, 
         {
-            "num-comments": 27, 
+            "num-comments": 31, 
             "domain": "arstechnica.com", 
-            "score": 359, 
+            "score": 376, 
             "nsfw": false, 
             "title": "Comcast: Our Netflix competitor is too unpopular to survive on its own | Ars Technica", 
             "url": "http://arstechnica.com/business/2014/09/comcast-our-netflix-competitor-is-too-unpopular-to-survive-on-its-own/", 
@@ -150,9 +149,9 @@
             "id": "2hjfi3"
         }, 
         {
-            "num-comments": 133, 
+            "num-comments": 137, 
             "domain": "mashable.com", 
-            "score": 187, 
+            "score": 191, 
             "nsfw": false, 
             "title": "Steve Ballmer Set to Banish Apple Devices at Clippers", 
             "url": "http://mashable.com/2014/09/25/ballmer-apple-clippers/", 
@@ -164,7 +163,7 @@
         {
             "num-comments": 52, 
             "domain": "zdnet.com", 
-            "score": 157, 
+            "score": 159, 
             "nsfw": false, 
             "title": "Surface Pro 3s on planes: Microsoft gains FAA \u2018flight bag\u2019 clearance", 
             "url": "http://www.zdnet.com/surface-pro-3s-on-planes-microsoft-gains-faa-flight-bag-clearance-7000034093/", 
@@ -174,9 +173,9 @@
             "id": "2himbi"
         }, 
         {
-            "num-comments": 62, 
+            "num-comments": 64, 
             "domain": "self.technology", 
-            "score": 142, 
+            "score": 143, 
             "nsfw": false, 
             "title": "How could \"Shellshock\" remain undiscovered for such a long period ~25 years ?", 
             "url": "http://www.reddit.com/r/technology/comments/2hiina/how_could_shellshock_remain_undiscovered_for_such/", 
@@ -188,7 +187,7 @@
         {
             "num-comments": 9, 
             "domain": "queue.acm.org", 
-            "score": 121, 
+            "score": 126, 
             "nsfw": false, 
             "title": "Security Collapse in the HTTPS Market", 
             "url": "http://queue.acm.org/detail.cfm?id=2673311", 
@@ -198,9 +197,9 @@
             "id": "2hj4tt"
         }, 
         {
-            "num-comments": 95, 
+            "num-comments": 114, 
             "domain": "news.softpedia.com", 
-            "score": 165, 
+            "score": 202, 
             "nsfw": false, 
             "title": "Microsoft: Windows 9 Will Be Free for Windows 8 Users", 
             "url": "http://news.softpedia.com/news/Microsoft-Windows-9-Will-Be-Free-for-Windows-8-Users-460060.shtml", 
@@ -210,9 +209,9 @@
             "id": "2hk4kp"
         }, 
         {
-            "num-comments": 8, 
+            "num-comments": 9, 
             "domain": "nytimes.com", 
-            "score": 85, 
+            "score": 83, 
             "nsfw": false, 
             "title": "Drone Exemptions for Hollywood Pave the Way for Widespread Use", 
             "url": "http://www.nytimes.com/2014/09/26/business/media/drone-exemptions-for-hollywood-pave-the-way-for-widespread-use.html?smid=re-share", 
@@ -224,7 +223,7 @@
         {
             "num-comments": 5, 
             "domain": "radiohead.com", 
-            "score": 66, 
+            "score": 69, 
             "nsfw": false, 
             "title": "Thom Yorke distributes new album via BitTorrent Bundle", 
             "url": "http://www.radiohead.com/deadairspace/tomorrows-modern-boxes", 
@@ -236,7 +235,7 @@
         {
             "num-comments": 35, 
             "domain": "bgr.com", 
-            "score": 66, 
+            "score": 68, 
             "nsfw": false, 
             "title": "So Blackberry received 200,000 pre-orders for the Passport in 2 days.", 
             "url": "http://bgr.com/2014/09/26/blackberry-passport-preorders-200000/", 
@@ -248,7 +247,7 @@
         {
             "num-comments": 13, 
             "domain": "deloitte.wsj.com", 
-            "score": 65, 
+            "score": 67, 
             "nsfw": false, 
             "title": "Former IBM Watson exec: Cognitive is biggest disruption in computing since Internet", 
             "url": "http://deloitte.wsj.com/cio/2014/09/25/a-view-from-the-front-lines-of-cognitive-computing/", 
@@ -260,7 +259,7 @@
         {
             "num-comments": 5, 
             "domain": "washingtonpost.com", 
-            "score": 63, 
+            "score": 59, 
             "nsfw": false, 
             "title": "Apple\u2019s new feature to curb phone tracking won\u2019t work if you\u2019re actually using your phone", 
             "url": "http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/25/apples-new-feature-to-curb-phone-tracking-wont-work-if-youre-actually-using-your-phone/?tid=rssfeed", 
@@ -270,9 +269,9 @@
             "id": "2hiz3d"
         }, 
         {
-            "num-comments": 7, 
+            "num-comments": 6, 
             "domain": "oregonlive.com", 
-            "score": 59, 
+            "score": 64, 
             "nsfw": false, 
             "title": "The U.S. Forest Service has tightened restrictions on media coverage in vast swaths of the country's wild lands, requiring reporters to pay up to $1,500 for a permit and get permission before shooting a photo or video in federally designated wilderness areas", 
             "url": "http://www.oregonlive.com/environment/index.ssf/2014/09/forest_service_says_media_need.html", 
@@ -282,9 +281,9 @@
             "id": "2hjic7"
         }, 
         {
-            "num-comments": 15, 
+            "num-comments": 16, 
             "domain": "searchengineland.com", 
-            "score": 89, 
+            "score": 102, 
             "nsfw": false, 
             "title": "Yahoo is going to close its directory", 
             "url": "http://searchengineland.com/yahoo-directory-close-204370", 
@@ -306,7 +305,7 @@
             "id": "2hjblt"
         }
     ], 
+    "reddit-url": "http://www.reddit.com/r/technology/", 
     "api-url": "http://daily.red/technology.json", 
-    "display-name": "Technology", 
-    "short-url": "/r/technology/"
+    "display-name": "Technology"
 }

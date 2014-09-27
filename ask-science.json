@@ -1,14 +1,13 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411826479, 
     "description": "Ask a science question, get a science answer", 
     "title": "AskScience: Got Questions? Get Answers.", 
-    "full-url": "http://www.reddit.com/r/askscience/", 
+    "generated-utc": 1411835104, 
     "posts": [
         {
-            "num-comments": 707, 
+            "num-comments": 703, 
             "domain": "self.askscience", 
-            "score": 2792, 
+            "score": 2795, 
             "nsfw": false, 
             "title": "Do other animals find things 'funny' like we do?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hihb1/do_other_animals_find_things_funny_like_we_do/", 
@@ -18,9 +17,9 @@
             "id": "2hihb1"
         }, 
         {
-            "num-comments": 129, 
+            "num-comments": 149, 
             "domain": "self.askscience", 
-            "score": 1830, 
+            "score": 2079, 
             "nsfw": false, 
             "title": "If I donate part of my liver to someone, the liver regrows. What if in the future I need a new liver? Can I receive a portion of my exliver from said person who received it? Will I need immunosuppressive drugs?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hkkyt/if_i_donate_part_of_my_liver_to_someone_the_liver/", 
@@ -32,7 +31,7 @@
         {
             "num-comments": 39, 
             "domain": "self.askscience", 
-            "score": 282, 
+            "score": 285, 
             "nsfw": false, 
             "title": "Do athletes like Terrance Knighton, who have a high body fat percentage but great cardiovascular fitness, still run the risks of obesity-linked diseases?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hj7hs/do_athletes_like_terrance_knighton_who_have_a/", 
@@ -44,7 +43,7 @@
         {
             "num-comments": 39, 
             "domain": "self.askscience", 
-            "score": 266, 
+            "score": 267, 
             "nsfw": false, 
             "title": "How do we differentiate the Earth's magnetic field weakening due to a pending reversal instead of a complete shutdown like is suspected to have happened to Mars?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hilf1/how_do_we_differentiate_the_earths_magnetic_field/", 
@@ -54,9 +53,9 @@
             "id": "2hilf1"
         }, 
         {
-            "num-comments": 42, 
+            "num-comments": 45, 
             "domain": "self.askscience", 
-            "score": 129, 
+            "score": 134, 
             "nsfw": false, 
             "title": "I have .2% African DNA according to 23andMe; How many generations ago would that equate to?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hj6x4/i_have_2_african_dna_according_to_23andme_how/", 
@@ -78,9 +77,9 @@
             "id": "2hj6iv"
         }, 
         {
-            "num-comments": 15, 
+            "num-comments": 21, 
             "domain": "self.askscience", 
-            "score": 72, 
+            "score": 71, 
             "nsfw": false, 
             "title": "Why can't a sponge absorb liquid mercury?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hk7vw/why_cant_a_sponge_absorb_liquid_mercury/", 
@@ -104,7 +103,7 @@
         {
             "num-comments": 8, 
             "domain": "self.askscience", 
-            "score": 61, 
+            "score": 64, 
             "nsfw": false, 
             "title": "Why are females of many reptile species larger than males, but most mammalian species feature larger males than females?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hkpcq/why_are_females_of_many_reptile_species_larger/", 
@@ -114,9 +113,9 @@
             "id": "2hkpcq"
         }, 
         {
-            "num-comments": 19, 
+            "num-comments": 20, 
             "domain": "self.askscience", 
-            "score": 36, 
+            "score": 35, 
             "nsfw": false, 
             "title": "What liquid, when swimming through, will allow you achieve the fastest possible speed?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hizop/what_liquid_when_swimming_through_will_allow_you/", 
@@ -128,7 +127,7 @@
         {
             "num-comments": 6, 
             "domain": "self.askscience", 
-            "score": 31, 
+            "score": 28, 
             "nsfw": false, 
             "title": "Are stem cells a way for us to artificially bypass the Hayflick limit?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hil2u/are_stem_cells_a_way_for_us_to_artificially/", 
@@ -138,9 +137,9 @@
             "id": "2hil2u"
         }, 
         {
-            "num-comments": 9, 
+            "num-comments": 11, 
             "domain": "self.askscience", 
-            "score": 27, 
+            "score": 31, 
             "nsfw": false, 
             "title": "How big would a pool of water need to be for a human being to survive a plugged-in toaster dropped in it?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hka4e/how_big_would_a_pool_of_water_need_to_be_for_a/", 
@@ -152,7 +151,7 @@
         {
             "num-comments": 8, 
             "domain": "self.askscience", 
-            "score": 26, 
+            "score": 30, 
             "nsfw": false, 
             "title": "How small can a star be?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hjhfb/how_small_can_a_star_be/", 
@@ -164,7 +163,7 @@
         {
             "num-comments": 8, 
             "domain": "self.askscience", 
-            "score": 22, 
+            "score": 23, 
             "nsfw": false, 
             "title": "How fast is the sun moving through space and how can we measure that?", 
             "url": "http://www.reddit.com/r/askscience/comments/2him0l/how_fast_is_the_sun_moving_through_space_and_how/", 
@@ -176,7 +175,7 @@
         {
             "num-comments": 7, 
             "domain": "self.askscience", 
-            "score": 22, 
+            "score": 20, 
             "nsfw": false, 
             "title": "Is there an advantage to airplane wings that resemble a \"V\" shape?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hj5l5/is_there_an_advantage_to_airplane_wings_that/", 
@@ -188,7 +187,7 @@
         {
             "num-comments": 5, 
             "domain": "self.askscience", 
-            "score": 21, 
+            "score": 17, 
             "nsfw": false, 
             "title": "Why do some brands of almond milk mix well with coffee, while others form little balls in the coffee?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hipl5/why_do_some_brands_of_almond_milk_mix_well_with/", 
@@ -200,7 +199,7 @@
         {
             "num-comments": 2, 
             "domain": "self.askscience", 
-            "score": 18, 
+            "score": 17, 
             "nsfw": false, 
             "title": "How much do documentaries such as the BBC's Life/Africa/etc: benefit research in areas such as zoology?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hijau/how_much_do_documentaries_such_as_the_bbcs/", 
@@ -212,7 +211,7 @@
         {
             "num-comments": 10, 
             "domain": "self.askscience", 
-            "score": 12, 
+            "score": 11, 
             "nsfw": false, 
             "title": "Instead of covering and entire ceiling in expensive solar panels why dont we use a smaller more efficient panel and a magnifying glass to focus light on it?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hio46/instead_of_covering_and_entire_ceiling_in/", 
@@ -224,7 +223,7 @@
         {
             "num-comments": 9, 
             "domain": "self.askscience", 
-            "score": 12, 
+            "score": 15, 
             "nsfw": false, 
             "title": "What is in grapefruit that causes bad drug interactions?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hkwv7/what_is_in_grapefruit_that_causes_bad_drug/", 
@@ -236,7 +235,7 @@
         {
             "num-comments": 8, 
             "domain": "self.askscience", 
-            "score": 11, 
+            "score": 14, 
             "nsfw": false, 
             "title": "When I rub my hands with hand-sanitizer, how do germs leave my hands?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hkszs/when_i_rub_my_hands_with_handsanitizer_how_do/", 
@@ -248,7 +247,7 @@
         {
             "num-comments": 16, 
             "domain": "self.askscience", 
-            "score": 12, 
+            "score": 11, 
             "nsfw": false, 
             "title": "Why is it that digital storage sizes are powers of 8?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hj9lu/why_is_it_that_digital_storage_sizes_are_powers/", 
@@ -260,7 +259,7 @@
         {
             "num-comments": 6, 
             "domain": "self.askscience", 
-            "score": 11, 
+            "score": 10, 
             "nsfw": false, 
             "title": "How do our bodies digest oils, for instance Olive Oil, considering our stomach acid is polar and oil is nonpolar and therefore can't be dissolved?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hj8op/how_do_our_bodies_digest_oils_for_instance_olive/", 
@@ -272,7 +271,7 @@
         {
             "num-comments": 2, 
             "domain": "self.askscience", 
-            "score": 10, 
+            "score": 11, 
             "nsfw": false, 
             "title": "What is the current state of accessible helium reserves?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hj62n/what_is_the_current_state_of_accessible_helium/", 
@@ -282,9 +281,9 @@
             "id": "2hj62n"
         }, 
         {
-            "num-comments": 39, 
+            "num-comments": 45, 
             "domain": "self.askscience", 
-            "score": 9, 
+            "score": 11, 
             "nsfw": false, 
             "title": "What would be the implications if Pi was ever found to rational?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hjdcu/what_would_be_the_implications_if_pi_was_ever/", 
@@ -306,7 +305,7 @@
             "id": "2hkpxx"
         }
     ], 
+    "reddit-url": "http://www.reddit.com/r/askscience/", 
     "api-url": "http://daily.red/ask-science.json", 
-    "display-name": "Ask Science", 
-    "short-url": "/r/askscience/"
+    "display-name": "Ask Science"
 }

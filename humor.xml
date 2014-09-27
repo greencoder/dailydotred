@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Humor digest</title>
+  <link>http://www.daily.red/humor.html</link>
+  <description>Humor is the place for things that bring a wry smile to your face</description>
+  <category>Fun</category>
+  <language>en-us</language>
+  <pubDate>Sat, 27 Sep 2014 16:25:38 -0000</pubDate>
+  <ttl>240</ttl>
+  <atom:link href="http://www.daily.red/humor.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>Love Jesus? Love fitness? Love sleeping with people other than your partner? Then Fitness Swingers is for you!</title>
+    <link>http://metro.co.uk/2014/09/25/christian-swingers-network-is-only-for-the-super-fit-4881652/</link>
+    <guid>http://www.reddit.com/r/humor/comments/2hiw7b/love_jesus_love_fitness_love_sleeping_with_people/</guid>
+    <description>BY PEREGRINATION &#183; POSTED 09/26/14 9:11 AM EST &#183; METRO.CO.UK &#183; SCORE 383</description>
+    <category>Fun</category>
+  </item>
+
+  <item>
+    <title>Just an OK way of doing CrossFit.</title>
+    <link>http://youtu.be/6kaAvlyIN1Y</link>
+    <guid>http://www.reddit.com/r/humor/comments/2hl52m/just_an_ok_way_of_doing_crossfit/</guid>
+    <description>BY YEVBEL &#183; POSTED 09/26/14 11:04 PM EST &#183; YOUTU.BE &#183; SCORE 0</description>
+    <category>Fun</category>
+  </item>
+
+</channel>
+</rss>

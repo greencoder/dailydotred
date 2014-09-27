@@ -1,14 +1,13 @@
 {
     "category": "News", 
-    "generated-utc": 1411826438, 
     "description": "News and discussion about economics, from the perspective of economists", 
     "title": "The Dismal Science", 
-    "full-url": "http://www.reddit.com/r/Economics/", 
+    "generated-utc": 1411835069, 
     "posts": [
         {
-            "num-comments": 231, 
+            "num-comments": 237, 
             "domain": "bloombergview.com", 
-            "score": 960, 
+            "score": 1001, 
             "nsfw": false, 
             "title": "The Secret Goldman Sachs Tapes", 
             "url": "http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes", 
@@ -18,9 +17,9 @@
             "id": "2hj8kf"
         }, 
         {
-            "num-comments": 151, 
+            "num-comments": 155, 
             "domain": "theguardian.com", 
-            "score": 351, 
+            "score": 353, 
             "nsfw": false, 
             "title": "Los Angeles hotel workers win $15 minimum wage after city council vote", 
             "url": "http://www.theguardian.com/world/2014/sep/25/los-angeles-hotel-minimum-wage-city-council", 
@@ -44,7 +43,7 @@
         {
             "num-comments": 18, 
             "domain": "bbc.co.uk", 
-            "score": 19, 
+            "score": 18, 
             "nsfw": false, 
             "title": "US economic growth revised up again", 
             "url": "http://www.bbc.co.uk/news/business-29381029#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa", 
@@ -66,9 +65,9 @@
             "id": "2hiu5p"
         }, 
         {
-            "num-comments": 7, 
+            "num-comments": 8, 
             "domain": "blogs.hbr.org", 
-            "score": 14, 
+            "score": 16, 
             "nsfw": false, 
             "title": "Why the Fed Is So Wimpy", 
             "url": "http://blogs.hbr.org/2014/09/why-the-fed-is-so-wimpy/", 
@@ -80,7 +79,7 @@
         {
             "num-comments": 3, 
             "domain": "thebaffler.com", 
-            "score": 11, 
+            "score": 10, 
             "nsfw": false, 
             "title": "David Graeber and Thomas Piketty: An exchange on capital, debt, and the future", 
             "url": "http://www.thebaffler.com/odds-and-ends/soak-the-rich", 
@@ -90,9 +89,9 @@
             "id": "2hjz73"
         }, 
         {
-            "num-comments": 13, 
+            "num-comments": 14, 
             "domain": "aeon.co", 
-            "score": 7, 
+            "score": 9, 
             "nsfw": false, 
             "title": "To end inequality we must understand poverty", 
             "url": "http://aeon.co/magazine/society/to-end-inequality-we-must-understand-how-poverty-works/", 
@@ -164,7 +163,7 @@
         {
             "num-comments": 0, 
             "domain": "nakedkeynesianism.blogspot.com", 
-            "score": 5, 
+            "score": 7, 
             "nsfw": false, 
             "title": "History versus equilibrium: a false dichotomy", 
             "url": "http://nakedkeynesianism.blogspot.com/2014/09/history-versus-equilibrium-false.html", 
@@ -176,7 +175,7 @@
         {
             "num-comments": 0, 
             "domain": "chicagofed.org", 
-            "score": 7, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Are clearing houses the new central banks?", 
             "url": "http://www.chicagofed.org/digital_assets/others/events/2014/annual_over_the_counter_derivatives_symposium/tucker_clearinghouses_new_central_banks_tucker_2014.pdf", 
@@ -198,9 +197,9 @@
             "id": "2hkm8r"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 7, 
             "domain": "nytimes.com", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "The Benefits of Economic Expansions Are Increasingly Going to the Richest Americans", 
             "url": "http://www.nytimes.com/2014/09/27/upshot/the-benefits-of-economic-expansions-are-increasingly-going-to-the-richest-americans.html?rref=upshot&amp;smid=tw-upshotnyt", 
@@ -212,7 +211,7 @@
         {
             "num-comments": 0, 
             "domain": "euractiv.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "No EU plan to undermine UK on oversight of bankers' bonuses", 
             "url": "http://www.euractiv.com/sections/euro-finance/no-eu-plan-undermine-uk-oversight-bankers-bonuses-308749", 
@@ -222,7 +221,7 @@
             "id": "2hj5px"
         }, 
         {
-            "num-comments": 0, 
+            "num-comments": 1, 
             "domain": "project-syndicate.org", 
             "score": 5, 
             "nsfw": false, 
@@ -260,7 +259,7 @@
         {
             "num-comments": 5, 
             "domain": "alannasser.org", 
-            "score": 1, 
+            "score": 4, 
             "nsfw": false, 
             "title": "What Keynes Really Prescribed", 
             "url": "http://www.alannasser.org/articles/whatkeynesreallyprescribed.html", 
@@ -270,9 +269,9 @@
             "id": "2hic2u"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 4, 
             "domain": "i.imgur.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "Median Household Income By State 84-2012 [GIF]", 
             "url": "https://i.imgur.com/RGmIqBf.gif", 
@@ -306,7 +305,7 @@
             "id": "2hko6j"
         }
     ], 
+    "reddit-url": "http://www.reddit.com/r/Economics/", 
     "api-url": "http://daily.red/economics.json", 
-    "display-name": "Economics", 
-    "short-url": "/r/Economics/"
+    "display-name": "Economics"
 }
