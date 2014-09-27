@@ -2,7 +2,7 @@
     "category": "News", 
     "description": "Real news articles, primarily but not exclusively, news relating to the United States", 
     "title": "All news, US and international.", 
-    "generated-utc": 1411835050, 
+    "generated-utc": 1411836034, 
     "posts": [
         {
             "num-comments": 4342, 
@@ -17,9 +17,9 @@
             "id": "2hinng"
         }, 
         {
-            "num-comments": 2051, 
+            "num-comments": 2084, 
             "domain": "usatoday.com", 
-            "score": 3688, 
+            "score": 3694, 
             "nsfw": false, 
             "title": "A former Montana high-school teacher convicted of raping a 14-year-old student was resentenced Friday to 10 years in prison after outcry over his initial 31-day jail term and a judge's comments blaming the girl for their illegal sexual relationship.", 
             "url": "http://www.usatoday.com/story/news/nation/2014/09/26/montana-rape-resentencing/16276429/", 
@@ -29,9 +29,9 @@
             "id": "2hkq8n"
         }, 
         {
-            "num-comments": 2600, 
+            "num-comments": 2604, 
             "domain": "cnn.com", 
-            "score": 2084, 
+            "score": 2085, 
             "nsfw": false, 
             "title": "Man beheads woman in Oklahoma workplace", 
             "url": "http://www.cnn.com/2014/09/26/us/oklahoma-beheading/index.html", 
@@ -41,9 +41,9 @@
             "id": "2hj212"
         }, 
         {
-            "num-comments": 172, 
+            "num-comments": 174, 
             "domain": "bbc.com", 
-            "score": 1811, 
+            "score": 1838, 
             "nsfw": false, 
             "title": "AC/DC's Malcolm Young admitted to full time care for dementia and will not return to the band", 
             "url": "http://www.bbc.com/news/entertainment-arts-29345368", 
@@ -53,9 +53,9 @@
             "id": "2hkhis"
         }, 
         {
-            "num-comments": 272, 
+            "num-comments": 274, 
             "domain": "healthline.com", 
-            "score": 1446, 
+            "score": 1457, 
             "nsfw": false, 
             "title": "Drugmaker Shire Fined $56.5 Million for Claiming Adderall Can 'Normalize' Kids with ADHD", 
             "url": "http://www.healthline.com/health-news/shire-fined-for-false-claims-adhd-drugs-092614", 
@@ -67,7 +67,7 @@
         {
             "num-comments": 82, 
             "domain": "npr.org", 
-            "score": 977, 
+            "score": 979, 
             "nsfw": false, 
             "title": "Former Fed Bank Examiner Says Secret Tapes Show Fed Leniency : NPR", 
             "url": "http://www.npr.org/2014/09/26/351520037/former-fed-bank-examiner-says-secret-tapes-show-fed-leniency", 
@@ -89,9 +89,9 @@
             "id": "2hj3ml"
         }, 
         {
-            "num-comments": 404, 
+            "num-comments": 405, 
             "domain": "koco.com", 
-            "score": 487, 
+            "score": 491, 
             "nsfw": false, 
             "title": "Police: Beheading suspect may have tried converting employees to Islam - Moore, Oklahoma", 
             "url": "http://www.koco.com/news/medical-examiner-ids-woman-killed-in-moore-warehouse-attack/28262688", 
@@ -101,7 +101,7 @@
             "id": "2hjd6f"
         }, 
         {
-            "num-comments": 128, 
+            "num-comments": 130, 
             "domain": "hurriyetdailynews.com", 
             "score": 333, 
             "nsfw": false, 
@@ -115,7 +115,7 @@
         {
             "num-comments": 321, 
             "domain": "time.com", 
-            "score": 250, 
+            "score": 251, 
             "nsfw": false, 
             "title": "San Francisco and Los Angeles Threaten To Shut Down Uber and Lyft", 
             "url": "http://time.com/3431299/san-francisco-los-angeles-threaten-shut-down-uber-lyft/", 
@@ -127,7 +127,7 @@
         {
             "num-comments": 233, 
             "domain": "nytimes.com", 
-            "score": 202, 
+            "score": 204, 
             "nsfw": false, 
             "title": "Nearly 3000 dead and now 7000 infected and no end in sight. If this continues at present we are looking an 500 thousand dead by March 1st.", 
             "url": "http://www.nytimes.com/2014/09/26/world/africa/ebola-death-toll-is-more-than-2900-who-says.html", 
@@ -137,9 +137,9 @@
             "id": "2hif0m"
         }, 
         {
-            "num-comments": 68, 
+            "num-comments": 69, 
             "domain": "bbc.co.uk", 
-            "score": 197, 
+            "score": 196, 
             "nsfw": false, 
             "title": "North Korean leader 'has illness'", 
             "url": "http://www.bbc.co.uk/news/world-asia-29376849", 
@@ -151,7 +151,7 @@
         {
             "num-comments": 80, 
             "domain": "washingtonpost.com", 
-            "score": 186, 
+            "score": 183, 
             "nsfw": false, 
             "title": "Ohio Wal-Mart surveillance video shows police shooting and killing John Crawford III - The Washington Post", 
             "url": "http://www.washingtonpost.com/news/post-nation/wp/2014/09/25/ohio-wal-mart-surveillance-video-shows-police-shooting-and-killing-john-crawford-iii/", 
@@ -163,7 +163,7 @@
         {
             "num-comments": 39, 
             "domain": "nymag.com", 
-            "score": 201, 
+            "score": 195, 
             "nsfw": false, 
             "title": "Kim Jong-un Is Missing, Might Have Gout", 
             "url": "http://nymag.com/daily/intelligencer/2014/09/kim-jong-un-is-missing-might-have-gout.html", 
@@ -187,7 +187,7 @@
         {
             "num-comments": 17, 
             "domain": "theguardian.com", 
-            "score": 148, 
+            "score": 149, 
             "nsfw": false, 
             "title": "Maldives will censor all books to protect Islamic codes", 
             "url": "http://www.theguardian.com/books/2014/sep/25/maldives-censor-books-islamic-codes", 
@@ -199,7 +199,7 @@
         {
             "num-comments": 43, 
             "domain": "nola.com", 
-            "score": 165, 
+            "score": 162, 
             "nsfw": false, 
             "title": "Billing for rape: Louisiana sex assault victims often face hefty bills for medical care.", 
             "url": "http://www.nola.com/health/index.ssf/2014/09/louisiana_rape_victims_often_b.html", 
@@ -209,9 +209,9 @@
             "id": "2hk2ni"
         }, 
         {
-            "num-comments": 289, 
+            "num-comments": 291, 
             "domain": "news.yahoo.com", 
-            "score": 213, 
+            "score": 215, 
             "nsfw": false, 
             "title": "Feds tell Ferguson chief to ban (I am Darren Wilson) bracelets", 
             "url": "http://news.yahoo.com/feds-tell-ferguson-chief-ban-bracelets-230121226.html", 
@@ -223,7 +223,7 @@
         {
             "num-comments": 148, 
             "domain": "nbcnews.com", 
-            "score": 118, 
+            "score": 122, 
             "nsfw": false, 
             "title": "'F' Is for Firearm: More Teachers Authorized to Carry Weapons in Classroom - NBC News", 
             "url": "http://www.nbcnews.com/news/investigations/f-firearm-more-teachers-authorized-carry-weapons-classroom-n208946", 
@@ -233,7 +233,7 @@
             "id": "2hk24k"
         }, 
         {
-            "num-comments": 278, 
+            "num-comments": 279, 
             "domain": "news.yahoo.com", 
             "score": 93, 
             "nsfw": false, 
@@ -245,9 +245,9 @@
             "id": "2hikql"
         }, 
         {
-            "num-comments": 125, 
+            "num-comments": 128, 
             "domain": "stream.aljazeera.com", 
-            "score": 174, 
+            "score": 179, 
             "nsfw": false, 
             "title": "Missouri police wear 'I am Darren Wilson' bracelets", 
             "url": "http://stream.aljazeera.com/story/201409252118-0024180", 
@@ -259,7 +259,7 @@
         {
             "num-comments": 26, 
             "domain": "bbc.co.uk", 
-            "score": 97, 
+            "score": 100, 
             "nsfw": false, 
             "title": "FBI 'concerned' by phone encryption", 
             "url": "http://www.bbc.co.uk/news/technology-29378172", 
@@ -271,7 +271,7 @@
         {
             "num-comments": 43, 
             "domain": "cnn.com", 
-            "score": 84, 
+            "score": 85, 
             "nsfw": false, 
             "title": "Report: Chicago flights stopped over FAA fire.", 
             "url": "http://www.cnn.com/2014/09/26/travel/chicago-ohare-midway-flights-stopped/index.html", 
@@ -283,7 +283,7 @@
         {
             "num-comments": 30, 
             "domain": "4029tv.com", 
-            "score": 81, 
+            "score": 79, 
             "nsfw": false, 
             "title": "Arkansas CDC refuses to release location of confirmed enterovirus D-68", 
             "url": "http://www.4029tv.com/news/tracking-enterovirus-to-northern-ark/28213840", 
@@ -295,7 +295,7 @@
         {
             "num-comments": 18, 
             "domain": "latimes.com", 
-            "score": 128, 
+            "score": 132, 
             "nsfw": false, 
             "title": "Cop arrested in prostitution sting is set to get $10,579 a month in paid leave", 
             "url": "http://www.latimes.com/local/lanow/la-me-ln-glendale-officer-prostitution-sting-paid-leave-20140926-story.html", 

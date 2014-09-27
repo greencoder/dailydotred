@@ -2,12 +2,12 @@
     "category": "News", 
     "description": "The subreddit for opinion, analysis, and discussion of recent events", 
     "title": "In the News: Opinion, Analysis, and Discussion", 
-    "generated-utc": 1411835059, 
+    "generated-utc": 1411836044, 
     "posts": [
         {
             "num-comments": 10, 
             "domain": "bloombergview.com", 
-            "score": 268, 
+            "score": 265, 
             "nsfw": false, 
             "title": "The Secret Goldman Sachs Tapes", 
             "url": "http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes", 
@@ -19,7 +19,7 @@
         {
             "num-comments": 6, 
             "domain": "rollingstone.com", 
-            "score": 41, 
+            "score": 38, 
             "nsfw": false, 
             "title": "Inside the Koch Brothers' Toxic Empire", 
             "url": "http://www.rollingstone.com/politics/news/inside-the-koch-brothers-toxic-empire-20140924", 
@@ -55,7 +55,7 @@
         {
             "num-comments": 0, 
             "domain": "politico.com", 
-            "score": 7, 
+            "score": 8, 
             "nsfw": false, 
             "title": "How Sen. Kay Hagan\u2019s husband won stimulus cash", 
             "url": "http://www.politico.com/story/2014/09/kay-hagan-husband-stimulus-cash-111339.html#ixzz3ENLCzgOe", 
@@ -79,7 +79,7 @@
         {
             "num-comments": 0, 
             "domain": "bbc.com", 
-            "score": 10, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Hope Solo: Does domestic abuse have a double standard?", 
             "url": "http://www.bbc.com/news/blogs-echochambers-29352322", 
@@ -103,7 +103,7 @@
         {
             "num-comments": 0, 
             "domain": "npr.org", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "For Police, A Debate Over Force, Cop Culture And Confrontation : NPR", 
             "url": "http://www.npr.org/2014/09/25/351373721/police-mental-stamina-metrics-shed-light-on-deadly-force?utm_source=facebook.com&amp;utm_medium=social&amp;utm_campaign=npr&amp;utm_term=nprnews&amp;utm_content=20140925", 
@@ -115,7 +115,7 @@
         {
             "num-comments": 2, 
             "domain": "cnet.com", 
-            "score": 6, 
+            "score": 5, 
             "nsfw": false, 
             "title": "Stephen Hawking makes it clear: There is no God - The physicist explains that science now offers more convincing explanations for existence. He is therefore an atheist.", 
             "url": "http://www.cnet.com/news/stephen-hawking-makes-it-clear-there-is-no-god/", 
@@ -127,7 +127,7 @@
         {
             "num-comments": 1, 
             "domain": "m.thisamericanlife.org", 
-            "score": 10, 
+            "score": 9, 
             "nsfw": false, 
             "title": "The Secret Recordings of Carmen Segarra - former regulator at the NY Fed", 
             "url": "http://m.thisamericanlife.org/radio-archives/episode/536/the-secret-recordings-of-carmen-segarra", 
@@ -139,7 +139,7 @@
         {
             "num-comments": 1, 
             "domain": "abcnews.go.com", 
-            "score": 3, 
+            "score": 5, 
             "nsfw": false, 
             "title": "New study released Monday found that warming temperatures in Pacific Ocean waters off the coast of North America over the past century closely followed natural changes in the wind -- NOT increases in greenhouse gases related to global warming", 
             "url": "http://abcnews.go.com/US/wireStory/study-links-changing-winds-warming-pacific-25679516", 
@@ -163,7 +163,7 @@
         {
             "num-comments": 1, 
             "domain": "nbcnews.com", 
-            "score": 5, 
+            "score": 4, 
             "nsfw": false, 
             "title": "Fired Oklahoma food processing plant employee who proselytized for Islam beheaded one co-worker and seriously injured another before the owner of the plant shot him", 
             "url": "http://www.nbcnews.com/news/crime-courts/man-beheaded-co-worker-moore-oklahoma-workplace-attack-police-n212396", 
@@ -199,7 +199,7 @@
         {
             "num-comments": 0, 
             "domain": "washingtonpost.com", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Mass shooting hysteria and the death of John Crawford", 
             "url": "http://www.washingtonpost.com/news/the-watch/wp/2014/09/25/mass-shooting-hysteria-and-the-death-of-john-crawford/", 
@@ -271,7 +271,7 @@
         {
             "num-comments": 0, 
             "domain": "washingtontimes.com", 
-            "score": 3, 
+            "score": 2, 
             "nsfw": false, 
             "title": "The resignation of Attorney General Eric Holder is no coincidence - judicial charges of contempt in his delay of handing over documents in the Fast and Furious operation still remain", 
             "url": "http://www.washingtontimes.com/news/2014/sep/25/contempt-congress-case-will-proceed-without-holder/?page=2", 
@@ -295,7 +295,7 @@
         {
             "num-comments": 1, 
             "domain": "theguardian.com", 
-            "score": 0, 
+            "score": 1, 
             "nsfw": false, 
             "title": "Frat brothers rape 300% more. One in 5 women is sexually assaulted on campus. Should we ban frats?", 
             "url": "http://www.theguardian.com/commentisfree/2014/sep/24/rape-sexual-assault-ban-frats", 

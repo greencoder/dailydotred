@@ -2,12 +2,12 @@
     "category": "News", 
     "description": "A place for major news from around the world, excluding US-internal news", 
     "title": "World News", 
-    "generated-utc": 1411835055, 
+    "generated-utc": 1411836039, 
     "posts": [
         {
-            "num-comments": 2580, 
+            "num-comments": 2584, 
             "domain": "reuters.com", 
-            "score": 4915, 
+            "score": 4911, 
             "nsfw": false, 
             "title": "Hong Kong students storm government HQ to demand full democracy", 
             "url": "http://www.reuters.com/article/2014/09/26/us-hongkong-china-idUSKCN0HL1T820140926", 
@@ -17,9 +17,9 @@
             "id": "2hjg9r"
         }, 
         {
-            "num-comments": 2203, 
+            "num-comments": 2205, 
             "domain": "bloomberg.com", 
-            "score": 4546, 
+            "score": 4558, 
             "nsfw": false, 
             "title": "Anil Agarwal, the billionaire founder of Vedanta Resources, said he &amp; his family decided to donate 75% of their wealth to charity after meeting Bill Gates, the world\u2019s richest person \u201cWhat we earn must be returned for the greater good of society. Life is not only about wealth.\u201d the billionaire said", 
             "url": "http://www.bloomberg.com/news/2014-09-26/billionaire-agarwal-to-donate-most-of-wealth-after-meeting-gates.html", 
@@ -31,7 +31,7 @@
         {
             "num-comments": 1272, 
             "domain": "time.com", 
-            "score": 3598, 
+            "score": 3603, 
             "nsfw": false, 
             "title": "No One Has Seen North Korea's Leader In Three Weeks", 
             "url": "http://time.com/3432195/north-korea-missing-kim-jong-un/", 
@@ -41,9 +41,9 @@
             "id": "2higx6"
         }, 
         {
-            "num-comments": 386, 
+            "num-comments": 387, 
             "domain": "cnbc.com", 
-            "score": 3223, 
+            "score": 3224, 
             "nsfw": false, 
             "title": "By 2025 Munich, Germany hopes to be running on 100% clean power", 
             "url": "http://www.cnbc.com/id/102033022#", 
@@ -53,9 +53,9 @@
             "id": "2hjdg8"
         }, 
         {
-            "num-comments": 562, 
+            "num-comments": 564, 
             "domain": "bbc.co.uk", 
-            "score": 2055, 
+            "score": 2053, 
             "nsfw": false, 
             "title": "British Parliament agree to military action vs ISIS", 
             "url": "http://bbc.co.uk/news/live/uk-politics-29362884", 
@@ -67,7 +67,7 @@
         {
             "num-comments": 405, 
             "domain": "reuters.com", 
-            "score": 1561, 
+            "score": 1562, 
             "nsfw": false, 
             "title": "North Korean TV acknowledges leader Kim Jong Un's health problems", 
             "url": "http://www.reuters.com/article/2014/09/26/northkorea-kim-idUSL3N0RR2ZU20140926", 
@@ -79,7 +79,7 @@
         {
             "num-comments": 371, 
             "domain": "nbcnews.com", 
-            "score": 1288, 
+            "score": 1293, 
             "nsfw": false, 
             "title": "Russia Tells Iraq It's 'Ready' to Support Fight Against ISIS", 
             "url": "http://www.nbcnews.com/storyline/isis-terror/russia-tells-iraq-its-ready-support-fight-against-isis-n212136", 
@@ -89,9 +89,9 @@
             "id": "2hj4ux"
         }, 
         {
-            "num-comments": 77, 
+            "num-comments": 78, 
             "domain": "bbc.com", 
-            "score": 741, 
+            "score": 739, 
             "nsfw": false, 
             "title": "The discovery of a branched carbon molecule 27,000 light-years from Earth suggests the building blocks of life may be ubiquitous throughout the galaxy", 
             "url": "http://www.bbc.com/news/science-environment-29368984", 
@@ -115,7 +115,7 @@
         {
             "num-comments": 233, 
             "domain": "bbc.co.uk", 
-            "score": 635, 
+            "score": 638, 
             "nsfw": false, 
             "title": "'Fifty dead' in Xinjiang violence in what police called a \"serious terrorist attack\"", 
             "url": "http://www.bbc.co.uk/news/world-asia-china-29373158", 
@@ -125,9 +125,9 @@
             "id": "2hji1e"
         }, 
         {
-            "num-comments": 60, 
+            "num-comments": 61, 
             "domain": "cbc.ca", 
-            "score": 528, 
+            "score": 530, 
             "nsfw": false, 
             "title": "UN Climate Summit: A 'game-changer' for global warming? \"When the family that built the very first multinational oil company says it's time to get out of fossil fuels, this is an important moment,\"", 
             "url": "http://www.cbc.ca/news/technology/un-climate-summit-a-game-changer-for-global-warming-1.2775281", 
@@ -139,7 +139,7 @@
         {
             "num-comments": 50, 
             "domain": "france24.com", 
-            "score": 981, 
+            "score": 993, 
             "nsfw": false, 
             "title": "Boko Haram leader is dead, Nigerian military says", 
             "url": "http://www.france24.com/en/20140925-boko-haram-militant-leader-abubakar-shekau-dead-nigeria-military/", 
@@ -149,9 +149,9 @@
             "id": "2hk8b0"
         }, 
         {
-            "num-comments": 280, 
+            "num-comments": 282, 
             "domain": "cnn.com", 
-            "score": 787, 
+            "score": 796, 
             "nsfw": false, 
             "title": "Number of countries fighting ISIS now tops 50.", 
             "url": "http://www.cnn.com/2014/09/26/world/meast/isis-syria-iraq/index.html?hpt=hp_t1", 
@@ -161,9 +161,9 @@
             "id": "2hjwq0"
         }, 
         {
-            "num-comments": 183, 
+            "num-comments": 184, 
             "domain": "money.cnn.com", 
-            "score": 754, 
+            "score": 752, 
             "nsfw": false, 
             "title": "Richard Branson: Virgin staff can have as much vacation as they want", 
             "url": "http://money.cnn.com/2014/09/24/news/virgin-vacation-branson/", 
@@ -173,9 +173,9 @@
             "id": "2hkd7n"
         }, 
         {
-            "num-comments": 123, 
+            "num-comments": 127, 
             "domain": "aljazeera.com", 
-            "score": 784, 
+            "score": 789, 
             "nsfw": false, 
             "title": "Cuba to send hundreds of physicians to fight Ebola crisis.", 
             "url": "http://www.aljazeera.com/news/africa/2014/09/cuba-sends-300-more-doctors-fight-ebola-201492692422678186.html", 
@@ -187,7 +187,7 @@
         {
             "num-comments": 51, 
             "domain": "vancouversun.com", 
-            "score": 257, 
+            "score": 253, 
             "nsfw": false, 
             "title": "Earliest Sign of Human Habitation in Canada May have been Found - Possible 13,800-yr-old fishing weir found in ocean near B.C.'s Haida Gwaii islands", 
             "url": "http://www.vancouversun.com/technology/Haida+Gwaii+underwater+expedition+have+revealed+earliest+site/10227722/story.html", 
@@ -199,7 +199,7 @@
         {
             "num-comments": 198, 
             "domain": "bbc.com", 
-            "score": 196, 
+            "score": 198, 
             "nsfw": false, 
             "title": "Hungary Suspends Gas Supplies to Ukraine \"Indefinitely\" - Ukraine has been receiving gas from Hungary, Poland &amp; Slovakia since Russia cut off supplies to Ukraine in June in a dispute over unpaid bills", 
             "url": "http://www.bbc.com/news/business-29374151", 
@@ -209,9 +209,9 @@
             "id": "2hil6m"
         }, 
         {
-            "num-comments": 269, 
+            "num-comments": 275, 
             "domain": "digitaljournal.com", 
-            "score": 646, 
+            "score": 656, 
             "nsfw": false, 
             "title": "Lavrov: \"Russia has decided to join the fight against ISIS\"", 
             "url": "http://www.digitaljournal.com/news/world/op-ed-russia-to-join-fight-against-isis/article/405689?", 
@@ -223,7 +223,7 @@
         {
             "num-comments": 91, 
             "domain": "hurriyetdailynews.com", 
-            "score": 300, 
+            "score": 301, 
             "nsfw": false, 
             "title": "Islamists attacked students protesting ISIL at Istanbul University", 
             "url": "http://www.hurriyetdailynews.com/Default.aspx?pageID=238&amp;nID=72219&amp;NewsCatID=341", 
@@ -235,7 +235,7 @@
         {
             "num-comments": 42, 
             "domain": "nbcnews.com", 
-            "score": 200, 
+            "score": 202, 
             "nsfw": false, 
             "title": "ISIS-Allied Militants Behead 15 During Afghanistan Offensive", 
             "url": "http://www.nbcnews.com/storyline/isis-terror/isis-allied-militants-behead-15-during-afghanistan-offensive-official-n212166", 
@@ -245,9 +245,9 @@
             "id": "2hjuwp"
         }, 
         {
-            "num-comments": 174, 
+            "num-comments": 175, 
             "domain": "thejakartapost.com", 
-            "score": 157, 
+            "score": 155, 
             "nsfw": false, 
             "title": "Qatar women withdraw over Asian Games hijab ban", 
             "url": "http://www.thejakartapost.com/news/2014/09/25/qatar-women-withdraw-over-asian-games-hijab-ban.html", 
@@ -259,7 +259,7 @@
         {
             "num-comments": 75, 
             "domain": "en.itar-tass.com", 
-            "score": 118, 
+            "score": 117, 
             "nsfw": false, 
             "title": "Lavrov confirms Russia ready to assist Iraq in fighting Islamic State", 
             "url": "http://en.itar-tass.com/world/751375", 
@@ -271,7 +271,7 @@
         {
             "num-comments": 29, 
             "domain": "businessinsider.com", 
-            "score": 173, 
+            "score": 169, 
             "nsfw": false, 
             "title": "A City In Belgium Is Building A 2-Mile-Long Underground Pipeline To Carry 1,500 Gallons Of Beer An Hour", 
             "url": "http://www.businessinsider.com/de-halve-maan-belgian-brewery-pipeline-2014-9?&amp;platform=bi-androidapp", 
@@ -283,7 +283,7 @@
         {
             "num-comments": 14, 
             "domain": "bigstory.ap.org", 
-            "score": 143, 
+            "score": 144, 
             "nsfw": false, 
             "title": "A major Japanese shipping company agreed Friday to pay the United States a $67.7 million criminal fine for conspiring to fix prices for international ocean shipments of cars, trucks and other wheeled vehicles at the Port of Baltimore and other locations", 
             "url": "http://bigstory.ap.org/article/aaf6f430099d4ff3a590b5ddef3cbce6/japanese-firm-fined-677m-shipping-conspiracy", 

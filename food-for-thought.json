@@ -2,12 +2,12 @@
     "category": "Knowledge", 
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
-    "generated-utc": 1411835099, 
+    "generated-utc": 1411836082, 
     "posts": [
         {
             "num-comments": 24, 
             "domain": "nymag.com", 
-            "score": 204, 
+            "score": 197, 
             "nsfw": false, 
             "title": "Who Is Su - She was 22 when her memory was obliterated. Twenty-six years later, Su Meck is still learning about the family she raised and the husband she has no recollection of marrying", 
             "url": "http://nymag.com/news/features/su-meck-amnesia-2014-9/#print", 
@@ -19,7 +19,7 @@
         {
             "num-comments": 11, 
             "domain": "bloombergview.com", 
-            "score": 254, 
+            "score": 253, 
             "nsfw": false, 
             "title": "The Secret Goldman Sachs Tapes", 
             "url": "http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes", 
@@ -31,7 +31,7 @@
         {
             "num-comments": 1, 
             "domain": "propublica.org", 
-            "score": 24, 
+            "score": 23, 
             "nsfw": false, 
             "title": "Inside the New York Fed: Secret Recordings and a Culture Clash -- A confidential report and a fired examiner\u2019s hidden recorder penetrate the cloistered world of Wall Street\u2019s top regulator\u2014and its history of deference to banks", 
             "url": "http://www.propublica.org/article/carmen-segarras-secret-recordings-from-inside-new-york-fed", 
@@ -43,7 +43,7 @@
         {
             "num-comments": 0, 
             "domain": "collectorsweekly.com", 
-            "score": 10, 
+            "score": 8, 
             "nsfw": false, 
             "title": "The Reclusive, Doll-Collecting Copper Queen of Fifth Avenue", 
             "url": "http://www.collectorsweekly.com/articles/the-reclusive-doll-collecting-copper-queen-of-fifth-avenue/", 
@@ -67,7 +67,7 @@
         {
             "num-comments": 0, 
             "domain": "newrepublic.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "What If Counterfactuals Never Existed? Studying history with hypotheticals ['Altered Pasts' reviewed by Cass R. Sunstein]", 
             "url": "http://www.newrepublic.com/article/119357/altered-pasts-reviewed-cass-r-sunstein", 
@@ -79,7 +79,7 @@
         {
             "num-comments": 2, 
             "domain": "bostonglobe.com", 
-            "score": 9, 
+            "score": 11, 
             "nsfw": false, 
             "title": "The bias fighters: Psychologists are testing ways to reduce unconscious racial prejudice--not just in the police, but in all of us.", 
             "url": "http://www.bostonglobe.com/ideas/2014/09/20/the-bias-fighters/lTZh1WyzG2sG5CmXoh8dRP/story.html", 
@@ -103,7 +103,7 @@
         {
             "num-comments": 8, 
             "domain": "boston.com", 
-            "score": 5, 
+            "score": 4, 
             "nsfw": false, 
             "title": "The downside of diversity", 
             "url": "http://www.boston.com/news/globe/ideas/articles/2007/08/05/the_downside_of_diversity/", 
@@ -115,7 +115,7 @@
         {
             "num-comments": 0, 
             "domain": "theguardian.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "title": "Life in Timbuktu: how the ancient city of gold is slowly turning to dust", 
             "url": "http://www.theguardian.com/cities/2014/sep/16/-sp-life-timbuktu-mali-ancient-city-gold-slowly-turning-to-dust", 
@@ -127,7 +127,7 @@
         {
             "num-comments": 11, 
             "domain": "stuff.co.nz", 
-            "score": 4, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Into the Black The Easy Rider tragedy It was one of New Zealand\u2019s worst ever maritime disasters. Eight people drowned. Only one survived. Here, using never before reported material, the full story of the Easy Rider is finally told.", 
             "url": "http://www.stuff.co.nz/interactives/2014/into-the-black/?Src=longreads", 
@@ -187,7 +187,7 @@
         {
             "num-comments": 1, 
             "domain": "washingtonpost.com", 
-            "score": 2, 
+            "score": 1, 
             "nsfw": false, 
             "title": "Mass shooting hysteria and the death of John Crawford", 
             "url": "http://www.washingtonpost.com/news/the-watch/wp/2014/09/25/mass-shooting-hysteria-and-the-death-of-john-crawford/", 

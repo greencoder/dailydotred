@@ -2,12 +2,12 @@
     "category": "News", 
     "description": "News and discussion about economics, from the perspective of economists", 
     "title": "The Dismal Science", 
-    "generated-utc": 1411835069, 
+    "generated-utc": 1411836053, 
     "posts": [
         {
-            "num-comments": 237, 
+            "num-comments": 239, 
             "domain": "bloombergview.com", 
-            "score": 1001, 
+            "score": 997, 
             "nsfw": false, 
             "title": "The Secret Goldman Sachs Tapes", 
             "url": "http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes", 
@@ -19,7 +19,7 @@
         {
             "num-comments": 155, 
             "domain": "theguardian.com", 
-            "score": 353, 
+            "score": 347, 
             "nsfw": false, 
             "title": "Los Angeles hotel workers win $15 minimum wage after city council vote", 
             "url": "http://www.theguardian.com/world/2014/sep/25/los-angeles-hotel-minimum-wage-city-council", 
@@ -31,7 +31,7 @@
         {
             "num-comments": 5, 
             "domain": "dailysignal.com", 
-            "score": 34, 
+            "score": 30, 
             "nsfw": false, 
             "title": "Uber Fights to Win the Regulatory War", 
             "url": "http://dailysignal.com/2014/09/25/uber-fights-win-regulatory-war-want/?utm_source=twitter&amp;utm_medium=social", 
@@ -43,7 +43,7 @@
         {
             "num-comments": 18, 
             "domain": "bbc.co.uk", 
-            "score": 18, 
+            "score": 19, 
             "nsfw": false, 
             "title": "US economic growth revised up again", 
             "url": "http://www.bbc.co.uk/news/business-29381029#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa", 
@@ -79,7 +79,7 @@
         {
             "num-comments": 3, 
             "domain": "thebaffler.com", 
-            "score": 10, 
+            "score": 8, 
             "nsfw": false, 
             "title": "David Graeber and Thomas Piketty: An exchange on capital, debt, and the future", 
             "url": "http://www.thebaffler.com/odds-and-ends/soak-the-rich", 
@@ -91,7 +91,7 @@
         {
             "num-comments": 14, 
             "domain": "aeon.co", 
-            "score": 9, 
+            "score": 8, 
             "nsfw": false, 
             "title": "To end inequality we must understand poverty", 
             "url": "http://aeon.co/magazine/society/to-end-inequality-we-must-understand-how-poverty-works/", 
@@ -103,7 +103,7 @@
         {
             "num-comments": 0, 
             "domain": "voxeu.org", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "G20 credibility depends on its trade agenda: Statement of the participants in the Third EU-Asia Rountable", 
             "url": "http://www.voxeu.org/article/g20-credibility-depends-its-trade-agenda-statement-participants-third-eu-asia-rountable", 
@@ -151,7 +151,7 @@
         {
             "num-comments": 0, 
             "domain": "imf.org", 
-            "score": 5, 
+            "score": 4, 
             "nsfw": false, 
             "title": "IMF:Food Prices and the Multiplier Effect of Trade Policy(PDF)", 
             "url": "http://www.imf.org/external/pubs/cat/longres.aspx?sk=42374", 
@@ -199,7 +199,7 @@
         {
             "num-comments": 7, 
             "domain": "nytimes.com", 
-            "score": 6, 
+            "score": 5, 
             "nsfw": false, 
             "title": "The Benefits of Economic Expansions Are Increasingly Going to the Richest Americans", 
             "url": "http://www.nytimes.com/2014/09/27/upshot/the-benefits-of-economic-expansions-are-increasingly-going-to-the-richest-americans.html?rref=upshot&amp;smid=tw-upshotnyt", 

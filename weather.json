@@ -2,7 +2,7 @@
     "category": "News", 
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
-    "generated-utc": 1411835074, 
+    "generated-utc": 1411836058, 
     "posts": [
         {
             "num-comments": 7, 
@@ -19,7 +19,7 @@
         {
             "num-comments": 0, 
             "domain": "youtube.com", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "What Southern Arizona's monsoon looks like from inside a fire lookout tower (xpost from r/tucson)", 
             "url": "https://www.youtube.com/watch?v=pstcVVYCGr0", 

@@ -2,12 +2,12 @@
     "category": "Fun", 
     "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
     "title": "News Of The Stupid", 
-    "generated-utc": 1411835152, 
+    "generated-utc": 1411836129, 
     "posts": [
         {
             "num-comments": 24, 
             "domain": "vocativ.com", 
-            "score": 76, 
+            "score": 79, 
             "nsfw": false, 
             "title": "\"Republicans Are People, Too\" Campaign Promptly Backfires", 
             "url": "http://www.vocativ.com/culture/media/republicians-are-people-too/", 
@@ -19,7 +19,7 @@
         {
             "num-comments": 0, 
             "domain": "koat.com", 
-            "score": 23, 
+            "score": 24, 
             "nsfw": false, 
             "title": "Man returns rental car with 139 lbs. of pot inside, gets arrested coming back for bags", 
             "url": "http://www.koat.com/news/man-returns-rental-car-with-139-lbs-of-pot-inside-gets-arrested-coming-back-for-bags/28233668", 
@@ -43,7 +43,7 @@
         {
             "num-comments": 4, 
             "domain": "ajc.com", 
-            "score": 33, 
+            "score": 34, 
             "nsfw": false, 
             "title": "Woman accused of filing fake $94 million tax return", 
             "url": "http://www.ajc.com/news/news/woman-accused-of-filing-fake-94-million-tax-return/nhWtJ/?__federated=1", 
@@ -67,7 +67,7 @@
         {
             "num-comments": 1, 
             "domain": "timeslive.co.za", 
-            "score": 9, 
+            "score": 8, 
             "nsfw": false, 
             "title": "The controversial Pastor Lesego Daniel of Rabboni Centre Ministries, infamous for making his congregation eat grass, has struck again, this time encouraging members of his church to drink petrol after he turned it into pineapple juice.", 
             "url": "http://www.timeslive.co.za/local/2014/09/25/grass-eating-congregation-now-drinks-pineapple-flavoured-petrol", 
@@ -79,7 +79,7 @@
         {
             "num-comments": 8, 
             "domain": "rightwingwatch.org", 
-            "score": 5, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Sarah Palin Wants To Bring 'Truth' To '1400 Pennsylvania Avenue'", 
             "url": "http://www.rightwingwatch.org/content/sarah-palin-wants-bring-truth-1400-pennsylvania-avenue", 
@@ -91,7 +91,7 @@
         {
             "num-comments": 3, 
             "domain": "rawstory.com", 
-            "score": 2, 
+            "score": 4, 
             "nsfw": false, 
             "title": "Sarah Palin: Christian conservatives are \u2018the most slandered group in America\u2019", 
             "url": "http://www.rawstory.com/rs/2014/09/sarah-palin-christian-conservatives-are-the-most-slandered-group-in-america/#.VCXhDThOpxc.reddit", 
@@ -137,7 +137,7 @@
             "id": "2hiokr"
         }, 
         {
-            "num-comments": 7, 
+            "num-comments": 8, 
             "domain": "imgur.com", 
             "score": 14, 
             "nsfw": false, 
