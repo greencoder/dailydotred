@@ -2,12 +2,12 @@
     "category": "Knowledge", 
     "description": "The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences.", 
     "title": "Science", 
-    "generated-utc": 1411836073, 
+    "generated-utc": 1411839845, 
     "posts": [
         {
-            "num-comments": 531, 
+            "num-comments": 537, 
             "domain": "actu.epfl.ch", 
-            "score": 4151, 
+            "score": 4161, 
             "nsfw": false, 
             "title": "Cheap hydrogen fuel from the sun \u2013 without rare metals: By combining a pair of solar cells made with a mineral called perovskite and low cost electrodes, scientists obtained a 12.3% conversion efficiency from solar energy to hydrogen, a record using earth-abundant materials as opposed to rare metals", 
             "url": "http://actu.epfl.ch/news/cheap-hydrogen-fuel-from-the-sun-without-rare-meta/", 
@@ -19,7 +19,7 @@
         {
             "num-comments": 424, 
             "domain": "bbc.com", 
-            "score": 3795, 
+            "score": 3798, 
             "nsfw": false, 
             "title": "Scientists have found the beginnings of life-bearing chemistry at the centre of the galaxy. Iso-propyl cyanide has been detected in a star-forming cloud 27,000 light-years from Earth. Its branched carbon structure is closer to the complex organic molecules of life than any previous finding", 
             "url": "http://www.bbc.com/news/science-environment-29368984", 
@@ -29,9 +29,9 @@
             "id": "2hiljw"
         }, 
         {
-            "num-comments": 265, 
+            "num-comments": 271, 
             "domain": "plosone.org", 
-            "score": 2066, 
+            "score": 2074, 
             "nsfw": false, 
             "title": "Acetaminophen exposure in pregnancy increases the risk of ADHD-like behaviours. Our study also supports earlier claims that findings are specific to acetaminophen.", 
             "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0108210", 
@@ -41,9 +41,9 @@
             "id": "2hj8g7"
         }, 
         {
-            "num-comments": 189, 
+            "num-comments": 190, 
             "domain": "bbc.com", 
-            "score": 1682, 
+            "score": 1687, 
             "nsfw": false, 
             "title": "A spice commonly found in curries may boost the brain's ability to heal itself, according to a report in the journal Stem Cell Research and Therapy. The German study suggests a compound found in turmeric could encourage the growth of nerve cells thought to be part of the brain's repair kit.", 
             "url": "http://www.bbc.com/news/health-29361351", 
@@ -53,9 +53,9 @@
             "id": "2hiex8"
         }, 
         {
-            "num-comments": 125, 
+            "num-comments": 130, 
             "domain": "nymag.com", 
-            "score": 1518, 
+            "score": 1519, 
             "nsfw": false, 
             "title": "People who feel insecure about their relationships post about them more frequently on Facebook", 
             "url": "http://nymag.com/scienceofus/2014/09/facebook-posts-reflect-relationship-insecurity.html", 
@@ -67,7 +67,7 @@
         {
             "num-comments": 81, 
             "domain": "self.science", 
-            "score": 632, 
+            "score": 634, 
             "nsfw": false, 
             "title": "Science AMA Series: I'm Professor John Delaney from the University of Washington in Seattle. I am a Marine Geologist connecting an underwater volcano to the Internet. Ask me anything.", 
             "url": "http://www.reddit.com/r/science/comments/2hisjh/science_ama_series_im_professor_john_delaney_from/", 
@@ -79,7 +79,7 @@
         {
             "num-comments": 25, 
             "domain": "theconversation.com", 
-            "score": 572, 
+            "score": 576, 
             "nsfw": false, 
             "title": "Scientists find evidence that life-supporting material can be manufactured in sterile interstellar space, rather than needing the environment of a planet. Implication: interstellar space could harbour complex organic molecules\u2014perhaps in abundance.", 
             "url": "https://theconversation.com/new-kind-of-organic-molecule-found-in-milky-ways-biggest-star-factory-32179", 
@@ -103,7 +103,7 @@
         {
             "num-comments": 25, 
             "domain": "blog.sfgate.com", 
-            "score": 145, 
+            "score": 144, 
             "nsfw": false, 
             "title": "Report: Solar could cut utility profits 15%", 
             "url": "http://blog.sfgate.com/energy/2014/09/25/report-solar-could-cut-utility-profits-15/", 
@@ -127,7 +127,7 @@
         {
             "num-comments": 18, 
             "domain": "washingtonpost.com", 
-            "score": 130, 
+            "score": 128, 
             "nsfw": false, 
             "title": "The evidence of polygamy is in our genes: A new study reports that females have made a bigger contribution than men. By studying the DNA of 623 males from 51 populations, the researchers found more genetic diversity in the DNA inherited from mothers than they did in the DNA inherited from fathers.", 
             "url": "http://www.washingtonpost.com/news/speaking-of-science/wp/2014/09/25/the-evidence-of-polygamy-is-in-our-genes/?tid=rssfeed", 
@@ -139,7 +139,7 @@
         {
             "num-comments": 1, 
             "domain": "embl.de", 
-            "score": 93, 
+            "score": 94, 
             "nsfw": false, 
             "title": "How plankton gets jet lagged - Evolutionary link between sleep and rhythmic swimming behaviour: Hormone that govern sleep and jet lag in humans also drives mass migration of plankton, scientists have found", 
             "url": "http://www.embl.de/aboutus/communication_outreach/media_relations/2014/140925_Heidelberg/", 
@@ -151,7 +151,7 @@
         {
             "num-comments": 11, 
             "domain": "phys.org", 
-            "score": 97, 
+            "score": 96, 
             "nsfw": false, 
             "title": "Graphene as a flexible, low-cost touchscreen solution: New research suggests that graphene-treated nanowires could soon replace current touchscreen technology, significantly reducing production costs and allowing for more affordable, flexible displays", 
             "url": "http://phys.org/news/2014-09-graphene-flexible-low-cost-touchscreen-solution.html", 
@@ -175,7 +175,7 @@
         {
             "num-comments": 2, 
             "domain": "news.pitt.edu", 
-            "score": 76, 
+            "score": 77, 
             "nsfw": false, 
             "title": "New discovery could pave way for spin-based computing: Semiconductors process electrical information; magnetic materials enable long-term data storage. Researchers have fused these two distinct properties in a single material, paving way for new ultrahigh density storage and computing architectures", 
             "url": "http://www.news.pitt.edu/news/new-discovery-could-pave-way-spin-based-computing", 
@@ -185,9 +185,9 @@
             "id": "2hj7tt"
         }, 
         {
-            "num-comments": 16, 
+            "num-comments": 17, 
             "domain": "neomatica.com", 
-            "score": 85, 
+            "score": 91, 
             "nsfw": false, 
             "title": "Top third of population by protein intake have 40% lower hypertension risk, a condition predisposing to strokes/heart disease, shows first 11 yr longitudinal study of 1,361 adults and controlled for confounding variables. Author asks for reevaluation of optimal protein intake for heart health.", 
             "url": "http://www.neomatica.com/2014/09/25/11-6-year-study-1361-adults-shows-protein-intake-correlated-with-lower-hypertension-risk/", 
@@ -199,7 +199,7 @@
         {
             "num-comments": 0, 
             "domain": "neomatica.com", 
-            "score": 62, 
+            "score": 66, 
             "nsfw": false, 
             "title": "Abundant centimeter-sized pebbles and millimeter dust grains surprisingly found in Orion clouds, previously only thought to be permeated by particles 1,000 to 10,000 times smaller. Large sizes accelerate and change our understanding of planetary system development", 
             "url": "http://www.neomatica.com/2014/09/25/pebbles-orion-mystery-common-previously-thought/", 
@@ -211,7 +211,7 @@
         {
             "num-comments": 0, 
             "domain": "blogs.brandeis.edu", 
-            "score": 63, 
+            "score": 67, 
             "nsfw": false, 
             "title": "Aging is thought to be caused by accumulated cell damage, but how can scientists measure something so variable? A new study finds a different way to measure aging using metabolism and identifies processes involved in damage-driven aging.", 
             "url": "http://blogs.brandeis.edu/flyonthewall/breaking-research-fruit-flies-provide-insights-into-metabolism-and-how-we-age/", 
@@ -235,7 +235,7 @@
         {
             "num-comments": 1, 
             "domain": "nature.com", 
-            "score": 42, 
+            "score": 43, 
             "nsfw": false, 
             "title": "Stone Age groups made similar toolmaking breakthroughs: No mysterious migration required to explain how chipping technique appeared in different continents", 
             "url": "http://www.nature.com/news/stone-age-groups-made-similar-toolmaking-breakthroughs-1.16002", 
@@ -247,7 +247,7 @@
         {
             "num-comments": 3, 
             "domain": "chemistry.princeton.edu", 
-            "score": 46, 
+            "score": 42, 
             "nsfw": false, 
             "title": "Longstanding bottleneck in crystal structure prediction solved: Scientists demonstrated that new techniques could be used to calculate the lattice energy of benzene, a simple yet important molecule in pharmaceutical and energy research, to sub-kilojoule per mole accuracy", 
             "url": "http://chemistry.princeton.edu/news/longstanding-bottleneck-crystal-structure-prediction-solved", 
@@ -259,7 +259,7 @@
         {
             "num-comments": 0, 
             "domain": "seas.harvard.edu", 
-            "score": 40, 
+            "score": 39, 
             "nsfw": false, 
             "title": "Airway muscle-on-a-chip mimics asthma: Tissue-level model of human airway musculature could pave way for patient-specific asthma treatments", 
             "url": "http://www.seas.harvard.edu/news/2014/09/airway-muscle-on-chip-mimics-asthma", 
@@ -271,7 +271,7 @@
         {
             "num-comments": 1, 
             "domain": "rdmag.com", 
-            "score": 42, 
+            "score": 36, 
             "nsfw": false, 
             "title": "On the road to artificial photosynthesis: The results experimentally revealed for the first time the critical influence of the electronic and geometric effects in the carbon dioxide reduction reaction", 
             "url": "http://www.rdmag.com/news/2014/09/road-artificial-photosynthesis", 
@@ -283,7 +283,7 @@
         {
             "num-comments": 4, 
             "domain": "sciencedaily.com", 
-            "score": 37, 
+            "score": 34, 
             "nsfw": false, 
             "title": "Stem cell transplant does not cure SHIV/AIDS after irradiation of infected rhesus macaques", 
             "url": "http://www.sciencedaily.com/releases/2014/09/140925141220.htm", 
@@ -295,7 +295,7 @@
         {
             "num-comments": 1, 
             "domain": "le.ac.uk", 
-            "score": 24, 
+            "score": 25, 
             "nsfw": false, 
             "title": "Scientists create new \u2018designer proteins\u2019 in fight against Alzheimer\u2019s and cancer that can be used to make more effective drugs with fewer side effects. A summer student used the building blocks to synthesise a toxin produced by a sea snail in hopes to develop this as a new pain killer.", 
             "url": "http://www2.le.ac.uk/offices/press/press-releases/2014/september/scientists-create-new-2018designer-proteins2019-in-fight-against-alzheimer2019s-and-cancer", 

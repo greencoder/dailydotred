@@ -2,12 +2,12 @@
     "category": "News", 
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
-    "generated-utc": 1411836058, 
+    "generated-utc": 1411839830, 
     "posts": [
         {
             "num-comments": 7, 
             "domain": "imgur.com", 
-            "score": 61, 
+            "score": 57, 
             "nsfw": false, 
             "title": "Fallstreak hole/Hole Punch clouds in Central Alabama this morning.", 
             "url": "http://imgur.com/a/RGTRx", 
@@ -19,7 +19,7 @@
         {
             "num-comments": 0, 
             "domain": "youtube.com", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "What Southern Arizona's monsoon looks like from inside a fire lookout tower (xpost from r/tucson)", 
             "url": "https://www.youtube.com/watch?v=pstcVVYCGr0", 

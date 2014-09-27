@@ -2,12 +2,12 @@
     "category": "News", 
     "description": "News and discussion about economics, from the perspective of economists", 
     "title": "The Dismal Science", 
-    "generated-utc": 1411836053, 
+    "generated-utc": 1411839825, 
     "posts": [
         {
-            "num-comments": 239, 
+            "num-comments": 241, 
             "domain": "bloombergview.com", 
-            "score": 997, 
+            "score": 1000, 
             "nsfw": false, 
             "title": "The Secret Goldman Sachs Tapes", 
             "url": "http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes", 
@@ -17,7 +17,7 @@
             "id": "2hj8kf"
         }, 
         {
-            "num-comments": 155, 
+            "num-comments": 170, 
             "domain": "theguardian.com", 
             "score": 347, 
             "nsfw": false, 
@@ -31,7 +31,7 @@
         {
             "num-comments": 5, 
             "domain": "dailysignal.com", 
-            "score": 30, 
+            "score": 32, 
             "nsfw": false, 
             "title": "Uber Fights to Win the Regulatory War", 
             "url": "http://dailysignal.com/2014/09/25/uber-fights-win-regulatory-war-want/?utm_source=twitter&amp;utm_medium=social", 
@@ -55,7 +55,7 @@
         {
             "num-comments": 9, 
             "domain": "mainlymacro.blogspot.de", 
-            "score": 14, 
+            "score": 13, 
             "nsfw": false, 
             "title": "Where macroeconomics went wrong", 
             "url": "http://mainlymacro.blogspot.de/2014/09/where-macroeconomics-went-wrong.html?utm_source=dlvr.it&amp;utm_medium=twitter", 
@@ -67,7 +67,7 @@
         {
             "num-comments": 8, 
             "domain": "blogs.hbr.org", 
-            "score": 16, 
+            "score": 13, 
             "nsfw": false, 
             "title": "Why the Fed Is So Wimpy", 
             "url": "http://blogs.hbr.org/2014/09/why-the-fed-is-so-wimpy/", 
@@ -77,9 +77,9 @@
             "id": "2hk7rl"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 4, 
             "domain": "thebaffler.com", 
-            "score": 8, 
+            "score": 11, 
             "nsfw": false, 
             "title": "David Graeber and Thomas Piketty: An exchange on capital, debt, and the future", 
             "url": "http://www.thebaffler.com/odds-and-ends/soak-the-rich", 
@@ -175,7 +175,7 @@
         {
             "num-comments": 0, 
             "domain": "chicagofed.org", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Are clearing houses the new central banks?", 
             "url": "http://www.chicagofed.org/digital_assets/others/events/2014/annual_over_the_counter_derivatives_symposium/tucker_clearinghouses_new_central_banks_tucker_2014.pdf", 
@@ -199,7 +199,7 @@
         {
             "num-comments": 7, 
             "domain": "nytimes.com", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "The Benefits of Economic Expansions Are Increasingly Going to the Richest Americans", 
             "url": "http://www.nytimes.com/2014/09/27/upshot/the-benefits-of-economic-expansions-are-increasingly-going-to-the-richest-americans.html?rref=upshot&amp;smid=tw-upshotnyt", 
@@ -211,7 +211,7 @@
         {
             "num-comments": 0, 
             "domain": "euractiv.com", 
-            "score": 5, 
+            "score": 4, 
             "nsfw": false, 
             "title": "No EU plan to undermine UK on oversight of bankers' bonuses", 
             "url": "http://www.euractiv.com/sections/euro-finance/no-eu-plan-undermine-uk-oversight-bankers-bonuses-308749", 
@@ -259,7 +259,7 @@
         {
             "num-comments": 5, 
             "domain": "alannasser.org", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "What Keynes Really Prescribed", 
             "url": "http://www.alannasser.org/articles/whatkeynesreallyprescribed.html", 
