@@ -1,14 +1,14 @@
 {
     "category": "Fun", 
-    "generated-utc": 1411768903, 
+    "generated-utc": 1411826521, 
     "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
     "title": "News Of The Stupid", 
     "full-url": "http://www.reddit.com/r/NewsOfTheStupid/", 
     "posts": [
         {
-            "num-comments": 21, 
+            "num-comments": 24, 
             "domain": "vocativ.com", 
-            "score": 53, 
+            "score": 76, 
             "nsfw": false, 
             "title": "\"Republicans Are People, Too\" Campaign Promptly Backfires", 
             "url": "http://www.vocativ.com/culture/media/republicians-are-people-too/", 
@@ -19,27 +19,51 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "detroitnews.com", 
-            "score": 35, 
+            "domain": "koat.com", 
+            "score": 23, 
             "nsfw": false, 
-            "title": "Man tried to smuggle 51 turtles in pants across border", 
-            "url": "http://www.detroitnews.com/story/news/local/wayne-county/2014/09/25/man-tried-smuggle-reptiles-pants-across-detroit-windsor-border/16203929/", 
-            "author": "desotojoe", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hi759/man_tried_to_smuggle_51_turtles_in_pants_across/", 
-            "created-utc": 1411711384.0, 
-            "id": "2hi759"
+            "title": "Man returns rental car with 139 lbs. of pot inside, gets arrested coming back for bags", 
+            "url": "http://www.koat.com/news/man-returns-rental-car-with-139-lbs-of-pot-inside-gets-arrested-coming-back-for-bags/28233668", 
+            "author": "stankmanly", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hj0u4/man_returns_rental_car_with_139_lbs_of_pot_inside/", 
+            "created-utc": 1411740187.0, 
+            "id": "2hj0u4"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "abc15.com", 
+            "score": 22, 
+            "nsfw": false, 
+            "title": "Fired UPS worker Walter Earl Morrison accused of stealing $160K diamond, trading it for marijuana", 
+            "url": "http://www.abc15.com/news/region-phoenix-metro/central-phoenix/fired-ups-worker-accused-of-stealing-160k-diamond-trading-it-for-20-worth-of-marijuana", 
+            "author": "cavehobbit", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hkqs4/fired_ups_worker_walter_earl_morrison_accused_of/", 
+            "created-utc": 1411776433.0, 
+            "id": "2hkqs4"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "ajc.com", 
+            "score": 31, 
+            "nsfw": false, 
+            "title": "Woman accused of filing fake $94 million tax return", 
+            "url": "http://www.ajc.com/news/news/woman-accused-of-filing-fake-94-million-tax-return/nhWtJ/?__federated=1", 
+            "author": "jaycrew", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hl6jx/woman_accused_of_filing_fake_94_million_tax_return/", 
+            "created-utc": 1411788227.0, 
+            "id": "2hl6jx"
         }, 
         {
             "num-comments": 0, 
-            "domain": "yorkpress.co.uk", 
-            "score": 8, 
+            "domain": "foxnews.com", 
+            "score": 19, 
             "nsfw": false, 
-            "title": "Baker in court for head-butting \u00a327,000 sausage roll machine when it stopped working properly", 
-            "url": "http://www.yorkpress.co.uk/news/11475934.Baker_in_court_for_head_butting___27_000_sausage_roll_machine_when_it_stopped_working_properly/", 
-            "author": "desotojoe", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hib4n/baker_in_court_for_headbutting_27000_sausage_roll/", 
-            "created-utc": 1411715163.0, 
-            "id": "2hib4n"
+            "title": "Kansas government approves sex toy auction to settle scofflaw's tax debt", 
+            "url": "http://www.foxnews.com/politics/2014/09/26/sex-toy-shopping-spree-in-kansas-to-pay-off-tax-debt/", 
+            "author": "Sunking278", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hjur9/kansas_government_approves_sex_toy_auction_to/", 
+            "created-utc": 1411757153.0, 
+            "id": "2hjur9"
         }, 
         {
             "num-comments": 1, 
@@ -54,28 +78,52 @@
             "id": "2hj1ba"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "koat.com", 
-            "score": 9, 
+            "num-comments": 8, 
+            "domain": "rightwingwatch.org", 
+            "score": 6, 
             "nsfw": false, 
-            "title": "Man returns rental car with 139 lbs. of pot inside, gets arrested coming back for bags", 
-            "url": "http://www.koat.com/news/man-returns-rental-car-with-139-lbs-of-pot-inside-gets-arrested-coming-back-for-bags/28233668", 
-            "author": "stankmanly", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hj0u4/man_returns_rental_car_with_139_lbs_of_pot_inside/", 
-            "created-utc": 1411740187.0, 
-            "id": "2hj0u4"
+            "title": "Sarah Palin Wants To Bring 'Truth' To '1400 Pennsylvania Avenue'", 
+            "url": "http://www.rightwingwatch.org/content/sarah-palin-wants-bring-truth-1400-pennsylvania-avenue", 
+            "author": "michaelconfoy", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hk8zt/sarah_palin_wants_to_bring_truth_to_1400/", 
+            "created-utc": 1411765203.0, 
+            "id": "2hk8zt"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "rawstory.com", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "Sarah Palin: Christian conservatives are \u2018the most slandered group in America\u2019", 
+            "url": "http://www.rawstory.com/rs/2014/09/sarah-palin-christian-conservatives-are-the-most-slandered-group-in-america/#.VCXhDThOpxc.reddit", 
+            "author": "michaelconfoy", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hkepz/sarah_palin_christian_conservatives_are_the_most/", 
+            "created-utc": 1411768616.0, 
+            "id": "2hkepz"
         }, 
         {
             "num-comments": 0, 
-            "domain": "foxnews.com", 
+            "domain": "metro.co.uk", 
             "score": 3, 
+            "nsfw": true, 
+            "title": "Is the Bobby Ball Bag the next Schlong Thong?", 
+            "url": "http://metro.co.uk/2014/09/25/is-the-bobby-ball-bag-the-next-schlong-thong-4881501/", 
+            "author": "buskey", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hkz84/is_the_bobby_ball_bag_the_next_schlong_thong/", 
+            "created-utc": 1411782579.0, 
+            "id": "2hkz84"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "washingtonpost.com", 
+            "score": 1, 
             "nsfw": false, 
-            "title": "Kansas government approves sex toy auction to settle scofflaw's tax debt", 
-            "url": "http://www.foxnews.com/politics/2014/09/26/sex-toy-shopping-spree-in-kansas-to-pay-off-tax-debt/", 
-            "author": "Sunking278", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hjur9/kansas_government_approves_sex_toy_auction_to/", 
-            "created-utc": 1411757153.0, 
-            "id": "2hjur9"
+            "title": "\u201cApple will become the phone of choice for the pedophile,\u201d said John J. Escalante, chief of detectives for Chicago\u2019s police department.", 
+            "url": "http://www.washingtonpost.com/business/technology/fbi-blasts-apple-google-for-locking-police-out-of-phones/2014/09/25/68c4e08e-4344-11e4-9a15-137aa0153527_story.html", 
+            "author": "logicallyinsane", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hjbp0/apple_will_become_the_phone_of_choice_for_the/", 
+            "created-utc": 1411746517.0, 
+            "id": "2hjbp0"
         }, 
         {
             "num-comments": 0, 
@@ -90,16 +138,16 @@
             "id": "2hiokr"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "washingtonpost.com", 
-            "score": 1, 
+            "num-comments": 6, 
+            "domain": "imgur.com", 
+            "score": 12, 
             "nsfw": false, 
-            "title": "\u201cApple will become the phone of choice for the pedophile,\u201d said John J. Escalante, chief of detectives for Chicago\u2019s police department.", 
-            "url": "http://www.washingtonpost.com/business/technology/fbi-blasts-apple-google-for-locking-police-out-of-phones/2014/09/25/68c4e08e-4344-11e4-9a15-137aa0153527_story.html", 
-            "author": "logicallyinsane", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hjbp0/apple_will_become_the_phone_of_choice_for_the/", 
-            "created-utc": 1411746517.0, 
-            "id": "2hjbp0"
+            "title": "Food babe deletes a post from a mother who can't afford her product recommendation.", 
+            "url": "http://imgur.com/jczaOnX", 
+            "author": "GogoPowerYubari", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hlem5/food_babe_deletes_a_post_from_a_mother_who_cant/", 
+            "created-utc": 1411794990.0, 
+            "id": "2hlem5"
         }, 
         {
             "num-comments": 0, 
@@ -116,7 +164,7 @@
         {
             "num-comments": 2, 
             "domain": "ajc.com", 
-            "score": 0, 
+            "score": 1, 
             "nsfw": false, 
             "title": "Germany to consider decriminalizing incest", 
             "url": "http://www.ajc.com/news/news/world-govt-politics/germany-consider-decriminalizing-incest/nhT5X/", 
@@ -126,7 +174,7 @@
             "id": "2hibdn"
         }, 
         {
-            "num-comments": 1, 
+            "num-comments": 2, 
             "domain": "nypost.com", 
             "score": 0, 
             "nsfw": false, 
@@ -136,42 +184,6 @@
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hiban/the_living_hell_of_a_man_who_orgasms_100_times_a/", 
             "created-utc": 1411715332.0, 
             "id": "2hiban"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "myleaderpaper.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "Man driving a Model T was hurt in head-on accident on Hwy. MM in House Springs", 
-            "url": "http://www.myleaderpaper.com/news/accidents/article_827eebbe-44fc-11e4-9390-001a4bcf6878.html", 
-            "author": "desotojoe", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hhkcx/man_driving_a_model_t_was_hurt_in_headon_accident/", 
-            "created-utc": 1411695113.0, 
-            "id": "2hhkcx"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "slate.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "A Man Drinks a Fifth of Jack Daniel\u2019s in 13 Seconds: What happens when someone drinks that much that quickly?", 
-            "url": "http://www.slate.com/articles/health_and_science/science/2014/09/fifth_of_jack_daniel_s_chugged_youtube_video_and_danger_of_death_from_binge.html", 
-            "author": "michaelconfoy", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hgrjb/a_man_drinks_a_fifth_of_jack_daniels_in_13/", 
-            "created-utc": 1411678098.0, 
-            "id": "2hgrjb"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "naturalnews.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "Illegal and Legal Immigrants get free education, housing and healthcare for crossing border; Americans get $5,000 fine.", 
-            "url": "http://www.naturalnews.com/047004_illegal_immigrants_free_education_border_crossing.html#", 
-            "author": "ucccft", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hgs4t/illegal_and_legal_immigrants_get_free_education/", 
-            "created-utc": 1411678396.0, 
-            "id": "2hgs4t"
         }
     ], 
     "api-url": "http://daily.red/news-of-the-stupid.json", 

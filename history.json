@@ -1,14 +1,14 @@
 {
     "category": "Knowledge", 
-    "generated-utc": 1411768851, 
+    "generated-utc": 1411826470, 
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
     "full-url": "http://www.reddit.com/r/history/", 
     "posts": [
         {
-            "num-comments": 58, 
+            "num-comments": 140, 
             "domain": "bostonglobe.com", 
-            "score": 669, 
+            "score": 1128, 
             "nsfw": false, 
             "title": "Discovered Inside Boston Statue: 113-Yr-Old Time Capsule - Fiber optic camera used to detect the capsule, which is in a sealed copper box size of a shoe box, secured to the sculpture with copper straps", 
             "url": "http://www.bostonglobe.com/metro/2014/09/23/time-capsule-found-inside-lion-statue-removed-from-old-state-house/SwtlRRyMDcgxLL4fvAmlnN/story.html", 
@@ -20,7 +20,7 @@
         {
             "num-comments": 28, 
             "domain": "psmag.com", 
-            "score": 109, 
+            "score": 117, 
             "nsfw": false, 
             "title": "\"The Most Pointless Ferry in Maryland\": an old ferry service that dates back to 1683", 
             "url": "http://www.psmag.com/navigation/business-economics/pointless-ferry-maryland-tred-avon-transportation-boat-ride-91209/", 
@@ -30,9 +30,21 @@
             "id": "2hibyi"
         }, 
         {
-            "num-comments": 7, 
+            "num-comments": 39, 
+            "domain": "self.history", 
+            "score": 186, 
+            "nsfw": false, 
+            "title": "slaughter house 5", 
+            "url": "http://www.reddit.com/r/history/comments/2hjwp4/slaughter_house_5/", 
+            "author": "erdocsg", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hjwp4/slaughter_house_5/", 
+            "created-utc": 1411758298.0, 
+            "id": "2hjwp4"
+        }, 
+        {
+            "num-comments": 8, 
             "domain": "spiegel.de", 
-            "score": 77, 
+            "score": 89, 
             "nsfw": false, 
             "title": "The Archeological Excavations that Led to the Gas Chambers of Sobibor", 
             "url": "http://www.spiegel.de/international/zeitgeist/the-archeological-excavations-that-led-to-the-gas-chambers-of-sobibor-a-993733.html", 
@@ -42,19 +54,7 @@
             "id": "2hio72"
         }, 
         {
-            "num-comments": 26, 
-            "domain": "self.history", 
-            "score": 70, 
-            "nsfw": false, 
-            "title": "Where did the Mongols keep their slaves?", 
-            "url": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
-            "author": "hipwithyoungsters", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hgzir/where_did_the_mongols_keep_their_slaves/", 
-            "created-utc": 1411682502.0, 
-            "id": "2hgzir"
-        }, 
-        {
-            "num-comments": 3, 
+            "num-comments": 4, 
             "domain": "spiegel.de", 
             "score": 60, 
             "nsfw": false, 
@@ -66,9 +66,9 @@
             "id": "2hiok4"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "neh.gov", 
-            "score": 32, 
+            "score": 42, 
             "nsfw": false, 
             "title": "Politics and war brought Teddy Roosevelt and Franklin Delano Roosevelt ever closer", 
             "url": "http://www.neh.gov/humanities/2014/septemberoctober/feature/politics-and-war-brought-teddy-roosevelt-and-franklin-delan", 
@@ -78,21 +78,9 @@
             "id": "2hivk9"
         }, 
         {
-            "num-comments": 5, 
-            "domain": "self.history", 
-            "score": 7, 
-            "nsfw": false, 
-            "title": "Early history of Croatia", 
-            "url": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
-            "author": "xXJUICYNIGGAXx", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
-            "created-utc": 1411741181.0, 
-            "id": "2hj2fe"
-        }, 
-        {
             "num-comments": 3, 
             "domain": "theatlantic.com", 
-            "score": 7, 
+            "score": 11, 
             "nsfw": false, 
             "title": "The Man Who Saved the World by Doing Absolutely Nothing", 
             "url": "http://www.theatlantic.com/technology/archive/2013/09/the-man-who-saved-the-world-by-doing-absolutely-nothing/280050/", 
@@ -102,9 +90,9 @@
             "id": "2hjbep"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 4, 
             "domain": "self.history", 
-            "score": 5, 
+            "score": 7, 
             "nsfw": false, 
             "title": "World War I broke out largely because of an arms race, and World War II because of the lack of an arms race- Herman Kahn. Meaning?", 
             "url": "http://www.reddit.com/r/history/comments/2hjh8x/world_war_i_broke_out_largely_because_of_an_arms/", 
@@ -114,31 +102,43 @@
             "id": "2hjh8x"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 5, 
             "domain": "self.history", 
-            "score": 10, 
+            "score": 8, 
             "nsfw": false, 
-            "title": "slaughter house 5", 
-            "url": "http://www.reddit.com/r/history/comments/2hjwp4/slaughter_house_5/", 
-            "author": "erdocsg", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hjwp4/slaughter_house_5/", 
-            "created-utc": 1411758298.0, 
-            "id": "2hjwp4"
+            "title": "Early history of Croatia", 
+            "url": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
+            "author": "xXJUICYNIGGAXx", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hj2fe/early_history_of_croatia/", 
+            "created-utc": 1411741181.0, 
+            "id": "2hj2fe"
         }, 
         {
-            "num-comments": 1, 
+            "num-comments": 0, 
             "domain": "self.history", 
-            "score": 3, 
+            "score": 2, 
             "nsfw": false, 
-            "title": "What happened between Lentulus Batiata and Marcus Decius Solonius?", 
-            "url": "http://www.reddit.com/r/history/comments/2hhxhy/what_happened_between_lentulus_batiata_and_marcus/", 
-            "author": "TylerJ89", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hhxhy/what_happened_between_lentulus_batiata_and_marcus/", 
-            "created-utc": 1411703673.0, 
-            "id": "2hhxhy"
+            "title": "The Arms race, what are some of your favorite reads.", 
+            "url": "http://www.reddit.com/r/history/comments/2hl7sf/the_arms_race_what_are_some_of_your_favorite_reads/", 
+            "author": "brendon114", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hl7sf/the_arms_race_what_are_some_of_your_favorite_reads/", 
+            "created-utc": 1411789195.0, 
+            "id": "2hl7sf"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 0, 
+            "domain": "self.history", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Documentaries about the history of Rhodesia from an anti-imperialist perspective?", 
+            "url": "http://www.reddit.com/r/history/comments/2hkzv3/documentaries_about_the_history_of_rhodesia_from/", 
+            "author": "dylopa", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hkzv3/documentaries_about_the_history_of_rhodesia_from/", 
+            "created-utc": 1411783086.0, 
+            "id": "2hkzv3"
+        }, 
+        {
+            "num-comments": 7, 
             "domain": "self.history", 
             "score": 1, 
             "nsfw": false, 
@@ -152,7 +152,7 @@
         {
             "num-comments": 2, 
             "domain": "historyireland.com", 
-            "score": 2, 
+            "score": 1, 
             "nsfw": false, 
             "title": "The Irish Medieval Pilgrimage to Santiago de Compostela ,more than just a pilgrimage, the Irish often didn't return (X post r/SpanishHistory).", 
             "url": "http://www.historyireland.com/medieval-history-pre-1500/the-irish-medieval-pilgrimage-to-santiago-de-compostela/", 
@@ -172,42 +172,6 @@
             "permalink": "http://www.reddit.com/r/history/comments/2hjjl8/great_channel_that_talks_about_world_war_1_week/", 
             "created-utc": 1411750852.0, 
             "id": "2hjjl8"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "techtimes.com", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "Stone Age tools did not originate from Africa, toolmaking skills developed independently worldwide.", 
-            "url": "http://www.techtimes.com/articles/16534/20140926/stone-age-tools-did-not-originate-from-africa-toolmaking-skills-developed-independently-worldwide.htm", 
-            "author": "subtleshill", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hjfq8/stone_age_tools_did_not_originate_from_africa/", 
-            "created-utc": 1411748704.0, 
-            "id": "2hjfq8"
-        }, 
-        {
-            "num-comments": 11, 
-            "domain": "self.history", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "Is Germany really responsible for the WW2", 
-            "url": "http://www.reddit.com/r/history/comments/2hjvzj/is_germany_really_responsible_for_the_ww2/", 
-            "author": "Nestleworstcompany", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hjvzj/is_germany_really_responsible_for_the_ww2/", 
-            "created-utc": 1411757890.0, 
-            "id": "2hjvzj"
-        }, 
-        {
-            "num-comments": 10, 
-            "domain": "self.history", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "What are some interesting major events that happened in the Western Civilization?", 
-            "url": "http://www.reddit.com/r/history/comments/2hh91u/what_are_some_interesting_major_events_that/", 
-            "author": "zaraliaya", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hh91u/what_are_some_interesting_major_events_that/", 
-            "created-utc": 1411688033.0, 
-            "id": "2hh91u"
         }
     ], 
     "api-url": "http://daily.red/history.json", 

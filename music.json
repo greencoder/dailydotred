@@ -1,14 +1,14 @@
 {
     "category": "Entertainment", 
-    "generated-utc": 1411768880, 
+    "generated-utc": 1411826498, 
     "description": "The musical community of reddit", 
     "title": "Music", 
     "full-url": "http://www.reddit.com/r/Music/", 
     "posts": [
         {
-            "num-comments": 575, 
+            "num-comments": 968, 
             "domain": "self.Music", 
-            "score": 2306, 
+            "score": 3317, 
             "nsfw": false, 
             "title": "Radiohead's Thom Yorke releases new album, Tomorrow's Modern Boxes, through BitTorrent", 
             "url": "http://www.reddit.com/r/Music/comments/2hj68b/radioheads_thom_yorke_releases_new_album/", 
@@ -18,9 +18,9 @@
             "id": "2hj68b"
         }, 
         {
-            "num-comments": 2527, 
+            "num-comments": 2720, 
             "domain": "self.Music", 
-            "score": 860, 
+            "score": 956, 
             "nsfw": false, 
             "title": "What is the best one hit wonder song ever made?", 
             "url": "http://www.reddit.com/r/Music/comments/2hiix8/what_is_the_best_one_hit_wonder_song_ever_made/", 
@@ -30,33 +30,9 @@
             "id": "2hiix8"
         }, 
         {
-            "num-comments": 42, 
-            "domain": "youtube.com", 
-            "score": 314, 
-            "nsfw": false, 
-            "title": "Coheed And Cambria - In Keeping Secrets of Silent Earth: 3 [Progressive Rock]", 
-            "url": "https://www.youtube.com/watch?v=1uYsu13XGgM", 
-            "author": "AutomaticGats", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hhaki/coheed_and_cambria_in_keeping_secrets_of_silent/", 
-            "created-utc": 1411688973.0, 
-            "id": "2hhaki"
-        }, 
-        {
-            "num-comments": 19, 
-            "domain": "youtube.com", 
-            "score": 201, 
-            "nsfw": false, 
-            "title": "The Strokes - Last Nite [indie rock]", 
-            "url": "https://www.youtube.com/watch?v=TOypSnKFHrE", 
-            "author": "ntrent", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hhqd7/the_strokes_last_nite_indie_rock/", 
-            "created-utc": 1411698911.0, 
-            "id": "2hhqd7"
-        }, 
-        {
-            "num-comments": 482, 
+            "num-comments": 534, 
             "domain": "self.Music", 
-            "score": 163, 
+            "score": 186, 
             "nsfw": false, 
             "title": "What is your favorite acoustic song from a non-acoustic band?", 
             "url": "http://www.reddit.com/r/Music/comments/2hisrq/what_is_your_favorite_acoustic_song_from_a/", 
@@ -66,9 +42,9 @@
             "id": "2hisrq"
         }, 
         {
-            "num-comments": 346, 
+            "num-comments": 358, 
             "domain": "self.Music", 
-            "score": 71, 
+            "score": 126, 
             "nsfw": false, 
             "title": "We are Finch, a band from Temecula, CA with a new album coming out on September 30th- Back To Oblivion, AUA", 
             "url": "http://www.reddit.com/r/Music/comments/2hjicr/we_are_finch_a_band_from_temecula_ca_with_a_new/", 
@@ -78,57 +54,21 @@
             "id": "2hjicr"
         }, 
         {
-            "num-comments": 6, 
-            "domain": "youtube.com", 
-            "score": 35, 
-            "nsfw": false, 
-            "title": "Shakey Graves - Roll the Bones [Indie]", 
-            "url": "https://www.youtube.com/watch?v=sD72LbIk02M", 
-            "author": "Blake1405", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hhbk9/shakey_graves_roll_the_bones_indie/", 
-            "created-utc": 1411689609.0, 
-            "id": "2hhbk9"
-        }, 
-        {
-            "num-comments": 2, 
-            "domain": "m.soundcloud.com", 
-            "score": 36, 
-            "nsfw": false, 
-            "title": "Gorillaz Feat. Lou Reed - Some Kind of Nature [Electronic]", 
-            "url": "https://m.soundcloud.com/i-van-share/09-some-kind-of-nature-ft-lou-reed", 
-            "author": "deadly-nightshade", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hgvoj/gorillaz_feat_lou_reed_some_kind_of_nature/", 
-            "created-utc": 1411680295.0, 
-            "id": "2hgvoj"
-        }, 
-        {
-            "num-comments": 5, 
-            "domain": "youtube.com", 
-            "score": 34, 
-            "nsfw": false, 
-            "title": "Fugazi - I'm So Tired [Post-Hardcore]", 
-            "url": "https://www.youtube.com/watch?v=4IKddfxkDWk", 
-            "author": "Rajowa", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hhayw/fugazi_im_so_tired_posthardcore/", 
-            "created-utc": 1411689218.0, 
-            "id": "2hhayw"
-        }, 
-        {
-            "num-comments": 44, 
+            "num-comments": 58, 
             "domain": "self.Music", 
-            "score": 29, 
+            "score": 136, 
             "nsfw": false, 
-            "title": "I got signed! What do I need to make sure is on the contract before I sign it?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hiabk/i_got_signed_what_do_i_need_to_make_sure_is_on/", 
-            "author": "reddontgiveadamn", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hiabk/i_got_signed_what_do_i_need_to_make_sure_is_on/", 
-            "created-utc": 1411714366.0, 
-            "id": "2hiabk"
+            "title": "i can't afford college and music is all i got, id appreciate 40sec of your time", 
+            "url": "http://www.reddit.com/r/Music/comments/2hkspm/i_cant_afford_college_and_music_is_all_i_got_id/", 
+            "author": "badkidsgetworse", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hkspm/i_cant_afford_college_and_music_is_all_i_got_id/", 
+            "created-utc": 1411777776.0, 
+            "id": "2hkspm"
         }, 
         {
             "num-comments": 11, 
             "domain": "self.Music", 
-            "score": 25, 
+            "score": 26, 
             "nsfw": false, 
             "title": "New Weezer single \"Lonely\"", 
             "url": "http://www.reddit.com/r/Music/comments/2hib82/new_weezer_single_lonely/", 
@@ -140,7 +80,7 @@
         {
             "num-comments": 8, 
             "domain": "self.Music", 
-            "score": 21, 
+            "score": 24, 
             "nsfw": false, 
             "title": "Here's a list of a few music festivals happening tonight &amp; this weekend that you can watch streaming live", 
             "url": "http://www.reddit.com/r/Music/comments/2hix7l/heres_a_list_of_a_few_music_festivals_happening/", 
@@ -150,7 +90,7 @@
             "id": "2hix7l"
         }, 
         {
-            "num-comments": 196, 
+            "num-comments": 227, 
             "domain": "self.Music", 
             "score": 22, 
             "nsfw": false, 
@@ -162,9 +102,9 @@
             "id": "2hivc1"
         }, 
         {
-            "num-comments": 57, 
+            "num-comments": 69, 
             "domain": "self.Music", 
-            "score": 19, 
+            "score": 20, 
             "nsfw": false, 
             "title": "If you could play in any band ever, who would they be and what instrument would you play?", 
             "url": "http://www.reddit.com/r/Music/comments/2hj4bj/if_you_could_play_in_any_band_ever_who_would_they/", 
@@ -174,33 +114,9 @@
             "id": "2hj4bj"
         }, 
         {
-            "num-comments": 18, 
+            "num-comments": 34, 
             "domain": "self.Music", 
-            "score": 14, 
-            "nsfw": false, 
-            "title": "The Who released a new single today, part of their 50th anniversary. What does it take for a band to gain the longevity that they have?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hiz7f/the_who_released_a_new_single_today_part_of_their/", 
-            "author": "BelugaBoy", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hiz7f/the_who_released_a_new_single_today_part_of_their/", 
-            "created-utc": 1411739111.0, 
-            "id": "2hiz7f"
-        }, 
-        {
-            "num-comments": 45, 
-            "domain": "self.Music", 
-            "score": 16, 
-            "nsfw": false, 
-            "title": "What songs have you heard that you have realized or later discovered are based on a novel?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hhxdl/what_songs_have_you_heard_that_you_have_realized/", 
-            "author": "myshoelaceshurt", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hhxdl/what_songs_have_you_heard_that_you_have_realized/", 
-            "created-utc": 1411703574.0, 
-            "id": "2hhxdl"
-        }, 
-        {
-            "num-comments": 30, 
-            "domain": "self.Music", 
-            "score": 17, 
+            "score": 20, 
             "nsfw": false, 
             "title": "Recently started listening to Jazz and I love it. Suggestions?", 
             "url": "http://www.reddit.com/r/Music/comments/2hjdjs/recently_started_listening_to_jazz_and_i_love_it/", 
@@ -210,9 +126,45 @@
             "id": "2hjdjs"
         }, 
         {
+            "num-comments": 19, 
+            "domain": "self.Music", 
+            "score": 17, 
+            "nsfw": false, 
+            "title": "The Who released a new single today, part of their 50th anniversary. What does it take for a band to gain the longevity that they have?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hiz7f/the_who_released_a_new_single_today_part_of_their/", 
+            "author": "BelugaBoy", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hiz7f/the_who_released_a_new_single_today_part_of_their/", 
+            "created-utc": 1411739111.0, 
+            "id": "2hiz7f"
+        }, 
+        {
+            "num-comments": 46, 
+            "domain": "self.Music", 
+            "score": 21, 
+            "nsfw": false, 
+            "title": "Your Favorite Song Thread", 
+            "url": "http://www.reddit.com/r/Music/comments/2hk6o6/your_favorite_song_thread/", 
+            "author": "thermoroach", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hk6o6/your_favorite_song_thread/", 
+            "created-utc": 1411763874.0, 
+            "id": "2hk6o6"
+        }, 
+        {
+            "num-comments": 77, 
+            "domain": "self.Music", 
+            "score": 16, 
+            "nsfw": false, 
+            "title": "What is the most extreme music that you like?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hkbqv/what_is_the_most_extreme_music_that_you_like/", 
+            "author": "XenonDown", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hkbqv/what_is_the_most_extreme_music_that_you_like/", 
+            "created-utc": 1411766830.0, 
+            "id": "2hkbqv"
+        }, 
+        {
             "num-comments": 15, 
             "domain": "self.Music", 
-            "score": 12, 
+            "score": 13, 
             "nsfw": false, 
             "title": "Has anyone noticed The Beatles are on Spotify now?", 
             "url": "http://www.reddit.com/r/Music/comments/2hios1/has_anyone_noticed_the_beatles_are_on_spotify_now/", 
@@ -222,9 +174,33 @@
             "id": "2hios1"
         }, 
         {
-            "num-comments": 31, 
+            "num-comments": 47, 
             "domain": "self.Music", 
-            "score": 12, 
+            "score": 15, 
+            "nsfw": false, 
+            "title": "In your opinion, what is the MOST depressing song?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hk7n3/in_your_opinion_what_is_the_most_depressing_song/", 
+            "author": "ArtsyMNKid", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hk7n3/in_your_opinion_what_is_the_most_depressing_song/", 
+            "created-utc": 1411764441.0, 
+            "id": "2hk7n3"
+        }, 
+        {
+            "num-comments": 59, 
+            "domain": "self.Music", 
+            "score": 15, 
+            "nsfw": false, 
+            "title": "Best raw, underproduced albums", 
+            "url": "http://www.reddit.com/r/Music/comments/2hju9v/best_raw_underproduced_albums/", 
+            "author": "beefwellington1", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hju9v/best_raw_underproduced_albums/", 
+            "created-utc": 1411756851.0, 
+            "id": "2hju9v"
+        }, 
+        {
+            "num-comments": 36, 
+            "domain": "self.Music", 
+            "score": 15, 
             "nsfw": false, 
             "title": "My little sister is getting married. What song should we dance to?", 
             "url": "http://www.reddit.com/r/Music/comments/2hiscg/my_little_sister_is_getting_married_what_song/", 
@@ -234,45 +210,21 @@
             "id": "2hiscg"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "youtube.com", 
-            "score": 12, 
+            "num-comments": 4, 
+            "domain": "self.Music", 
+            "score": 14, 
             "nsfw": false, 
-            "title": "Maximun the hormone - whats up people [Japanese hardcore punk]", 
-            "url": "https://www.youtube.com/watch?v=3DgyGSTtfyI", 
-            "author": "somewhatfunnyguy", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hhbwa/maximun_the_hormone_whats_up_people_japanese/", 
-            "created-utc": 1411689807.0, 
-            "id": "2hhbwa"
-        }, 
-        {
-            "num-comments": 9, 
-            "domain": "youtu.be", 
-            "score": 11, 
-            "nsfw": false, 
-            "title": "The Smashing Pumpkins - Today [90s alternative rock] Great song, the second single from Siamese Dream.", 
-            "url": "http://youtu.be/xmUZ6nCFNoU", 
-            "author": "OKDokeComputer", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hgpja/the_smashing_pumpkins_today_90s_alternative_rock/", 
-            "created-utc": 1411677012.0, 
-            "id": "2hgpja"
-        }, 
-        {
-            "num-comments": 3, 
-            "domain": "youtube.com", 
-            "score": 9, 
-            "nsfw": false, 
-            "title": "Teenage Fanclub - Star Sign [Alternative Rock/Power Pop]", 
-            "url": "https://www.youtube.com/watch?v=KLIE9NmviSQ", 
-            "author": "evanm5", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hhbpf/teenage_fanclub_star_sign_alternative_rockpower/", 
-            "created-utc": 1411689694.0, 
-            "id": "2hhbpf"
+            "title": "I want to perform a version of William Shatner's spoken-word version of Elton John's Rocket Man for my dad's commitment ceremony... but I can't find the music to back it. Can someone please help me?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hl2e6/i_want_to_perform_a_version_of_william_shatners/", 
+            "author": "CaspianX2", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hl2e6/i_want_to_perform_a_version_of_william_shatners/", 
+            "created-utc": 1411784994.0, 
+            "id": "2hl2e6"
         }, 
         {
             "num-comments": 2, 
             "domain": "self.Music", 
-            "score": 7, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Interview with Chad Gilbert from New Found Glory about the band's new record and free tour.", 
             "url": "http://www.reddit.com/r/Music/comments/2hj8rp/interview_with_chad_gilbert_from_new_found_glory/", 
@@ -282,9 +234,33 @@
             "id": "2hj8rp"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 14, 
             "domain": "self.Music", 
-            "score": 6, 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "Favorite Fall Tunes", 
+            "url": "http://www.reddit.com/r/Music/comments/2hj0a2/favorite_fall_tunes/", 
+            "author": "art36", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hj0a2/favorite_fall_tunes/", 
+            "created-utc": 1411739820.0, 
+            "id": "2hj0a2"
+        }, 
+        {
+            "num-comments": 28, 
+            "domain": "self.Music", 
+            "score": 11, 
+            "nsfw": false, 
+            "title": "What is the best song by a \"one hit wonder\" band BESIDES their \"one hit\"?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hksfw/what_is_the_best_song_by_a_one_hit_wonder_band/", 
+            "author": "larevolucion", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hksfw/what_is_the_best_song_by_a_one_hit_wonder_band/", 
+            "created-utc": 1411777572.0, 
+            "id": "2hksfw"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "self.Music", 
+            "score": 7, 
             "nsfw": false, 
             "title": "Smashing Pumpkins in Mono", 
             "url": "http://www.reddit.com/r/Music/comments/2hj6kk/smashing_pumpkins_in_mono/", 
@@ -294,16 +270,40 @@
             "id": "2hj6kk"
         }, 
         {
-            "num-comments": 13, 
-            "domain": "self.Music", 
-            "score": 8, 
+            "num-comments": 11, 
+            "domain": "youtube.com", 
+            "score": 115, 
             "nsfw": false, 
-            "title": "Favorite Fall Tunes", 
-            "url": "http://www.reddit.com/r/Music/comments/2hj0a2/favorite_fall_tunes/", 
-            "author": "art36", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hj0a2/favorite_fall_tunes/", 
-            "created-utc": 1411739820.0, 
-            "id": "2hj0a2"
+            "title": "Operation Ivy - Sound System [Ska-Punk]", 
+            "url": "https://www.youtube.com/watch?v=9dMVHxFzNK4", 
+            "author": "MonsterOfEnergy", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hlfuu/operation_ivy_sound_system_skapunk/", 
+            "created-utc": 1411796162.0, 
+            "id": "2hlfuu"
+        }, 
+        {
+            "num-comments": 19, 
+            "domain": "self.Music", 
+            "score": 6, 
+            "nsfw": false, 
+            "title": "What are some criminally underrated albums from otherwise well known artists?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hkdsr/what_are_some_criminally_underrated_albums_from/", 
+            "author": "siddharm", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hkdsr/what_are_some_criminally_underrated_albums_from/", 
+            "created-utc": 1411768076.0, 
+            "id": "2hkdsr"
+        }, 
+        {
+            "num-comments": 17, 
+            "domain": "self.Music", 
+            "score": 6, 
+            "nsfw": false, 
+            "title": "What dead musicians have you seen?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hk309/what_dead_musicians_have_you_seen/", 
+            "author": "SchwillyMaysHere", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hk309/what_dead_musicians_have_you_seen/", 
+            "created-utc": 1411761766.0, 
+            "id": "2hk309"
         }
     ], 
     "api-url": "http://daily.red/music.json", 
