@@ -2,12 +2,12 @@
     "category": "Entertainment", 
     "description": "The musical community of reddit", 
     "title": "Music", 
-    "generated-utc": 1411855284, 
+    "generated-utc": 1411875260, 
     "posts": [
         {
-            "num-comments": 368, 
+            "num-comments": 613, 
             "domain": "self.Music", 
-            "score": 1735, 
+            "score": 2424, 
             "nsfw": false, 
             "title": "On This Day, 28 Years Ago Cliff Burton of Metallica Died In a Bus Accident", 
             "url": "http://www.reddit.com/r/Music/comments/2hm8tb/on_this_day_28_years_ago_cliff_burton_of/", 
@@ -17,9 +17,9 @@
             "id": "2hm8tb"
         }, 
         {
-            "num-comments": 227, 
+            "num-comments": 253, 
             "domain": "youtube.com", 
-            "score": 1130, 
+            "score": 1301, 
             "nsfw": false, 
             "title": "Lady Gaga - 'Bang Bang (My Baby Shot Me Down)' [Jazz] Beautiful Cover of Nancy Sinatra", 
             "url": "https://www.youtube.com/watch?v=7z_4lGPb6mE", 
@@ -29,9 +29,9 @@
             "id": "2hlqpr"
         }, 
         {
-            "num-comments": 38, 
+            "num-comments": 40, 
             "domain": "youtube.com", 
-            "score": 412, 
+            "score": 450, 
             "nsfw": false, 
             "title": "Operation Ivy - Sound System [Ska-Punk]", 
             "url": "https://www.youtube.com/watch?v=9dMVHxFzNK4", 
@@ -41,9 +41,9 @@
             "id": "2hlfuu"
         }, 
         {
-            "num-comments": 21, 
+            "num-comments": 23, 
             "domain": "youtu.be", 
-            "score": 245, 
+            "score": 268, 
             "nsfw": false, 
             "title": "Tom Waits - Martha [Blues]", 
             "url": "http://youtu.be/y9Mse62NFl4", 
@@ -53,21 +53,9 @@
             "id": "2hlr7u"
         }, 
         {
-            "num-comments": 85, 
-            "domain": "self.Music", 
-            "score": 199, 
-            "nsfw": false, 
-            "title": "i can't afford college and music is all i got, id appreciate 40sec of your time", 
-            "url": "http://www.reddit.com/r/Music/comments/2hkspm/i_cant_afford_college_and_music_is_all_i_got_id/", 
-            "author": "badkidsgetworse", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hkspm/i_cant_afford_college_and_music_is_all_i_got_id/", 
-            "created-utc": 1411777776.0, 
-            "id": "2hkspm"
-        }, 
-        {
-            "num-comments": 14, 
+            "num-comments": 17, 
             "domain": "youtube.com", 
-            "score": 75, 
+            "score": 92, 
             "nsfw": false, 
             "title": "Alt-J - Warm Foothills [Alternative] Such a unique and beautiful song", 
             "url": "https://www.youtube.com/watch?v=rrFRDtwls9s", 
@@ -77,9 +65,9 @@
             "id": "2hm7op"
         }, 
         {
-            "num-comments": 5, 
+            "num-comments": 13, 
             "domain": "youtu.be", 
-            "score": 38, 
+            "score": 48, 
             "nsfw": false, 
             "title": "Dave Matthews Band - Satellite [Rock] Under the Table and Dreaming turns twenty today", 
             "url": "http://youtu.be/LEGV9H0aZaQ", 
@@ -89,7 +77,7 @@
             "id": "2hm8bi"
         }, 
         {
-            "num-comments": 10, 
+            "num-comments": 11, 
             "domain": "self.Music", 
             "score": 36, 
             "nsfw": false, 
@@ -101,9 +89,21 @@
             "id": "2hlrgo"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 32, 
+            "domain": "self.Music", 
+            "score": 42, 
+            "nsfw": false, 
+            "title": "Flying Lotus's \"You're Dead\" has leaked.", 
+            "url": "http://www.reddit.com/r/Music/comments/2hnd9v/flying_lotuss_youre_dead_has_leaked/", 
+            "author": "snidelaughter", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hnd9v/flying_lotuss_youre_dead_has_leaked/", 
+            "created-utc": 1411854833.0, 
+            "id": "2hnd9v"
+        }, 
+        {
+            "num-comments": 4, 
             "domain": "youtube.com", 
-            "score": 31, 
+            "score": 28, 
             "nsfw": false, 
             "title": "Nujabes - Imaginary Folklore [Japanese Hip-hop]", 
             "url": "http://www.youtube.com/watch?v=P2qOaXecExY", 
@@ -113,33 +113,9 @@
             "id": "2hlyo9"
         }, 
         {
-            "num-comments": 53, 
-            "domain": "self.Music", 
-            "score": 21, 
-            "nsfw": false, 
-            "title": "Your Favorite Song Thread", 
-            "url": "http://www.reddit.com/r/Music/comments/2hk6o6/your_favorite_song_thread/", 
-            "author": "thermoroach", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hk6o6/your_favorite_song_thread/", 
-            "created-utc": 1411763874.0, 
-            "id": "2hk6o6"
-        }, 
-        {
-            "num-comments": 6, 
-            "domain": "youtube.com", 
-            "score": 18, 
-            "nsfw": false, 
-            "title": "Atomic Shadows - Lizard's Chord [Grunge,HC] music video from our first upcoming album", 
-            "url": "http://www.youtube.com/watch?v=txKSpMeGiHk", 
-            "author": "uipo", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hmhbo/atomic_shadows_lizards_chord_grungehc_music_video/", 
-            "created-utc": 1411834484.0, 
-            "id": "2hmhbo"
-        }, 
-        {
             "num-comments": 2, 
             "domain": "elitedaily.com", 
-            "score": 22, 
+            "score": 20, 
             "nsfw": false, 
             "title": "You guys did this. I can't thank you enough", 
             "url": "http://elitedaily.com/music/hey-ya-cover-french-horn/775737/", 
@@ -149,28 +125,16 @@
             "id": "2hm5qm"
         }, 
         {
-            "num-comments": 53, 
-            "domain": "self.Music", 
-            "score": 16, 
+            "num-comments": 7, 
+            "domain": "youtube.com", 
+            "score": 20, 
             "nsfw": false, 
-            "title": "In your opinion, what is the MOST depressing song?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hk7n3/in_your_opinion_what_is_the_most_depressing_song/", 
-            "author": "ArtsyMNKid", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hk7n3/in_your_opinion_what_is_the_most_depressing_song/", 
-            "created-utc": 1411764441.0, 
-            "id": "2hk7n3"
-        }, 
-        {
-            "num-comments": 81, 
-            "domain": "self.Music", 
-            "score": 16, 
-            "nsfw": false, 
-            "title": "What is the most extreme music that you like?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hkbqv/what_is_the_most_extreme_music_that_you_like/", 
-            "author": "XenonDown", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hkbqv/what_is_the_most_extreme_music_that_you_like/", 
-            "created-utc": 1411766830.0, 
-            "id": "2hkbqv"
+            "title": "Atomic Shadows - Lizard's Chord [Grunge,HC] music video from our first upcoming album", 
+            "url": "http://www.youtube.com/watch?v=txKSpMeGiHk", 
+            "author": "uipo", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hmhbo/atomic_shadows_lizards_chord_grungehc_music_video/", 
+            "created-utc": 1411834484.0, 
+            "id": "2hmhbo"
         }, 
         {
             "num-comments": 4, 
@@ -185,45 +149,33 @@
             "id": "2hl2e6"
         }, 
         {
-            "num-comments": 1, 
+            "num-comments": 2, 
             "domain": "youtu.be", 
-            "score": 10, 
+            "score": 23, 
             "nsfw": false, 
-            "title": "Fujiya &amp; Miyagi - Collarbone [Alternative Funk]", 
-            "url": "http://youtu.be/wCmyjEJwOLE", 
-            "author": "Avacadoh", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hloa3/fujiya_miyagi_collarbone_alternative_funk/", 
-            "created-utc": 1411805514.0, 
-            "id": "2hloa3"
+            "title": "Metallica - Anesthesia(Pulling Teeth) [Heavy Metal] - RIP Cliff Burton", 
+            "url": "http://youtu.be/GhFMMiTmHb4", 
+            "author": "Emerald_Triangle", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hn9gq/metallica_anesthesiapulling_teeth_heavy_metal_rip/", 
+            "created-utc": 1411852295.0, 
+            "id": "2hn9gq"
         }, 
         {
-            "num-comments": 39, 
+            "num-comments": 112, 
             "domain": "self.Music", 
-            "score": 10, 
+            "score": 13, 
             "nsfw": false, 
-            "title": "What popular artists are actually immensely talented?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hmgkc/what_popular_artists_are_actually_immensely/", 
-            "author": "ElGuarmo", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hmgkc/what_popular_artists_are_actually_immensely/", 
-            "created-utc": 1411833994.0, 
-            "id": "2hmgkc"
-        }, 
-        {
-            "num-comments": 27, 
-            "domain": "self.Music", 
-            "score": 11, 
-            "nsfw": false, 
-            "title": "What is the best song by a \"one hit wonder\" band BESIDES their \"one hit\"?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hksfw/what_is_the_best_song_by_a_one_hit_wonder_band/", 
-            "author": "larevolucion", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hksfw/what_is_the_best_song_by_a_one_hit_wonder_band/", 
-            "created-utc": 1411777572.0, 
-            "id": "2hksfw"
+            "title": "What piece of music do you consider a masterpiece?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hnbyk/what_piece_of_music_do_you_consider_a_masterpiece/", 
+            "author": "iammas13", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hnbyk/what_piece_of_music_do_you_consider_a_masterpiece/", 
+            "created-utc": 1411853924.0, 
+            "id": "2hnbyk"
         }, 
         {
             "num-comments": 0, 
             "domain": "m.youtube.com", 
-            "score": 12, 
+            "score": 13, 
             "nsfw": false, 
             "title": "10cc - I'm Not in Love [Pop/Rock]", 
             "url": "https://m.youtube.com/watch?v=OtBHfxU2wmc", 
@@ -234,6 +186,42 @@
         }, 
         {
             "num-comments": 1, 
+            "domain": "youtu.be", 
+            "score": 11, 
+            "nsfw": false, 
+            "title": "Fujiya &amp; Miyagi - Collarbone [Alternative Funk]", 
+            "url": "http://youtu.be/wCmyjEJwOLE", 
+            "author": "Avacadoh", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hloa3/fujiya_miyagi_collarbone_alternative_funk/", 
+            "created-utc": 1411805514.0, 
+            "id": "2hloa3"
+        }, 
+        {
+            "num-comments": 52, 
+            "domain": "self.Music", 
+            "score": 11, 
+            "nsfw": false, 
+            "title": "What popular artists are actually immensely talented?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hmgkc/what_popular_artists_are_actually_immensely/", 
+            "author": "ElGuarmo", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hmgkc/what_popular_artists_are_actually_immensely/", 
+            "created-utc": 1411833994.0, 
+            "id": "2hmgkc"
+        }, 
+        {
+            "num-comments": 26, 
+            "domain": "self.Music", 
+            "score": 12, 
+            "nsfw": false, 
+            "title": "Hey /r/Music, who are some memorable bands and artists who have only one studio album?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hmg69/hey_rmusic_who_are_some_memorable_bands_and/", 
+            "author": "EuropeFreeRadio", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hmg69/hey_rmusic_who_are_some_memorable_bands_and/", 
+            "created-utc": 1411833727.0, 
+            "id": "2hmg69"
+        }, 
+        {
+            "num-comments": 2, 
             "domain": "youtube.com", 
             "score": 11, 
             "nsfw": false, 
@@ -245,33 +233,9 @@
             "id": "2hm8ac"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "soundcloud.com", 
-            "score": 6, 
-            "nsfw": false, 
-            "title": "Pedro Silva -- The Ocean [Mellow-World-Instrumental] Played on Portuguese Guitar", 
-            "url": "https://soundcloud.com/pedrosilva/the-ocean", 
-            "author": "thekarmasuper", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hlvsg/pedro_silva_the_ocean_mellowworldinstrumental/", 
-            "created-utc": 1411815411.0, 
-            "id": "2hlvsg"
-        }, 
-        {
-            "num-comments": 20, 
-            "domain": "self.Music", 
-            "score": 9, 
-            "nsfw": false, 
-            "title": "Hey /r/Music, who are some memorable bands and artists who have only one studio album?", 
-            "url": "http://www.reddit.com/r/Music/comments/2hmg69/hey_rmusic_who_are_some_memorable_bands_and/", 
-            "author": "EuropeFreeRadio", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hmg69/hey_rmusic_who_are_some_memorable_bands_and/", 
-            "created-utc": 1411833727.0, 
-            "id": "2hmg69"
-        }, 
-        {
-            "num-comments": 1, 
+            "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "title": "The Piano Guys - Batman Evolution [Classical/Soundtrack]", 
             "url": "http://www.youtube.com/watch?v=yFfjUMinFPk", 
@@ -283,7 +247,7 @@
         {
             "num-comments": 3, 
             "domain": "m.liveleak.com", 
-            "score": 7, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Wu-Tang Clan - Ain't Nothing To Fuck WIth- As Sung By The Movies!", 
             "url": "http://m.liveleak.com/view?i=b37_1410842357", 
@@ -293,9 +257,21 @@
             "id": "2hm7ti"
         }, 
         {
+            "num-comments": 0, 
+            "domain": "soundcloud.com", 
+            "score": 7, 
+            "nsfw": false, 
+            "title": "Pedro Silva -- The Ocean [Mellow-World-Instrumental] Played on Portuguese Guitar", 
+            "url": "https://soundcloud.com/pedrosilva/the-ocean", 
+            "author": "thekarmasuper", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hlvsg/pedro_silva_the_ocean_mellowworldinstrumental/", 
+            "created-utc": 1411815411.0, 
+            "id": "2hlvsg"
+        }, 
+        {
             "num-comments": 10, 
             "domain": "clickhole.com", 
-            "score": 8, 
+            "score": 6, 
             "nsfw": false, 
             "title": "\"I Will Not Stand Idly By And Watch Myself Become A Disambiguation\" - Seal", 
             "url": "http://www.clickhole.com/blogpost/i-will-not-stand-idly-and-watch-myself-become-disa-1019?utm_campaign=default&amp;utm_medium=ShareTools&amp;utm_source=facebook", 
@@ -303,6 +279,30 @@
             "permalink": "http://www.reddit.com/r/Music/comments/2hl983/i_will_not_stand_idly_by_and_watch_myself_become/", 
             "created-utc": 1411790403.0, 
             "id": "2hl983"
+        }, 
+        {
+            "num-comments": 44, 
+            "domain": "self.Music", 
+            "score": 8, 
+            "nsfw": false, 
+            "title": "Who is a band that you hated at first, but gave a second chance to and winded up loving them?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hl7xo/who_is_a_band_that_you_hated_at_first_but_gave_a/", 
+            "author": "IEnjoyHighFives", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hl7xo/who_is_a_band_that_you_hated_at_first_but_gave_a/", 
+            "created-utc": 1411789305.0, 
+            "id": "2hl7xo"
+        }, 
+        {
+            "num-comments": 17, 
+            "domain": "self.Music", 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "My Voice?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hns3h/my_voice/", 
+            "author": "cari1993", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hns3h/my_voice/", 
+            "created-utc": 1411865256.0, 
+            "id": "2hns3h"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/Music/", 

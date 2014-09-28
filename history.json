@@ -2,12 +2,12 @@
     "category": "Knowledge", 
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
-    "generated-utc": 1411855255, 
+    "generated-utc": 1411875226, 
     "posts": [
         {
-            "num-comments": 4, 
+            "num-comments": 17, 
             "domain": "duskbeforethedawn.net", 
-            "score": 126, 
+            "score": 193, 
             "nsfw": false, 
             "title": "Letters from World War I - Corporal Ellis Edmond \"Dutch\" Ketchersid, 132 Machine Gun Battalion in the 36th Division, First Army", 
             "url": "http://www.duskbeforethedawn.net/2012/05/letters-from-world-war-i-corporal-ellis-edmond-dutch-ketchersid/", 
@@ -17,9 +17,9 @@
             "id": "2hmg1f"
         }, 
         {
-            "num-comments": 1, 
+            "num-comments": 6, 
             "domain": "cbc.ca", 
-            "score": 8, 
+            "score": 100, 
             "nsfw": false, 
             "title": "The Canadian Department of National Defence has identified the remains of four Canadian soldiers who died during the Battle of Amiens in August 1918.", 
             "url": "http://www.cbc.ca/news/canada/wwi-canadian-soldiers-remains-identified-1.2779824", 
@@ -29,33 +29,21 @@
             "id": "2hmxvx"
         }, 
         {
-            "num-comments": 5, 
+            "num-comments": 15, 
             "domain": "self.history", 
-            "score": 1, 
+            "score": 25, 
             "nsfw": false, 
-            "title": "Iran Contra affair and Watergate Scandal books?", 
-            "url": "http://www.reddit.com/r/history/comments/2hmm6e/iran_contra_affair_and_watergate_scandal_books/", 
-            "author": "rkeenan", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hmm6e/iran_contra_affair_and_watergate_scandal_books/", 
-            "created-utc": 1411837661.0, 
-            "id": "2hmm6e"
+            "title": "How did the roman soldiers distinguish their friends and foe during a civil war?", 
+            "url": "http://www.reddit.com/r/history/comments/2hn9fq/how_did_the_roman_soldiers_distinguish_their/", 
+            "author": "Lexar201", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hn9fq/how_did_the_roman_soldiers_distinguish_their/", 
+            "created-utc": 1411852282.0, 
+            "id": "2hn9fq"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "self.history", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "Documentaries about the history of Rhodesia from an anti-imperialist perspective?", 
-            "url": "http://www.reddit.com/r/history/comments/2hkzv3/documentaries_about_the_history_of_rhodesia_from/", 
-            "author": "dylopa", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hkzv3/documentaries_about_the_history_of_rhodesia_from/", 
-            "created-utc": 1411783086.0, 
-            "id": "2hkzv3"
-        }, 
-        {
-            "num-comments": 1, 
+            "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 0, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Youtube Channel following the events of the Great War week-by-week.", 
             "url": "https://www.youtube.com/user/TheGreatWar", 
@@ -63,6 +51,30 @@
             "permalink": "http://www.reddit.com/r/history/comments/2hmn3u/youtube_channel_following_the_events_of_the_great/", 
             "created-utc": 1411838235.0, 
             "id": "2hmn3u"
+        }, 
+        {
+            "num-comments": 14, 
+            "domain": "self.history", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "Who is a person from history that you think could adapt to current society quite well, if you could bring them back?", 
+            "url": "http://www.reddit.com/r/history/comments/2hnpsl/who_is_a_person_from_history_that_you_think_could/", 
+            "author": "5000927", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hnpsl/who_is_a_person_from_history_that_you_think_could/", 
+            "created-utc": 1411863552.0, 
+            "id": "2hnpsl"
+        }, 
+        {
+            "num-comments": 6, 
+            "domain": "self.history", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Iran Contra affair and Watergate Scandal books?", 
+            "url": "http://www.reddit.com/r/history/comments/2hmm6e/iran_contra_affair_and_watergate_scandal_books/", 
+            "author": "rkeenan", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hmm6e/iran_contra_affair_and_watergate_scandal_books/", 
+            "created-utc": 1411837661.0, 
+            "id": "2hmm6e"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/history/", 

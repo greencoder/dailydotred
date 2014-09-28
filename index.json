@@ -1,5 +1,5 @@
 {
-    "generated-utc": 1411855312, 
+    "generated-utc": 1411875288, 
     "subreddits": [
         {
             "category": "News", 
@@ -104,6 +104,14 @@
             "reddit-url": "http://www.reddit.com/r/LifeProTips/", 
             "api-url": "http://daily.red/life-pro-tips.json", 
             "display-name": "Life Pro Tips"
+        }, 
+        {
+            "category": "Knowledge", 
+            "description": "The best forum and archive on the internet for layman-friendly Q&A.*", 
+            "title": "Explain Like I'm Five | Don't Panic!", 
+            "reddit-url": "http://www.reddit.com/r/explainlikeimfive/", 
+            "api-url": "http://daily.red/explain-like-i-am-five.json", 
+            "display-name": "Explain Like I'm Five"
         }, 
         {
             "category": "Entertainment", 

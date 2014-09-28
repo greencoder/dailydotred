@@ -2,24 +2,12 @@
     "category": "Fun", 
     "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
     "title": "News Of The Stupid", 
-    "generated-utc": 1411855307, 
+    "generated-utc": 1411875283, 
     "posts": [
         {
-            "num-comments": 5, 
-            "domain": "ajc.com", 
-            "score": 39, 
-            "nsfw": false, 
-            "title": "Woman accused of filing fake $94 million tax return", 
-            "url": "http://www.ajc.com/news/news/woman-accused-of-filing-fake-94-million-tax-return/nhWtJ/?__federated=1", 
-            "author": "jaycrew", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hl6jx/woman_accused_of_filing_fake_94_million_tax_return/", 
-            "created-utc": 1411788227.0, 
-            "id": "2hl6jx"
-        }, 
-        {
-            "num-comments": 4, 
+            "num-comments": 7, 
             "domain": "kshb.com", 
-            "score": 34, 
+            "score": 43, 
             "nsfw": false, 
             "title": "Woman awarded $1M in lawsuit over being called 'porn star' by 96.5 The Buzz radio station in Kansas City", 
             "url": "http://www.kshb.com/news/local-news/woman-wins-in-lawsuit-over-being-called-porn-star-by-965-the-buzz", 
@@ -29,21 +17,21 @@
             "id": "2hm6ym"
         }, 
         {
-            "num-comments": 3, 
-            "domain": "abc15.com", 
-            "score": 27, 
+            "num-comments": 5, 
+            "domain": "ajc.com", 
+            "score": 41, 
             "nsfw": false, 
-            "title": "Fired UPS worker Walter Earl Morrison accused of stealing $160K diamond, trading it for marijuana", 
-            "url": "http://www.abc15.com/news/region-phoenix-metro/central-phoenix/fired-ups-worker-accused-of-stealing-160k-diamond-trading-it-for-20-worth-of-marijuana", 
-            "author": "cavehobbit", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hkqs4/fired_ups_worker_walter_earl_morrison_accused_of/", 
-            "created-utc": 1411776433.0, 
-            "id": "2hkqs4"
+            "title": "Woman accused of filing fake $94 million tax return", 
+            "url": "http://www.ajc.com/news/news/woman-accused-of-filing-fake-94-million-tax-return/nhWtJ/?__federated=1", 
+            "author": "jaycrew", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hl6jx/woman_accused_of_filing_fake_94_million_tax_return/", 
+            "created-utc": 1411788227.0, 
+            "id": "2hl6jx"
         }, 
         {
             "num-comments": 0, 
             "domain": "waaytv.com", 
-            "score": 19, 
+            "score": 31, 
             "nsfw": false, 
             "title": "Suspected bomb in Florence turns out to be mix tape of love songs and a note from man begging his ex-wife to take him back.", 
             "url": "http://www.waaytv.com/appnews/suspected-bomb-in-florence-turns-out-to-be-mix-tape/article_072a690c-44f2-11e4-8f5d-0017a43b2370.html", 
@@ -53,9 +41,21 @@
             "id": "2hlwie"
         }, 
         {
-            "num-comments": 8, 
+            "num-comments": 1, 
+            "domain": "thesleuthjournal.com", 
+            "score": 28, 
+            "nsfw": false, 
+            "title": "Scam Alert: Hospitals All Over America Are Wildly Inflating Medical Bills", 
+            "url": "http://www.thesleuthjournal.com/scam-alert-hospitals-america-wildly-inflating-medical-bills/", 
+            "author": "klmd", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hn15s/scam_alert_hospitals_all_over_america_are_wildly/", 
+            "created-utc": 1411847031.0, 
+            "id": "2hn15s"
+        }, 
+        {
+            "num-comments": 9, 
             "domain": "imgur.com", 
-            "score": 12, 
+            "score": 11, 
             "nsfw": false, 
             "title": "Food babe deletes a post from a mother who can't afford her product recommendation.", 
             "url": "http://imgur.com/jczaOnX", 
@@ -65,33 +65,9 @@
             "id": "2hlem5"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "wmcactionnews5.com", 
-            "score": 7, 
-            "nsfw": false, 
-            "title": "Lumber yard owner finds Jesus in tree trunk", 
-            "url": "http://www.wmcactionnews5.com/story/26608933/image-of-jesus-found-in-lumber-", 
-            "author": "statelessnfaithless", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hlwjk/lumber_yard_owner_finds_jesus_in_tree_trunk/", 
-            "created-utc": 1411816320.0, 
-            "id": "2hlwjk"
-        }, 
-        {
-            "num-comments": 8, 
-            "domain": "rightwingwatch.org", 
-            "score": 7, 
-            "nsfw": false, 
-            "title": "Sarah Palin Wants To Bring 'Truth' To '1400 Pennsylvania Avenue'", 
-            "url": "http://www.rightwingwatch.org/content/sarah-palin-wants-bring-truth-1400-pennsylvania-avenue", 
-            "author": "michaelconfoy", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hk8zt/sarah_palin_wants_to_bring_truth_to_1400/", 
-            "created-utc": 1411765203.0, 
-            "id": "2hk8zt"
-        }, 
-        {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "philforward.com", 
-            "score": 5, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Man Jailed After Farting In Police Officer\u2019s Face \u2013 Twice", 
             "url": "http://www.philforward.com/2014/09/27/man-jailed-farting-police-officers-face-twice/#sthash.2gU9LzMh.sfju", 
@@ -101,9 +77,21 @@
             "id": "2hmadt"
         }, 
         {
+            "num-comments": 1, 
+            "domain": "wmcactionnews5.com", 
+            "score": 5, 
+            "nsfw": false, 
+            "title": "Lumber yard owner finds Jesus in tree trunk", 
+            "url": "http://www.wmcactionnews5.com/story/26608933/image-of-jesus-found-in-lumber-", 
+            "author": "statelessnfaithless", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hlwjk/lumber_yard_owner_finds_jesus_in_tree_trunk/", 
+            "created-utc": 1411816320.0, 
+            "id": "2hlwjk"
+        }, 
+        {
             "num-comments": 0, 
             "domain": "daytondailynews.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "title": "University professor downloads childporn on work-issued laptop, takes it to the IT department when he found a virus, with predictable results.", 
             "url": "http://www.daytondailynews.com/news/news/crime-law/wright-state-prof-charged-child-porn-case/nhWj4/", 
@@ -113,40 +101,16 @@
             "id": "2hlw9k"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "metro.co.uk", 
-            "score": 2, 
-            "nsfw": true, 
-            "title": "Is the Bobby Ball Bag the next Schlong Thong?", 
-            "url": "http://metro.co.uk/2014/09/25/is-the-bobby-ball-bag-the-next-schlong-thong-4881501/", 
-            "author": "buskey", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hkz84/is_the_bobby_ball_bag_the_next_schlong_thong/", 
-            "created-utc": 1411782579.0, 
-            "id": "2hkz84"
-        }, 
-        {
-            "num-comments": 3, 
+            "num-comments": 1, 
             "domain": "rawstory.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
-            "title": "Sarah Palin: Christian conservatives are \u2018the most slandered group in America\u2019", 
-            "url": "http://www.rawstory.com/rs/2014/09/sarah-palin-christian-conservatives-are-the-most-slandered-group-in-america/#.VCXhDThOpxc.reddit", 
+            "title": "Vegas weed dealer aids in his own arrest by posting weekly grow reports on YouTube", 
+            "url": "http://www.rawstory.com/rs/2014/09/vegas-weed-dealer-aids-in-his-own-arrest-by-posting-weekly-grow-reports-on-youtube/", 
             "author": "michaelconfoy", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hkepz/sarah_palin_christian_conservatives_are_the_most/", 
-            "created-utc": 1411768616.0, 
-            "id": "2hkepz"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "thesleuthjournal.com", 
-            "score": 6, 
-            "nsfw": false, 
-            "title": "Scam Alert: Hospitals All Over America Are Wildly Inflating Medical Bills", 
-            "url": "http://www.thesleuthjournal.com/scam-alert-hospitals-america-wildly-inflating-medical-bills/", 
-            "author": "klmd", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hn15s/scam_alert_hospitals_all_over_america_are_wildly/", 
-            "created-utc": 1411847031.0, 
-            "id": "2hn15s"
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hno0v/vegas_weed_dealer_aids_in_his_own_arrest_by/", 
+            "created-utc": 1411862260.0, 
+            "id": "2hno0v"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/NewsOfTheStupid/", 

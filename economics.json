@@ -2,12 +2,12 @@
     "category": "News", 
     "description": "News and discussion about economics, from the perspective of economists", 
     "title": "The Dismal Science", 
-    "generated-utc": 1411855231, 
+    "generated-utc": 1411875203, 
     "posts": [
         {
-            "num-comments": 48, 
+            "num-comments": 105, 
             "domain": "mashable.com", 
-            "score": 61, 
+            "score": 135, 
             "nsfw": false, 
             "title": "Economic Benefits of Preventing Global Warming Open New Front in Debate. \"Simply put: the economy isn't a reason to fear action, it's a reason to take it.\"", 
             "url": "http://mashable.com/2014/09/26/obama-administration-economic-benefits-fight-global-warming/", 
@@ -17,33 +17,9 @@
             "id": "2hmf04"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "papers.nber.org", 
-            "score": 19, 
-            "nsfw": false, 
-            "title": "NBER:Trade Models, Trade Elasticities, and the Gains from Trade -- by Ina Simonovska, Michael E. Waugh", 
-            "url": "http://papers.nber.org/papers/w20495#fromrss", 
-            "author": "ocamlmycaml", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hlwuo/nbertrade_models_trade_elasticities_and_the_gains/", 
-            "created-utc": 1411816652.0, 
-            "id": "2hlwuo"
-        }, 
-        {
-            "num-comments": 9, 
-            "domain": "krugman.blogs.nytimes.com", 
-            "score": 20, 
-            "nsfw": false, 
-            "title": "Krugman: The New Classical Clique", 
-            "url": "http://krugman.blogs.nytimes.com/2014/09/26/the-new-classical-clique/", 
-            "author": "usrname42", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hlw1d/krugman_the_new_classical_clique/", 
-            "created-utc": 1411815696.0, 
-            "id": "2hlw1d"
-        }, 
-        {
             "num-comments": 3, 
             "domain": "timharford.com", 
-            "score": 16, 
+            "score": 21, 
             "nsfw": false, 
             "title": "Tim Harford \u2014 How to see into the future", 
             "url": "http://timharford.com/2014/09/how-to-see-into-the-future/", 
@@ -53,9 +29,33 @@
             "id": "2hm2vc"
         }, 
         {
+            "num-comments": 0, 
+            "domain": "papers.nber.org", 
+            "score": 20, 
+            "nsfw": false, 
+            "title": "NBER:Trade Models, Trade Elasticities, and the Gains from Trade -- by Ina Simonovska, Michael E. Waugh", 
+            "url": "http://papers.nber.org/papers/w20495#fromrss", 
+            "author": "ocamlmycaml", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hlwuo/nbertrade_models_trade_elasticities_and_the_gains/", 
+            "created-utc": 1411816652.0, 
+            "id": "2hlwuo"
+        }, 
+        {
+            "num-comments": 14, 
+            "domain": "krugman.blogs.nytimes.com", 
+            "score": 18, 
+            "nsfw": false, 
+            "title": "Krugman: The New Classical Clique", 
+            "url": "http://krugman.blogs.nytimes.com/2014/09/26/the-new-classical-clique/", 
+            "author": "usrname42", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hlw1d/krugman_the_new_classical_clique/", 
+            "created-utc": 1411815696.0, 
+            "id": "2hlw1d"
+        }, 
+        {
             "num-comments": 6, 
             "domain": "project-syndicate.org", 
-            "score": 14, 
+            "score": 16, 
             "nsfw": false, 
             "title": "Joseph E. Stiglitz: Europe\u2019s Austerity Zombies", 
             "url": "http://www.project-syndicate.org/commentary/joseph-e--stiglitz-wonders-why-eu-leaders-are-nursing-a-dead-theory", 
@@ -65,21 +65,9 @@
             "id": "2hlr8n"
         }, 
         {
-            "num-comments": 8, 
-            "domain": "blogs.hbr.org", 
-            "score": 16, 
-            "nsfw": false, 
-            "title": "Why the Fed Is So Wimpy", 
-            "url": "http://blogs.hbr.org/2014/09/why-the-fed-is-so-wimpy/", 
-            "author": "besttrousers", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hk7rl/why_the_fed_is_so_wimpy/", 
-            "created-utc": 1411764516.0, 
-            "id": "2hk7rl"
-        }, 
-        {
             "num-comments": 0, 
             "domain": "nakedkeynesianism.blogspot.com", 
-            "score": 11, 
+            "score": 10, 
             "nsfw": false, 
             "title": "History versus equilibrium: a false dichotomy", 
             "url": "http://nakedkeynesianism.blogspot.com/2014/09/history-versus-equilibrium-false.html", 
@@ -89,16 +77,16 @@
             "id": "2hleuq"
         }, 
         {
-            "num-comments": 7, 
-            "domain": "nakedcapitalism.com", 
+            "num-comments": 2, 
+            "domain": "theatlantic.com", 
             "score": 9, 
             "nsfw": false, 
-            "title": "The Tenacity of Free Market Fundamentalism", 
-            "url": "http://www.nakedcapitalism.com/2014/09/tenacity-free-market-fundamentalism.html", 
-            "author": "AntiNeoLiberal", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hlrd6/the_tenacity_of_free_market_fundamentalism/", 
-            "created-utc": 1411809637.0, 
-            "id": "2hlrd6"
+            "title": "How Gangs Took Over Prisons - The Atlantic", 
+            "url": "http://www.theatlantic.com/features/archive/2014/09/how-gangs-took-over-prisons/379330/?utm_content=bufferd90fb&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer", 
+            "author": "jimrosenz", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hlz71/how_gangs_took_over_prisons_the_atlantic/", 
+            "created-utc": 1411819507.0, 
+            "id": "2hlz71"
         }, 
         {
             "num-comments": 1, 
@@ -113,9 +101,21 @@
             "id": "2hlrbp"
         }, 
         {
-            "num-comments": 11, 
+            "num-comments": 15, 
             "domain": "nakedcapitalism.com", 
-            "score": 7, 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "The Tenacity of Free Market Fundamentalism", 
+            "url": "http://www.nakedcapitalism.com/2014/09/tenacity-free-market-fundamentalism.html", 
+            "author": "AntiNeoLiberal", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hlrd6/the_tenacity_of_free_market_fundamentalism/", 
+            "created-utc": 1411809637.0, 
+            "id": "2hlrd6"
+        }, 
+        {
+            "num-comments": 13, 
+            "domain": "nakedcapitalism.com", 
+            "score": 6, 
             "nsfw": false, 
             "title": "Is Economics a Science? Dogmatic Economics Vs. Reflective Economics", 
             "url": "http://www.nakedcapitalism.com/2014/09/philip-pilkington-economics-science-dogmatic-economics-vs-reflective-economics.html", 
@@ -125,69 +125,33 @@
             "id": "2hlrb6"
         }, 
         {
-            "num-comments": 3, 
-            "domain": "sscnet.ucla.edu", 
-            "score": 3, 
+            "num-comments": 4, 
+            "domain": "bloombergview.com", 
+            "score": 8, 
             "nsfw": false, 
-            "title": "What are some good Economic research topics, oligopolies and industries with few players as a criteria.", 
-            "url": "http://www.sscnet.ucla.edu/ssc/labs/cameron/e143f98/topics.htm", 
-            "author": "cedarGTR", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hmpu7/what_are_some_good_economic_research_topics/", 
-            "created-utc": 1411839943.0, 
-            "id": "2hmpu7"
-        }, 
-        {
-            "num-comments": 2, 
-            "domain": "theatlantic.com", 
-            "score": 7, 
-            "nsfw": false, 
-            "title": "How Gangs Took Over Prisons - The Atlantic", 
-            "url": "http://www.theatlantic.com/features/archive/2014/09/how-gangs-took-over-prisons/379330/?utm_content=bufferd90fb&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer", 
-            "author": "jimrosenz", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hlz71/how_gangs_took_over_prisons_the_atlantic/", 
-            "created-utc": 1411819507.0, 
-            "id": "2hlz71"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "chicagofed.org", 
-            "score": 7, 
-            "nsfw": false, 
-            "title": "Are clearing houses the new central banks?", 
-            "url": "http://www.chicagofed.org/digital_assets/others/events/2014/annual_over_the_counter_derivatives_symposium/tucker_clearinghouses_new_central_banks_tucker_2014.pdf", 
-            "author": "wordboyhere", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hkyax/are_clearing_houses_the_new_central_banks/", 
-            "created-utc": 1411781882.0, 
-            "id": "2hkyax"
+            "title": "Market Manipulation Should Be A Crime", 
+            "url": "http://www.bloombergview.com/articles/2014-09-26/market-manipulation-should-be-a-crime", 
+            "author": "MartialBob", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hngwv/market_manipulation_should_be_a_crime/", 
+            "created-utc": 1411857282.0, 
+            "id": "2hngwv"
         }, 
         {
             "num-comments": 1, 
-            "domain": "papers.nber.org", 
-            "score": 5, 
+            "domain": "translate.google.com", 
+            "score": 6, 
             "nsfw": false, 
-            "title": "NBER:Should Hospitals Keep Their Patients Longer? The Role of Inpatient and Outpatient Care in Reducing Readmissions -- by Ann P. Bartel, Carri W. Chan, Song-Hee (Hailey) Kim", 
-            "url": "http://papers.nber.org/papers/w20499#fromrss", 
-            "author": "ocamlmycaml", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hkm8r/nbershould_hospitals_keep_their_patients_longer/", 
-            "created-utc": 1411773441.0, 
-            "id": "2hkm8r"
+            "title": "When regulators are all out to d\u00e9jeuner", 
+            "url": "https://translate.google.com/translate?sl=es&amp;tl=en&amp;js=y&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;u=http%3A%2F%2Fwww.ft.com%2Fintl%2Fcms%2Fs%2F0%2F7467c02a-41e9-11e4-b98f-00144feabdc0.html%23axzz3EYN08B3a&amp;edit-text=", 
+            "author": "usuallyskeptical", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hnah0/when_regulators_are_all_out_to_d\u00e9jeuner/", 
+            "created-utc": 1411852944.0, 
+            "id": "2hnah0"
         }, 
         {
             "num-comments": 3, 
-            "domain": "thisamericanlife.org", 
-            "score": 5, 
-            "nsfw": false, 
-            "title": "\"The Ray Rice Video for the Financial Sector Has Arrived\" - This American Life Podcast", 
-            "url": "http://www.thisamericanlife.org/radio-archives/episode/536/the-secret-recordings-of-carmen-segarra", 
-            "author": "karabeckian", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hkduq/the_ray_rice_video_for_the_financial_sector_has/", 
-            "created-utc": 1411768111.0, 
-            "id": "2hkduq"
-        }, 
-        {
-            "num-comments": 2, 
             "domain": "papers.nber.org", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "NBER:Household Debt: Facts, Puzzles, Theories, and Policies -- by Jonathan Zinman", 
             "url": "http://papers.nber.org/papers/w20496#fromrss", 
@@ -195,6 +159,18 @@
             "permalink": "http://www.reddit.com/r/Economics/comments/2hllk8/nberhousehold_debt_facts_puzzles_theories_and/", 
             "created-utc": 1411802248.0, 
             "id": "2hllk8"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "sscnet.ucla.edu", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "What are some good Economic research topics, oligopolies and industries with few players as a criteria.", 
+            "url": "http://www.sscnet.ucla.edu/ssc/labs/cameron/e143f98/topics.htm", 
+            "author": "cedarGTR", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hmpu7/what_are_some_good_economic_research_topics/", 
+            "created-utc": 1411839943.0, 
+            "id": "2hmpu7"
         }, 
         {
             "num-comments": 0, 
@@ -210,15 +186,27 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "voxeu.org", 
+            "domain": "papers.nber.org", 
+            "score": 5, 
+            "nsfw": false, 
+            "title": "NBER:In with the Big, Out with the Small: Removing Small-Scale Reservations in India -- by Leslie A. Martin, Shanthi Nataraj, Ann Harrison", 
+            "url": "http://papers.nber.org/papers/w19942#fromrss", 
+            "author": "ocamlmycaml", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hnkoc/nberin_with_the_big_out_with_the_small_removing/", 
+            "created-utc": 1411859863.0, 
+            "id": "2hnkoc"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "newrepublic.com", 
             "score": 3, 
             "nsfw": false, 
-            "title": "An ASEAN Economic Community by 2015?", 
-            "url": "http://www.voxeu.org/article/asean-economic-community-2015", 
-            "author": "Shares_RSS", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hkr3d/an_asean_economic_community_by_2015/", 
-            "created-utc": 1411776648.0, 
-            "id": "2hkr3d"
+            "title": "Deirdre N. McCloskey: Happyism | New Republic", 
+            "url": "http://www.newrepublic.com/article/politics/magazine/103952/happyism-deirdre-mccloskey-economics-happiness#", 
+            "author": "jimrosenz", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hm590/deirdre_n_mccloskey_happyism_new_republic/", 
+            "created-utc": 1411825479.0, 
+            "id": "2hm590"
         }, 
         {
             "num-comments": 0, 
@@ -233,21 +221,45 @@
             "id": "2hl620"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "voxeu.org", 
+            "num-comments": 5, 
+            "domain": "thomsonreuters.com", 
             "score": 3, 
             "nsfw": false, 
-            "title": "Mismeasuring long-run growth", 
-            "url": "http://www.voxeu.org/article/mismeasuring-long-run-growth", 
-            "author": "Shares_RSS", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hko6j/mismeasuring_longrun_growth/", 
-            "created-utc": 1411774653.0, 
-            "id": "2hko6j"
+            "title": "Thomson Reuters Predicts 2014 Nobel Laureates: Aghion and Howitt, Baumol and Kirzner, or Granovetter", 
+            "url": "http://thomsonreuters.com/press-releases/092014/2014-nobel-laureates-predictions", 
+            "author": "besttrousers", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hnrzu/thomson_reuters_predicts_2014_nobel_laureates/", 
+            "created-utc": 1411865164.0, 
+            "id": "2hnrzu"
         }, 
         {
             "num-comments": 0, 
+            "domain": "voxeu.org", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "The rise of China and the future of US manufacturing", 
+            "url": "http://www.voxeu.org/article/rise-china-and-future-us-manufacturing", 
+            "author": "Shares_RSS", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hnon6/the_rise_of_china_and_the_future_of_us/", 
+            "created-utc": 1411862721.0, 
+            "id": "2hnon6"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "krugman.blogs.nytimes.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "How Neo-Classical dominated domestic econ in the 70s, and Keynesian stayed strong in international econ", 
+            "url": "http://krugman.blogs.nytimes.com/2014/09/26/the-new-classical-clique/?_php=true&amp;_type=blogs&amp;_r=0", 
+            "author": "13104598210", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hno70/how_neoclassical_dominated_domestic_econ_in_the/", 
+            "created-utc": 1411862394.0, 
+            "id": "2hno70"
+        }, 
+        {
+            "num-comments": 1, 
             "domain": "project-syndicate.org", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "Germany\u2019s Economic Mirage", 
             "url": "http://www.project-syndicate.org/commentary/philippe-legrain-pokes-large-holes-in-the-myth-of-german-success", 
@@ -257,7 +269,7 @@
             "id": "2hn0ue"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "nautil.us", 
             "score": 1, 
             "nsfw": false, 
@@ -270,6 +282,18 @@
         }, 
         {
             "num-comments": 0, 
+            "domain": "papers.nber.org", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "NBER:Leaders and Followers: Perspectives on the Nordic Model and the Economics of Innovation -- by Joseph E. Stiglitz", 
+            "url": "http://papers.nber.org/papers/w20493#fromrss", 
+            "author": "ocamlmycaml", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hmyls/nberleaders_and_followers_perspectives_on_the/", 
+            "created-utc": 1411845460.0, 
+            "id": "2hmyls"
+        }, 
+        {
+            "num-comments": 0, 
             "domain": "krugman.blogs.nytimes.com", 
             "score": 2, 
             "nsfw": false, 
@@ -279,30 +303,6 @@
             "permalink": "http://www.reddit.com/r/Economics/comments/2hmgxs/the_new_classical_clique/", 
             "created-utc": 1411834256.0, 
             "id": "2hmgxs"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "papers.nber.org", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "NBER:The Bond Market: An Inflation-Targeter's Best Friend -- by Andrew K. Rose", 
-            "url": "http://papers.nber.org/papers/w20494#fromrss", 
-            "author": "ocamlmycaml", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hmcc9/nberthe_bond_market_an_inflationtargeters_best/", 
-            "created-utc": 1411831058.0, 
-            "id": "2hmcc9"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "newrepublic.com", 
-            "score": 3, 
-            "nsfw": false, 
-            "title": "Deirdre N. McCloskey: Happyism | New Republic", 
-            "url": "http://www.newrepublic.com/article/politics/magazine/103952/happyism-deirdre-mccloskey-economics-happiness#", 
-            "author": "jimrosenz", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hm590/deirdre_n_mccloskey_happyism_new_republic/", 
-            "created-utc": 1411825479.0, 
-            "id": "2hm590"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/Economics/", 

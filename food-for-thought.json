@@ -2,36 +2,12 @@
     "category": "Knowledge", 
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
-    "generated-utc": 1411855260, 
+    "generated-utc": 1411875231, 
     "posts": [
         {
-            "num-comments": 14, 
-            "domain": "bloombergview.com", 
-            "score": 279, 
-            "nsfw": false, 
-            "title": "The Secret Goldman Sachs Tapes", 
-            "url": "http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes", 
-            "author": "potato1", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hkbfb/the_secret_goldman_sachs_tapes/", 
-            "created-utc": 1411766649.0, 
-            "id": "2hkbfb"
-        }, 
-        {
-            "num-comments": 17, 
-            "domain": "nytimes.com", 
-            "score": 53, 
-            "nsfw": false, 
-            "title": "The Woman Who Walked 10,000 Miles (No Exaggeration) in Three Years", 
-            "url": "http://www.nytimes.com/2014/09/28/magazine/the-woman-who-walked-10000-miles-no-exaggeration-in-three-years.html?ref=magazine&amp;_r=0", 
-            "author": "marquis_of_chaos", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hm13e/the_woman_who_walked_10000_miles_no_exaggeration/", 
-            "created-utc": 1411821669.0, 
-            "id": "2hm13e"
-        }, 
-        {
-            "num-comments": 9, 
+            "num-comments": 10, 
             "domain": "chronicle.com", 
-            "score": 42, 
+            "score": 75, 
             "nsfw": false, 
             "title": "Why Academics' Writing Stinks", 
             "url": "http://chronicle.com/article/Why-Academics-Writing-Stinks/148989/", 
@@ -41,9 +17,21 @@
             "id": "2hm16f"
         }, 
         {
-            "num-comments": 8, 
+            "num-comments": 24, 
+            "domain": "nytimes.com", 
+            "score": 66, 
+            "nsfw": false, 
+            "title": "The Woman Who Walked 10,000 Miles (No Exaggeration) in Three Years", 
+            "url": "http://www.nytimes.com/2014/09/28/magazine/the-woman-who-walked-10000-miles-no-exaggeration-in-three-years.html?ref=magazine&amp;_r=0", 
+            "author": "marquis_of_chaos", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hm13e/the_woman_who_walked_10000_miles_no_exaggeration/", 
+            "created-utc": 1411821669.0, 
+            "id": "2hm13e"
+        }, 
+        {
+            "num-comments": 10, 
             "domain": "mashable.com", 
-            "score": 26, 
+            "score": 37, 
             "nsfw": false, 
             "title": "I Felt Like a Criminal: The Pressure to Become a Helicopter Parent", 
             "url": "http://mashable.com/2014/09/24/helicopter-parenting/", 
@@ -53,21 +41,33 @@
             "id": "2hlq7i"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "missoulanews.bigskypress.com", 
-            "score": 10, 
+            "num-comments": 1, 
+            "domain": "nytimes.com", 
+            "score": 24, 
             "nsfw": false, 
-            "title": "Redskins Team Name Still Controversial- The Daily Show Behind the Scenes", 
-            "url": "http://missoulanews.bigskypress.com/GreenRoom/archives/2014/09/26/ill-fucking-cut-you-behind-the-scenes-of-the-1491s-segment-on-the-daily-show", 
-            "author": "archaeofieldtech", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hkybo/redskins_team_name_still_controversial_the_daily/", 
-            "created-utc": 1411781900.0, 
-            "id": "2hkybo"
+            "title": "The Benefits of Economic Expansions Are Increasingly Going to the Richest Americans", 
+            "url": "http://www.nytimes.com/2014/09/27/upshot/the-benefits-of-economic-expansions-are-increasingly-going-to-the-richest-americans.html?smid=tw-nytimes&amp;_r=2&amp;abt=0002&amp;abg=0", 
+            "author": "cavehobbit", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hmdzr/the_benefits_of_economic_expansions_are/", 
+            "created-utc": 1411832206.0, 
+            "id": "2hmdzr"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "professorbainbridge.com", 
+            "score": 30, 
+            "nsfw": false, 
+            "title": "How shareholders took their company to the Supreme Court and created a norm of duty to shareholders over employees", 
+            "url": "http://www.professorbainbridge.com/professorbainbridgecom/2012/05/case-law-on-the-fiduciary-duty-of-directors-to-maximize-the-wealth-of-corporate-shareholders.html", 
+            "author": "MegasBasileus", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hmv5i/how_shareholders_took_their_company_to_the/", 
+            "created-utc": 1411843293.0, 
+            "id": "2hmv5i"
         }, 
         {
             "num-comments": 2, 
             "domain": "spiked-online.com", 
-            "score": 11, 
+            "score": 12, 
             "nsfw": false, 
             "title": "Exhibit B: artists must have the right to shock", 
             "url": "http://www.spiked-online.com/freespeechnow/fsn_article/exhibit-b-we-must-fight-for-the-right-to-be-offensive", 
@@ -79,19 +79,7 @@
         {
             "num-comments": 0, 
             "domain": "theatlantic.com", 
-            "score": 6, 
-            "nsfw": false, 
-            "title": "How to Stop a Rumor Online (Before the Rumor Becomes a Lie)", 
-            "url": "http://www.theatlantic.com/technology/archive/2014/09/how-to-stop-a-rumor-online-before-the-rumor-becomes-a-lie/380778/", 
-            "author": "WildRampager", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hlvej/how_to_stop_a_rumor_online_before_the_rumor/", 
-            "created-utc": 1411814904.0, 
-            "id": "2hlvej"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "theatlantic.com", 
-            "score": 8, 
+            "score": 11, 
             "nsfw": false, 
             "title": "Dismantling Empires Through Devolution", 
             "url": "http://www.theatlantic.com/international/archive/2014/09/stronger-than-democracy/380774/?single_page=true", 
@@ -101,9 +89,21 @@
             "id": "2hlvjk"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 0, 
+            "domain": "theatlantic.com", 
+            "score": 9, 
+            "nsfw": false, 
+            "title": "How to Stop a Rumor Online (Before the Rumor Becomes a Lie)", 
+            "url": "http://www.theatlantic.com/technology/archive/2014/09/how-to-stop-a-rumor-online-before-the-rumor-becomes-a-lie/380778/", 
+            "author": "WildRampager", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hlvej/how_to_stop_a_rumor_online_before_the_rumor/", 
+            "created-utc": 1411814904.0, 
+            "id": "2hlvej"
+        }, 
+        {
+            "num-comments": 19, 
             "domain": "cnet.com", 
-            "score": 5, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Twitter, \"hate speech,\" and the costs of keeping quiet", 
             "url": "http://www.cnet.com/news/twitter-hate-speech-and-the-costs-of-keeping-quiet/", 
@@ -111,18 +111,6 @@
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hm1qg/twitter_hate_speech_and_the_costs_of_keeping_quiet/", 
             "created-utc": 1411822303.0, 
             "id": "2hm1qg"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "newyorker.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "Death Row Dining", 
-            "url": "http://www.newyorker.com/culture/cultural-comment/death-row-dining", 
-            "author": "TCKLDPNK", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hm1lv/death_row_dining/", 
-            "created-utc": 1411822185.0, 
-            "id": "2hm1lv"
         }, 
         {
             "num-comments": 0, 
@@ -149,21 +137,9 @@
             "id": "2hlrpc"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "medium.com", 
-            "score": 5, 
-            "nsfw": false, 
-            "title": "The Trouble With Admitting That We Shape Technology: We\u2019re Not That Good At It", 
-            "url": "https://medium.com/@jlkoepke/the-trouble-with-admitting-that-we-shape-technology-372c013bee30", 
-            "author": "ObligatoryNonsense", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hkb61/the_trouble_with_admitting_that_we_shape/", 
-            "created-utc": 1411766483.0, 
-            "id": "2hkb61"
-        }, 
-        {
             "num-comments": 2, 
             "domain": "aeon.co", 
-            "score": 3, 
+            "score": 6, 
             "nsfw": false, 
             "title": "The other half - To end inequality, we must realise that it isn\u2019t about the rich, it\u2019s about the poor. And we know almost nothing about them", 
             "url": "http://aeon.co/magazine/society/to-end-inequality-we-must-understand-how-poverty-works/", 
@@ -173,45 +149,21 @@
             "id": "2hljl2"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "professorbainbridge.com", 
-            "score": 5, 
+            "num-comments": 1, 
+            "domain": "newyorker.com", 
+            "score": 4, 
             "nsfw": false, 
-            "title": "How shareholders took their company to the Supreme Court and created a norm of duty to shareholders over employees", 
-            "url": "http://www.professorbainbridge.com/professorbainbridgecom/2012/05/case-law-on-the-fiduciary-duty-of-directors-to-maximize-the-wealth-of-corporate-shareholders.html", 
-            "author": "MegasBasileus", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hmv5i/how_shareholders_took_their_company_to_the/", 
-            "created-utc": 1411843293.0, 
-            "id": "2hmv5i"
+            "title": "Death Row Dining", 
+            "url": "http://www.newyorker.com/culture/cultural-comment/death-row-dining", 
+            "author": "TCKLDPNK", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hm1lv/death_row_dining/", 
+            "created-utc": 1411822185.0, 
+            "id": "2hm1lv"
         }, 
         {
             "num-comments": 1, 
-            "domain": "nytimes.com", 
-            "score": 6, 
-            "nsfw": false, 
-            "title": "The Benefits of Economic Expansions Are Increasingly Going to the Richest Americans", 
-            "url": "http://www.nytimes.com/2014/09/27/upshot/the-benefits-of-economic-expansions-are-increasingly-going-to-the-richest-americans.html?smid=tw-nytimes&amp;_r=2&amp;abt=0002&amp;abg=0", 
-            "author": "cavehobbit", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hmdzr/the_benefits_of_economic_expansions_are/", 
-            "created-utc": 1411832206.0, 
-            "id": "2hmdzr"
-        }, 
-        {
-            "num-comments": 2, 
-            "domain": "bbc.com", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "Demanding justice for Irish abused by nuns", 
-            "url": "http://www.bbc.com/news/magazine-29307705", 
-            "author": "tcrackcrack69", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hlji6/demanding_justice_for_irish_abused_by_nuns/", 
-            "created-utc": 1411799933.0, 
-            "id": "2hlji6"
-        }, 
-        {
-            "num-comments": 0, 
             "domain": "spectrum.ieee.org", 
-            "score": 2, 
+            "score": 4, 
             "nsfw": false, 
             "title": "The Great Lightbulb Conspiracy", 
             "url": "http://spectrum.ieee.org/geek-life/history/the-great-lightbulb-conspiracy", 
@@ -219,6 +171,30 @@
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hl4wd/the_great_lightbulb_conspiracy/", 
             "created-utc": 1411786922.0, 
             "id": "2hl4wd"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "bbc.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Driving a cab in 1970s New York", 
+            "url": "http://www.bbc.com/news/magazine-29375830", 
+            "author": "LuckyBdx4", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hnpf2/driving_a_cab_in_1970s_new_york/", 
+            "created-utc": 1411863277.0, 
+            "id": "2hnpf2"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "bbc.com", 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "Demanding justice for Irish abused by nuns", 
+            "url": "http://www.bbc.com/news/magazine-29307705", 
+            "author": "tcrackcrack69", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hlji6/demanding_justice_for_irish_abused_by_nuns/", 
+            "created-utc": 1411799933.0, 
+            "id": "2hlji6"
         }, 
         {
             "num-comments": 0, 

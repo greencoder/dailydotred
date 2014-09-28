@@ -2,12 +2,12 @@
     "category": "Fun", 
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
-    "generated-utc": 1411855297, 
+    "generated-utc": 1411875274, 
     "posts": [
         {
-            "num-comments": 6, 
+            "num-comments": 15, 
             "domain": "youtu.be", 
-            "score": 54, 
+            "score": 164, 
             "nsfw": false, 
             "title": "Musicless Dirty dancing", 
             "url": "http://youtu.be/McKfMe-H_3A", 
@@ -15,18 +15,6 @@
             "permalink": "http://www.reddit.com/r/humor/comments/2hmzlr/musicless_dirty_dancing/", 
             "created-utc": 1411846093.0, 
             "id": "2hmzlr"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "youtu.be", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "Just an OK way of doing CrossFit.", 
-            "url": "http://youtu.be/6kaAvlyIN1Y", 
-            "author": "Yevbel", 
-            "permalink": "http://www.reddit.com/r/humor/comments/2hl52m/just_an_ok_way_of_doing_crossfit/", 
-            "created-utc": 1411787042.0, 
-            "id": "2hl52m"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/humor/", 

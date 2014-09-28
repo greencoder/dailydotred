@@ -1,7 +1,12 @@
+html {
+    height: 100%;
+}
+
 body {
     margin: 0px;
     font-family: 'Fira Sans', sans-serif;
     background-color: #A9180D;
+    height: 100%;
 }
 
 /* Hyperlinks */
