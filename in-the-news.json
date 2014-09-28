@@ -2,12 +2,24 @@
     "category": "News", 
     "description": "The subreddit for opinion, analysis, and discussion of recent events", 
     "title": "In the News: Opinion, Analysis, and Discussion", 
-    "generated-utc": 1411875194, 
+    "generated-utc": 1411912836, 
     "posts": [
+        {
+            "num-comments": 15, 
+            "domain": "talkingpointsmemo.com", 
+            "score": 50, 
+            "nsfw": false, 
+            "title": "An Open Letter To Fox News About 'Boobs On The Ground'", 
+            "url": "http://talkingpointsmemo.com/cafe/an-open-letter-to-fox-news", 
+            "author": "realitysatouchscreen", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hnlq6/an_open_letter_to_fox_news_about_boobs_on_the/", 
+            "created-utc": 1411860595.0, 
+            "id": "2hnlq6"
+        }, 
         {
             "num-comments": 0, 
             "domain": "propublica.org", 
-            "score": 29, 
+            "score": 33, 
             "nsfw": false, 
             "title": "Inside the New York Fed: Secret Recordings and a Culture Clash", 
             "url": "http://www.propublica.org/article/carmen-segarras-secret-recordings-from-inside-new-york-fed", 
@@ -17,21 +29,9 @@
             "id": "2hm75n"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "redd.it", 
-            "score": 14, 
-            "nsfw": false, 
-            "title": "Enterovirus continues to spread: 38 US States, 4 Canadian Provinces. Thousands sick, and CDC investigating 9 new cases of possible paralysis.", 
-            "url": "http://redd.it/2hm961", 
-            "author": "Ilsensine", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hmalo/enterovirus_continues_to_spread_38_us_states_4/", 
-            "created-utc": 1411829799.0, 
-            "id": "2hmalo"
-        }, 
-        {
-            "num-comments": 0, 
+            "num-comments": 2, 
             "domain": "nola.com", 
-            "score": 17, 
+            "score": 22, 
             "nsfw": false, 
             "title": "Airport baggage handlers booked on theft charges after guns, electronics go missing from luggage", 
             "url": "http://www.nola.com/politics/index.ssf/2014/09/airport_baggage_handlers_booke.html", 
@@ -41,9 +41,21 @@
             "id": "2hmtlu"
         }, 
         {
+            "num-comments": 2, 
+            "domain": "rawstory.com", 
+            "score": 22, 
+            "nsfw": false, 
+            "title": "11-month old killed by foster mother was taken way from parents because of pot use", 
+            "url": "http://www.rawstory.com/rs/2014/09/11-month-old-killed-by-foster-mother-was-taken-way-from-parents-because-of-pot-use/#.VCeP5oCjkx0.reddit", 
+            "author": "michaelconfoy", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hoa3x/11month_old_killed_by_foster_mother_was_taken_way/", 
+            "created-utc": 1411878915.0, 
+            "id": "2hoa3x"
+        }, 
+        {
             "num-comments": 1, 
             "domain": "rawstory.com", 
-            "score": 15, 
+            "score": 17, 
             "nsfw": false, 
             "title": "AP History: CO school board member proposing \u2018patriotic\u2019 curriculum was following TX example", 
             "url": "http://www.rawstory.com/rs/2014/09/ap-history-co-school-board-member-proposing-patriotic-curriculum-was-following-tx-example/#.VCbqfHv5lZc.reddit", 
@@ -54,8 +66,20 @@
         }, 
         {
             "num-comments": 0, 
+            "domain": "redd.it", 
+            "score": 15, 
+            "nsfw": false, 
+            "title": "Enterovirus continues to spread: 38 US States, 4 Canadian Provinces. Thousands sick, and CDC investigating 9 new cases of possible paralysis.", 
+            "url": "http://redd.it/2hm961", 
+            "author": "Ilsensine", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hmalo/enterovirus_continues_to_spread_38_us_states_4/", 
+            "created-utc": 1411829799.0, 
+            "id": "2hmalo"
+        }, 
+        {
+            "num-comments": 0, 
             "domain": "rawstory.com", 
-            "score": 14, 
+            "score": 13, 
             "nsfw": false, 
             "title": "Ted Cruz and Ben Carson top picks in Value Voters presidential straw poll", 
             "url": "http://www.rawstory.com/rs/2014/09/ted-cruz-and-ben-carson-top-picks-in-value-voters-presidential-straw-poll/#.VCc8Lcxogb4.reddit", 
@@ -65,9 +89,21 @@
             "id": "2hnh7o"
         }, 
         {
+            "num-comments": 3, 
+            "domain": "al.com", 
+            "score": 15, 
+            "nsfw": false, 
+            "title": "Second woman this month admits to reporting fabricated attack to University of Alabama police", 
+            "url": "http://www.al.com/news/tuscaloosa/index.ssf/2014/09/second_woman_this_month_admits.html", 
+            "author": "DinoLiciousRex", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hnhcs/second_woman_this_month_admits_to_reporting/", 
+            "created-utc": 1411857583.0, 
+            "id": "2hnhcs"
+        }, 
+        {
             "num-comments": 0, 
             "domain": "reuters.com", 
-            "score": 12, 
+            "score": 11, 
             "nsfw": false, 
             "title": "India reaches Red Planet, but at home red tape binds space firms", 
             "url": "http://www.reuters.com/article/2014/09/26/us-india-mars-idUSKCN0HL0XF20140926", 
@@ -79,7 +115,7 @@
         {
             "num-comments": 0, 
             "domain": "nytimes.com", 
-            "score": 9, 
+            "score": 10, 
             "nsfw": false, 
             "title": "The Benefits of Economic Expansions Are Increasingly Going to the Richest Americans", 
             "url": "http://www.nytimes.com/2014/09/27/upshot/the-benefits-of-economic-expansions-are-increasingly-going-to-the-richest-americans.html?smid=tw-nytimes&amp;_r=2&amp;abt=0002&amp;abg=0", 
@@ -89,16 +125,28 @@
             "id": "2hmdz3"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "al.com", 
-            "score": 12, 
+            "num-comments": 0, 
+            "domain": "heelsfirsttravel.boardingarea.com", 
+            "score": 6, 
             "nsfw": false, 
-            "title": "Second woman this month admits to reporting fabricated attack to University of Alabama police", 
-            "url": "http://www.al.com/news/tuscaloosa/index.ssf/2014/09/second_woman_this_month_admits.html", 
-            "author": "DinoLiciousRex", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hnhcs/second_woman_this_month_admits_to_reporting/", 
-            "created-utc": 1411857583.0, 
-            "id": "2hnhcs"
+            "title": "\"This is a nightmare scenario... we thought systems were in place to prevent it\"", 
+            "url": "http://heelsfirsttravel.boardingarea.com/2014/09/27/nightmare-scenario-thought-systems-place-prevent/", 
+            "author": "Jelly23", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hn4in/this_is_a_nightmare_scenario_we_thought_systems/", 
+            "created-utc": 1411849176.0, 
+            "id": "2hn4in"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "pjmedia.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "Oklahoma beheading: Have our prisons become Jihad factories?", 
+            "url": "http://pjmedia.com/rogerlsimon/2014/09/26/oklahoma-beheading-have-our-prisons-become-jihad-factories/?singlepage=true", 
+            "author": "Sunking278", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2ho07r/oklahoma_beheading_have_our_prisons_become_jihad/", 
+            "created-utc": 1411871217.0, 
+            "id": "2ho07r"
         }, 
         {
             "num-comments": 0, 
@@ -126,51 +174,15 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "heelsfirsttravel.boardingarea.com", 
-            "score": 4, 
+            "domain": "nytimes.com", 
+            "score": 1, 
             "nsfw": false, 
-            "title": "\"This is a nightmare scenario... we thought systems were in place to prevent it\"", 
-            "url": "http://heelsfirsttravel.boardingarea.com/2014/09/27/nightmare-scenario-thought-systems-place-prevent/", 
-            "author": "Jelly23", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hn4in/this_is_a_nightmare_scenario_we_thought_systems/", 
-            "created-utc": 1411849176.0, 
-            "id": "2hn4in"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "observer.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "Eric Holder Runs from a Ticking Time Bomb", 
-            "url": "http://observer.com/2014/09/eric-holder-runs-from-a-ticking-time-bomb/", 
-            "author": "Piper007", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hlt7r/eric_holder_runs_from_a_ticking_time_bomb/", 
-            "created-utc": 1411812030.0, 
-            "id": "2hlt7r"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "youtube.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "Oklahoma Beheading Suspect Allegedly Tried to Convert Coworkers to Islam", 
-            "url": "https://www.youtube.com/watch?v=CAWhhYq4GqU", 
-            "author": "csharptut", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hlkzr/oklahoma_beheading_suspect_allegedly_tried_to/", 
-            "created-utc": 1411801588.0, 
-            "id": "2hlkzr"
-        }, 
-        {
-            "num-comments": 2, 
-            "domain": "talkingpointsmemo.com", 
-            "score": 14, 
-            "nsfw": false, 
-            "title": "An Open Letter To Fox News About 'Boobs On The Ground'", 
-            "url": "http://talkingpointsmemo.com/cafe/an-open-letter-to-fox-news", 
-            "author": "realitysatouchscreen", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hnlq6/an_open_letter_to_fox_news_about_boobs_on_the/", 
-            "created-utc": 1411860595.0, 
-            "id": "2hnlq6"
+            "title": "The Wilds of Education", 
+            "url": "http://www.nytimes.com/2014/09/28/opinion/sunday/frank-bruni-the-wilds-of-education.html?smid=re-share", 
+            "author": "michaelconfoy", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hny6l/the_wilds_of_education/", 
+            "created-utc": 1411869693.0, 
+            "id": "2hny6l"
         }, 
         {
             "num-comments": 0, 
@@ -185,52 +197,64 @@
             "id": "2hn3ka"
         }, 
         {
+            "num-comments": 1, 
+            "domain": "gotnews.com", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "Muslim Arrested in Ferguson Threatened to Behead Critics Like \"Bitch\" Daniel Pearl", 
+            "url": "http://gotnews.com/muslim-arrested-ferguson-threatened-behead-critics-like-bitch/", 
+            "author": "TealNeal", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hmfqr/muslim_arrested_in_ferguson_threatened_to_behead/", 
+            "created-utc": 1411833454.0, 
+            "id": "2hmfqr"
+        }, 
+        {
             "num-comments": 0, 
-            "domain": "kfor.com", 
+            "domain": "youtube.com", 
             "score": 2, 
             "nsfw": false, 
-            "title": "Camera Records Altercation between family of beheading suspect and officers inside Oklahoma University Medical Facility", 
-            "url": "http://kfor.com/2014/09/26/caught-on-camera-altercation-between-family-of-beheading-suspect-and-officers-inside-of-ou-medical/", 
-            "author": "mermlgloop", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hlulw/camera_records_altercation_between_family_of/", 
-            "created-utc": 1411813814.0, 
-            "id": "2hlulw"
+            "title": "CEOs Make WAY More Than ANYBODY Thinks", 
+            "url": "http://www.youtube.com/watch?v=fBQJ2cQqxcI&amp;feature=youtu.be", 
+            "author": "oldmoldy", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hp015/ceos_make_way_more_than_anybody_thinks/", 
+            "created-utc": 1411909196.0, 
+            "id": "2hp015"
         }, 
         {
             "num-comments": 0, 
-            "domain": "firstlook.org", 
-            "score": 3, 
-            "nsfw": false, 
-            "title": "Managing a Nightmare: How the CIA Watched Over the Destruction of Gary Webb", 
-            "url": "https://firstlook.org/theintercept/2014/09/25/managing-nightmare-cia-media-destruction-gary-webb/", 
-            "author": "fuzzydunlots", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hllyr/managing_a_nightmare_how_the_cia_watched_over_the/", 
-            "created-utc": 1411802737.0, 
-            "id": "2hllyr"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "truthdig.com", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "Beverly Hills, Fearing ISIS Attack, Fights Public Transportation", 
-            "url": "http://www.truthdig.com/eartotheground/item/beverly_hills_fearing_isis_attack_fights_public_transportation_20140926/#.VCYlu1tbWdU.reddit", 
-            "author": "michaelconfoy", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hl3zc/beverly_hills_fearing_isis_attack_fights_public/", 
-            "created-utc": 1411786199.0, 
-            "id": "2hl3zc"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "nytimes.com", 
+            "domain": "dissidentvoice.org", 
             "score": 1, 
             "nsfw": false, 
-            "title": "The Wilds of Education", 
-            "url": "http://www.nytimes.com/2014/09/28/opinion/sunday/frank-bruni-the-wilds-of-education.html?smid=re-share", 
-            "author": "michaelconfoy", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hny6l/the_wilds_of_education/", 
-            "created-utc": 1411869693.0, 
-            "id": "2hny6l"
+            "title": "Whipping Boys in America", 
+            "url": "http://dissidentvoice.org/2014/09/whipping-boys-in-america/", 
+            "author": "apropo", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2houf1/whipping_boys_in_america/", 
+            "created-utc": 1411902918.0, 
+            "id": "2houf1"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "stltoday.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "Ferguson officer wounded after confronting burglars; suspects remain at large", 
+            "url": "http://www.stltoday.com/news/local/crime-and-courts/ferguson-officer-shot-details-still-emerging/article_21e165ad-1f7f-5ae8-b30a-fb9d9dc40afe.html", 
+            "author": "Piper007", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hosea/ferguson_officer_wounded_after_confronting/", 
+            "created-utc": 1411900262.0, 
+            "id": "2hosea"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "news.yahoo.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "Female UAE pilot 'leads strikes' on jihadists", 
+            "url": "http://news.yahoo.com/female-uae-pilot-leads-strikes-jihadists-130519981.html", 
+            "author": "jjeremyharrelson", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2ho72p/female_uae_pilot_leads_strikes_on_jihadists/", 
+            "created-utc": 1411876548.0, 
+            "id": "2ho72p"
         }, 
         {
             "num-comments": 1, 
@@ -245,52 +269,16 @@
             "id": "2hnmvo"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "gotnews.com", 
-            "score": 3, 
-            "nsfw": false, 
-            "title": "Muslim Arrested in Ferguson Threatened to Behead Critics Like \"Bitch\" Daniel Pearl", 
-            "url": "http://gotnews.com/muslim-arrested-ferguson-threatened-behead-critics-like-bitch/", 
-            "author": "TealNeal", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hmfqr/muslim_arrested_in_ferguson_threatened_to_behead/", 
-            "created-utc": 1411833454.0, 
-            "id": "2hmfqr"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "theguardian.com", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "Frat brothers rape 300% more. One in 5 women is sexually assaulted on campus. Should we ban frats?", 
-            "url": "http://www.theguardian.com/commentisfree/2014/sep/24/rape-sexual-assault-ban-frats", 
-            "author": "pampam5000", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hl3ln/frat_brothers_rape_300_more_one_in_5_women_is/", 
-            "created-utc": 1411785895.0, 
-            "id": "2hl3ln"
-        }, 
-        {
             "num-comments": 0, 
-            "domain": "io9.com", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "Half Of Our Planet's Water May Be Older Than The Sun", 
-            "url": "http://io9.com/half-of-our-planets-water-may-be-older-than-the-sun-1639447265", 
-            "author": "DrogDrill", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hl3eb/half_of_our_planets_water_may_be_older_than_the/", 
-            "created-utc": 1411785741.0, 
-            "id": "2hl3eb"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "kbtx.com", 
+            "domain": "wavy.com", 
             "score": 0, 
-            "nsfw": false, 
-            "title": "Brenham Man Pleads Guilty To Murder Of Ex-Girlfriend, Sentenced To Life", 
-            "url": "http://www.kbtx.com/home/headlines/Brenham-Man-Pleads-Guilty-To-Murder-Of-Ex-Girlfriend-Sentenced-To-Life-276934571.html", 
-            "author": "wiseprogressivethink", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hl25e/brenham_man_pleads_guilty_to_murder_of/", 
-            "created-utc": 1411784825.0, 
-            "id": "2hl25e"
+            "nsfw": true, 
+            "title": "Streaker takes to the field at uni's first nationally televised football game. I vote to draft the guy as he's got some moves!", 
+            "url": "http://wavy.com/2014/09/27/streaker-causes-stir-arrested-at-odu-football-game/", 
+            "author": "CosmoVannostren", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hokf0/streaker_takes_to_the_field_at_unis_first/", 
+            "created-utc": 1411889447.0, 
+            "id": "2hokf0"
         }, 
         {
             "num-comments": 0, 
@@ -303,6 +291,18 @@
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hmm3n/swpr_one_of_the_largest_us_pr_firms_and_a/", 
             "created-utc": 1411837610.0, 
             "id": "2hmm3n"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "businessinsider.com", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "Scientists Unveil 'Invisibility Cloak' To Rival Harry Potter's", 
+            "url": "http://www.businessinsider.com/r-new-york-scientists-unveil-invisibility-cloak-to-rival-harry-potters-2014-9", 
+            "author": "Schwarzenegro", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hmt5o/scientists_unveil_invisibility_cloak_to_rival/", 
+            "created-utc": 1411842085.0, 
+            "id": "2hmt5o"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/inthenews/", 

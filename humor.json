@@ -2,12 +2,12 @@
     "category": "Fun", 
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
-    "generated-utc": 1411875274, 
+    "generated-utc": 1411912943, 
     "posts": [
         {
-            "num-comments": 15, 
+            "num-comments": 24, 
             "domain": "youtu.be", 
-            "score": 164, 
+            "score": 277, 
             "nsfw": false, 
             "title": "Musicless Dirty dancing", 
             "url": "http://youtu.be/McKfMe-H_3A", 
@@ -15,6 +15,30 @@
             "permalink": "http://www.reddit.com/r/humor/comments/2hmzlr/musicless_dirty_dancing/", 
             "created-utc": 1411846093.0, 
             "id": "2hmzlr"
+        }, 
+        {
+            "num-comments": 6, 
+            "domain": "huffingtonpost.ca", 
+            "score": 50, 
+            "nsfw": false, 
+            "title": "Doug Ford, brother of and would-be successor to mayoral laughingstock Rob Ford, proposes a new subway expansion for the city of Toronto, but the map is riddled with spelling errors and he is quickly ridiculed across the internet", 
+            "url": "http://www.huffingtonpost.ca/2014/09/26/doug-fords-subway-map-spelling-eglington-done-mills_n_5888552.html", 
+            "author": "Vranak", 
+            "permalink": "http://www.reddit.com/r/humor/comments/2hom4w/doug_ford_brother_of_and_wouldbe_successor_to/", 
+            "created-utc": 1411891707.0, 
+            "id": "2hom4w"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "youtu.be", 
+            "score": 29, 
+            "nsfw": false, 
+            "title": "\"Best of G.I. Joe PSAs\"", 
+            "url": "http://youtu.be/ogEtfIdgjpY", 
+            "author": "rippleffect81", 
+            "permalink": "http://www.reddit.com/r/humor/comments/2ho8ff/best_of_gi_joe_psas/", 
+            "created-utc": 1411877552.0, 
+            "id": "2ho8ff"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/humor/", 

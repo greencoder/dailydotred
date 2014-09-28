@@ -6,47 +6,31 @@
   <description>News stories related to technology</description>
   <category>Knowledge</category>
   <language>en-us</language>
-  <pubDate>Sun, 28 Sep 2014 03:33:39 -0000</pubDate>
+  <pubDate>Sun, 28 Sep 2014 14:01:20 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/technology.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>PayPal now lets shops accept Bitcoin</title>
-    <link>http://money.cnn.com/2014/09/26/technology/paypal-bitcoin/index.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hm3f5/paypal_now_lets_shops_accept_bitcoin/</guid>
-    <description>BY AUSTINGWALTERS &#183; POSTED 09/27/14 9:17 AM EST &#183; MONEY.CNN.COM &#183; SCORE 3511</description>
-    <category>Knowledge</category>
-  </item>
 
   <item>
     <title>I got the attention of Comcast's executives by filing a complaint with the FCC. All of our issues are resolved, and we got serious discounts for their poor service.</title>
     <link>http://www.reddit.com/r/technology/comments/2hmuzn/i_got_the_attention_of_comcasts_executives_by/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hmuzn/i_got_the_attention_of_comcasts_executives_by/</guid>
-    <description>BY ASTRODOG88 &#183; POSTED 09/27/14 2:39 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 3715</description>
+    <description>BY ASTRODOG88 &#183; POSTED 09/27/14 2:39 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 4364</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Breakthrough in LED construction increases efficiency by 57 percent</title>
-    <link>http://www.gizmag.com/organic-led-efficiency-increase-nanotechnology/33971/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hla9u/breakthrough_in_led_construction_increases/</guid>
-    <description>BY AUSTINGWALTERS &#183; POSTED 09/27/14 12:13 AM EST &#183; GIZMAG.COM &#183; SCORE 860</description>
+    <title>PayPal now lets shops accept Bitcoin</title>
+    <link>http://money.cnn.com/2014/09/26/technology/paypal-bitcoin/index.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hm3f5/paypal_now_lets_shops_accept_bitcoin/</guid>
+    <description>BY AUSTINGWALTERS &#183; POSTED 09/27/14 9:17 AM EST &#183; MONEY.CNN.COM &#183; SCORE 3557</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Google Chrome's 'Unable to connect to the Internet' page has a hidden endless runner game</title>
-    <link>http://www.independent.co.uk/life-style/gadgets-and-tech/news/google-chromes-unable-to-connect-to-the-internet-page-has-a-hidden-endless-runner-game-9758418.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hlgmy/google_chromes_unable_to_connect_to_the_internet/</guid>
-    <description>BY FAGERS91 &#183; POSTED 09/27/14 1:48 AM EST &#183; INDEPENDENT.CO.UK &#183; SCORE 360</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>31,000 people an hour are joining the social network Ello. The anti-Facebook, explained.</title>
-    <link>http://www.vox.com/2014/9/26/6844633/what-is-ello-should-i-care</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hmecp/31000_people_an_hour_are_joining_the_social/</guid>
-    <description>BY BEMUZED &#183; POSTED 09/27/14 11:41 AM EST &#183; VOX.COM &#183; SCORE 122</description>
+    <title>Tim Berners-Lee calls for internet bill of rights to ensure greater privacy -- says world needs an online ‘Magna Carta’ to combat growing government and corporate control</title>
+    <link>http://www.theguardian.com/technology/2014/sep/28/tim-berners-lee-internet-bill-of-rights-greater-privacy</link>
+    <guid>http://www.reddit.com/r/technology/comments/2ho5d4/tim_bernerslee_calls_for_internet_bill_of_rights/</guid>
+    <description>BY BOGAINVILLA &#183; POSTED 09/27/14 11:32 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 843</description>
     <category>Knowledge</category>
   </item>
 
@@ -54,7 +38,23 @@
     <title>"A former member of Facebook’s Data Science unit, Andrew Ledvina, told The Wall Street Journal that the in-house lab operates with few restrictions. 'Anyone on that team could run a test,' he said. 'They’re always trying to alter people’s behavior.'"</title>
     <link>http://lareviewofbooks.org/essay/manipulators-facebooks-social-engineering-project</link>
     <guid>http://www.reddit.com/r/technology/comments/2hn8s6/a_former_member_of_facebooks_data_science_unit/</guid>
-    <description>BY ASSUREDLYATHROWAWAY &#183; POSTED 09/27/14 5:04 PM EST &#183; LAREVIEWOFBOOKS.ORG &#183; SCORE 130</description>
+    <description>BY ASSUREDLYATHROWAWAY &#183; POSTED 09/27/14 5:04 PM EST &#183; LAREVIEWOFBOOKS.ORG &#183; SCORE 318</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Reddit, if we truly want to combat the practices of a company like Comcast, I propose the following...</title>
+    <link>http://www.reddit.com/r/technology/comments/2hn4ga/reddit_if_we_truly_want_to_combat_the_practices/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hn4ga/reddit_if_we_truly_want_to_combat_the_practices/</guid>
+    <description>BY GAVIN_MCMAHON &#183; POSTED 09/27/14 4:18 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 236</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>31,000 people an hour are joining the social network Ello. The anti-Facebook, explained.</title>
+    <link>http://www.vox.com/2014/9/26/6844633/what-is-ello-should-i-care</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hmecp/31000_people_an_hour_are_joining_the_social/</guid>
+    <description>BY BEMUZED &#183; POSTED 09/27/14 11:41 AM EST &#183; VOX.COM &#183; SCORE 154</description>
     <category>Knowledge</category>
   </item>
 
@@ -62,7 +62,7 @@
     <title>Comcast seeks to fix awful customer service, admits “it may take a few years”</title>
     <link>http://arstechnica.com/business/2014/09/comcast-seeks-to-fix-awful-customer-service-admits-it-may-take-a-few-years/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hmm12/comcast_seeks_to_fix_awful_customer_service/</guid>
-    <description>BY SURAJ-SUN &#183; POSTED 09/27/14 1:06 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 79</description>
+    <description>BY SURAJ-SUN &#183; POSTED 09/27/14 1:06 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 100</description>
     <category>Knowledge</category>
   </item>
 
@@ -70,55 +70,7 @@
     <title>Google Still Cozy With Those 'Literally Lying' About Climate Change. Since the 2008 election cycle, approximately 17 percent of the money from Google’s political action committee has gone to candidates who deny climate change science.</title>
     <link>http://talkingpointsmemo.com/cafe/google-still-cozy-with-those-literally-lying-about-climate-change</link>
     <guid>http://www.reddit.com/r/technology/comments/2hmd5j/google_still_cozy_with_those_literally_lying/</guid>
-    <description>BY PNEWELL &#183; POSTED 09/27/14 11:26 AM EST &#183; TALKINGPOINTSMEMO.COM &#183; SCORE 69</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>My new favorite hobby is looking at tigerdirect.com on the internet archive.</title>
-    <link>https://web.archive.org/web/19970609225031/http://www.tigerdirect.com/tiger_cameras_kodak_dc20.htm</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hlhr6/my_new_favorite_hobby_is_looking_at/</guid>
-    <description>BY OOMPAORANGEFACE &#183; POSTED 09/27/14 2:07 AM EST &#183; WEB.ARCHIVE.ORG &#183; SCORE 49</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>LG's next smartwatch may not even require a smartphone to work</title>
-    <link>http://www.androidcentral.com/lgs-next-smartwatch-may-not-even-require-smartphone-work</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hm4r6/lgs_next_smartwatch_may_not_even_require_a/</guid>
-    <description>BY BINTOV &#183; POSTED 09/27/14 9:37 AM EST &#183; ANDROIDCENTRAL.COM &#183; SCORE 50</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Magnesium Based Cements</title>
-    <link>http://greenhomebuilding.com/articles/ceramicrete.htm</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hm5n0/magnesium_based_cements/</guid>
-    <description>BY BRIANCADY413 &#183; POSTED 09/27/14 9:50 AM EST &#183; GREENHOMEBUILDING.COM &#183; SCORE 43</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Unsubsidised wind and solar competitive with coal, Lazard says. Levelized cost of energy (LCOE) of leading PV technologies has fallen by nearly 20 per cent in the past year, and nearly 80 per cent in the last five years.</title>
-    <link>http://reneweconomy.com.au/2014/unsubsidised-wind-solar-competitive-coal-lazard-sats-41429</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hmcny/unsubsidised_wind_and_solar_competitive_with_coal/</guid>
-    <description>BY PNEWELL &#183; POSTED 09/27/14 11:21 AM EST &#183; RENEWECONOMY.COM.AU &#183; SCORE 41</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Signaling Post-Snowden Era, New iPhone Locks Out N.S.A.: The move raises a critical issue, the intelligence officials say: Who decides what kind of data the government can access? Until now, those decisions have largely been a matter for Congress</title>
-    <link>http://www.nytimes.com/2014/09/27/technology/iphone-locks-out-the-nsa-signaling-a-post-snowden-era-.html?smid=re-share</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hm3vl/signaling_postsnowden_era_new_iphone_locks_out/</guid>
-    <description>BY DTM106 &#183; POSTED 09/27/14 9:24 AM EST &#183; NYTIMES.COM &#183; SCORE 33</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Report: Google 'tightening the screws' on Android manufacturers</title>
-    <link>http://www.pcworld.com/article/2687738/report-google-tightening-the-screws-on-android-manufacturers.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hmgxh/report_google_tightening_the_screws_on_android/</guid>
-    <description>BY NIMOBO &#183; POSTED 09/27/14 12:10 PM EST &#183; PCWORLD.COM &#183; SCORE 29</description>
+    <description>BY PNEWELL &#183; POSTED 09/27/14 11:26 AM EST &#183; TALKINGPOINTSMEMO.COM &#183; SCORE 94</description>
     <category>Knowledge</category>
   </item>
 
@@ -126,39 +78,87 @@
     <title>Mantis Shrimps can see cancer. Now scientists created a camera that can see cancer too!</title>
     <link>http://www.sciencealert.com.au/news/20142609-26244.html</link>
     <guid>http://www.reddit.com/r/technology/comments/2hnp4z/mantis_shrimps_can_see_cancer_now_scientists/</guid>
-    <description>BY CAPTANONYMOUS89 &#183; POSTED 09/27/14 8:11 PM EST &#183; SCIENCEALERT.COM.AU &#183; SCORE 38</description>
+    <description>BY CAPTANONYMOUS89 &#183; POSTED 09/27/14 8:11 PM EST &#183; SCIENCEALERT.COM.AU &#183; SCORE 89</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>"Not a Bash bug" (Repost from HN)</title>
-    <link>http://paste.lisp.org/display/143864</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hlswo/not_a_bash_bug_repost_from_hn/</guid>
-    <description>BY BAINOS &#183; POSTED 09/27/14 5:54 AM EST &#183; PASTE.LISP.ORG &#183; SCORE 25</description>
+    <title>LG's next smartwatch may not even require a smartphone to work</title>
+    <link>http://www.androidcentral.com/lgs-next-smartwatch-may-not-even-require-smartphone-work</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hm4r6/lgs_next_smartwatch_may_not_even_require_a/</guid>
+    <description>BY BINTOV &#183; POSTED 09/27/14 9:37 AM EST &#183; ANDROIDCENTRAL.COM &#183; SCORE 61</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Why the Z-80's data pins are scrambled</title>
-    <link>http://www.righto.com/2014/09/why-z-80s-data-pins-are-scrambled.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hlr8d/why_the_z80s_data_pins_are_scrambled/</guid>
-    <description>BY ELECTRONICS-ENGINEER &#183; POSTED 09/27/14 5:18 AM EST &#183; RIGHTO.COM &#183; SCORE 20</description>
+    <title>Unsubsidised wind and solar competitive with coal, Lazard says. Levelized cost of energy (LCOE) of leading PV technologies has fallen by nearly 20 per cent in the past year, and nearly 80 per cent in the last five years.</title>
+    <link>http://reneweconomy.com.au/2014/unsubsidised-wind-solar-competitive-coal-lazard-sats-41429</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hmcny/unsubsidised_wind_and_solar_competitive_with_coal/</guid>
+    <description>BY PNEWELL &#183; POSTED 09/27/14 11:21 AM EST &#183; RENEWECONOMY.COM.AU &#183; SCORE 56</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Signaling Post-Snowden Era, New iPhone Locks Out N.S.A.</title>
-    <link>http://www.nytimes.com/2014/09/27/technology/iphone-locks-out-the-nsa-signaling-a-post-snowden-era-.html?hp&amp;action=click&amp;pgtype=Homepage&amp;version=LedeSum&amp;module=first-column-region&amp;region=top-news&amp;WT.nav=top-news</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hmant/signaling_postsnowden_era_new_iphone_locks_out_nsa/</guid>
-    <description>BY NICEDICE02 &#183; POSTED 09/27/14 10:57 AM EST &#183; NYTIMES.COM &#183; SCORE 15</description>
+    <title>Magnesium Based Cements</title>
+    <link>http://greenhomebuilding.com/articles/ceramicrete.htm</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hm5n0/magnesium_based_cements/</guid>
+    <description>BY BRIANCADY413 &#183; POSTED 09/27/14 9:50 AM EST &#183; GREENHOMEBUILDING.COM &#183; SCORE 50</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Court Orders Warner Bros. to Reveal Flawed Anti-Piracy Technology</title>
-    <link>http://torrentfreak.com/court-orders-warner-bros-to-reveal-flawed-anti-piracy-technology-140927/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hmuko/court_orders_warner_bros_to_reveal_flawed/</guid>
-    <description>BY THECODINGDUDE &#183; POSTED 09/27/14 2:35 PM EST &#183; TORRENTFREAK.COM &#183; SCORE 16</description>
+    <title>UPS now lets you use 3D printers in nearly 100 US stores</title>
+    <link>http://www.engadget.com/2014/09/22/ups-3d-printer-expansion/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hnxjy/ups_now_lets_you_use_3d_printers_in_nearly_100_us/</guid>
+    <description>BY MOS_6502 &#183; POSTED 09/27/14 9:53 PM EST &#183; ENGADGET.COM &#183; SCORE 60</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>The Phone 6 can still be tracked despite increased iOS 8 privacy features</title>
+    <link>http://bgr.com/2014/09/26/iphone-6-ios-8-tracking/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hod1i/the_phone_6_can_still_be_tracked_despite/</guid>
+    <description>BY ZAKOS &#183; POSTED 09/28/14 1:19 AM EST &#183; BGR.COM &#183; SCORE 62</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Signaling Post-Snowden Era, New iPhone Locks Out N.S.A.: The move raises a critical issue, the intelligence officials say: Who decides what kind of data the government can access? Until now, those decisions have largely been a matter for Congress</title>
+    <link>http://www.nytimes.com/2014/09/27/technology/iphone-locks-out-the-nsa-signaling-a-post-snowden-era-.html?smid=re-share</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hm3vl/signaling_postsnowden_era_new_iphone_locks_out/</guid>
+    <description>BY DTM106 &#183; POSTED 09/27/14 9:24 AM EST &#183; NYTIMES.COM &#183; SCORE 36</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Report: Google 'tightening the screws' on Android manufacturers</title>
+    <link>http://www.pcworld.com/article/2687738/report-google-tightening-the-screws-on-android-manufacturers.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hmgxh/report_google_tightening_the_screws_on_android/</guid>
+    <description>BY NIMOBO &#183; POSTED 09/27/14 12:10 PM EST &#183; PCWORLD.COM &#183; SCORE 34</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Alabama schools secretly spying on students' social media after NSA called in a tip</title>
+    <link>http://www.networkworld.com/article/2687993/microsoft-subnet/alabama-schools-secretly-spying-on-students-social-media-after-nsa-called-in-a-tip.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hojq4/alabama_schools_secretly_spying_on_students/</guid>
+    <description>BY THELINKMOBILE &#183; POSTED 09/28/14 3:17 AM EST &#183; NETWORKWORLD.COM &#183; SCORE 43</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Cloudflare appears set to announce free SSL on Monday for 4th birthday - First letter of paragraphs spell SSL TLS FREE</title>
+    <link>https://blog.cloudflare.com/celebrating-cloudflares-4th-birthday/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hnmkh/cloudflare_appears_set_to_announce_free_ssl_on/</guid>
+    <description>BY JOSHIEE &#183; POSTED 09/27/14 7:40 PM EST &#183; BLOG.CLOUDFLARE.COM &#183; SCORE 27</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Drones approved for commercial use in US for first time, starting with Hollywood film shoots</title>
+    <link>http://www.nytimes.com/2014/09/26/business/media/drone-exemptions-for-hollywood-pave-the-way-for-widespread-use.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hn7jv/drones_approved_for_commercial_use_in_us_for/</guid>
+    <description>BY CANAUSERNAMEBETOOLON &#183; POSTED 09/27/14 4:53 PM EST &#183; NYTIMES.COM &#183; SCORE 24</description>
     <category>Knowledge</category>
   </item>
 
@@ -166,7 +166,31 @@
     <title>World's Best Slow Motion Camera : At 25,000 frames per second Phantom v2511 can stop time</title>
     <link>http://www.likeswagon.com/2014/09/worlds-best-slow-motion-camera-at-25000.html</link>
     <guid>http://www.reddit.com/r/technology/comments/2hmfgv/worlds_best_slow_motion_camera_at_25000_frames/</guid>
-    <description>BY BUZZERNAOMI &#183; POSTED 09/27/14 11:54 AM EST &#183; LIKESWAGON.COM &#183; SCORE 15</description>
+    <description>BY BUZZERNAOMI &#183; POSTED 09/27/14 11:54 AM EST &#183; LIKESWAGON.COM &#183; SCORE 20</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Boo! Microsoft Ending Windows 7’s Life Cycle Officially On Halloween</title>
+    <link>http://hothardware.com/News/Boo-Microsoft-Ending-Windows-7s-Life-Cycle-Officially-On-Halloween/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2ho1ta/boo_microsoft_ending_windows_7s_life_cycle/</guid>
+    <description>BY GODSCOMIC &#183; POSTED 09/27/14 10:47 PM EST &#183; HOTHARDWARE.COM &#183; SCORE 30</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Intel Edison-Powered Nixie Wearable Drone Camera Flies Off Your Wrist To Capture The Moment</title>
+    <link>http://hothardware.com/News/Intel-EdisonPowered-Nixie-Wearable-Drone-Camera-Flies-Off-Your-Wrist-To-Capture-The-Moment/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hn06k/intel_edisonpowered_nixie_wearable_drone_camera/</guid>
+    <description>BY DEATHSPAWNER &#183; POSTED 09/27/14 3:33 PM EST &#183; HOTHARDWARE.COM &#183; SCORE 20</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Signaling Post-Snowden Era, New iPhone Locks Out N.S.A.</title>
+    <link>http://www.nytimes.com/2014/09/27/technology/iphone-locks-out-the-nsa-signaling-a-post-snowden-era-.html?hp&amp;action=click&amp;pgtype=Homepage&amp;version=LedeSum&amp;module=first-column-region&amp;region=top-news&amp;WT.nav=top-news</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hmant/signaling_postsnowden_era_new_iphone_locks_out_nsa/</guid>
+    <description>BY NICEDICE02 &#183; POSTED 09/27/14 10:57 AM EST &#183; NYTIMES.COM &#183; SCORE 18</description>
     <category>Knowledge</category>
   </item>
 
@@ -183,30 +207,6 @@
     <link>http://www.newsmeek.com/science/cyborgs-coming-soon/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hmb0f/osu_creating_mechanical_wrist_implants_for_trauma/</guid>
     <description>BY RICOKAS &#183; POSTED 09/27/14 11:01 AM EST &#183; NEWSMEEK.COM &#183; SCORE 13</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Drones approved for commercial use in US for first time, starting with Hollywood film shoots</title>
-    <link>http://www.nytimes.com/2014/09/26/business/media/drone-exemptions-for-hollywood-pave-the-way-for-widespread-use.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hn7jv/drones_approved_for_commercial_use_in_us_for/</guid>
-    <description>BY CANAUSERNAMEBETOOLON &#183; POSTED 09/27/14 4:53 PM EST &#183; NYTIMES.COM &#183; SCORE 11</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Microsoft's new CEO is going to make a lot of people hate the company. And it's 100% preventable.</title>
-    <link>http://www.reddit.com/r/technology/comments/2hl7xw/microsofts_new_ceo_is_going_to_make_a_lot_of/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hl7xw/microsofts_new_ceo_is_going_to_make_a_lot_of/</guid>
-    <description>BY ROO-STER &#183; POSTED 09/26/14 11:41 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 8</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Intel Edison-Powered Nixie Wearable Drone Camera Flies Off Your Wrist To Capture The Moment</title>
-    <link>http://hothardware.com/News/Intel-EdisonPowered-Nixie-Wearable-Drone-Camera-Flies-Off-Your-Wrist-To-Capture-The-Moment/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hn06k/intel_edisonpowered_nixie_wearable_drone_camera/</guid>
-    <description>BY DEATHSPAWNER &#183; POSTED 09/27/14 3:33 PM EST &#183; HOTHARDWARE.COM &#183; SCORE 12</description>
     <category>Knowledge</category>
   </item>
 
