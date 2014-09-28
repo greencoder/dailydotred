@@ -6,23 +6,15 @@
   <description>Stories related to weather</description>
   <category>News</category>
   <language>en-us</language>
-  <pubDate>Sun, 28 Sep 2014 14:00:50 -0000</pubDate>
+  <pubDate>Sun, 28 Sep 2014 22:00:43 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/weather.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>A rather interesting rainstorm rolled through my town for a few minutes.</title>
-    <link>http://imgur.com/a/W16Rr</link>
-    <guid>http://www.reddit.com/r/weather/comments/2hmwrf/a_rather_interesting_rainstorm_rolled_through_my/</guid>
-    <description>BY ILIKEBREAKFASTCEREAL &#183; POSTED 09/27/14 2:58 PM EST &#183; IMGUR.COM &#183; SCORE 66</description>
-    <category>News</category>
-  </item>
 
   <item>
     <title>Had this roll through Phx Az today! Had some rotation to it as well.</title>
     <link>http://i.imgur.com/ujZdYck.jpg</link>
     <guid>http://www.reddit.com/r/weather/comments/2hngq8/had_this_roll_through_phx_az_today_had_some/</guid>
-    <description>BY DELOREANGUY85 &#183; POSTED 09/27/14 6:32 PM EST &#183; I.IMGUR.COM &#183; SCORE 12</description>
+    <description>BY DELOREANGUY85 &#183; POSTED 09/27/14 6:32 PM EST &#183; I.IMGUR.COM &#183; SCORE 13</description>
     <category>News</category>
   </item>
 
@@ -30,15 +22,7 @@
     <title>(9/27/2014) Huge storm today in AZ. Constant thunder and sheets of rain everywhere.</title>
     <link>https://www.youtube.com/watch?v=ekvWJAKzciI&amp;feature=youtu.be</link>
     <guid>http://www.reddit.com/r/weather/comments/2hnqio/9272014_huge_storm_today_in_az_constant_thunder/</guid>
-    <description>BY SETHISTO &#183; POSTED 09/27/14 8:28 PM EST &#183; YOUTUBE.COM &#183; SCORE 7</description>
-    <category>News</category>
-  </item>
-
-  <item>
-    <title>Disorganized and brief funnel cloud from rotating supercell in Arizona today.</title>
-    <link>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10636791_10152804657690087_7916493715707158322_o.jpg</link>
-    <guid>http://www.reddit.com/r/weather/comments/2ho4q6/disorganized_and_brief_funnel_cloud_from_rotating/</guid>
-    <description>BY CYCLONECOWGIRL &#183; POSTED 09/27/14 11:24 PM EST &#183; FBCDN-SPHOTOS-B-A.AKAMAIHD.NET &#183; SCORE 1</description>
+    <description>BY SETHISTO &#183; POSTED 09/27/14 8:28 PM EST &#183; YOUTUBE.COM &#183; SCORE 11</description>
     <category>News</category>
   </item>
 
@@ -46,7 +30,7 @@
     <title>Monsoon by Mike Olbinski. Thought you all would enjoy this as much as I did.</title>
     <link>http://vimeo.com/106827999</link>
     <guid>http://www.reddit.com/r/weather/comments/2hnm5u/monsoon_by_mike_olbinski_thought_you_all_would/</guid>
-    <description>BY SPARKLECOFFEE &#183; POSTED 09/27/14 7:35 PM EST &#183; VIMEO.COM &#183; SCORE 1</description>
+    <description>BY SPARKLECOFFEE &#183; POSTED 09/27/14 7:35 PM EST &#183; VIMEO.COM &#183; SCORE 3</description>
     <category>News</category>
   </item>
 
@@ -55,6 +39,14 @@
     <link>http://395travel.com/</link>
     <guid>http://www.reddit.com/r/weather/comments/2hnj5g/eastern_sierra_weather_webcams_mammoth_june_lake/</guid>
     <description>BY FLYINEYE &#183; POSTED 09/27/14 7:00 PM EST &#183; 395TRAVEL.COM &#183; SCORE 1</description>
+    <category>News</category>
+  </item>
+
+  <item>
+    <title>Disorganized and brief funnel cloud from rotating supercell in Arizona today.</title>
+    <link>https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10636791_10152804657690087_7916493715707158322_o.jpg</link>
+    <guid>http://www.reddit.com/r/weather/comments/2ho4q6/disorganized_and_brief_funnel_cloud_from_rotating/</guid>
+    <description>BY CYCLONECOWGIRL &#183; POSTED 09/27/14 11:24 PM EST &#183; FBCDN-SPHOTOS-B-A.AKAMAIHD.NET &#183; SCORE 0</description>
     <category>News</category>
   </item>
 

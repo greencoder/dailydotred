@@ -6,31 +6,23 @@
   <description>News and discussion about economics, from the perspective of economists</description>
   <category>News</category>
   <language>en-us</language>
-  <pubDate>Sun, 28 Sep 2014 14:00:48 -0000</pubDate>
+  <pubDate>Sun, 28 Sep 2014 22:00:41 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/economics.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>Economic Benefits of Preventing Global Warming Open New Front in Debate. "Simply put: the economy isn't a reason to fear action, it's a reason to take it."</title>
-    <link>http://mashable.com/2014/09/26/obama-administration-economic-benefits-fight-global-warming/</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hmf04/economic_benefits_of_preventing_global_warming/</guid>
-    <description>BY PNEWELL &#183; POSTED 09/27/14 11:49 AM EST &#183; MASHABLE.COM &#183; SCORE 177</description>
-    <category>News</category>
-  </item>
 
   <item>
     <title>Cocoa prices surge on output fears over Ebola outbreak</title>
     <link>http://nation.com.pk/business/28-Sep-2014/cocoa-prices-surge-on-output-fears-over-ebola-outbreak</link>
     <guid>http://www.reddit.com/r/Economics/comments/2ho1gm/cocoa_prices_surge_on_output_fears_over_ebola/</guid>
-    <description>BY ERASMUSPRIME &#183; POSTED 09/27/14 10:42 PM EST &#183; NATION.COM.PK &#183; SCORE 74</description>
+    <description>BY ERASMUSPRIME &#183; POSTED 09/27/14 10:42 PM EST &#183; NATION.COM.PK &#183; SCORE 121</description>
     <category>News</category>
   </item>
 
   <item>
-    <title>India's 100 richest now all billionaires: Forbes</title>
-    <link>http://news.yahoo.com/indias-100-richest-now-billionaires-forbes-153639765--finance.html</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2ho2rq/indias_100_richest_now_all_billionaires_forbes/</guid>
-    <description>BY JJEREMYHARRELSON &#183; POSTED 09/27/14 10:59 PM EST &#183; NEWS.YAHOO.COM &#183; SCORE 59</description>
+    <title>Federal Reserve Bank of New York releases the code for its internal DSGE model!</title>
+    <link>http://libertystreeteconomics.newyorkfed.org/2014/09/the-frbny-dsge-model-forecast.html#.VCg4ufldWSo</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hph68/federal_reserve_bank_of_new_york_releases_the/</guid>
+    <description>BY OCAMLMYCAML &#183; POSTED 09/28/14 12:36 PM EST &#183; LIBERTYSTREETECONOMICS.NEWYORKFED.ORG &#183; SCORE 127</description>
     <category>News</category>
   </item>
 
@@ -38,15 +30,31 @@
     <title>Market Manipulation Should Be A Crime</title>
     <link>http://www.bloombergview.com/articles/2014-09-26/market-manipulation-should-be-a-crime</link>
     <guid>http://www.reddit.com/r/Economics/comments/2hngwv/market_manipulation_should_be_a_crime/</guid>
-    <description>BY MARTIALBOB &#183; POSTED 09/27/14 6:34 PM EST &#183; BLOOMBERGVIEW.COM &#183; SCORE 33</description>
+    <description>BY MARTIALBOB &#183; POSTED 09/27/14 6:34 PM EST &#183; BLOOMBERGVIEW.COM &#183; SCORE 49</description>
     <category>News</category>
   </item>
 
   <item>
-    <title>Tim Harford — How to see into the future</title>
-    <link>http://timharford.com/2014/09/how-to-see-into-the-future/</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hm2vc/tim_harford_how_to_see_into_the_future/</guid>
-    <description>BY JIMROSENZ &#183; POSTED 09/27/14 9:09 AM EST &#183; TIMHARFORD.COM &#183; SCORE 21</description>
+    <title>After adjusting for cost of living, US median household income is almost 1.5x higher than UK median income</title>
+    <link>http://en.wikipedia.org/wiki/Median_household_income</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hoqjz/after_adjusting_for_cost_of_living_us_median/</guid>
+    <description>BY OLDWAYSEU_ILII &#183; POSTED 09/28/14 5:48 AM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 47</description>
+    <category>News</category>
+  </item>
+
+  <item>
+    <title>Initial job status, midlife outcomes and mental health: Evidence from Japan</title>
+    <link>http://www.voxeu.org/article/initial-job-status-midlife-outcomes-and-mental-health-evidence-japan</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hose6/initial_job_status_midlife_outcomes_and_mental/</guid>
+    <description>BY SHARES_RSS &#183; POSTED 09/28/14 6:30 AM EST &#183; VOXEU.ORG &#183; SCORE 15</description>
+    <category>News</category>
+  </item>
+
+  <item>
+    <title>While ECB struggles, Fed sees recovery</title>
+    <link>http://www.reuters.com/article/2014/09/28/us-global-economy-weekahead-idUSKCN0HN0A520140928?feedType=RSS&amp;feedName=GCA-Economy2010</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2horo4/while_ecb_struggles_fed_sees_recovery/</guid>
+    <description>BY SHARES_RSS &#183; POSTED 09/28/14 6:14 AM EST &#183; REUTERS.COM &#183; SCORE 13</description>
     <category>News</category>
   </item>
 
@@ -54,7 +62,23 @@
     <title>The Benefits of Free Trade: Addressing Key Myths | Mercatus</title>
     <link>http://mercatus.org/publication/benefits-free-trade-addressing-key-myths?utm_source=Twitter&amp;utm_medium=research&amp;utm_campaign=MercatusTweets&amp;91314822</link>
     <guid>http://www.reddit.com/r/Economics/comments/2ho1dn/the_benefits_of_free_trade_addressing_key_myths/</guid>
-    <description>BY JIMROSENZ &#183; POSTED 09/27/14 10:41 PM EST &#183; MERCATUS.ORG &#183; SCORE 10</description>
+    <description>BY JIMROSENZ &#183; POSTED 09/27/14 10:41 PM EST &#183; MERCATUS.ORG &#183; SCORE 11</description>
+    <category>News</category>
+  </item>
+
+  <item>
+    <title>Thomson Reuters Predicts 2014 Nobel Laureates: Aghion and Howitt, Baumol and Kirzner, or Granovetter</title>
+    <link>http://thomsonreuters.com/press-releases/092014/2014-nobel-laureates-predictions</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hnrzu/thomson_reuters_predicts_2014_nobel_laureates/</guid>
+    <description>BY BESTTROUSERS &#183; POSTED 09/27/14 8:46 PM EST &#183; THOMSONREUTERS.COM &#183; SCORE 12</description>
+    <category>News</category>
+  </item>
+
+  <item>
+    <title>How Neo-Classical dominated domestic econ in the 70s, and Keynesian stayed strong in international econ</title>
+    <link>http://krugman.blogs.nytimes.com/2014/09/26/the-new-classical-clique/?_php=true&amp;_type=blogs&amp;_r=0</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hno70/how_neoclassical_dominated_domestic_econ_in_the/</guid>
+    <description>BY 13104598210 &#183; POSTED 09/27/14 7:59 PM EST &#183; KRUGMAN.BLOGS.NYTIMES.COM &#183; SCORE 9</description>
     <category>News</category>
   </item>
 
@@ -67,22 +91,6 @@
   </item>
 
   <item>
-    <title>Thomson Reuters Predicts 2014 Nobel Laureates: Aghion and Howitt, Baumol and Kirzner, or Granovetter</title>
-    <link>http://thomsonreuters.com/press-releases/092014/2014-nobel-laureates-predictions</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hnrzu/thomson_reuters_predicts_2014_nobel_laureates/</guid>
-    <description>BY BESTTROUSERS &#183; POSTED 09/27/14 8:46 PM EST &#183; THOMSONREUTERS.COM &#183; SCORE 7</description>
-    <category>News</category>
-  </item>
-
-  <item>
-    <title>What are some good Economic research topics, oligopolies and industries with few players as a criteria.</title>
-    <link>http://www.sscnet.ucla.edu/ssc/labs/cameron/e143f98/topics.htm</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hmpu7/what_are_some_good_economic_research_topics/</guid>
-    <description>BY CEDARGTR &#183; POSTED 09/27/14 1:45 PM EST &#183; SSCNET.UCLA.EDU &#183; SCORE 6</description>
-    <category>News</category>
-  </item>
-
-  <item>
     <title>NBER:In with the Big, Out with the Small: Removing Small-Scale Reservations in India -- by Leslie A. Martin, Shanthi Nataraj, Ann Harrison</title>
     <link>http://papers.nber.org/papers/w19942#fromrss</link>
     <guid>http://www.reddit.com/r/Economics/comments/2hnkoc/nberin_with_the_big_out_with_the_small_removing/</guid>
@@ -91,50 +99,10 @@
   </item>
 
   <item>
-    <title>How Neo-Classical dominated domestic econ in the 70s, and Keynesian stayed strong in international econ</title>
-    <link>http://krugman.blogs.nytimes.com/2014/09/26/the-new-classical-clique/?_php=true&amp;_type=blogs&amp;_r=0</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hno70/how_neoclassical_dominated_domestic_econ_in_the/</guid>
-    <description>BY 13104598210 &#183; POSTED 09/27/14 7:59 PM EST &#183; KRUGMAN.BLOGS.NYTIMES.COM &#183; SCORE 2</description>
-    <category>News</category>
-  </item>
-
-  <item>
-    <title>Initial job status, midlife outcomes and mental health: Evidence from Japan</title>
-    <link>http://www.voxeu.org/article/initial-job-status-midlife-outcomes-and-mental-health-evidence-japan</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hose6/initial_job_status_midlife_outcomes_and_mental/</guid>
-    <description>BY SHARES_RSS &#183; POSTED 09/28/14 6:30 AM EST &#183; VOXEU.ORG &#183; SCORE 6</description>
-    <category>News</category>
-  </item>
-
-  <item>
-    <title>While ECB struggles, Fed sees recovery</title>
-    <link>http://www.reuters.com/article/2014/09/28/us-global-economy-weekahead-idUSKCN0HN0A520140928?feedType=RSS&amp;feedName=GCA-Economy2010</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2horo4/while_ecb_struggles_fed_sees_recovery/</guid>
-    <description>BY SHARES_RSS &#183; POSTED 09/28/14 6:14 AM EST &#183; REUTERS.COM &#183; SCORE 4</description>
-    <category>News</category>
-  </item>
-
-  <item>
-    <title>The rise of China and the future of US manufacturing</title>
-    <link>http://www.voxeu.org/article/rise-china-and-future-us-manufacturing</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hnon6/the_rise_of_china_and_the_future_of_us/</guid>
-    <description>BY SHARES_RSS &#183; POSTED 09/27/14 8:05 PM EST &#183; VOXEU.ORG &#183; SCORE 3</description>
-    <category>News</category>
-  </item>
-
-  <item>
-    <title>Why We Keep Playing the Lottery</title>
-    <link>http://nautil.us/issue/17/big-bangs/why-we-keep-playing-the-lottery-2</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hmzb0/why_we_keep_playing_the_lottery/</guid>
-    <description>BY LINGBEN &#183; POSTED 09/27/14 3:25 PM EST &#183; NAUTIL.US &#183; SCORE 2</description>
-    <category>News</category>
-  </item>
-
-  <item>
-    <title>Deirdre N. McCloskey: Happyism | New Republic</title>
-    <link>http://www.newrepublic.com/article/politics/magazine/103952/happyism-deirdre-mccloskey-economics-happiness#</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hm590/deirdre_n_mccloskey_happyism_new_republic/</guid>
-    <description>BY JIMROSENZ &#183; POSTED 09/27/14 9:44 AM EST &#183; NEWREPUBLIC.COM &#183; SCORE 3</description>
+    <title>Fed hawk Fisher says U.S. risks falling behind curve on inflation</title>
+    <link>http://www.reuters.com/article/2014/09/28/us-fed-fisher-idUSKCN0HN0QX20140928?feedType=RSS&amp;feedName=GCA-Economy2010</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hpizx/fed_hawk_fisher_says_us_risks_falling_behind/</guid>
+    <description>BY SHARES_RSS &#183; POSTED 09/28/14 12:54 PM EST &#183; REUTERS.COM &#183; SCORE 3</description>
     <category>News</category>
   </item>
 
@@ -142,47 +110,47 @@
     <title>Perceptions of inequality in Europe and the US</title>
     <link>http://www.voxeu.org/article/perceptions-inequality-europe-and-us</link>
     <guid>http://www.reddit.com/r/Economics/comments/2hose7/perceptions_of_inequality_in_europe_and_the_us/</guid>
-    <description>BY SHARES_RSS &#183; POSTED 09/28/14 6:30 AM EST &#183; VOXEU.ORG &#183; SCORE 2</description>
+    <description>BY SHARES_RSS &#183; POSTED 09/28/14 6:30 AM EST &#183; VOXEU.ORG &#183; SCORE 4</description>
     <category>News</category>
   </item>
 
   <item>
-    <title>After adjusting for cost of living, US median household income is almost 1.5x higher than UK median income</title>
-    <link>http://en.wikipedia.org/wiki/Median_household_income</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hoqjz/after_adjusting_for_cost_of_living_us_median/</guid>
-    <description>BY OLDWAYSEU_ILII &#183; POSTED 09/28/14 5:48 AM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 1</description>
+    <title>The rise of China and the future of US manufacturing</title>
+    <link>http://www.voxeu.org/article/rise-china-and-future-us-manufacturing</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hnon6/the_rise_of_china_and_the_future_of_us/</guid>
+    <description>BY SHARES_RSS &#183; POSTED 09/27/14 8:05 PM EST &#183; VOXEU.ORG &#183; SCORE 2</description>
     <category>News</category>
   </item>
 
   <item>
-    <title>Germany’s Economic Mirage</title>
-    <link>http://www.project-syndicate.org/commentary/philippe-legrain-pokes-large-holes-in-the-myth-of-german-success</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hn0ue/germanys_economic_mirage/</guid>
-    <description>BY EGODAL &#183; POSTED 09/27/14 3:40 PM EST &#183; PROJECT-SYNDICATE.ORG &#183; SCORE 2</description>
+    <title>The size and homogeneity of a country’s population has a big bearing on its economic policies</title>
+    <link>http://www.economist.com/news/finance-and-economics/21620204-size-and-homogeneity-countrys-population-has-big-bearing-its-economic?fsrc=scn/fb/te/pe/ed/goldilocksnationalism</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hpqqw/the_size_and_homogeneity_of_a_countrys_population/</guid>
+    <description>BY 13104598210 &#183; POSTED 09/28/14 2:11 PM EST &#183; ECONOMIST.COM &#183; SCORE 3</description>
     <category>News</category>
   </item>
 
   <item>
-    <title>NBER:Leaders and Followers: Perspectives on the Nordic Model and the Economics of Innovation -- by Joseph E. Stiglitz</title>
-    <link>http://papers.nber.org/papers/w20493#fromrss</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hmyls/nberleaders_and_followers_perspectives_on_the/</guid>
-    <description>BY OCAMLMYCAML &#183; POSTED 09/27/14 3:17 PM EST &#183; PAPERS.NBER.ORG &#183; SCORE 2</description>
+    <title>Venezuela Oil Price Falls Again to New 3 Year Low</title>
+    <link>http://www.laht.com/article.asp?ArticleId=2354105&amp;CategoryId=10717</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hpmkz/venezuela_oil_price_falls_again_to_new_3_year_low/</guid>
+    <description>BY JOGAM123 &#183; POSTED 09/28/14 1:30 PM EST &#183; LAHT.COM &#183; SCORE 2</description>
     <category>News</category>
   </item>
 
   <item>
-    <title>The New Classical Clique</title>
-    <link>http://krugman.blogs.nytimes.com/2014/09/26/the-new-classical-clique/?smid=re-share</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hmgxs/the_new_classical_clique/</guid>
-    <description>BY SPACEGHOTI &#183; POSTED 09/27/14 12:10 PM EST &#183; KRUGMAN.BLOGS.NYTIMES.COM &#183; SCORE 2</description>
+    <title>Hong Kong used to be 18 percent of China's GDP. Now it's 3 percent. - Vox</title>
+    <link>http://www.vox.com/2014/9/28/6857567/hong-kong-used-to-be-18-percent-of-chinas-gdp-now-its-3-percent?utm_campaign=vox&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hpxdq/hong_kong_used_to_be_18_percent_of_chinas_gdp_now/</guid>
+    <description>BY JIMROSENZ &#183; POSTED 09/28/14 3:17 PM EST &#183; VOX.COM &#183; SCORE 8</description>
     <category>News</category>
   </item>
 
   <item>
-    <title>NBER:The Bond Market: An Inflation-Targeter's Best Friend -- by Andrew K. Rose</title>
-    <link>http://papers.nber.org/papers/w20494#fromrss</link>
-    <guid>http://www.reddit.com/r/Economics/comments/2hmcc9/nberthe_bond_market_an_inflationtargeters_best/</guid>
-    <description>BY OCAMLMYCAML &#183; POSTED 09/27/14 11:17 AM EST &#183; PAPERS.NBER.ORG &#183; SCORE 2</description>
+    <title>Enough Already With The Sweeping Claims That Economics Is Unscientific - Forbes</title>
+    <link>http://www.forbes.com/sites/modeledbehavior/2014/09/28/economics-science/</link>
+    <guid>http://www.reddit.com/r/Economics/comments/2hpvxn/enough_already_with_the_sweeping_claims_that/</guid>
+    <description>BY JIMROSENZ &#183; POSTED 09/28/14 3:03 PM EST &#183; FORBES.COM &#183; SCORE 0</description>
     <category>News</category>
   </item>
 

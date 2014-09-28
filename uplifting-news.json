@@ -2,12 +2,12 @@
     "category": "News", 
     "description": "A place to read and share positive and uplifting, feel good news stories", 
     "title": "Uplifting News", 
-    "generated-utc": 1411912841, 
+    "generated-utc": 1411941634, 
     "posts": [
         {
-            "num-comments": 199, 
+            "num-comments": 340, 
             "domain": "themetapicture.com", 
-            "score": 1847, 
+            "score": 2490, 
             "nsfw": false, 
             "title": "This Man Builds Tiny Houses for the Homeless, Out of Recyclable Materials", 
             "url": "http://themetapicture.com/man-builds-houses-for-homeless-from-garbage", 
@@ -17,33 +17,9 @@
             "id": "2ho38q"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "news.sciencemag.org", 
-            "score": 13, 
-            "nsfw": false, 
-            "title": "How Did the 'Berlin Patient' Rid Himself of HIV?", 
-            "url": "http://news.sciencemag.org/health/2014/09/how-did-berlin-patient-rid-himself-hiv", 
-            "author": "peter_bolton", 
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hmdft/how_did_the_berlin_patient_rid_himself_of_hiv/", 
-            "created-utc": 1411831824.0, 
-            "id": "2hmdft"
-        }, 
-        {
-            "num-comments": 2, 
-            "domain": "salon.com", 
-            "score": 9, 
-            "nsfw": false, 
-            "title": "John Oliver\u2019s amazing Miss America takedown raises huge money for scholarship fund", 
-            "url": "http://www.salon.com/2014/09/24/society_of_women_engineers_gets_the_john_oliver_bounce_after_miss_america_segment/", 
-            "author": "emilNYC", 
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hoan2/john_olivers_amazing_miss_america_takedown_raises/", 
-            "created-utc": 1411879398.0, 
-            "id": "2hoan2"
-        }, 
-        {
             "num-comments": 2, 
             "domain": "lifewithdogs.tv", 
-            "score": 8, 
+            "score": 16, 
             "nsfw": false, 
             "title": "Dogs who found love at shelter get adopted together", 
             "url": "http://www.lifewithdogs.tv/2014/07/dogs-who-found-love-at-shelter-get-adopted-together/", 
@@ -54,8 +30,20 @@
         }, 
         {
             "num-comments": 2, 
+            "domain": "salon.com", 
+            "score": 13, 
+            "nsfw": false, 
+            "title": "John Oliver\u2019s amazing Miss America takedown raises huge money for scholarship fund", 
+            "url": "http://www.salon.com/2014/09/24/society_of_women_engineers_gets_the_john_oliver_bounce_after_miss_america_segment/", 
+            "author": "emilNYC", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hoan2/john_olivers_amazing_miss_america_takedown_raises/", 
+            "created-utc": 1411879398.0, 
+            "id": "2hoan2"
+        }, 
+        {
+            "num-comments": 2, 
             "domain": "vox.com", 
-            "score": 4, 
+            "score": 11, 
             "nsfw": false, 
             "title": "California blue whales, once nearly extinct, are back at historic levels", 
             "url": "http://www.vox.com/2014/9/8/6122867/we-nearly-hunted-blue-whales-to-extinction-now-theyre-bouncing-back", 
@@ -65,9 +53,33 @@
             "id": "2hoqv0"
         }, 
         {
+            "num-comments": 3, 
+            "domain": "ktvb.com", 
+            "score": 7, 
+            "nsfw": false, 
+            "title": "Abused toddler recovering remarkably well after being severely beaten, dropped on head", 
+            "url": "http://www.ktvb.com/story/news/local/2014/09/26/abused-child-recovering-sam-ford/16288193/", 
+            "author": "1fineFZ09", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hpcgv/abused_toddler_recovering_remarkably_well_after/", 
+            "created-utc": 1411919146.0, 
+            "id": "2hpcgv"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "komonews.com", 
+            "score": 5, 
+            "nsfw": false, 
+            "title": "Firefighters use oxygen on hamsters rescued from blaze", 
+            "url": "http://www.komonews.com/news/local/Firefighters-use-oxygen-on-hamsters-rescued-from-blaze-277285541.html", 
+            "author": "misnamed", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hpnnb/firefighters_use_oxygen_on_hamsters_rescued_from/", 
+            "created-utc": 1411926087.0, 
+            "id": "2hpnnb"
+        }, 
+        {
             "num-comments": 0, 
             "domain": "kcci.com", 
-            "score": 2, 
+            "score": 4, 
             "nsfw": false, 
             "title": "Unknown person pays it forward weekly at Iowa restaurant", 
             "url": "http://www.kcci.com/unknown-person-pays-it-forward-weekly-at-iowa-restaurant/28240734", 
@@ -79,7 +91,7 @@
         {
             "num-comments": 0, 
             "domain": "theguardian.com", 
-            "score": 2, 
+            "score": 4, 
             "nsfw": false, 
             "title": "How Neil Baldwin became Keele University's mascot", 
             "url": "http://www.theguardian.com/education/2010/mar/09/neil-baldwin-keele-university", 
@@ -90,8 +102,20 @@
         }, 
         {
             "num-comments": 0, 
+            "domain": "nbcdfw.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Rockwall Senior with Down's Syndrome Named Homecoming King", 
+            "url": "http://www.nbcdfw.com/news/local/Rockwall-Senior-with-Downs-Syndrome-Named-Homecoming-King-277297121.html", 
+            "author": "Kylde", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hp7qj/rockwall_senior_with_downs_syndrome_named/", 
+            "created-utc": 1411915767.0, 
+            "id": "2hp7qj"
+        }, 
+        {
+            "num-comments": 0, 
             "domain": "texomashomepage.com", 
-            "score": 1, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Stroke Victim Pays it Forward", 
             "url": "http://www.texomashomepage.com/story/d/story/stroke-victim-pays-it-forward/27867/Qz10nm4dmkGXPSV0AYc5Wg", 
@@ -103,7 +127,7 @@
         {
             "num-comments": 0, 
             "domain": "gainesvilletimes.com", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Cancer survivor pays it forward with benefit", 
             "url": "http://www.gainesvilletimes.com/section/6/article/104860/", 
@@ -115,7 +139,7 @@
         {
             "num-comments": 1, 
             "domain": "cbsnews.com", 
-            "score": 1, 
+            "score": 4, 
             "nsfw": false, 
             "title": "\u200bFormer NFL player tackles homelessness after living under LA freeway", 
             "url": "http://www.cbsnews.com/news/former-nfl-player-tackles-homelessness-after-living-under-la-freeway/", 
@@ -123,6 +147,18 @@
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hovpz/former_nfl_player_tackles_homelessness_after/", 
             "created-utc": 1411904523.0, 
             "id": "2hovpz"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "wcvb.com", 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "Waitress tipped $500 for spreading kindness", 
+            "url": "http://www.wcvb.com/national/waitress-tipped-500-for-spreading-kindness/28273324", 
+            "author": "Muchachi", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2houm6/waitress_tipped_500_for_spreading_kindness/", 
+            "created-utc": 1411903166.0, 
+            "id": "2houm6"
         }, 
         {
             "num-comments": 0, 
@@ -137,28 +173,28 @@
             "id": "2hovoy"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "wcvb.com", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "Waitress tipped $500 for spreading kindness", 
-            "url": "http://www.wcvb.com/national/waitress-tipped-500-for-spreading-kindness/28273324", 
-            "author": "Muchachi", 
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2houm6/waitress_tipped_500_for_spreading_kindness/", 
-            "created-utc": 1411903166.0, 
-            "id": "2houm6"
-        }, 
-        {
-            "num-comments": 2, 
-            "domain": "abc7news.com", 
+            "num-comments": 1, 
+            "domain": "dailymail.co.uk", 
             "score": 0, 
             "nsfw": false, 
-            "title": "11-year old rapper's video empowers younger sister with Down Syndrome", 
-            "url": "http://abc7news.com/324670/", 
-            "author": "bleepbloop0", 
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hmqg8/11year_old_rappers_video_empowers_younger_sister/", 
-            "created-utc": 1411840347.0, 
-            "id": "2hmqg8"
+            "title": "Mila Kunis and Ashton Kutcher walk dogs in Hollywood before labor", 
+            "url": "http://www.dailymail.co.uk/tvshowbiz/article-2772388/Mila-Kunis-Ashton-Kutcher-walk-dogs-Hollywood-park-await-child.html", 
+            "author": "worldcupforlife", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hpsq1/mila_kunis_and_ashton_kutcher_walk_dogs_in/", 
+            "created-utc": 1411929096.0, 
+            "id": "2hpsq1"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "secure.avaaz.org", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "Awesome gallery of pics from Climate Marches from around the world! 45 pics compiled by Avaaz - Share everywhere! (alternative Facebook link below)", 
+            "url": "https://secure.avaaz.org/en/climate_march_reportback/", 
+            "author": "tellman1257", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hp2f3/awesome_gallery_of_pics_from_climate_marches_from/", 
+            "created-utc": 1411911435.0, 
+            "id": "2hp2f3"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/UpliftingNews/", 

@@ -2,36 +2,12 @@
     "category": "Knowledge", 
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
-    "generated-utc": 1411912887, 
+    "generated-utc": 1411941662, 
     "posts": [
         {
-            "num-comments": 15, 
-            "domain": "cbc.ca", 
-            "score": 294, 
-            "nsfw": false, 
-            "title": "The Canadian Department of National Defence has identified the remains of four Canadian soldiers who died during the Battle of Amiens in August 1918.", 
-            "url": "http://www.cbc.ca/news/canada/wwi-canadian-soldiers-remains-identified-1.2779824", 
-            "author": "Comoquit", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hmxvx/the_canadian_department_of_national_defence_has/", 
-            "created-utc": 1411844988.0, 
-            "id": "2hmxvx"
-        }, 
-        {
-            "num-comments": 18, 
-            "domain": "duskbeforethedawn.net", 
-            "score": 225, 
-            "nsfw": false, 
-            "title": "Letters from World War I - Corporal Ellis Edmond \"Dutch\" Ketchersid, 132 Machine Gun Battalion in the 36th Division, First Army", 
-            "url": "http://www.duskbeforethedawn.net/2012/05/letters-from-world-war-i-corporal-ellis-edmond-dutch-ketchersid/", 
-            "author": "lketchersid", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hmg1f/letters_from_world_war_i_corporal_ellis_edmond/", 
-            "created-utc": 1411833640.0, 
-            "id": "2hmg1f"
-        }, 
-        {
-            "num-comments": 55, 
+            "num-comments": 154, 
             "domain": "history.com", 
-            "score": 256, 
+            "score": 606, 
             "nsfw": false, 
             "title": "8 Things You May Not Know About the Guillotine", 
             "url": "http://www.history.com/news/history-lists/8-things-you-may-not-know-about-the-guillotine", 
@@ -41,9 +17,9 @@
             "id": "2hocgm"
         }, 
         {
-            "num-comments": 27, 
+            "num-comments": 30, 
             "domain": "self.history", 
-            "score": 67, 
+            "score": 72, 
             "nsfw": false, 
             "title": "How did the roman soldiers distinguish their friends and foe during a civil war?", 
             "url": "http://www.reddit.com/r/history/comments/2hn9fq/how_did_the_roman_soldiers_distinguish_their/", 
@@ -53,33 +29,9 @@
             "id": "2hn9fq"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "youtube.com", 
-            "score": 5, 
-            "nsfw": false, 
-            "title": "Youtube Channel following the events of the Great War week-by-week.", 
-            "url": "https://www.youtube.com/user/TheGreatWar", 
-            "author": "alexgmcm", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hmn3u/youtube_channel_following_the_events_of_the_great/", 
-            "created-utc": 1411838235.0, 
-            "id": "2hmn3u"
-        }, 
-        {
-            "num-comments": 6, 
+            "num-comments": 25, 
             "domain": "self.history", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "Iran Contra affair and Watergate Scandal books?", 
-            "url": "http://www.reddit.com/r/history/comments/2hmm6e/iran_contra_affair_and_watergate_scandal_books/", 
-            "author": "rkeenan", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hmm6e/iran_contra_affair_and_watergate_scandal_books/", 
-            "created-utc": 1411837661.0, 
-            "id": "2hmm6e"
-        }, 
-        {
-            "num-comments": 16, 
-            "domain": "self.history", 
-            "score": 2, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Who is a person from history that you think could adapt to current society quite well, if you could bring them back?", 
             "url": "http://www.reddit.com/r/history/comments/2hnpsl/who_is_a_person_from_history_that_you_think_could/", 
@@ -89,9 +41,21 @@
             "id": "2hnpsl"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 1, 
+            "domain": "youtu.be", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "A look at the unexpected connections between Sir Gawain, the Crimean War, and Sherlock Holmes. A Detective Story", 
+            "url": "http://youtu.be/tGJ1fdAdn5w", 
+            "author": "sunmaster1", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hp1f9/a_look_at_the_unexpected_connections_between_sir/", 
+            "created-utc": 1411910579.0, 
+            "id": "2hp1f9"
+        }, 
+        {
+            "num-comments": 8, 
             "domain": "self.history", 
-            "score": 0, 
+            "score": 5, 
             "nsfw": false, 
             "title": "Grandpa Nazi Patch?", 
             "url": "http://www.reddit.com/r/history/comments/2hoe7l/grandpa_nazi_patch/", 
@@ -101,7 +65,7 @@
             "id": "2hoe7l"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 6, 
             "domain": "self.history", 
             "score": 1, 
             "nsfw": false, 
@@ -113,7 +77,7 @@
             "id": "2hosm8"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 7, 
             "domain": "self.history", 
             "score": 0, 
             "nsfw": false, 
@@ -125,7 +89,7 @@
             "id": "2hnzuc"
         }, 
         {
-            "num-comments": 9, 
+            "num-comments": 11, 
             "domain": "self.history", 
             "score": 0, 
             "nsfw": false, 
