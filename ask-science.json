@@ -1,13 +1,12 @@
 {
-    "category": "Knowledge", 
     "description": "Ask a science question, get a science answer", 
     "title": "AskScience: Got Questions? Get Answers.", 
-    "generated-utc": 1412010300, 
+    "generated-utc": 1412018437, 
     "posts": [
         {
-            "num-comments": 304, 
+            "num-comments": 351, 
             "domain": "self.askscience", 
-            "score": 2441, 
+            "score": 2772, 
             "nsfw": false, 
             "title": "Am I, as a human, closer in size to the earth or an atom?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hqkku/am_i_as_a_human_closer_in_size_to_the_earth_or_an/", 
@@ -17,9 +16,9 @@
             "id": "2hqkku"
         }, 
         {
-            "num-comments": 89, 
+            "num-comments": 108, 
             "domain": "self.askscience", 
-            "score": 497, 
+            "score": 575, 
             "nsfw": false, 
             "title": "Why do so many people need vision correction nowadays? From an evolutionary standpoint it makes very little sense to me.", 
             "url": "http://www.reddit.com/r/askscience/comments/2hqyq9/why_do_so_many_people_need_vision_correction/", 
@@ -29,9 +28,9 @@
             "id": "2hqyq9"
         }, 
         {
-            "num-comments": 16, 
+            "num-comments": 19, 
             "domain": "self.askscience", 
-            "score": 98, 
+            "score": 113, 
             "nsfw": false, 
             "title": "What happens to ants and their nest when it rains?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hqxgf/what_happens_to_ants_and_their_nest_when_it_rains/", 
@@ -41,9 +40,9 @@
             "id": "2hqxgf"
         }, 
         {
-            "num-comments": 33, 
+            "num-comments": 39, 
             "domain": "self.askscience", 
-            "score": 94, 
+            "score": 101, 
             "nsfw": false, 
             "title": "How would someone locate Sol from a random point in the galaxy?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hqj7s/how_would_someone_locate_sol_from_a_random_point/", 
@@ -53,9 +52,21 @@
             "id": "2hqj7s"
         }, 
         {
-            "num-comments": 10, 
+            "num-comments": 22, 
             "domain": "self.askscience", 
-            "score": 41, 
+            "score": 143, 
+            "nsfw": false, 
+            "title": "How can a single speaker make multiple notes at the same time that aren't on the same fundamental? (like a diminished chord, or a symphony", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hs7cu/how_can_a_single_speaker_make_multiple_notes_at/", 
+            "author": "TheOber", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hs7cu/how_can_a_single_speaker_make_multiple_notes_at/", 
+            "created-utc": 1411994465.0, 
+            "id": "2hs7cu"
+        }, 
+        {
+            "num-comments": 11, 
+            "domain": "self.askscience", 
+            "score": 44, 
             "nsfw": false, 
             "title": "Is there any known way to combine genetic material from two males to form offspring that contains their genetic makeup?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hq3d4/is_there_any_known_way_to_combine_genetic/", 
@@ -67,7 +78,7 @@
         {
             "num-comments": 14, 
             "domain": "self.askscience", 
-            "score": 38, 
+            "score": 35, 
             "nsfw": false, 
             "title": "Is it possible to convert the co2 in mars (or similar planets) atmosphere into o2?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hpwdo/is_it_possible_to_convert_the_co2_in_mars_or/", 
@@ -79,7 +90,7 @@
         {
             "num-comments": 18, 
             "domain": "self.askscience", 
-            "score": 25, 
+            "score": 24, 
             "nsfw": false, 
             "title": "Is this our universes first big bang?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hqndl/is_this_our_universes_first_big_bang/", 
@@ -89,21 +100,9 @@
             "id": "2hqndl"
         }, 
         {
-            "num-comments": 8, 
-            "domain": "self.askscience", 
-            "score": 48, 
-            "nsfw": false, 
-            "title": "How can a single speaker make multiple notes at the same time that aren't on the same fundamental? (like a diminished chord, or a symphony", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hs7cu/how_can_a_single_speaker_make_multiple_notes_at/", 
-            "author": "TheOber", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hs7cu/how_can_a_single_speaker_make_multiple_notes_at/", 
-            "created-utc": 1411994465.0, 
-            "id": "2hs7cu"
-        }, 
-        {
             "num-comments": 19, 
             "domain": "self.askscience", 
-            "score": 17, 
+            "score": 16, 
             "nsfw": false, 
             "title": "What's preventing us from wireless electricity?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hppop/whats_preventing_us_from_wireless_electricity/", 
@@ -113,21 +112,9 @@
             "id": "2hppop"
         }, 
         {
-            "num-comments": 14, 
+            "num-comments": 15, 
             "domain": "self.askscience", 
-            "score": 19, 
-            "nsfw": false, 
-            "title": "What are the statistical chances of a gamma ray burst (GRB) hitting us directly?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hphou/what_are_the_statistical_chances_of_a_gamma_ray/", 
-            "author": "tvxcute", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hphou/what_are_the_statistical_chances_of_a_gamma_ray/", 
-            "created-utc": 1411922468.0, 
-            "id": "2hphou"
-        }, 
-        {
-            "num-comments": 14, 
-            "domain": "self.askscience", 
-            "score": 14, 
+            "score": 15, 
             "nsfw": false, 
             "title": "Is there any reaction in the physical world caused by something else that is truly 'instant'?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hq8gk/is_there_any_reaction_in_the_physical_world/", 
@@ -173,7 +160,7 @@
             "id": "2hqdzw"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 7, 
             "domain": "self.askscience", 
             "score": 9, 
             "nsfw": false, 
@@ -187,7 +174,7 @@
         {
             "num-comments": 3, 
             "domain": "self.askscience", 
-            "score": 10, 
+            "score": 9, 
             "nsfw": false, 
             "title": "What makes coffee act as a laxative, and how does it work?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hpnac/what_makes_coffee_act_as_a_laxative_and_how_does/", 
@@ -197,21 +184,21 @@
             "id": "2hpnac"
         }, 
         {
-            "num-comments": 9, 
+            "num-comments": 1, 
             "domain": "self.askscience", 
-            "score": 6, 
+            "score": 8, 
             "nsfw": false, 
-            "title": "What would happen to all our math and physics equations were we to adopt a duodecimal system?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hrg9j/what_would_happen_to_all_our_math_and_physics/", 
-            "author": "jdgmntday", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hrg9j/what_would_happen_to_all_our_math_and_physics/", 
-            "created-utc": 1411965839.0, 
-            "id": "2hrg9j"
+            "title": "If I drop my cell phone into a beaker of pure, deionized water, would it be damaged?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hroqw/if_i_drop_my_cell_phone_into_a_beaker_of_pure/", 
+            "author": "FuckYouCaptainTom", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hroqw/if_i_drop_my_cell_phone_into_a_beaker_of_pure/", 
+            "created-utc": 1411973433.0, 
+            "id": "2hroqw"
         }, 
         {
             "num-comments": 6, 
             "domain": "self.askscience", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Why can I only drum my fingers fast in one direction?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hq7zf/why_can_i_only_drum_my_fingers_fast_in_one/", 
@@ -221,9 +208,21 @@
             "id": "2hq7zf"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 9, 
             "domain": "self.askscience", 
-            "score": 6, 
+            "score": 7, 
+            "nsfw": false, 
+            "title": "What would happen to all our math and physics equations were we to adopt a duodecimal system?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hrg9j/what_would_happen_to_all_our_math_and_physics/", 
+            "author": "jdgmntday", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hrg9j/what_would_happen_to_all_our_math_and_physics/", 
+            "created-utc": 1411965839.0, 
+            "id": "2hrg9j"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "self.askscience", 
+            "score": 7, 
             "nsfw": false, 
             "title": "Why is solar distillation not used in hot, arid climates?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hqqyl/why_is_solar_distillation_not_used_in_hot_arid/", 
@@ -245,9 +244,21 @@
             "id": "2hqclg"
         }, 
         {
+            "num-comments": 3, 
+            "domain": "self.askscience", 
+            "score": 14, 
+            "nsfw": false, 
+            "title": "Could we eradicate the common cold if everyone who currently has the cold quarantined themselves and didn't give it to anyone?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hs2ud/could_we_eradicate_the_common_cold_if_everyone/", 
+            "author": "Buckfost", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hs2ud/could_we_eradicate_the_common_cold_if_everyone/", 
+            "created-utc": 1411990335.0, 
+            "id": "2hs2ud"
+        }, 
+        {
             "num-comments": 5, 
             "domain": "self.askscience", 
-            "score": 5, 
+            "score": 10, 
             "nsfw": false, 
             "title": "Why do we \"Weigh\" things in kg,g,and mg, if grams are units of mass? If I've got some powder on a scale and it reads 40mg, is it actually calculating the weight and then dividing it by 9.8 to tell me the total mass of the powder on the scale?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hrt3c/why_do_we_weigh_things_in_kggand_mg_if_grams_are/", 
@@ -257,21 +268,9 @@
             "id": "2hrt3c"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "self.askscience", 
-            "score": 8, 
-            "nsfw": false, 
-            "title": "If I drop my cell phone into a beaker of pure, deionized water, would it be damaged?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hroqw/if_i_drop_my_cell_phone_into_a_beaker_of_pure/", 
-            "author": "FuckYouCaptainTom", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hroqw/if_i_drop_my_cell_phone_into_a_beaker_of_pure/", 
-            "created-utc": 1411973433.0, 
-            "id": "2hroqw"
-        }, 
-        {
             "num-comments": 3, 
             "domain": "self.askscience", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Is there a physiological difference in how we read off of paper as opposed to how we read off a screen?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hqdsi/is_there_a_physiological_difference_in_how_we/", 
@@ -281,9 +280,21 @@
             "id": "2hqdsi"
         }, 
         {
-            "num-comments": 5, 
+            "num-comments": 12, 
             "domain": "self.askscience", 
-            "score": 4, 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "Can you fire an object that can go nearly as fast as light, from a craft that's ALSO going almost the speed of light, and have the projectile reach the speed of light?", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hsubj/can_you_fire_an_object_that_can_go_nearly_as_fast/", 
+            "author": "allshamnow0w", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hsubj/can_you_fire_an_object_that_can_go_nearly_as_fast/", 
+            "created-utc": 1412009031.0, 
+            "id": "2hsubj"
+        }, 
+        {
+            "num-comments": 6, 
+            "domain": "self.askscience", 
+            "score": 13, 
             "nsfw": false, 
             "title": "Does your body employ any kind of error correction on the electrical signals in the neurological system?", 
             "url": "http://www.reddit.com/r/askscience/comments/2hs832/does_your_body_employ_any_kind_of_error/", 
@@ -291,20 +302,9 @@
             "permalink": "http://www.reddit.com/r/askscience/comments/2hs832/does_your_body_employ_any_kind_of_error/", 
             "created-utc": 1411995034.0, 
             "id": "2hs832"
-        }, 
-        {
-            "num-comments": 4, 
-            "domain": "self.askscience", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "How is ice/water erosion prevented or minimized in jet engines?", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hqmzh/how_is_icewater_erosion_prevented_or_minimized_in/", 
-            "author": "raoulk", 
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hqmzh/how_is_icewater_erosion_prevented_or_minimized_in/", 
-            "created-utc": 1411947182.0, 
-            "id": "2hqmzh"
         }
     ], 
+    "subreddit": "/r/askscience/", 
     "reddit-url": "http://www.reddit.com/r/askscience/", 
     "api-url": "http://daily.red/ask-science.json", 
     "display-name": "Ask Science"

@@ -1,13 +1,12 @@
 {
-    "category": "Knowledge", 
     "description": "The best forum and archive on the internet for layman-friendly Q&A.", 
     "title": "Explain Like I'm Five | Don't Panic!", 
-    "generated-utc": 1412010311, 
+    "generated-utc": 1412018447, 
     "posts": [
         {
-            "num-comments": 446, 
+            "num-comments": 563, 
             "domain": "self.explainlikeimfive", 
-            "score": 1794, 
+            "score": 2266, 
             "nsfw": false, 
             "title": "ELI5: Whenever I hear a fork scratching the surface of a china plate, my body shudders. What causes this to happen?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hs0kk/eli5_whenever_i_hear_a_fork_scratching_the/", 
@@ -19,7 +18,7 @@
         {
             "num-comments": 56, 
             "domain": "self.explainlikeimfive", 
-            "score": 522, 
+            "score": 532, 
             "nsfw": false, 
             "title": "ELI5: Why I can memorize complicated formulas, but I struggle with knowing what letter comes next in the alphabet without singing it?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hplic/eli5_why_i_can_memorize_complicated_formulas_but/", 
@@ -29,21 +28,9 @@
             "id": "2hplic"
         }, 
         {
-            "num-comments": 85, 
+            "num-comments": 61, 
             "domain": "self.explainlikeimfive", 
-            "score": 345, 
-            "nsfw": false, 
-            "title": "ELI5: why is an anvil shaped the way that it is?", 
-            "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hpexx/eli5_why_is_an_anvil_shaped_the_way_that_it_is/", 
-            "author": "Hamburger212", 
-            "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hpexx/eli5_why_is_an_anvil_shaped_the_way_that_it_is/", 
-            "created-utc": 1411920742.0, 
-            "id": "2hpexx"
-        }, 
-        {
-            "num-comments": 56, 
-            "domain": "self.explainlikeimfive", 
-            "score": 198, 
+            "score": 209, 
             "nsfw": false, 
             "title": "ELI5: The political turmoil in Hong Kong. What caused it, why it's such a big problem.", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hqwn5/eli5_the_political_turmoil_in_hong_kong_what/", 
@@ -53,9 +40,9 @@
             "id": "2hqwn5"
         }, 
         {
-            "num-comments": 57, 
+            "num-comments": 71, 
             "domain": "self.explainlikeimfive", 
-            "score": 118, 
+            "score": 123, 
             "nsfw": false, 
             "title": "ELI5: Why do living things all have to eventually die?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hra5r/eli5_why_do_living_things_all_have_to_eventually/", 
@@ -65,9 +52,9 @@
             "id": "2hra5r"
         }, 
         {
-            "num-comments": 15, 
+            "num-comments": 19, 
             "domain": "self.explainlikeimfive", 
-            "score": 81, 
+            "score": 89, 
             "nsfw": false, 
             "title": "ELI5:Why does moving your hair hurt after having a hat on for a while.", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hr2ye/eli5why_does_moving_your_hair_hurt_after_having_a/", 
@@ -77,9 +64,9 @@
             "id": "2hr2ye"
         }, 
         {
-            "num-comments": 24, 
+            "num-comments": 28, 
             "domain": "self.explainlikeimfive", 
-            "score": 69, 
+            "score": 83, 
             "nsfw": false, 
             "title": "ELI5: If the Islamic State is making all of it's money from oil refineries, who is purchasing the oil and are they allowed to do so?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hrz0s/eli5_if_the_islamic_state_is_making_all_of_its/", 
@@ -91,7 +78,7 @@
         {
             "num-comments": 21, 
             "domain": "self.explainlikeimfive", 
-            "score": 62, 
+            "score": 65, 
             "nsfw": false, 
             "title": "ELI5:Does leaving the charger in mobile technologies (i.e., laptops, tablets, phones, etc...) really degrade the battery life significantly or is it just some tech myth?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hpqey/eli5does_leaving_the_charger_in_mobile/", 
@@ -101,9 +88,9 @@
             "id": "2hpqey"
         }, 
         {
-            "num-comments": 19, 
+            "num-comments": 21, 
             "domain": "self.explainlikeimfive", 
-            "score": 51, 
+            "score": 54, 
             "nsfw": false, 
             "title": "ELI5: What is happening when I try to hit 'back' on a webpage a thousand times, but it just keeps reloading the page and won't go back?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hqg08/eli5_what_is_happening_when_i_try_to_hit_back_on/", 
@@ -115,7 +102,7 @@
         {
             "num-comments": 24, 
             "domain": "self.explainlikeimfive", 
-            "score": 36, 
+            "score": 33, 
             "nsfw": false, 
             "title": "ELI5: How do sports commentators (NFL, NBA, MLB) pull up random facts and stats so quick?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hpx5d/eli5_how_do_sports_commentators_nfl_nba_mlb_pull/", 
@@ -125,9 +112,9 @@
             "id": "2hpx5d"
         }, 
         {
-            "num-comments": 37, 
+            "num-comments": 38, 
             "domain": "self.explainlikeimfive", 
-            "score": 28, 
+            "score": 25, 
             "nsfw": false, 
             "title": "ELI5: Why do my punches feel weak in my dreams?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hq07i/eli5_why_do_my_punches_feel_weak_in_my_dreams/", 
@@ -137,9 +124,9 @@
             "id": "2hq07i"
         }, 
         {
-            "num-comments": 13, 
+            "num-comments": 21, 
             "domain": "self.explainlikeimfive", 
-            "score": 22, 
+            "score": 26, 
             "nsfw": false, 
             "title": "ELI5: Where does the debt a person had go when he/she dies?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hrp3w/eli5_where_does_the_debt_a_person_had_go_when/", 
@@ -151,7 +138,7 @@
         {
             "num-comments": 4, 
             "domain": "self.explainlikeimfive", 
-            "score": 21, 
+            "score": 20, 
             "nsfw": false, 
             "title": "ELI5: Why do I wake up with a stuffy nose when I stay the night at somebody else's place?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hq8rs/eli5_why_do_i_wake_up_with_a_stuffy_nose_when_i/", 
@@ -161,21 +148,9 @@
             "id": "2hq8rs"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 14, 
             "domain": "self.explainlikeimfive", 
-            "score": 21, 
-            "nsfw": false, 
-            "title": "ELI5:Hong Kong's Occupy Central", 
-            "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hphpl/eli5hong_kongs_occupy_central/", 
-            "author": "justcreepinandpeepin", 
-            "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hphpl/eli5hong_kongs_occupy_central/", 
-            "created-utc": 1411922479.0, 
-            "id": "2hphpl"
-        }, 
-        {
-            "num-comments": 12, 
-            "domain": "self.explainlikeimfive", 
-            "score": 21, 
+            "score": 24, 
             "nsfw": false, 
             "title": "ELI5: What is happening when we learn to like something like coffee?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hs0df/eli5_what_is_happening_when_we_learn_to_like/", 
@@ -185,21 +160,9 @@
             "id": "2hs0df"
         }, 
         {
-            "num-comments": 11, 
+            "num-comments": 23, 
             "domain": "self.explainlikeimfive", 
-            "score": 20, 
-            "nsfw": false, 
-            "title": "ELI5: Sometimes when I go to bed, I fall asleep for 15 minutes and wake up completely refreshed and unable to fall back asleep for hours. How does this happen?", 
-            "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hpi6t/eli5_sometimes_when_i_go_to_bed_i_fall_asleep_for/", 
-            "author": "Poppin__Fresh", 
-            "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hpi6t/eli5_sometimes_when_i_go_to_bed_i_fall_asleep_for/", 
-            "created-utc": 1411922760.0, 
-            "id": "2hpi6t"
-        }, 
-        {
-            "num-comments": 19, 
-            "domain": "self.explainlikeimfive", 
-            "score": 14, 
+            "score": 19, 
             "nsfw": false, 
             "title": "ELI5: Is there a practical reason why some brands make phones without removable battery / SDcard, or they're just fucking with us?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hs1et/eli5_is_there_a_practical_reason_why_some_brands/", 
@@ -211,7 +174,7 @@
         {
             "num-comments": 16, 
             "domain": "self.explainlikeimfive", 
-            "score": 14, 
+            "score": 13, 
             "nsfw": false, 
             "title": "ELI5: How come the US is eager to spread to democracy in the middle east, but hasn't taken a stance on the Hong Kong protests even though citizens are specifically asking for democracy?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hr0if/eli5_how_come_the_us_is_eager_to_spread_to/", 
@@ -223,7 +186,7 @@
         {
             "num-comments": 5, 
             "domain": "self.explainlikeimfive", 
-            "score": 14, 
+            "score": 13, 
             "nsfw": false, 
             "title": "ELI5: Why are people given a paper bag when hyperventilating?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hqu5a/eli5_why_are_people_given_a_paper_bag_when/", 
@@ -235,7 +198,7 @@
         {
             "num-comments": 2, 
             "domain": "self.explainlikeimfive", 
-            "score": 13, 
+            "score": 12, 
             "nsfw": false, 
             "title": "ELI5: Sleeping plants/trees", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hr63v/eli5_sleeping_plantstrees/", 
@@ -247,7 +210,7 @@
         {
             "num-comments": 8, 
             "domain": "self.explainlikeimfive", 
-            "score": 12, 
+            "score": 13, 
             "nsfw": false, 
             "title": "ELI5: Why are people gifted in one area of learning, but not another?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hr3xt/eli5_why_are_people_gifted_in_one_area_of/", 
@@ -259,7 +222,7 @@
         {
             "num-comments": 15, 
             "domain": "self.explainlikeimfive", 
-            "score": 15, 
+            "score": 13, 
             "nsfw": false, 
             "title": "ELI5: How come if I dream about someone I wake up having feelings toward that person", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hq96r/eli5_how_come_if_i_dream_about_someone_i_wake_up/", 
@@ -267,18 +230,6 @@
             "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hq96r/eli5_how_come_if_i_dream_about_someone_i_wake_up/", 
             "created-utc": 1411938581.0, 
             "id": "2hq96r"
-        }, 
-        {
-            "num-comments": 12, 
-            "domain": "self.explainlikeimfive", 
-            "score": 12, 
-            "nsfw": false, 
-            "title": "ELI5: How does electricity work?", 
-            "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hpje7/eli5_how_does_electricity_work/", 
-            "author": "TheSlownessOfCows", 
-            "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hpje7/eli5_how_does_electricity_work/", 
-            "created-utc": 1411923480.0, 
-            "id": "2hpje7"
         }, 
         {
             "num-comments": 15, 
@@ -293,9 +244,9 @@
             "id": "2hr67h"
         }, 
         {
-            "num-comments": 15, 
+            "num-comments": 17, 
             "domain": "self.explainlikeimfive", 
-            "score": 12, 
+            "score": 10, 
             "nsfw": false, 
             "title": "ELI5: is there anyway you could beat cancer without any kind of treatment? If so how does it work?", 
             "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hr2dl/eli5_is_there_anyway_you_could_beat_cancer/", 
@@ -303,8 +254,57 @@
             "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hr2dl/eli5_is_there_anyway_you_could_beat_cancer/", 
             "created-utc": 1411956798.0, 
             "id": "2hr2dl"
+        }, 
+        {
+            "num-comments": 22, 
+            "domain": "self.explainlikeimfive", 
+            "score": 11, 
+            "nsfw": false, 
+            "title": "ELI5: Why do we put the dollar sign in front of a number but pronounce it, number first than currency. But when we have a percentage we place the symbol after and pronounce it as is?", 
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hplfp/eli5_why_do_we_put_the_dollar_sign_in_front_of_a/", 
+            "author": "Uzi109", 
+            "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hplfp/eli5_why_do_we_put_the_dollar_sign_in_front_of_a/", 
+            "created-utc": 1411924721.0, 
+            "id": "2hplfp"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "self.explainlikeimfive", 
+            "score": 21, 
+            "nsfw": false, 
+            "title": "ELI5: why does my body tell me to scratch, when it basically worsens absolutely everything? (Scabs, rashes, bug bites, pox, poison ivy)", 
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hslui/eli5_why_does_my_body_tell_me_to_scratch_when_it/", 
+            "author": "poop-chalupa", 
+            "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hslui/eli5_why_does_my_body_tell_me_to_scratch_when_it/", 
+            "created-utc": 1412004032.0, 
+            "id": "2hslui"
+        }, 
+        {
+            "num-comments": 12, 
+            "domain": "self.explainlikeimfive", 
+            "score": 18, 
+            "nsfw": false, 
+            "title": "ELI5: How does the moon's gravitational pull have such a strong effect on the incredibly heavy and massive ocean, while it has no visible effect on a glass of water?", 
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hsgw1/eli5_how_does_the_moons_gravitational_pull_have/", 
+            "author": "idontfrikkincare", 
+            "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hsgw1/eli5_how_does_the_moons_gravitational_pull_have/", 
+            "created-utc": 1412000897.0, 
+            "id": "2hsgw1"
+        }, 
+        {
+            "num-comments": 13, 
+            "domain": "self.explainlikeimfive", 
+            "score": 9, 
+            "nsfw": false, 
+            "title": "ELI5:Why is 12:00 \"twelve 'o clock\" but 12:30 \"twelve thirty\"? What is \"o clock\"?", 
+            "url": "http://www.reddit.com/r/explainlikeimfive/comments/2hqg2e/eli5why_is_1200_twelve_o_clock_but_1230_twelve/", 
+            "author": "nubetube", 
+            "permalink": "http://www.reddit.com/r/explainlikeimfive/comments/2hqg2e/eli5why_is_1200_twelve_o_clock_but_1230_twelve/", 
+            "created-utc": 1411942824.0, 
+            "id": "2hqg2e"
         }
     ], 
+    "subreddit": "/r/explainlikeimfive/", 
     "reddit-url": "http://www.reddit.com/r/explainlikeimfive/", 
     "api-url": "http://daily.red/explain-like-i-am-five.json", 
     "display-name": "Explain Like I'm Five"

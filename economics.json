@@ -1,37 +1,12 @@
 {
-    "category": "News", 
     "description": "News and discussion about economics, from the perspective of economists", 
     "title": "The Dismal Science", 
-    "generated-utc": 1412010267, 
+    "generated-utc": 1412018404, 
     "posts": [
         {
-            "num-comments": 59, 
-            "domain": "libertystreeteconomics.newyorkfed.org", 
-            "score": 275, 
-            "nsfw": false, 
-            "title": "Federal Reserve Bank of New York releases the code for its internal DSGE model!", 
-            "url": "http://libertystreeteconomics.newyorkfed.org/2014/09/the-frbny-dsge-model-forecast.html#.VCg4ufldWSo", 
-            "author": "ocamlmycaml", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hph68/federal_reserve_bank_of_new_york_releases_the/", 
-            "created-utc": 1411922172.0, 
-            "id": "2hph68"
-        }, 
-        {
-            "num-comments": 21, 
-            "domain": "vox.com", 
-            "score": 72, 
-            "nsfw": false, 
-            "title": "Hong Kong used to be 18 percent of China's GDP. Now it's 3 percent. - Vox", 
-            "url": "http://www.vox.com/2014/9/28/6857567/hong-kong-used-to-be-18-percent-of-chinas-gdp-now-its-3-percent?utm_campaign=vox&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter", 
-            "author": "jimrosenz", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hpxdq/hong_kong_used_to_be_18_percent_of_chinas_gdp_now/", 
-            "created-utc": 1411931861.0, 
-            "id": "2hpxdq"
-        }, 
-        {
-            "num-comments": 2, 
+            "num-comments": 4, 
             "domain": "focus-economics.com", 
-            "score": 91, 
+            "score": 112, 
             "nsfw": false, 
             "title": "Spain Retail Sales record largest drop in a year", 
             "url": "http://www.focus-economics.com/news/spain/retail/retail-sales-record-largest-drop-year-august", 
@@ -41,9 +16,21 @@
             "id": "2hs2pk"
         }, 
         {
-            "num-comments": 37, 
+            "num-comments": 23, 
+            "domain": "vox.com", 
+            "score": 75, 
+            "nsfw": false, 
+            "title": "Hong Kong used to be 18 percent of China's GDP. Now it's 3 percent. - Vox", 
+            "url": "http://www.vox.com/2014/9/28/6857567/hong-kong-used-to-be-18-percent-of-chinas-gdp-now-its-3-percent?utm_campaign=vox&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter", 
+            "author": "jimrosenz", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hpxdq/hong_kong_used_to_be_18_percent_of_chinas_gdp_now/", 
+            "created-utc": 1411931861.0, 
+            "id": "2hpxdq"
+        }, 
+        {
+            "num-comments": 43, 
             "domain": "washingtonpost.com", 
-            "score": 45, 
+            "score": 50, 
             "nsfw": false, 
             "title": "This depressing chart shows that the rich aren\u2019t just grabbing a bigger slice of the income pie \u2014 they\u2019re taking all of it", 
             "url": "http://www.washingtonpost.com/blogs/wonkblog/wp/2014/09/25/this-depressing-chart-shows-that-the-rich-arent-just-grabbing-a-bigger-slice-of-the-income-pie-theyre-taking-all-of-it/?Post+generic=%3Ftid%3Dsm_twitter_washingtonpost", 
@@ -55,7 +42,7 @@
         {
             "num-comments": 3, 
             "domain": "voxeu.org", 
-            "score": 36, 
+            "score": 35, 
             "nsfw": false, 
             "title": "Real wages continue to fall in the UK", 
             "url": "http://www.voxeu.org/article/real-wages-continue-fall-uk", 
@@ -79,7 +66,7 @@
         {
             "num-comments": 0, 
             "domain": "economist.com", 
-            "score": 26, 
+            "score": 28, 
             "nsfw": false, 
             "title": "The size and homogeneity of a country\u2019s population has a big bearing on its economic policies", 
             "url": "http://www.economist.com/news/finance-and-economics/21620204-size-and-homogeneity-countrys-population-has-big-bearing-its-economic?fsrc=scn/fb/te/pe/ed/goldilocksnationalism", 
@@ -89,9 +76,21 @@
             "id": "2hpqqw"
         }, 
         {
-            "num-comments": 9, 
+            "num-comments": 19, 
+            "domain": "econtutorials.com", 
+            "score": 31, 
+            "nsfw": false, 
+            "title": "Central Banks and their functions", 
+            "url": "http://econtutorials.com/blog/central-banks-function/", 
+            "author": "marjankhan", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hry6n/central_banks_and_their_functions/", 
+            "created-utc": 1411984747.0, 
+            "id": "2hry6n"
+        }, 
+        {
+            "num-comments": 13, 
             "domain": "voxeu.org", 
-            "score": 26, 
+            "score": 34, 
             "nsfw": false, 
             "title": "Americans work long and at strange times", 
             "url": "http://www.voxeu.org/article/americans-work-long-and-strange-times", 
@@ -101,16 +100,16 @@
             "id": "2hrpu2"
         }, 
         {
-            "num-comments": 13, 
-            "domain": "econtutorials.com", 
-            "score": 26, 
+            "num-comments": 8, 
+            "domain": "i.imgur.com", 
+            "score": 12, 
             "nsfw": false, 
-            "title": "Central Banks and their functions", 
-            "url": "http://econtutorials.com/blog/central-banks-function/", 
-            "author": "marjankhan", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hry6n/central_banks_and_their_functions/", 
-            "created-utc": 1411984747.0, 
-            "id": "2hry6n"
+            "title": "Annual farm cash receipts for vegetables and melons, 1925-2011 [% By US State Time Series] [GIF]", 
+            "url": "http://i.imgur.com/r2v2vQH.gif", 
+            "author": "metricmapsore", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hqw2g/annual_farm_cash_receipts_for_vegetables_and/", 
+            "created-utc": 1411952824.0, 
+            "id": "2hqw2g"
         }, 
         {
             "num-comments": 1, 
@@ -125,33 +124,9 @@
             "id": "2hqsxd"
         }, 
         {
-            "num-comments": 7, 
-            "domain": "i.imgur.com", 
-            "score": 10, 
-            "nsfw": false, 
-            "title": "Annual farm cash receipts for vegetables and melons, 1925-2011 [% By US State Time Series] [GIF]", 
-            "url": "http://i.imgur.com/r2v2vQH.gif", 
-            "author": "metricmapsore", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hqw2g/annual_farm_cash_receipts_for_vegetables_and/", 
-            "created-utc": 1411952824.0, 
-            "id": "2hqw2g"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "focus-economics.com", 
-            "score": 10, 
-            "nsfw": false, 
-            "title": "Austria: PMI drops into contraction territory in September", 
-            "url": "http://www.focus-economics.com/news/austria/pmi/pmi-drops-contraction-territory-september", 
-            "author": "mimibcn", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hs2q4/austria_pmi_drops_into_contraction_territory_in/", 
-            "created-utc": 1411990190.0, 
-            "id": "2hs2q4"
-        }, 
-        {
-            "num-comments": 0, 
+            "num-comments": 1, 
             "domain": "youtube.com", 
-            "score": 9, 
+            "score": 10, 
             "nsfw": false, 
             "title": "The Economist: How has the use of cash changed in America?", 
             "url": "https://www.youtube.com/watch?v=Vl-ESkQcn1o", 
@@ -161,9 +136,21 @@
             "id": "2hrviu"
         }, 
         {
+            "num-comments": 0, 
+            "domain": "focus-economics.com", 
+            "score": 14, 
+            "nsfw": false, 
+            "title": "Austria: PMI drops into contraction territory in September", 
+            "url": "http://www.focus-economics.com/news/austria/pmi/pmi-drops-contraction-territory-september", 
+            "author": "mimibcn", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hs2q4/austria_pmi_drops_into_contraction_territory_in/", 
+            "created-utc": 1411990190.0, 
+            "id": "2hs2q4"
+        }, 
+        {
             "num-comments": 4, 
             "domain": "vox.com", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "title": "most important chart about the US economy this year", 
             "url": "http://www.vox.com/xpress/2014/9/25/6843509/income-distribution-recoveries-pavlina-tcherneva", 
@@ -174,44 +161,8 @@
         }, 
         {
             "num-comments": 1, 
-            "domain": "ecb.europa.eu", 
-            "score": 8, 
-            "nsfw": false, 
-            "title": "ECB: No. 1736: Measuring the effectiveness of cost and price competitiveness in external rebalancing of euro area countries: What do alternative HCIs tell us?, by Styliani Christodoulopoulou, Olegs Tkacevs (PDF)", 
-            "url": "http://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1736.pdf", 
-            "author": "Central_Bank_Bot", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hrvui/ecb_no_1736_measuring_the_effectiveness_of_cost/", 
-            "created-utc": 1411981898.0, 
-            "id": "2hrvui"
-        }, 
-        {
-            "num-comments": 16, 
-            "domain": "forbes.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "Enough Already With The Sweeping Claims That Economics Is Unscientific - Forbes", 
-            "url": "http://www.forbes.com/sites/modeledbehavior/2014/09/28/economics-science/", 
-            "author": "jimrosenz", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hpvxn/enough_already_with_the_sweeping_claims_that/", 
-            "created-utc": 1411931007.0, 
-            "id": "2hpvxn"
-        }, 
-        {
-            "num-comments": 7, 
-            "domain": "reuters.com", 
-            "score": 5, 
-            "nsfw": false, 
-            "title": "Fed hawk Fisher says U.S. risks falling behind curve on inflation", 
-            "url": "http://www.reuters.com/article/2014/09/28/us-fed-fisher-idUSKCN0HN0QX20140928?feedType=RSS&amp;feedName=GCA-Economy2010", 
-            "author": "Shares_RSS", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hpizx/fed_hawk_fisher_says_us_risks_falling_behind/", 
-            "created-utc": 1411923247.0, 
-            "id": "2hpizx"
-        }, 
-        {
-            "num-comments": 1, 
             "domain": "thenewlocalization.com", 
-            "score": 8, 
+            "score": 10, 
             "nsfw": false, 
             "title": "Store Brands to Cover Bands: The Lost Art of Local Imitation", 
             "url": "http://thenewlocalization.com/2014/09/28/store-brands-to-cover-bands-the-lost-art-of-local-imitation/", 
@@ -221,33 +172,21 @@
             "id": "2hs4lu"
         }, 
         {
-            "num-comments": 7, 
-            "domain": "businessperspectives.org", 
-            "score": 6, 
-            "nsfw": false, 
-            "title": "Government ownership and corporate performance \u2013 evidence from green technology industry in Taiwan", 
-            "url": "http://businessperspectives.org/journals_free/imfi/2013/imfi_en_2013_01_Chiang.pdf", 
-            "author": "AntiNeoLiberal", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hryg7/government_ownership_and_corporate_performance/", 
-            "created-utc": 1411985095.0, 
-            "id": "2hryg7"
-        }, 
-        {
             "num-comments": 1, 
-            "domain": "nber.org", 
+            "domain": "ecb.europa.eu", 
             "score": 7, 
             "nsfw": false, 
-            "title": "Non-Legal-Tender Paper Money: The Structure and Performance of Maryland's Bills of Credit, 1767-1775 -- by Farley Grubb, Jim Celia (PDF)", 
-            "url": "http://www.nber.org/papers/w20524", 
+            "title": "ECB: No. 1736: Measuring the effectiveness of cost and price competitiveness in external rebalancing of euro area countries: What do alternative HCIs tell us?, by Styliani Christodoulopoulou, Olegs Tkacevs (PDF)", 
+            "url": "http://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1736.pdf", 
             "author": "Central_Bank_Bot", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hs95x/nonlegaltender_paper_money_the_structure_and/", 
-            "created-utc": 1411995898.0, 
-            "id": "2hs95x"
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hrvui/ecb_no_1736_measuring_the_effectiveness_of_cost/", 
+            "created-utc": 1411981898.0, 
+            "id": "2hrvui"
         }, 
         {
             "num-comments": 0, 
             "domain": "abcnews.go.com", 
-            "score": 6, 
+            "score": 11, 
             "nsfw": false, 
             "title": "US Consumer Spending up 0.5 Percent in August", 
             "url": "http://abcnews.go.com/Business/wireStory/us-consumer-spending-05-percent-august-25832790", 
@@ -259,7 +198,7 @@
         {
             "num-comments": 0, 
             "domain": "deredactie.be", 
-            "score": 7, 
+            "score": 13, 
             "nsfw": false, 
             "title": "FlandersNews.be: Prices are going down in Belgium", 
             "url": "http://deredactie.be/cm/vrtnieuws.english/News/140930_deflation-belgium", 
@@ -267,6 +206,54 @@
             "permalink": "http://www.reddit.com/r/Economics/comments/2hs441/flandersnewsbe_prices_are_going_down_in_belgium/", 
             "created-utc": 1411991570.0, 
             "id": "2hs441"
+        }, 
+        {
+            "num-comments": 7, 
+            "domain": "businessperspectives.org", 
+            "score": 8, 
+            "nsfw": false, 
+            "title": "Government ownership and corporate performance \u2013 evidence from green technology industry in Taiwan", 
+            "url": "http://businessperspectives.org/journals_free/imfi/2013/imfi_en_2013_01_Chiang.pdf", 
+            "author": "AntiNeoLiberal", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hryg7/government_ownership_and_corporate_performance/", 
+            "created-utc": 1411985095.0, 
+            "id": "2hryg7"
+        }, 
+        {
+            "num-comments": 16, 
+            "domain": "forbes.com", 
+            "score": 6, 
+            "nsfw": false, 
+            "title": "Enough Already With The Sweeping Claims That Economics Is Unscientific - Forbes", 
+            "url": "http://www.forbes.com/sites/modeledbehavior/2014/09/28/economics-science/", 
+            "author": "jimrosenz", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hpvxn/enough_already_with_the_sweeping_claims_that/", 
+            "created-utc": 1411931007.0, 
+            "id": "2hpvxn"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "coordinationproblem.org", 
+            "score": 9, 
+            "nsfw": false, 
+            "title": "Thomson Reuters Nobel Predictions for 2014 for Economics", 
+            "url": "http://www.coordinationproblem.org/2014/09/thomson-reuters-nobel-predictions-for-2014.html", 
+            "author": "fatal-conceit", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hsles/thomson_reuters_nobel_predictions_for_2014_for/", 
+            "created-utc": 1412003754.0, 
+            "id": "2hsles"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "nber.org", 
+            "score": 6, 
+            "nsfw": false, 
+            "title": "Non-Legal-Tender Paper Money: The Structure and Performance of Maryland's Bills of Credit, 1767-1775 -- by Farley Grubb, Jim Celia (PDF)", 
+            "url": "http://www.nber.org/papers/w20524", 
+            "author": "Central_Bank_Bot", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hs95x/nonlegaltender_paper_money_the_structure_and/", 
+            "created-utc": 1411995898.0, 
+            "id": "2hs95x"
         }, 
         {
             "num-comments": 0, 
@@ -282,29 +269,42 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "laht.com", 
-            "score": 6, 
+            "domain": "finance.yahoo.com", 
+            "score": 7, 
             "nsfw": false, 
-            "title": "Venezuela Oil Price Falls Again to New 3 Year Low", 
-            "url": "http://www.laht.com/article.asp?ArticleId=2354105&amp;CategoryId=10717", 
-            "author": "jogam123", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hpmkz/venezuela_oil_price_falls_again_to_new_3_year_low/", 
-            "created-utc": 1411925415.0, 
-            "id": "2hpmkz"
+            "title": "Katy Barnato: Why the next global crisis may stem from China", 
+            "url": "http://finance.yahoo.com/news/why-next-global-crisis-may-stem-china-112256351.html", 
+            "author": "briancady413", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hsims/katy_barnato_why_the_next_global_crisis_may_stem/", 
+            "created-utc": 1412001995.0, 
+            "id": "2hsims"
         }, 
         {
             "num-comments": 0, 
-            "domain": "coordinationproblem.org", 
-            "score": 5, 
+            "domain": "reuters.com", 
+            "score": 8, 
             "nsfw": false, 
-            "title": "Thomson Reuters Nobel Predictions for 2014 for Economics", 
-            "url": "http://www.coordinationproblem.org/2014/09/thomson-reuters-nobel-predictions-for-2014.html", 
-            "author": "fatal-conceit", 
-            "permalink": "http://www.reddit.com/r/Economics/comments/2hsles/thomson_reuters_nobel_predictions_for_2014_for/", 
-            "created-utc": 1412003754.0, 
-            "id": "2hsles"
+            "title": "Fed's Evans repeats call for patience in raising U.S. interest rates", 
+            "url": "http://www.reuters.com/article/2014/09/29/us-usa-fed-evans-patience-idUSKCN0HO19B20140929?feedType=RSS&amp;feedName=GCA-Economy2010", 
+            "author": "Shares_RSS", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hse74/feds_evans_repeats_call_for_patience_in_raising/", 
+            "created-utc": 1411999178.0, 
+            "id": "2hse74"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "bbc.co.uk", 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "Lloyds fires eight staff over Libor", 
+            "url": "http://www.bbc.co.uk/news/business-29410742#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa", 
+            "author": "Shares_RSS", 
+            "permalink": "http://www.reddit.com/r/Economics/comments/2hsc3e/lloyds_fires_eight_staff_over_libor/", 
+            "created-utc": 1411997956.0, 
+            "id": "2hsc3e"
         }
     ], 
+    "subreddit": "/r/Economics/", 
     "reddit-url": "http://www.reddit.com/r/Economics/", 
     "api-url": "http://daily.red/economics.json", 
     "display-name": "Economics"

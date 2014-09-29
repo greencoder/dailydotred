@@ -1,13 +1,12 @@
 {
-    "category": "Fun", 
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
-    "generated-utc": 1412010338, 
+    "generated-utc": 1412018475, 
     "posts": [
         {
-            "num-comments": 33, 
+            "num-comments": 42, 
             "domain": "dropcan.co", 
-            "score": 247, 
+            "score": 290, 
             "nsfw": false, 
             "title": "My friend made a website where you can throw away things you don't want the internet to see for the internet to see. Thought reddit would enjoy it.", 
             "url": "http://dropcan.co/", 
@@ -17,21 +16,9 @@
             "id": "2hr8wz"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "youtu.be", 
-            "score": 11, 
-            "nsfw": false, 
-            "title": "Who's Your Daddy (The Kloons)", 
-            "url": "http://youtu.be/eAqrpTwvn3I", 
-            "author": "a2susan", 
-            "permalink": "http://www.reddit.com/r/humor/comments/2hpeuv/whos_your_daddy_the_kloons/", 
-            "created-utc": 1411920689.0, 
-            "id": "2hpeuv"
-        }, 
-        {
             "num-comments": 0, 
             "domain": "unsolicited.consulting", 
-            "score": 3, 
+            "score": 21, 
             "nsfw": false, 
             "title": "Startup Flakes - You know owning a business is work, right?", 
             "url": "http://unsolicited.consulting/article/startup-flakes", 
@@ -43,7 +30,7 @@
         {
             "num-comments": 0, 
             "domain": "mcsweeneys.net", 
-            "score": 1, 
+            "score": 0, 
             "nsfw": false, 
             "title": "An Oral History of Oral Histories.", 
             "url": "http://www.mcsweeneys.net/articles/an-oral-history-of-oral-histories", 
@@ -53,6 +40,7 @@
             "id": "2hrdnp"
         }
     ], 
+    "subreddit": "/r/humor/", 
     "reddit-url": "http://www.reddit.com/r/humor/", 
     "api-url": "http://daily.red/humor.json", 
     "display-name": "Humor"

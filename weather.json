@@ -1,8 +1,7 @@
 {
-    "category": "News", 
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
-    "generated-utc": 1412010272, 
+    "generated-utc": 1412018408, 
     "posts": [
         {
             "num-comments": 3, 
@@ -17,6 +16,18 @@
             "id": "2hqflm"
         }, 
         {
+            "num-comments": 8, 
+            "domain": "self.weather", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "What should I say to people who provocatively state that there weren't storms when they were younger?", 
+            "url": "http://www.reddit.com/r/weather/comments/2hsvvz/what_should_i_say_to_people_who_provocatively/", 
+            "author": "awesome_m8", 
+            "permalink": "http://www.reddit.com/r/weather/comments/2hsvvz/what_should_i_say_to_people_who_provocatively/", 
+            "created-utc": 1412009875.0, 
+            "id": "2hsvvz"
+        }, 
+        {
             "num-comments": 0, 
             "domain": "weather.com", 
             "score": 0, 
@@ -29,6 +40,7 @@
             "id": "2hs3bs"
         }
     ], 
+    "subreddit": "/r/weather/", 
     "reddit-url": "http://www.reddit.com/r/weather/", 
     "api-url": "http://daily.red/weather.json", 
     "display-name": "Weather"

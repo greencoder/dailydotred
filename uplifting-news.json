@@ -1,13 +1,12 @@
 {
-    "category": "News", 
     "description": "A place to read and share positive and uplifting, feel good news stories", 
     "title": "Uplifting News", 
-    "generated-utc": 1412010262, 
+    "generated-utc": 1412018399, 
     "posts": [
         {
-            "num-comments": 695, 
+            "num-comments": 774, 
             "domain": "gajitz.com", 
-            "score": 3300, 
+            "score": 3397, 
             "nsfw": false, 
             "title": "15-year-old wins $25,000 scholarship for inventing a flashlight that runs on the body heat of the hand holding it", 
             "url": "http://gajitz.com/best-brightest-hollow-flashlight-runs-on-your-body-heat/", 
@@ -19,7 +18,7 @@
         {
             "num-comments": 3, 
             "domain": "news.yahoo.com", 
-            "score": 29, 
+            "score": 27, 
             "nsfw": false, 
             "title": "Philipines \"breaks world tree-planting record.\"", 
             "url": "http://news.yahoo.com/philippines-breaks-world-tree-planting-record-190103229.html;_ylt=AwrBJSB9FSdU0ggAbSnQtDMD", 
@@ -31,7 +30,7 @@
         {
             "num-comments": 0, 
             "domain": "komonews.com", 
-            "score": 21, 
+            "score": 22, 
             "nsfw": false, 
             "title": "Firefighters use oxygen on hamsters rescued from blaze", 
             "url": "http://www.komonews.com/news/local/Firefighters-use-oxygen-on-hamsters-rescued-from-blaze-277285541.html", 
@@ -43,7 +42,7 @@
         {
             "num-comments": 1, 
             "domain": "star-telegram.com", 
-            "score": 6, 
+            "score": 12, 
             "nsfw": false, 
             "title": "Man who raised $55K for potato salad throws party [AP article, this one with photos]", 
             "url": "http://www.star-telegram.com/2014/09/27/6153806/man-who-raised-55k-for-potato.html", 
@@ -63,8 +62,45 @@
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hsfmm/paying_life_forward_girl_with_cystic_fibrosis/", 
             "created-utc": 1412000057.0, 
             "id": "2hsfmm"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "dailymail.co.uk", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "The 3D printed hand that could change the world: Graduate creates \u00a3600 robotic limb that could reduce production costs by 99%", 
+            "url": "http://www.dailymail.co.uk/health/article-2458572/The-Dextrus-3D-printed-prosthetic-hand-Graduate-creates-600-robotic-limb-change-world.html", 
+            "author": "misnamed", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hrhqc/the_3d_printed_hand_that_could_change_the_world/", 
+            "created-utc": 1411966972.0, 
+            "id": "2hrhqc"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "ijreview.com", 
+            "score": 11, 
+            "nsfw": false, 
+            "title": "When Knight Rider Swings by to Pick Up a Mega-Fan with Down Syndrome, It\u2019s the Joyride of a Lifetime", 
+            "url": "http://www.ijreview.com/2014/09/182027-david-hasselhoff-dutch-mega-fan-syndrome-make-others-day-ride-lifetime/", 
+            "author": "nycsep", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hstun/when_knight_rider_swings_by_to_pick_up_a_megafan/", 
+            "created-utc": 1412008761.0, 
+            "id": "2hstun"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "weburbanist.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "Over 1,000 parking spots in 100+ cities around the world were turned into community parks for Park(ing) Day 2014", 
+            "url": "http://weburbanist.com/2014/09/24/parking-day-2014-citizens-reclaim-the-streets-for-fun/", 
+            "author": "misnamed", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hrgm8/over_1000_parking_spots_in_100_cities_around_the/", 
+            "created-utc": 1411966130.0, 
+            "id": "2hrgm8"
         }
     ], 
+    "subreddit": "/r/UpliftingNews/", 
     "reddit-url": "http://www.reddit.com/r/UpliftingNews/", 
     "api-url": "http://daily.red/uplifting-news.json", 
     "display-name": "Uplifting News"

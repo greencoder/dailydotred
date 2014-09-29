@@ -1,13 +1,12 @@
 {
-    "category": "News", 
     "description": "A place for major news from around the world, excluding US-internal news", 
     "title": "World News", 
-    "generated-utc": 1412010252, 
+    "generated-utc": 1412018390, 
     "posts": [
         {
-            "num-comments": 3445, 
+            "num-comments": 4398, 
             "domain": "blog.petaasiapacific.com", 
-            "score": 4209, 
+            "score": 4154, 
             "nsfw": false, 
             "title": "Makers of animals torture videos \u2018Crush\u2019 Sentenced to Life Imprisonment", 
             "url": "http://blog.petaasiapacific.com/companion-animals/breaking-news-makers-cruel-crush-video-sentenced-details", 
@@ -17,9 +16,9 @@
             "id": "2hrx78"
         }, 
         {
-            "num-comments": 406, 
+            "num-comments": 436, 
             "domain": "cnn.com", 
-            "score": 3334, 
+            "score": 3406, 
             "nsfw": false, 
             "title": "Woman saves three relatives from Ebola. Her protection method is being taught to others in West Africa.", 
             "url": "http://www.cnn.com/2014/09/25/health/ebola-fatu-family/index.html?hpt=he_t2", 
@@ -29,9 +28,9 @@
             "id": "2hqsca"
         }, 
         {
-            "num-comments": 416, 
+            "num-comments": 432, 
             "domain": "nltimes.nl", 
-            "score": 2425, 
+            "score": 2485, 
             "nsfw": false, 
             "title": "Dutch seize passports of 49 suspected jihadists", 
             "url": "http://www.nltimes.nl/2014/09/28/dutch-seize-passports-49-suspected-jihadists/", 
@@ -41,9 +40,9 @@
             "id": "2hpylb"
         }, 
         {
-            "num-comments": 319, 
+            "num-comments": 339, 
             "domain": "theverge.com", 
-            "score": 2415, 
+            "score": 2514, 
             "nsfw": false, 
             "title": "Instagram has reportedly been blocked in mainland China as protests in Hong Kong intensify", 
             "url": "http://www.theverge.com/2014/9/28/6859993/instagram-reportedly-blocked-in-mainland-china-following-hong-kong-protests", 
@@ -53,9 +52,9 @@
             "id": "2hqgqp"
         }, 
         {
-            "num-comments": 450, 
+            "num-comments": 502, 
             "domain": "almasdarnews.com", 
-            "score": 2367, 
+            "score": 2491, 
             "nsfw": false, 
             "title": "Saudi Pilot Arrested for Refusing to Bomb ISIS in Syria", 
             "url": "http://www.almasdarnews.com/article/saudi-pilot-arrested-refusing-bomb-isis-syria/", 
@@ -65,9 +64,9 @@
             "id": "2hqzbc"
         }, 
         {
-            "num-comments": 299, 
+            "num-comments": 368, 
             "domain": "theguardian.com", 
-            "score": 2325, 
+            "score": 2795, 
             "nsfw": false, 
             "title": "Hong Kong citizens step up democracy protests as riot police withdrawn | Roads blocked, banks and schools closed, as thousands join unprecedented demonstrations disrupting daily life", 
             "url": "http://www.theguardian.com/world/2014/sep/29/hong-kong-citizens-democracy-protests-riot-police-withdrawn", 
@@ -77,9 +76,9 @@
             "id": "2hrmmr"
         }, 
         {
-            "num-comments": 620, 
+            "num-comments": 663, 
             "domain": "kyivpost.com", 
-            "score": 1234, 
+            "score": 1295, 
             "nsfw": false, 
             "title": "Ukrainians in Kharkiv topple their square's statue of Lenin to cheers and anti-Russian chants.", 
             "url": "http://www.kyivpost.com/content/ukraine/lenin-monument-toppled-in-kharkiv-366230.html", 
@@ -89,33 +88,9 @@
             "id": "2hqame"
         }, 
         {
-            "num-comments": 134, 
-            "domain": "cnn.com", 
-            "score": 838, 
-            "nsfw": false, 
-            "title": "Hong Kong's democracy protests turn violent; 26 hurt", 
-            "url": "http://www.cnn.com/2014/09/28/world/asia/china-hong-kong-students/", 
-            "author": "Nomad47", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hpfjp/hong_kongs_democracy_protests_turn_violent_26_hurt/", 
-            "created-utc": 1411921138.0, 
-            "id": "2hpfjp"
-        }, 
-        {
-            "num-comments": 195, 
-            "domain": "blogs.wsj.com", 
-            "score": 637, 
-            "nsfw": false, 
-            "title": "India PM Narendra Modi wows 20,000 people at Madison Square Garden with a promise to transform India and declares removal of archaic laws and announces new visa laws. Slated to meet CEOs of Fortune 500 companies in the coming days", 
-            "url": "http://blogs.wsj.com/indiarealtime/2014/09/28/live-blog-indias-narendra-modi-speaks-at-madison-square-garden/?mod=blog_flyover", 
-            "author": "oldterribleman", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hpwjw/india_pm_narendra_modi_wows_20000_people_at/", 
-            "created-utc": 1411931367.0, 
-            "id": "2hpwjw"
-        }, 
-        {
-            "num-comments": 315, 
+            "num-comments": 448, 
             "domain": "news.sky.com", 
-            "score": 660, 
+            "score": 1386, 
             "nsfw": false, 
             "title": "China Warns UK: Don't 'Interfere' Over Hong Kong", 
             "url": "http://news.sky.com/story/1344068/hong-kong-china-warns-uk-not-to-interfere", 
@@ -125,9 +100,21 @@
             "id": "2hs510"
         }, 
         {
+            "num-comments": 206, 
+            "domain": "blogs.wsj.com", 
+            "score": 645, 
+            "nsfw": false, 
+            "title": "India PM Narendra Modi wows 20,000 people at Madison Square Garden with a promise to transform India and declares removal of archaic laws and announces new visa laws. Slated to meet CEOs of Fortune 500 companies in the coming days", 
+            "url": "http://blogs.wsj.com/indiarealtime/2014/09/28/live-blog-indias-narendra-modi-speaks-at-madison-square-garden/?mod=blog_flyover", 
+            "author": "oldterribleman", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hpwjw/india_pm_narendra_modi_wows_20000_people_at/", 
+            "created-utc": 1411931367.0, 
+            "id": "2hpwjw"
+        }, 
+        {
             "num-comments": 30, 
             "domain": "thesundaytimes.co.uk", 
-            "score": 365, 
+            "score": 385, 
             "nsfw": false, 
             "title": "Sepp Blatter tried to silence Fifa executive committee members who demanded release of 2022 World Cup corruption report", 
             "url": "http://www.thesundaytimes.co.uk/sto/news/insight/article1464815.ece", 
@@ -137,9 +124,9 @@
             "id": "2hq34p"
         }, 
         {
-            "num-comments": 121, 
+            "num-comments": 125, 
             "domain": "dailymail.co.uk", 
-            "score": 354, 
+            "score": 391, 
             "nsfw": false, 
             "title": "Qatari Donates $2 Million for ISIS Suicide Bomber Program...", 
             "url": "http://www.dailymail.co.uk/news/article-2771571/ISIS-s-emir-suicide-bombers-raised-2million-military-operations-mystery-Qatari-donor-say-US-officials.html", 
@@ -149,9 +136,9 @@
             "id": "2hqpb0"
         }, 
         {
-            "num-comments": 48, 
+            "num-comments": 54, 
             "domain": "theguardian.com", 
-            "score": 352, 
+            "score": 410, 
             "nsfw": false, 
             "title": "Solar energy: a sunflower solution to electricity shortage and desalination. IBM says it will install its first two devices for free in 2016 and has asked towns around the world to put their names forward to be the first to have a solar sunflower erected on their land.", 
             "url": "http://www.theguardian.com/environment/2014/sep/28/solar-energy-sunflower-ibm-airlight-electricity", 
@@ -161,45 +148,9 @@
             "id": "2hrcay"
         }, 
         {
-            "num-comments": 200, 
-            "domain": "theguardian.com", 
-            "score": 261, 
-            "nsfw": false, 
-            "title": "French Far-Right wins seats in French Senate for first time", 
-            "url": "http://www.theguardian.com/world/2014/sep/28/front-national-wins-seats-french-senate-first-time", 
-            "author": "KingQajar", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hprtl/french_farright_wins_seats_in_french_senate_for/", 
-            "created-utc": 1411928535.0, 
-            "id": "2hprtl"
-        }, 
-        {
-            "num-comments": 18, 
-            "domain": "cnn.com", 
-            "score": 253, 
-            "nsfw": false, 
-            "title": "17 year old Hong Kong Democracy leader faces \"battle\" against Chinese government: \"Mainland China is a tinderbox that's been physically suppressed by the authorities, and Hong Kong is a seed of fire...maybe the Chinese government will one day send troops onto the streets, or even tanks.\"", 
-            "url": "http://www.cnn.com/2014/09/21/world/asia/hong-kong-joshua-wong-democracy-protest/index.html?hpt=wo_mid", 
-            "author": "independentlythought", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hr5m6/17_year_old_hong_kong_democracy_leader_faces/", 
-            "created-utc": 1411958824.0, 
-            "id": "2hr5m6"
-        }, 
-        {
-            "num-comments": 74, 
-            "domain": "bbc.com", 
-            "score": 223, 
-            "nsfw": false, 
-            "title": "Statue of Lenin pulled down in Ukraine's Kharkiv", 
-            "url": "http://www.bbc.com/news/world-europe-29405392#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa?utm_source=twitterfeed&amp;utm_medium=twitter", 
-            "author": "DJDB", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hqqb3/statue_of_lenin_pulled_down_in_ukraines_kharkiv/", 
-            "created-utc": 1411949236.0, 
-            "id": "2hqqb3"
-        }, 
-        {
-            "num-comments": 27, 
+            "num-comments": 35, 
             "domain": "sinosphere.blogs.nytimes.com", 
-            "score": 286, 
+            "score": 420, 
             "nsfw": false, 
             "title": "Beijing Blocks Reports on Hong Kong Democracy Movement", 
             "url": "http://sinosphere.blogs.nytimes.com/2014/09/29/beijing-blocks-reports-on-hong-kong-democracy-movement/", 
@@ -209,21 +160,45 @@
             "id": "2hruib"
         }, 
         {
-            "num-comments": 20, 
-            "domain": "9to5mac.com", 
-            "score": 215, 
+            "num-comments": 208, 
+            "domain": "theguardian.com", 
+            "score": 264, 
             "nsfw": false, 
-            "title": "European Commision to accuse Ireland of giving illegal state aid to Apple, fines could be \u20acBillions | 9to5Mac", 
-            "url": "http://9to5mac.com/2014/09/28/european-commision-to-accuse-ireland-of-giving-illegal-state-aid-to-apple-fines-could-be-ebillions/", 
-            "author": "DJDB", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hqvpy/european_commision_to_accuse_ireland_of_giving/", 
-            "created-utc": 1411952627.0, 
-            "id": "2hqvpy"
+            "title": "French Far-Right wins seats in French Senate for first time", 
+            "url": "http://www.theguardian.com/world/2014/sep/28/front-national-wins-seats-french-senate-first-time", 
+            "author": "KingQajar", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hprtl/french_farright_wins_seats_in_french_senate_for/", 
+            "created-utc": 1411928535.0, 
+            "id": "2hprtl"
+        }, 
+        {
+            "num-comments": 20, 
+            "domain": "cnn.com", 
+            "score": 294, 
+            "nsfw": false, 
+            "title": "17 year old Hong Kong Democracy leader faces \"battle\" against Chinese government: \"Mainland China is a tinderbox that's been physically suppressed by the authorities, and Hong Kong is a seed of fire...maybe the Chinese government will one day send troops onto the streets, or even tanks.\"", 
+            "url": "http://www.cnn.com/2014/09/21/world/asia/hong-kong-joshua-wong-democracy-protest/index.html?hpt=wo_mid", 
+            "author": "independentlythought", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hr5m6/17_year_old_hong_kong_democracy_leader_faces/", 
+            "created-utc": 1411958824.0, 
+            "id": "2hr5m6"
+        }, 
+        {
+            "num-comments": 1003, 
+            "domain": "finance.yahoo.com", 
+            "score": 1490, 
+            "nsfw": false, 
+            "title": "Obama: 'They Don't Call Moscow' When There's Trouble In The World", 
+            "url": "http://finance.yahoo.com/news/obama-dont-call-moscow-theres-234603911.html", 
+            "author": "trot-trot", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hsgyo/obama_they_dont_call_moscow_when_theres_trouble/", 
+            "created-utc": 1412000931.0, 
+            "id": "2hsgyo"
         }, 
         {
             "num-comments": 12, 
             "domain": "telegraph.co.uk", 
-            "score": 232, 
+            "score": 305, 
             "nsfw": false, 
             "title": "Schools and banks closed as Hong Kong paralysed by protest", 
             "url": "http://www.telegraph.co.uk/news/worldnews/asia/hongkong/11127337/Schools-and-banks-closed-as-Hong-Kong-paralysed-by-protest.html", 
@@ -233,21 +208,33 @@
             "id": "2hrods"
         }, 
         {
-            "num-comments": 28, 
-            "domain": "bigstory.ap.org", 
-            "score": 177, 
+            "num-comments": 76, 
+            "domain": "bbc.com", 
+            "score": 239, 
             "nsfw": false, 
-            "title": "31 bodies recovered from Japanese volcano.", 
-            "url": "http://bigstory.ap.org/article/1bc9bf6e86aa4254ab2d18b121e1ef6c/7-rescued-32-missing-volcano-erupts-japan", 
-            "author": "ballyhoo9", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hrkbs/31_bodies_recovered_from_japanese_volcano/", 
-            "created-utc": 1411969163.0, 
-            "id": "2hrkbs"
+            "title": "Statue of Lenin pulled down in Ukraine's Kharkiv", 
+            "url": "http://www.bbc.com/news/world-europe-29405392#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa?utm_source=twitterfeed&amp;utm_medium=twitter", 
+            "author": "DJDB", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hqqb3/statue_of_lenin_pulled_down_in_ukraines_kharkiv/", 
+            "created-utc": 1411949236.0, 
+            "id": "2hqqb3"
         }, 
         {
-            "num-comments": 63, 
+            "num-comments": 30, 
+            "domain": "9to5mac.com", 
+            "score": 225, 
+            "nsfw": false, 
+            "title": "European Commision to accuse Ireland of giving illegal state aid to Apple, fines could be \u20acBillions | 9to5Mac", 
+            "url": "http://9to5mac.com/2014/09/28/european-commision-to-accuse-ireland-of-giving-illegal-state-aid-to-apple-fines-could-be-ebillions/", 
+            "author": "DJDB", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hqvpy/european_commision_to_accuse_ireland_of_giving/", 
+            "created-utc": 1411952627.0, 
+            "id": "2hqvpy"
+        }, 
+        {
+            "num-comments": 137, 
             "domain": "theguardian.com", 
-            "score": 201, 
+            "score": 417, 
             "nsfw": false, 
             "title": "Climate change is no longer viewed by mainstream scientists as a future threat to our planet and our species. It is a palpable phenomenon that already affects the world, they insist. And a brief look round the globe certainly provides no lack of evidence to support this gloomy assertion", 
             "url": "http://www.theguardian.com/environment/2014/sep/28/climate-change-has-arrived-global-warming-icecaps-deserts", 
@@ -257,9 +244,21 @@
             "id": "2hs5zx"
         }, 
         {
+            "num-comments": 37, 
+            "domain": "bigstory.ap.org", 
+            "score": 197, 
+            "nsfw": false, 
+            "title": "31 bodies recovered from Japanese volcano.", 
+            "url": "http://bigstory.ap.org/article/1bc9bf6e86aa4254ab2d18b121e1ef6c/7-rescued-32-missing-volcano-erupts-japan", 
+            "author": "ballyhoo9", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hrkbs/31_bodies_recovered_from_japanese_volcano/", 
+            "created-utc": 1411969163.0, 
+            "id": "2hrkbs"
+        }, 
+        {
             "num-comments": 3, 
             "domain": "rappler.com", 
-            "score": 127, 
+            "score": 133, 
             "nsfw": false, 
             "title": "Hong Kong Protest Spreads to New Site Across Harbour", 
             "url": "http://www.rappler.com/world/regions/asia-pacific/70454-hong-kong-protest-spreads", 
@@ -271,7 +270,7 @@
         {
             "num-comments": 9, 
             "domain": "news.com.au", 
-            "score": 107, 
+            "score": 108, 
             "nsfw": false, 
             "title": "Anti-terror laws rob Australians of freedoms ISIS hate, security expert says", 
             "url": "http://www.news.com.au/technology/online/antiterror-laws-rob-australians-of-freedoms-isis-hate-security-expert-says/story-fnjwmwrh-1227073688494", 
@@ -281,30 +280,31 @@
             "id": "2hqzl9"
         }, 
         {
-            "num-comments": 30, 
-            "domain": "irishcentral.com", 
-            "score": 71, 
+            "num-comments": 29, 
+            "domain": "straitstimes.com", 
+            "score": 178, 
             "nsfw": false, 
-            "title": "Spanish documents suggest Irish arrived in America before Columbus", 
-            "url": "http://www.irishcentral.com/roots/history/old-spanish-document-suggests-irish-were-in-america-before-columbus-190817901-237769001.html", 
-            "author": "bluegerm", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hqqe9/spanish_documents_suggest_irish_arrived_in/", 
-            "created-utc": 1411949284.0, 
-            "id": "2hqqe9"
+            "title": "Thai university hospital claims to have developed an Ebola vaccine", 
+            "url": "http://www.straitstimes.com/news/asia/south-east-asia/story/thailand-hospital-has-developed-ebola-vaccine-says-state-news-agency", 
+            "author": "kingy88", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hs580/thai_university_hospital_claims_to_have_developed/", 
+            "created-utc": 1411992640.0, 
+            "id": "2hs580"
         }, 
         {
-            "num-comments": 19, 
-            "domain": "israelnationalnews.com", 
-            "score": 70, 
+            "num-comments": 54, 
+            "domain": "reuters.com", 
+            "score": 144, 
             "nsfw": false, 
-            "title": "Canada to Take Part in Coalition Against IS", 
-            "url": "http://www.israelnationalnews.com/News/News.aspx/185570", 
-            "author": "ThEtRuThSeEkEr1", 
-            "permalink": "http://www.reddit.com/r/worldnews/comments/2hqows/canada_to_take_part_in_coalition_against_is/", 
-            "created-utc": 1411948419.0, 
-            "id": "2hqows"
+            "title": "Spain government asks court to declare Catalonia vote illegal", 
+            "url": "http://www.reuters.com/article/2014/09/29/us-spain-catalonia-idUSKCN0HO0XR20140929", 
+            "author": "tulip55", 
+            "permalink": "http://www.reddit.com/r/worldnews/comments/2hs47v/spain_government_asks_court_to_declare_catalonia/", 
+            "created-utc": 1411991657.0, 
+            "id": "2hs47v"
         }
     ], 
+    "subreddit": "/r/worldnews/", 
     "reddit-url": "http://www.reddit.com/r/worldnews/", 
     "api-url": "http://daily.red/world-news.json", 
     "display-name": "World News"

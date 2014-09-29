@@ -1,13 +1,12 @@
 {
-    "category": "Knowledge", 
     "description": "The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences.", 
     "title": "Science", 
-    "generated-utc": 1412010286, 
+    "generated-utc": 1412018423, 
     "posts": [
         {
-            "num-comments": 229, 
+            "num-comments": 299, 
             "domain": "imperial.ac.uk", 
-            "score": 3234, 
+            "score": 3491, 
             "nsfw": false, 
             "title": "Scientists have designed a record-breaking laser that accelerates the interaction between light and matter by ten times.", 
             "url": "http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_29-9-2014-8-43-35", 
@@ -17,9 +16,9 @@
             "id": "2hrtku"
         }, 
         {
-            "num-comments": 26, 
+            "num-comments": 34, 
             "domain": "uea.ac.uk", 
-            "score": 820, 
+            "score": 896, 
             "nsfw": false, 
             "title": "The strikingly rapid spread of the Tree Bumblebee in Britain could be occurring because the bees readily live alongside humans in towns and villages: A new study shows that Tree Bumblebees are associated with built-up areas and that these areas form a large part of their habitat use", 
             "url": "https://www.uea.ac.uk/mac/comm/media/press/2014/September/tree-bumblebee", 
@@ -29,45 +28,9 @@
             "id": "2hri54"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "ornl.gov", 
-            "score": 219, 
-            "nsfw": false, 
-            "title": "Researchers have sequenced the entire genome of the Clostridium autoethanogenum bacterium, which is used to sustainably produce fuel and chemicals from a range of raw materials, including gases derived from biomass and industrial wastes", 
-            "url": "http://www.ornl.gov/ornl/news/features/2014/ornl-team-first-to-fully-sequence-bacterial-genome-important-to-fuel-and-chemical-production", 
-            "author": "mubukugrappa", 
-            "permalink": "http://www.reddit.com/r/science/comments/2hrhse/researchers_have_sequenced_the_entire_genome_of/", 
-            "created-utc": 1411967023.0, 
-            "id": "2hrhse"
-        }, 
-        {
-            "num-comments": 21, 
-            "domain": "smartengn.com", 
-            "score": 204, 
-            "nsfw": false, 
-            "title": "a new Brainlike chip by IBM", 
-            "url": "http://smartengn.com/brainlike-chip-by-ibm/", 
-            "author": "kunalpadha", 
-            "permalink": "http://www.reddit.com/r/science/comments/2hrly5/a_new_brainlike_chip_by_ibm/", 
-            "created-utc": 1411970676.0, 
-            "id": "2hrly5"
-        }, 
-        {
-            "num-comments": 5, 
-            "domain": "sciencecodex.com", 
-            "score": 181, 
-            "nsfw": false, 
-            "title": "After-school exercise program enhances cognition in 7-, 8- and 9-year-olds.", 
-            "url": "http://www.sciencecodex.com/afterschool_exercise_program_enhances_cognition_in_7_8_and_9yearolds-142480", 
-            "author": "interinsider", 
-            "permalink": "http://www.reddit.com/r/science/comments/2hrklg/afterschool_exercise_program_enhances_cognition/", 
-            "created-utc": 1411969395.0, 
-            "id": "2hrklg"
-        }, 
-        {
-            "num-comments": 24, 
+            "num-comments": 57, 
             "domain": "theatlantic.com", 
-            "score": 228, 
+            "score": 492, 
             "nsfw": false, 
             "title": "Exercise Is ADHD Medication - Physical movement improves mental focus, memory, and cognitive flexibility; new research shows just how critical it is to academic performance.", 
             "url": "http://www.theatlantic.com/health/archive/2014/09/exercise-seems-to-be-beneficial-to-children/380844/", 
@@ -77,9 +40,45 @@
             "id": "2hs3jt"
         }, 
         {
+            "num-comments": 5, 
+            "domain": "ornl.gov", 
+            "score": 249, 
+            "nsfw": false, 
+            "title": "Researchers have sequenced the entire genome of the Clostridium autoethanogenum bacterium, which is used to sustainably produce fuel and chemicals from a range of raw materials, including gases derived from biomass and industrial wastes", 
+            "url": "http://www.ornl.gov/ornl/news/features/2014/ornl-team-first-to-fully-sequence-bacterial-genome-important-to-fuel-and-chemical-production", 
+            "author": "mubukugrappa", 
+            "permalink": "http://www.reddit.com/r/science/comments/2hrhse/researchers_have_sequenced_the_entire_genome_of/", 
+            "created-utc": 1411967023.0, 
+            "id": "2hrhse"
+        }, 
+        {
+            "num-comments": 26, 
+            "domain": "smartengn.com", 
+            "score": 234, 
+            "nsfw": false, 
+            "title": "a new Brainlike chip by IBM", 
+            "url": "http://smartengn.com/brainlike-chip-by-ibm/", 
+            "author": "kunalpadha", 
+            "permalink": "http://www.reddit.com/r/science/comments/2hrly5/a_new_brainlike_chip_by_ibm/", 
+            "created-utc": 1411970676.0, 
+            "id": "2hrly5"
+        }, 
+        {
+            "num-comments": 6, 
+            "domain": "sciencecodex.com", 
+            "score": 207, 
+            "nsfw": false, 
+            "title": "After-school exercise program enhances cognition in 7-, 8- and 9-year-olds.", 
+            "url": "http://www.sciencecodex.com/afterschool_exercise_program_enhances_cognition_in_7_8_and_9yearolds-142480", 
+            "author": "interinsider", 
+            "permalink": "http://www.reddit.com/r/science/comments/2hrklg/afterschool_exercise_program_enhances_cognition/", 
+            "created-utc": 1411969395.0, 
+            "id": "2hrklg"
+        }, 
+        {
             "num-comments": 1, 
             "domain": "news.ucsc.edu", 
-            "score": 114, 
+            "score": 117, 
             "nsfw": false, 
             "title": "New study of primate genomes reveals an ongoing battle to control \"jumping genes,\" driving the evolution of greater genomic complexity", 
             "url": "http://news.ucsc.edu/2014/09/jumping-genes.html", 
@@ -91,7 +90,7 @@
         {
             "num-comments": 12, 
             "domain": "sciencedaily.com", 
-            "score": 105, 
+            "score": 108, 
             "nsfw": false, 
             "title": "Record of thousands of years: Mega-storm surges (20+feet) in Florida every 40 years. It's been quiet these last 160 years.", 
             "url": "http://www.sciencedaily.com/releases/2014/09/140923131444.htm", 
@@ -101,21 +100,9 @@
             "id": "2hr3vk"
         }, 
         {
-            "num-comments": 10, 
-            "domain": "cell.com", 
-            "score": 56, 
-            "nsfw": false, 
-            "title": "Vitamine D receptor activation leads to 57% increase in survival rate in animal model of pancreatic cancer", 
-            "url": "http://www.cell.com/cell/abstract/S0092-8674(14)01033-2", 
-            "author": "Probio", 
-            "permalink": "http://www.reddit.com/r/science/comments/2hph87/vitamine_d_receptor_activation_leads_to_57/", 
-            "created-utc": 1411922204.0, 
-            "id": "2hph87"
-        }, 
-        {
-            "num-comments": 4, 
+            "num-comments": 5, 
             "domain": "cnet.com", 
-            "score": 56, 
+            "score": 53, 
             "nsfw": false, 
             "title": "\"Invisibility cloak\" uses lenses to bend light", 
             "url": "http://www.cnet.com/news/invisibility-cloak-uses-lenses-to-bend-light/", 
@@ -125,9 +112,9 @@
             "id": "2hrjd8"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "eurekalert.org", 
-            "score": 39, 
+            "score": 53, 
             "nsfw": false, 
             "title": "New study: Greenland Ice Sheet more vulnerable to climate change than previously thought", 
             "url": "http://www.eurekalert.org/pub_releases/2014-09/uoc-gis092614.php", 
@@ -139,7 +126,7 @@
         {
             "num-comments": 0, 
             "domain": "phys.org", 
-            "score": 31, 
+            "score": 32, 
             "nsfw": false, 
             "title": "Human genome was shaped by an evolutionary arms race with itself: Over evolutionary time, primate genomes have undergone repeated episodes in which mutations in jumping genes allowed them to escape repression, which drove the evolution of new repressor genes, and so on", 
             "url": "http://phys.org/news/2014-09-human-genome-evolutionary-arms.html", 
@@ -151,7 +138,7 @@
         {
             "num-comments": 0, 
             "domain": "eurekalert.org", 
-            "score": 26, 
+            "score": 25, 
             "nsfw": false, 
             "title": "Researchers identify early sign of pancreatic cancer: Scientists have discovered a sign of the early development of pancreatic cancer \u2013 an upsurge in certain amino acids that occurs before the disease is diagnosed and symptoms appear", 
             "url": "http://www.eurekalert.org/pub_releases/2014-09/dci-rie092514.php", 
@@ -163,7 +150,7 @@
         {
             "num-comments": 0, 
             "domain": "sciencedaily.com", 
-            "score": 22, 
+            "score": 23, 
             "nsfw": false, 
             "title": "Scientists exploring connection between empathy, neurohormones and aggression", 
             "url": "http://www.sciencedaily.com/releases/2014/09/140926091322.htm", 
@@ -175,7 +162,7 @@
         {
             "num-comments": 1, 
             "domain": "psychologicalscience.org", 
-            "score": 19, 
+            "score": 23, 
             "nsfw": false, 
             "title": "People tend to perceive their dominant hand as staying relatively the same size even when it\u2019s magnified, lending support to the idea that we use our hand as a constant perceptual \u201cruler\u201d to measure the world around us. The findings are published in Psychological Science", 
             "url": "http://www.psychologicalscience.org/index.php/news/releases/hand-size-appears-to-stay-constant-provides-natural-ruler.html", 
@@ -187,7 +174,7 @@
         {
             "num-comments": 2, 
             "domain": "dana-farber.org", 
-            "score": 19, 
+            "score": 21, 
             "nsfw": false, 
             "title": "Early sign of pancreatic cancer identified: Scientists have discovered a sign of the early development of pancreatic cancer \u2013 an upsurge in certain amino acids that occurs before the disease is diagnosed and symptoms appear", 
             "url": "http://www.dana-farber.org/Newsroom/News-Releases/Researchers-identify-early-sign-of-pancreatic-cancer.aspx", 
@@ -199,7 +186,7 @@
         {
             "num-comments": 0, 
             "domain": "sciencedaily.com", 
-            "score": 16, 
+            "score": 15, 
             "nsfw": false, 
             "title": "Researchers contribute to study of trained immunity", 
             "url": "http://www.sciencedaily.com/releases/2014/09/140926112157.htm", 
@@ -211,7 +198,7 @@
         {
             "num-comments": 0, 
             "domain": "phys.org", 
-            "score": 11, 
+            "score": 13, 
             "nsfw": false, 
             "title": "Unlocking enzyme synthesis of rare sugars to create drugs with fewer side effects", 
             "url": "http://phys.org/news/2014-09-enzyme-synthesis-rare-sugars-drugs.html", 
@@ -223,7 +210,7 @@
         {
             "num-comments": 1, 
             "domain": "smartengn.com", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Mobile technologies could lead to smart building materials", 
             "url": "http://smartengn.com/mobile-technologies-could-lead-to-smart-concrete/", 
@@ -233,9 +220,21 @@
             "id": "2hprlx"
         }, 
         {
+            "num-comments": 3, 
+            "domain": "livescience.com", 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "An ancient Egyptian mummy is discovered with prints of brain vessels inside his skull, leaving researchers puzzled as to how these fragile structures were preserved.", 
+            "url": "http://www.livescience.com/48042-ancient-mummy-brain-vessels.html", 
+            "author": "catsofnewyork", 
+            "permalink": "http://www.reddit.com/r/science/comments/2hsa22/an_ancient_egyptian_mummy_is_discovered_with/", 
+            "created-utc": 1411996539.0, 
+            "id": "2hsa22"
+        }, 
+        {
             "num-comments": 1, 
             "domain": "washingtonpost.com", 
-            "score": 10, 
+            "score": 12, 
             "nsfw": false, 
             "title": "Morning sickness isn\u2019t just for women. Expectant fathers really do get pregnancy symptoms.", 
             "url": "http://www.washingtonpost.com/posteverything/wp/2014/09/26/morning-sickness-isnt-just-for-women-expectant-fathers-really-do-get-pregnancy-symptoms/?tid=rssfeed", 
@@ -246,20 +245,8 @@
         }, 
         {
             "num-comments": 1, 
-            "domain": "livescience.com", 
-            "score": 8, 
-            "nsfw": false, 
-            "title": "An ancient Egyptian mummy is discovered with prints of brain vessels inside his skull, leaving researchers puzzled as to how these fragile structures were preserved.", 
-            "url": "http://www.livescience.com/48042-ancient-mummy-brain-vessels.html", 
-            "author": "catsofnewyork", 
-            "permalink": "http://www.reddit.com/r/science/comments/2hsa22/an_ancient_egyptian_mummy_is_discovered_with/", 
-            "created-utc": 1411996539.0, 
-            "id": "2hsa22"
-        }, 
-        {
-            "num-comments": 0, 
             "domain": "phys.org", 
-            "score": 6, 
+            "score": 12, 
             "nsfw": false, 
             "title": "Experiment makes Schrodinger's Cat Choose\u2014Things can be Real, or Certain, but not Both", 
             "url": "http://phys.org/news/2014-09-schrodinger-cat-choosethings-real.html", 
@@ -271,7 +258,7 @@
         {
             "num-comments": 1, 
             "domain": "pancreashero.com", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "title": "An Update on the Islet Cell Transplant Cure for Diabetes", 
             "url": "http://www.pancreashero.com/?p=114", 
@@ -279,6 +266,18 @@
             "permalink": "http://www.reddit.com/r/science/comments/2hsi60/an_update_on_the_islet_cell_transplant_cure_for/", 
             "created-utc": 1412001694.0, 
             "id": "2hsi60"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "news.sciencemag.org", 
+            "score": 9, 
+            "nsfw": false, 
+            "title": "Only one human has been cured of HIV: new research suggests that autologous hematopoietic stem cell transplant was not what cured Timothy Brown, the 'Berlin Patient'.", 
+            "url": "http://news.sciencemag.org/health/2014/09/how-did-berlin-patient-rid-himself-hiv", 
+            "author": "SirT6", 
+            "permalink": "http://www.reddit.com/r/science/comments/2hsg06/only_one_human_has_been_cured_of_hiv_new_research/", 
+            "created-utc": 1412000311.0, 
+            "id": "2hsg06"
         }, 
         {
             "num-comments": 0, 
@@ -293,18 +292,19 @@
             "id": "2hq5ao"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "news.sciencemag.org", 
-            "score": 6, 
+            "num-comments": 5, 
+            "domain": "nsf.gov", 
+            "score": 3, 
             "nsfw": false, 
-            "title": "Only one human has been cured of HIV: new research suggests that autologous hematopoietic stem cell transplant was not what cured Timothy Brown, the 'Berlin Patient'.", 
-            "url": "http://news.sciencemag.org/health/2014/09/how-did-berlin-patient-rid-himself-hiv", 
-            "author": "SirT6", 
-            "permalink": "http://www.reddit.com/r/science/comments/2hsg06/only_one_human_has_been_cured_of_hiv_new_research/", 
-            "created-utc": 1412000311.0, 
-            "id": "2hsg06"
+            "title": "Study: California drought - which cost $2.2 billion this year and many more billions in years to come - \"is very likely linked to human-caused climate change.\"", 
+            "url": "http://www.nsf.gov/news/news_summ.jsp?cntn_id=132709&amp;WT.mc_id=USNSF_51&amp;WT.mc_ev=click", 
+            "author": "Bluest_waters", 
+            "permalink": "http://www.reddit.com/r/science/comments/2hspme/study_california_drought_which_cost_22_billion/", 
+            "created-utc": 1412006272.0, 
+            "id": "2hspme"
         }
     ], 
+    "subreddit": "/r/science/", 
     "reddit-url": "http://www.reddit.com/r/science/", 
     "api-url": "http://daily.red/science.json", 
     "display-name": "Science"

@@ -1,13 +1,12 @@
 {
-    "category": "Knowledge", 
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
-    "generated-utc": 1412010295, 
+    "generated-utc": 1412018432, 
     "posts": [
         {
-            "num-comments": 86, 
+            "num-comments": 114, 
             "domain": "slate.com", 
-            "score": 279, 
+            "score": 312, 
             "nsfw": false, 
             "title": "Americans Have No Idea How Bad Inequality Really Is", 
             "url": "http://www.slate.com/articles/business/moneybox/2014/09/americans_have_no_idea_how_bad_inequality_is_new_harvard_business_school.html", 
@@ -17,9 +16,9 @@
             "id": "2hqriy"
         }, 
         {
-            "num-comments": 3, 
+            "num-comments": 6, 
             "domain": "newyorker.com", 
-            "score": 16, 
+            "score": 52, 
             "nsfw": false, 
             "title": "Before the Law - A boy was accused of taking a backpack. The courts took the next three years of his life", 
             "url": "http://www.newyorker.com/magazine/2014/10/06/law-3", 
@@ -29,9 +28,9 @@
             "id": "2hs76p"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 5, 
             "domain": "theguardian.com", 
-            "score": 13, 
+            "score": 32, 
             "nsfw": false, 
             "title": "It\u2019s silly to be frightened of being dead", 
             "url": "http://www.theguardian.com/lifeandstyle/2014/sep/23/-sp-diana-athill-its-silly-frightened-being-dead", 
@@ -43,7 +42,7 @@
         {
             "num-comments": 1, 
             "domain": "brainpickings.org", 
-            "score": 3, 
+            "score": 5, 
             "nsfw": false, 
             "title": "Mark Twain on Masturbation", 
             "url": "http://www.brainpickings.org/2014/02/26/mark-twain-on-masturbation/", 
@@ -55,7 +54,7 @@
         {
             "num-comments": 0, 
             "domain": "aeon.co", 
-            "score": 2, 
+            "score": 6, 
             "nsfw": false, 
             "title": "The symbol of life should be a loop, not a helix", 
             "url": "http://aeon.co/magazine/science/why-the-symbol-of-life-is-a-loop-not-a-helix/", 
@@ -67,7 +66,7 @@
         {
             "num-comments": 0, 
             "domain": "nytimes.com", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "title": "How to Stop Time", 
             "url": "http://www.nytimes.com/2014/09/28/opinion/sunday/how-to-stop-time.html?smid=re-share", 
@@ -79,7 +78,7 @@
         {
             "num-comments": 0, 
             "domain": "theatlantic.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "The Health Effects of Leaving Religion", 
             "url": "http://www.theatlantic.com/health/archive/2014/09/the-health-effects-of-leaving-religion/379651/?single_page=true", 
@@ -91,7 +90,7 @@
         {
             "num-comments": 2, 
             "domain": "stevecheney.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "title": "On The Future of Apple and Google", 
             "url": "http://stevecheney.com/on-the-future-of-apple-and-google/", 
@@ -103,7 +102,7 @@
         {
             "num-comments": 1, 
             "domain": "chronicle.com", 
-            "score": 3, 
+            "score": 1, 
             "nsfw": false, 
             "title": "Why Academics' Writing Stinks", 
             "url": "https://chronicle.com/article/Why-Academics-Writing-Stinks/148989?cid=megamenu", 
@@ -115,7 +114,7 @@
         {
             "num-comments": 0, 
             "domain": "brookings.edu", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Our Cyborg Future", 
             "url": "http://www.brookings.edu/research/reports2/2014/09/cyborg-future-law-policy-implications", 
@@ -127,7 +126,7 @@
         {
             "num-comments": 0, 
             "domain": "3quarksdaily.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "title": "2 Cheers for Libertarian Paternalism!", 
             "url": "http://www.3quarksdaily.com/3quarksdaily/2014/09/2-cheers-for-libertarian-paternalism.html", 
@@ -137,6 +136,7 @@
             "id": "2hs3nq"
         }
     ], 
+    "subreddit": "/r/Foodforthought/", 
     "reddit-url": "http://www.reddit.com/r/Foodforthought/", 
     "api-url": "http://daily.red/food-for-thought.json", 
     "display-name": "Food for Thought"

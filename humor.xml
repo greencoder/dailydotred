@@ -4,9 +4,9 @@
   <title>Humor digest</title>
   <link>http://www.daily.red/humor.html</link>
   <description>Humor is the place for things that bring a wry smile to your face</description>
-  <category>Fun</category>
+  <category></category>
   <language>en-us</language>
-  <pubDate>Mon, 29 Sep 2014 17:05:40 -0000</pubDate>
+  <pubDate>Mon, 29 Sep 2014 19:21:17 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/humor.xml" rel="self" type="application/rss+xml" />
 
@@ -14,32 +14,24 @@
     <title>My friend made a website where you can throw away things you don't want the internet to see for the internet to see. Thought reddit would enjoy it.</title>
     <link>http://dropcan.co/</link>
     <guid>http://www.reddit.com/r/humor/comments/2hr8wz/my_friend_made_a_website_where_you_can_throw_away/</guid>
-    <description>BY ULTRAACCEL &#183; POSTED 09/28/14 11:19 PM EST &#183; DROPCAN.CO &#183; SCORE 247</description>
-    <category>Fun</category>
-  </item>
-
-  <item>
-    <title>Who's Your Daddy (The Kloons)</title>
-    <link>http://youtu.be/eAqrpTwvn3I</link>
-    <guid>http://www.reddit.com/r/humor/comments/2hpeuv/whos_your_daddy_the_kloons/</guid>
-    <description>BY A2SUSAN &#183; POSTED 09/28/14 12:11 PM EST &#183; YOUTU.BE &#183; SCORE 11</description>
-    <category>Fun</category>
+    <description>BY ULTRAACCEL &#183; POSTED 09/28/14 11:19 PM EST &#183; DROPCAN.CO &#183; SCORE 290</description>
+    <category></category>
   </item>
 
   <item>
     <title>Startup Flakes - You know owning a business is work, right?</title>
     <link>http://unsolicited.consulting/article/startup-flakes</link>
     <guid>http://www.reddit.com/r/humor/comments/2hsai7/startup_flakes_you_know_owning_a_business_is_work/</guid>
-    <description>BY 5TROKERAC3 &#183; POSTED 09/29/14 9:21 AM EST &#183; UNSOLICITED.CONSULTING &#183; SCORE 3</description>
-    <category>Fun</category>
+    <description>BY 5TROKERAC3 &#183; POSTED 09/29/14 9:21 AM EST &#183; UNSOLICITED.CONSULTING &#183; SCORE 21</description>
+    <category></category>
   </item>
 
   <item>
     <title>An Oral History of Oral Histories.</title>
     <link>http://www.mcsweeneys.net/articles/an-oral-history-of-oral-histories</link>
     <guid>http://www.reddit.com/r/humor/comments/2hrdnp/an_oral_history_of_oral_histories/</guid>
-    <description>BY MISNAMED &#183; POSTED 09/29/14 12:11 AM EST &#183; MCSWEENEYS.NET &#183; SCORE 1</description>
-    <category>Fun</category>
+    <description>BY MISNAMED &#183; POSTED 09/29/14 12:11 AM EST &#183; MCSWEENEYS.NET &#183; SCORE 0</description>
+    <category></category>
   </item>
 
 </channel>

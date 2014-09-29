@@ -1,13 +1,12 @@
 {
-    "category": "Knowledge", 
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
-    "generated-utc": 1412010291, 
+    "generated-utc": 1412018428, 
     "posts": [
         {
-            "num-comments": 232, 
+            "num-comments": 247, 
             "domain": "self.history", 
-            "score": 556, 
+            "score": 590, 
             "nsfw": false, 
             "title": "Have two nations ever been in a situation where they have both taken each others capital cities?", 
             "url": "http://www.reddit.com/r/history/comments/2hr5vk/have_two_nations_ever_been_in_a_situation_where/", 
@@ -17,9 +16,9 @@
             "id": "2hr5vk"
         }, 
         {
-            "num-comments": 9, 
+            "num-comments": 22, 
             "domain": "whizzpast.com", 
-            "score": 86, 
+            "score": 201, 
             "nsfw": false, 
             "title": "The board game Snakes and Ladders originated as a morality lesson, and more: the history of ancient board games that we still play today", 
             "url": "http://www.whizzpast.com/5-ancient-board-games-still-play-today/", 
@@ -29,9 +28,9 @@
             "id": "2hsahq"
         }, 
         {
-            "num-comments": 15, 
+            "num-comments": 39, 
             "domain": "irishcentral.com", 
-            "score": 51, 
+            "score": 153, 
             "nsfw": false, 
             "title": "Spanish documents suggest Irish arrived in America before Columbus - While Columbus is credited with discovering America in 1492, a 1521 Spanish report provides inklings of evidence that there were, in fact, Irish people settled in America prior to Columbus\u2019 journey.", 
             "url": "http://www.irishcentral.com/roots/history/old-spanish-document-suggests-irish-were-in-america-before-columbus-190817901-237769001.html", 
@@ -43,7 +42,7 @@
         {
             "num-comments": 1, 
             "domain": "self.history", 
-            "score": 5, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Remember that Audio of Hitler talking with Mannerheim? The archives of Finnish Broadcasting Company are open to the whole world!", 
             "url": "http://www.reddit.com/r/history/comments/2hrrw1/remember_that_audio_of_hitler_talking_with/", 
@@ -51,6 +50,30 @@
             "permalink": "http://www.reddit.com/r/history/comments/2hrrw1/remember_that_audio_of_hitler_talking_with/", 
             "created-utc": 1411976755.0, 
             "id": "2hrrw1"
+        }, 
+        {
+            "num-comments": 7, 
+            "domain": "self.history", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "/r/history, care to recommend any captivating, informative books?", 
+            "url": "http://www.reddit.com/r/history/comments/2hr99n/rhistory_care_to_recommend_any_captivating/", 
+            "author": "Aaron51598", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hr99n/rhistory_care_to_recommend_any_captivating/", 
+            "created-utc": 1411961015.0, 
+            "id": "2hr99n"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "news.nationalgeographic.com", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "How Burmese Elephants Helped Defeat the Japanese in WWII - A British \"elephant whisperer\" &amp; his best beloved helpers waged guerrilla warfare &amp; carried refugees to safety.", 
+            "url": "http://news.nationalgeographic.com/news/2014/09/140928-burma-elephant-teak-kipling-japan-world-war-ngbooktalk/", 
+            "author": "anutensil", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hs2nl/how_burmese_elephants_helped_defeat_the_japanese/", 
+            "created-utc": 1411990107.0, 
+            "id": "2hs2nl"
         }, 
         {
             "num-comments": 1, 
@@ -65,33 +88,21 @@
             "id": "2hrvo1"
         }, 
         {
-            "num-comments": 7, 
+            "num-comments": 0, 
             "domain": "self.history", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
-            "title": "/r/history, care to recommend any captivating, informative books?", 
-            "url": "http://www.reddit.com/r/history/comments/2hr99n/rhistory_care_to_recommend_any_captivating/", 
-            "author": "Aaron51598", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hr99n/rhistory_care_to_recommend_any_captivating/", 
-            "created-utc": 1411961015.0, 
-            "id": "2hr99n"
-        }, 
-        {
-            "num-comments": 4, 
-            "domain": "news.nationalgeographic.com", 
-            "score": 3, 
-            "nsfw": false, 
-            "title": "How Burmese Elephants Helped Defeat the Japanese in WWII - A British \"elephant whisperer\" &amp; his best beloved helpers waged guerrilla warfare &amp; carried refugees to safety.", 
-            "url": "http://news.nationalgeographic.com/news/2014/09/140928-burma-elephant-teak-kipling-japan-world-war-ngbooktalk/", 
-            "author": "anutensil", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hs2nl/how_burmese_elephants_helped_defeat_the_japanese/", 
-            "created-utc": 1411990107.0, 
-            "id": "2hs2nl"
+            "title": "Which came first? Haying vs Gardening (growing vegetables/fruits/grains)?", 
+            "url": "http://www.reddit.com/r/history/comments/2hsrre/which_came_first_haying_vs_gardening_growing/", 
+            "author": "22percentaccuracy", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hsrre/which_came_first_haying_vs_gardening_growing/", 
+            "created-utc": 1412007531.0, 
+            "id": "2hsrre"
         }, 
         {
             "num-comments": 1, 
             "domain": "bbc.co.uk", 
-            "score": 0, 
+            "score": 1, 
             "nsfw": false, 
             "title": "How to keep fit (in 1861)", 
             "url": "http://www.bbc.co.uk/news/health-28858090", 
@@ -99,6 +110,18 @@
             "permalink": "http://www.reddit.com/r/history/comments/2hsm42/how_to_keep_fit_in_1861/", 
             "created-utc": 1412004200.0, 
             "id": "2hsm42"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "ancient-origins.net", 
+            "score": 5, 
+            "nsfw": false, 
+            "title": "Archaeologists believe they have found dungeons that held Vlad the Impaler.", 
+            "url": "http://www.ancient-origins.net/news-history-archaeology/archaeologists-believe-they-have-found-dungeons-held-dracula-002057", 
+            "author": "sakebomb69", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hsu3v/archaeologists_believe_they_have_found_dungeons/", 
+            "created-utc": 1412008909.0, 
+            "id": "2hsu3v"
         }, 
         {
             "num-comments": 3, 
@@ -113,18 +136,6 @@
             "id": "2hsm3p"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "self.history", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "Looking for a good captivating book on the history of the middle east and the events that led to the current Islamic state and ISIS. As unbiased as possible.", 
-            "url": "http://www.reddit.com/r/history/comments/2hsk8r/looking_for_a_good_captivating_book_on_the/", 
-            "author": "DDeweyB", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hsk8r/looking_for_a_good_captivating_book_on_the/", 
-            "created-utc": 1412003040.0, 
-            "id": "2hsk8r"
-        }, 
-        {
             "num-comments": 1, 
             "domain": "thenation.com", 
             "score": 0, 
@@ -135,8 +146,21 @@
             "permalink": "http://www.reddit.com/r/history/comments/2hsehp/life_in_the_ruins_how_the_destruction_of/", 
             "created-utc": 1411999355.0, 
             "id": "2hsehp"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "self.history", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "Looking for a good captivating book on the history of the middle east and the events that led to the current Islamic state and ISIS. As unbiased as possible.", 
+            "url": "http://www.reddit.com/r/history/comments/2hsk8r/looking_for_a_good_captivating_book_on_the/", 
+            "author": "DDeweyB", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hsk8r/looking_for_a_good_captivating_book_on_the/", 
+            "created-utc": 1412003040.0, 
+            "id": "2hsk8r"
         }
     ], 
+    "subreddit": "/r/history/", 
     "reddit-url": "http://www.reddit.com/r/history/", 
     "api-url": "http://daily.red/history.json", 
     "display-name": "History"

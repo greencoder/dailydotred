@@ -1,25 +1,12 @@
 {
-    "category": "Entertainment", 
     "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources.", 
     "title": "/r/television - A premium-quality television subreddit", 
-    "generated-utc": 1412010314, 
+    "generated-utc": 1412018451, 
     "posts": [
         {
-            "num-comments": 1949, 
+            "num-comments": 724, 
             "domain": "youtu.be", 
-            "score": 2398, 
-            "nsfw": false, 
-            "title": "New SNL cast member Pete Davidson kills it on his first appearance on Weekend Update at age 20", 
-            "url": "http://youtu.be/BmwjpVxHjSI", 
-            "author": "hokies4life757", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hpfs6/new_snl_cast_member_pete_davidson_kills_it_on_his/", 
-            "created-utc": 1411921300.0, 
-            "id": "2hpfs6"
-        }, 
-        {
-            "num-comments": 517, 
-            "domain": "youtu.be", 
-            "score": 1907, 
+            "score": 2295, 
             "nsfw": false, 
             "title": "Last Week Tonight with John Oliver: Drones (HBO)", 
             "url": "http://youtu.be/K4NRJoCNHIs", 
@@ -29,9 +16,9 @@
             "id": "2hrntm"
         }, 
         {
-            "num-comments": 46, 
+            "num-comments": 52, 
             "domain": "vid.me", 
-            "score": 125, 
+            "score": 145, 
             "nsfw": false, 
             "title": "Don Hertzfeldt's Couch Gag for The Simpsons [1:53]", 
             "url": "https://vid.me/VFj", 
@@ -41,9 +28,9 @@
             "id": "2hr4uh"
         }, 
         {
-            "num-comments": 101, 
+            "num-comments": 105, 
             "domain": "nypost.com", 
-            "score": 113, 
+            "score": 115, 
             "nsfw": false, 
             "title": "Andy Kaufman's writing partner Bob Zmuda reveals in his book that the 'Taxi' star faked his death and that \"Kaufman will be emerging to reveal his great prank to the world very soon\"", 
             "url": "http://nypost.com/2014/09/28/why-andy-kaufman-might-still-be-alive/", 
@@ -53,9 +40,9 @@
             "id": "2hpybt"
         }, 
         {
-            "num-comments": 40, 
+            "num-comments": 44, 
             "domain": "self.television", 
-            "score": 101, 
+            "score": 105, 
             "nsfw": false, 
             "title": "Reddit got a mention of the Simpsons/Family Guy crossover episode", 
             "url": "http://www.reddit.com/r/television/comments/2hqvu4/reddit_got_a_mention_of_the_simpsonsfamily_guy/", 
@@ -77,9 +64,9 @@
             "id": "2hpnb1"
         }, 
         {
-            "num-comments": 7, 
+            "num-comments": 10, 
             "domain": "channel4.com", 
-            "score": 36, 
+            "score": 52, 
             "nsfw": false, 
             "title": "Black Mirror Christmas special announced and to star Jon Hamm, Rafe Spall &amp; Oona Chaplin", 
             "url": "http://www.channel4.com/info/press/news/jon-hamm-rafe-spall-oona-chaplin-set-for-black-mirror-xmas-special", 
@@ -91,7 +78,7 @@
         {
             "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 27, 
+            "score": 25, 
             "nsfw": false, 
             "title": "A Bad Lip Reading of The Walking Dead Season 4", 
             "url": "https://www.youtube.com/watch?v=-6BsMzc9mMs&amp;feature=em-share_video_user", 
@@ -115,7 +102,7 @@
         {
             "num-comments": 10, 
             "domain": "theage.com.au", 
-            "score": 16, 
+            "score": 20, 
             "nsfw": false, 
             "title": "World's worst content pirates - Australians - told to go into 'lockdown' until next year to avoid spoilers on who just died on The Simpsons", 
             "url": "http://www.theage.com.au/entertainment/tv-and-radio/who-was-it-the-simpsons-death-is-finally-revealed-20140929-10nidn.html", 
@@ -125,9 +112,9 @@
             "id": "2hrrlk"
         }, 
         {
-            "num-comments": 74, 
+            "num-comments": 80, 
             "domain": "self.television", 
-            "score": 15, 
+            "score": 17, 
             "nsfw": false, 
             "title": "The Simpsons Family Guy crossover was eh, right?", 
             "url": "http://www.reddit.com/r/television/comments/2hr156/the_simpsons_family_guy_crossover_was_eh_right/", 
@@ -137,9 +124,9 @@
             "id": "2hr156"
         }, 
         {
-            "num-comments": 14, 
+            "num-comments": 16, 
             "domain": "doesnickoffermansayfremulon.com", 
-            "score": 18, 
+            "score": 15, 
             "nsfw": false, 
             "title": "Does Nick Offerman say \"Fremulon\" at the end of Brooklyn 99 episodes?", 
             "url": "http://doesnickoffermansayfremulon.com/", 
@@ -151,7 +138,7 @@
         {
             "num-comments": 0, 
             "domain": "pcm-tv.com", 
-            "score": 12, 
+            "score": 14, 
             "nsfw": false, 
             "title": "David Tennant Talks FOX's \"Gracepoint\", \"Broadchurch\" And More!", 
             "url": "http://pcm-tv.com/news/2014/09/david-tennant-talks-foxs-gracepoint-broadchurch/", 
@@ -163,7 +150,7 @@
         {
             "num-comments": 2, 
             "domain": "vulture.com", 
-            "score": 10, 
+            "score": 15, 
             "nsfw": false, 
             "title": "Daniel Radcliffe, Amy Schumer, Fred Armisen, and Others on Their Favorite Simpsons Episodes and Moments", 
             "url": "http://www.vulture.com/2014/09/celebrities-pick-their-favorite-simpsons-episodes-moments.html?mid=twitter_nymag", 
@@ -175,7 +162,7 @@
         {
             "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 9, 
+            "score": 12, 
             "nsfw": false, 
             "title": "My favourite sketch from That Mitchell and Webb Look - Big Talk", 
             "url": "https://www.youtube.com/watch?v=0bfmq7leZdk", 
@@ -187,7 +174,7 @@
         {
             "num-comments": 14, 
             "domain": "self.television", 
-            "score": 9, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Bill Maher's closing comments on the latest episode of Real Time.", 
             "url": "http://www.reddit.com/r/television/comments/2hpn2p/bill_mahers_closing_comments_on_the_latest/", 
@@ -197,9 +184,21 @@
             "id": "2hpn2p"
         }, 
         {
+            "num-comments": 27, 
+            "domain": "penny-arcade.com", 
+            "score": 21, 
+            "nsfw": false, 
+            "title": "Penny Arcade's take on the writing in 'Gotham'.", 
+            "url": "http://www.penny-arcade.com/comic/2014/09/29/scrutable", 
+            "author": "Tannon", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hstep/penny_arcades_take_on_the_writing_in_gotham/", 
+            "created-utc": 1412008488.0, 
+            "id": "2hstep"
+        }, 
+        {
             "num-comments": 9, 
             "domain": "hollywoodreporter.com", 
-            "score": 7, 
+            "score": 8, 
             "nsfw": false, 
             "title": "'Masters of Sex': Creator Talks Finale, Season Three Plans", 
             "url": "http://www.hollywoodreporter.com/live-feed/masters-sex-creator-talks-finale-736269", 
@@ -211,7 +210,7 @@
         {
             "num-comments": 0, 
             "domain": "avclub.com", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Rutger Hauer joins \"Galavant\"... and he'll sing things you people wouldn\u2019t believe", 
             "url": "http://www.avclub.com/article/rutger-hauer-will-sing-things-you-people-wouldnt-b-209791", 
@@ -221,7 +220,7 @@
             "id": "2hqvyl"
         }, 
         {
-            "num-comments": 5, 
+            "num-comments": 6, 
             "domain": "nydailynews.com", 
             "score": 6, 
             "nsfw": false, 
@@ -233,9 +232,9 @@
             "id": "2hsg9x"
         }, 
         {
-            "num-comments": 19, 
+            "num-comments": 18, 
             "domain": "self.television", 
-            "score": 7, 
+            "score": 8, 
             "nsfw": false, 
             "title": "Are there any shows similar to Utopia &amp; Black Mirror?", 
             "url": "http://www.reddit.com/r/television/comments/2hpo5a/are_there_any_shows_similar_to_utopia_black_mirror/", 
@@ -247,7 +246,7 @@
         {
             "num-comments": 1, 
             "domain": "avclub.com", 
-            "score": 7, 
+            "score": 9, 
             "nsfw": false, 
             "title": "Judd Hirsch on Forever, Taxi, falling out of a window, and playing schmucks", 
             "url": "http://www.avclub.com/article/judd-hirsch-forever-taxi-falling-out-window-and-pl-209282", 
@@ -257,21 +256,9 @@
             "id": "2hsf7f"
         }, 
         {
-            "num-comments": 6, 
-            "domain": "self.television", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "New on Netflix Instant (October 2014)", 
-            "url": "http://www.reddit.com/r/television/comments/2hs0fk/new_on_netflix_instant_october_2014/", 
-            "author": "bucherman7", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hs0fk/new_on_netflix_instant_october_2014/", 
-            "created-utc": 1411987490.0, 
-            "id": "2hs0fk"
-        }, 
-        {
             "num-comments": 5, 
             "domain": "youtube.com", 
-            "score": 6, 
+            "score": 8, 
             "nsfw": false, 
             "title": "I think we've all had a job we wanted to quit this way. (boardwalk Empire season 3 spoilers)", 
             "url": "https://www.youtube.com/watch?v=51B-sXtV_6g", 
@@ -281,7 +268,31 @@
             "id": "2hrtqt"
         }, 
         {
-            "num-comments": 33, 
+            "num-comments": 0, 
+            "domain": "youtube.com", 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "Deadwood (Set to the Western \"Game Of Thrones\" Cover Theme)", 
+            "url": "https://www.youtube.com/watch?v=_AVtRL2UByQ", 
+            "author": "MulciberTenebras", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hsqee/deadwood_set_to_the_western_game_of_thrones_cover/", 
+            "created-utc": 1412006715.0, 
+            "id": "2hsqee"
+        }, 
+        {
+            "num-comments": 7, 
+            "domain": "self.television", 
+            "score": 8, 
+            "nsfw": false, 
+            "title": "New on Netflix Instant (October 2014)", 
+            "url": "http://www.reddit.com/r/television/comments/2hs0fk/new_on_netflix_instant_october_2014/", 
+            "author": "bucherman7", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hs0fk/new_on_netflix_instant_october_2014/", 
+            "created-utc": 1411987490.0, 
+            "id": "2hs0fk"
+        }, 
+        {
+            "num-comments": 36, 
             "domain": "self.television", 
             "score": 7, 
             "nsfw": false, 
@@ -291,20 +302,9 @@
             "permalink": "http://www.reddit.com/r/television/comments/2hr2ks/what_was_the_greatest_or_worst_tv_crossover_of/", 
             "created-utc": 1411956945.0, 
             "id": "2hr2ks"
-        }, 
-        {
-            "num-comments": 9, 
-            "domain": "self.television", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "How do you see the financing and distribution of series and movies in the future?", 
-            "url": "http://www.reddit.com/r/television/comments/2hqesd/how_do_you_see_the_financing_and_distribution_of/", 
-            "author": "nohopedude", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hqesd/how_do_you_see_the_financing_and_distribution_of/", 
-            "created-utc": 1411941999.0, 
-            "id": "2hqesd"
         }
     ], 
+    "subreddit": "/r/television/", 
     "reddit-url": "http://www.reddit.com/r/television/", 
     "api-url": "http://daily.red/television.json", 
     "display-name": "Television"
