@@ -1,12 +1,12 @@
 {
     "description": "The musical community of reddit", 
     "title": "Music", 
-    "generated-utc": 1412018461, 
+    "generated-utc": 1412028090, 
     "posts": [
         {
-            "num-comments": 501, 
+            "num-comments": 512, 
             "domain": "youtube.com", 
-            "score": 1945, 
+            "score": 1958, 
             "nsfw": false, 
             "title": "Blue \u00d6yster Cult - (Don't Fear) The Reaper [Hard Rock, Psychedelic Rock, Progressive Rock]", 
             "url": "https://www.youtube.com/watch?v=ClQcUyhoxTg", 
@@ -16,9 +16,9 @@
             "id": "2hqr49"
         }, 
         {
-            "num-comments": 97, 
+            "num-comments": 104, 
             "domain": "youtube.com", 
-            "score": 630, 
+            "score": 647, 
             "nsfw": false, 
             "title": "Jack White - Lazaretto [Rock/Blues]", 
             "url": "https://www.youtube.com/watch?v=qI-95cTMeLM&amp;list=PLOiuJ_V_dqLgkQu330OP-CTF3Fh55Mjbi&amp;index=1", 
@@ -30,7 +30,7 @@
         {
             "num-comments": 48, 
             "domain": "youtube.com", 
-            "score": 472, 
+            "score": 479, 
             "nsfw": false, 
             "title": "Depeche Mode - Personal Jesus [Synthrock]", 
             "url": "https://www.youtube.com/watch?v=u1xrNaTO1bI", 
@@ -40,69 +40,21 @@
             "id": "2hqe4w"
         }, 
         {
-            "num-comments": 37, 
-            "domain": "youtube.com", 
-            "score": 166, 
+            "num-comments": 152, 
+            "domain": "ultimateclassicrock.com", 
+            "score": 1049, 
             "nsfw": false, 
-            "title": "RuneScape - Autumn Voyage [game/midi] the theme of my middle school years", 
-            "url": "https://www.youtube.com/watch?v=S9wnuZoK090", 
-            "author": "BobTehCat", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hpox7/runescape_autumn_voyage_gamemidi_the_theme_of_my/", 
-            "created-utc": 1411926861.0, 
-            "id": "2hpox7"
+            "title": "Black Sabbath Planning Final Album and World Tour", 
+            "url": "http://ultimateclassicrock.com/black-sabbath-final-album/?utm_source=sailthru&amp;utm_medium=referral", 
+            "author": "Jallfair", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hsizk/black_sabbath_planning_final_album_and_world_tour/", 
+            "created-utc": 1412002226.0, 
+            "id": "2hsizk"
         }, 
         {
-            "num-comments": 14, 
-            "domain": "youtube.com", 
-            "score": 80, 
-            "nsfw": false, 
-            "title": "Mot\u00f6rhead - Enter Sandman [Heavy Metal] This is a KILLER cover.", 
-            "url": "http://www.youtube.com/attribution_link?a=4rMIpxzZjqA&amp;u=%2Fwatch%3Fv%3DhF9Gr5waAJg%26feature%3Dshare", 
-            "author": "RxDealer", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hppxt/mot\u00f6rhead_enter_sandman_heavy_metal_this_is_a/", 
-            "created-utc": 1411927435.0, 
-            "id": "2hppxt"
-        }, 
-        {
-            "num-comments": 14, 
-            "domain": "youtube.com", 
-            "score": 67, 
-            "nsfw": false, 
-            "title": "Every Time I Die - The Big Dirty (2007 Full Album) [Hard Rock] Buffalo hardcore at its finest. These guys are fantastic", 
-            "url": "https://www.youtube.com/watch?v=XsvLfL3Qh1A&amp;list=PLyxTagF-jwDrYuaENKvHLT4y-xWXq6plR", 
-            "author": "gsheedy", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hpmfj/every_time_i_die_the_big_dirty_2007_full_album/", 
-            "created-utc": 1411925320.0, 
-            "id": "2hpmfj"
-        }, 
-        {
-            "num-comments": 26, 
+            "num-comments": 52, 
             "domain": "youtu.be", 
-            "score": 196, 
-            "nsfw": false, 
-            "title": "Godspeed You! Black Emperor - Sleep [Post Rock]", 
-            "url": "http://youtu.be/sjTiFrMaUtY", 
-            "author": "Hedoin", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hs56e/godspeed_you_black_emperor_sleep_post_rock/", 
-            "created-utc": 1411992598.0, 
-            "id": "2hs56e"
-        }, 
-        {
-            "num-comments": 65, 
-            "domain": "top-lists-bro.com", 
-            "score": 108, 
-            "nsfw": false, 
-            "title": "The Best Metal Albums of 2014 (so far)", 
-            "url": "http://www.top-lists-bro.com/article/108/The-Best-Metal-Albums-of-2014-so-far.html", 
-            "author": "cfmmmm", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hs4hu/the_best_metal_albums_of_2014_so_far/", 
-            "created-utc": 1411991932.0, 
-            "id": "2hs4hu"
-        }, 
-        {
-            "num-comments": 36, 
-            "domain": "youtu.be", 
-            "score": 300, 
+            "score": 415, 
             "nsfw": false, 
             "title": "Pixies - Crackity Jones [80s alternative rock] Super short and super sweet", 
             "url": "http://youtu.be/aPr7AzH36-M", 
@@ -112,9 +64,45 @@
             "id": "2hsgov"
         }, 
         {
-            "num-comments": 8, 
+            "num-comments": 156, 
+            "domain": "pitchfork.com", 
+            "score": 791, 
+            "nsfw": true, 
+            "title": "Mastodon combines metal with Minaj-istic amounts of butt in their new video for \"The Motherload\"", 
+            "url": "http://pitchfork.com/news/56884-mastodon-surrounded-by-twerking-dancers-so-many-butts-in-the-motherload-video/", 
+            "author": "Cee-Mon", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hsno4/mastodon_combines_metal_with_minajistic_amounts/", 
+            "created-utc": 1412005146.0, 
+            "id": "2hsno4"
+        }, 
+        {
+            "num-comments": 45, 
             "domain": "youtube.com", 
-            "score": 120, 
+            "score": 464, 
+            "nsfw": false, 
+            "title": "Death Cab for Cutie - Soul Meets Body [Alternative]", 
+            "url": "https://www.youtube.com/watch?v=uizQVriWp8M", 
+            "author": "brownshugguh", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hsjim/death_cab_for_cutie_soul_meets_body_alternative/", 
+            "created-utc": 1412002579.0, 
+            "id": "2hsjim"
+        }, 
+        {
+            "num-comments": 35, 
+            "domain": "youtu.be", 
+            "score": 249, 
+            "nsfw": false, 
+            "title": "Godspeed You! Black Emperor - Sleep [Post Rock]", 
+            "url": "http://youtu.be/sjTiFrMaUtY", 
+            "author": "Hedoin", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hs56e/godspeed_you_black_emperor_sleep_post_rock/", 
+            "created-utc": 1411992598.0, 
+            "id": "2hs56e"
+        }, 
+        {
+            "num-comments": 10, 
+            "domain": "youtube.com", 
+            "score": 148, 
             "nsfw": false, 
             "title": "Incubus - Aqueous Transmission [Alternative]", 
             "url": "https://www.youtube.com/watch?v=eQK7KSTQfaw", 
@@ -124,9 +112,57 @@
             "id": "2hrpcc"
         }, 
         {
-            "num-comments": 313, 
+            "num-comments": 83, 
+            "domain": "top-lists-bro.com", 
+            "score": 118, 
+            "nsfw": false, 
+            "title": "The Best Metal Albums of 2014 (so far)", 
+            "url": "http://www.top-lists-bro.com/article/108/The-Best-Metal-Albums-of-2014-so-far.html", 
+            "author": "cfmmmm", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hs4hu/the_best_metal_albums_of_2014_so_far/", 
+            "created-utc": 1411991932.0, 
+            "id": "2hs4hu"
+        }, 
+        {
+            "num-comments": 30, 
+            "domain": "youtube.com", 
+            "score": 199, 
+            "nsfw": false, 
+            "title": "Modest Mouse - Never Ending Math Equation [Indie-Rock]", 
+            "url": "https://www.youtube.com/watch?v=JKcdaY-ZxnU", 
+            "author": "rzya", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hsq67/modest_mouse_never_ending_math_equation_indierock/", 
+            "created-utc": 1412006585.0, 
+            "id": "2hsq67"
+        }, 
+        {
+            "num-comments": 314, 
             "domain": "self.Music", 
-            "score": 46, 
+            "score": 123, 
+            "nsfw": false, 
+            "title": "Which songs don't their creators particularly like?", 
+            "url": "http://www.reddit.com/r/Music/comments/2hsrv5/which_songs_dont_their_creators_particularly_like/", 
+            "author": "guisesrsly", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hsrv5/which_songs_dont_their_creators_particularly_like/", 
+            "created-utc": 1412007609.0, 
+            "id": "2hsrv5"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "youtube.com", 
+            "score": 62, 
+            "nsfw": false, 
+            "title": "Pogo - Hermione Mix [Electronic] Emma Watson gets remixed", 
+            "url": "https://www.youtube.com/watch?v=lrsNeqANI3k", 
+            "author": "imadien", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hs9ux/pogo_hermione_mix_electronic_emma_watson_gets/", 
+            "created-utc": 1411996398.0, 
+            "id": "2hs9ux"
+        }, 
+        {
+            "num-comments": 321, 
+            "domain": "self.Music", 
+            "score": 52, 
             "nsfw": false, 
             "title": "Tell Reddit your 3 favorite songs and Reddit will tell you who you are!", 
             "url": "http://www.reddit.com/r/Music/comments/2hr7l9/tell_reddit_your_3_favorite_songs_and_reddit_will/", 
@@ -138,7 +174,7 @@
         {
             "num-comments": 17, 
             "domain": "youtube.com", 
-            "score": 45, 
+            "score": 41, 
             "nsfw": false, 
             "title": "Death from Above 1979 - White Is Red. [Punk] Oddly my favorite track from the new record", 
             "url": "https://www.youtube.com/watch?v=xnlaOkCEwxg", 
@@ -148,33 +184,9 @@
             "id": "2hq9fo"
         }, 
         {
-            "num-comments": 37, 
-            "domain": "ultimateclassicrock.com", 
-            "score": 387, 
-            "nsfw": false, 
-            "title": "Black Sabbath Planning Final Album and World Tour", 
-            "url": "http://ultimateclassicrock.com/black-sabbath-final-album/?utm_source=sailthru&amp;utm_medium=referral", 
-            "author": "Jallfair", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hsizk/black_sabbath_planning_final_album_and_world_tour/", 
-            "created-utc": 1412002226.0, 
-            "id": "2hsizk"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "youtube.com", 
-            "score": 38, 
-            "nsfw": false, 
-            "title": "Buffalo Springfield - For What It's Worth[Folk Rock]", 
-            "url": "https://www.youtube.com/watch?v=gp5JCrSXkJY", 
-            "author": "Abandon-All-Hope", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hpmq1/buffalo_springfield_for_what_its_worthfolk_rock/", 
-            "created-utc": 1411925517.0, 
-            "id": "2hpmq1"
-        }, 
-        {
             "num-comments": 62, 
             "domain": "self.Music", 
-            "score": 31, 
+            "score": 30, 
             "nsfw": false, 
             "title": "What are the pros and cons of your favorite digital music player? Pandora? Spotify? Soundcloud?", 
             "url": "http://www.reddit.com/r/Music/comments/2hq3ej/what_are_the_pros_and_cons_of_your_favorite/", 
@@ -184,16 +196,52 @@
             "id": "2hq3ej"
         }, 
         {
-            "num-comments": 28, 
-            "domain": "youtube.com", 
-            "score": 256, 
+            "num-comments": 10, 
+            "domain": "pitchfork.com", 
+            "score": 35, 
             "nsfw": false, 
-            "title": "Death Cab for Cutie - Soul Meets Body [Alternative]", 
-            "url": "https://www.youtube.com/watch?v=uizQVriWp8M", 
-            "author": "brownshugguh", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hsjim/death_cab_for_cutie_soul_meets_body_alternative/", 
-            "created-utc": 1412002579.0, 
-            "id": "2hsjim"
+            "title": "Led Zeppelin release new alternate mix to the Rain Song", 
+            "url": "http://pitchfork.com/news/56883-led-zeppelin-share-alternate-mix-of-the-rain-song/", 
+            "author": "heavym", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hsc9q/led_zeppelin_release_new_alternate_mix_to_the/", 
+            "created-utc": 1411998064.0, 
+            "id": "2hsc9q"
+        }, 
+        {
+            "num-comments": 11, 
+            "domain": "youtu.be", 
+            "score": 51, 
+            "nsfw": false, 
+            "title": "Lorde - Yellow Flicker Beat [Pop/Electronic] New single for the Hunger Games: Mockingjay - Part 1 soundtrack", 
+            "url": "http://youtu.be/e1S9HUNoI4k", 
+            "author": "garyallen59", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hswzj/lorde_yellow_flicker_beat_popelectronic_new/", 
+            "created-utc": 1412010408.0, 
+            "id": "2hswzj"
+        }, 
+        {
+            "num-comments": 14, 
+            "domain": "youtube.com", 
+            "score": 70, 
+            "nsfw": false, 
+            "title": "Arctic Monkeys - Dancing Shoes [Indie Rock]", 
+            "url": "https://www.youtube.com/watch?v=3aQELo7tXyI", 
+            "author": "Shoobedoobop", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hsw3k/arctic_monkeys_dancing_shoes_indie_rock/", 
+            "created-utc": 1412009973.0, 
+            "id": "2hsw3k"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "youtube.com", 
+            "score": 26, 
+            "nsfw": false, 
+            "title": "Midnight Oil - Beds Are Burning [Alt. Rock, New Wave]", 
+            "url": "http://www.youtube.com/attribution_link?a=Hs40dxXfeZ8&amp;u=%2Fwatch%3Fv%3DejorQVy3m8E%26feature%3Dshare", 
+            "author": "eugoogooly", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hrr5g/midnight_oil_beds_are_burning_alt_rock_new_wave/", 
+            "created-utc": 1411975924.0, 
+            "id": "2hrr5g"
         }, 
         {
             "num-comments": 2, 
@@ -208,21 +256,9 @@
             "id": "2hqc2l"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "youtube.com", 
-            "score": 29, 
-            "nsfw": false, 
-            "title": "Midnight Oil - Beds Are Burning [Alt. Rock, New Wave]", 
-            "url": "http://www.youtube.com/attribution_link?a=Hs40dxXfeZ8&amp;u=%2Fwatch%3Fv%3DejorQVy3m8E%26feature%3Dshare", 
-            "author": "eugoogooly", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hrr5g/midnight_oil_beds_are_burning_alt_rock_new_wave/", 
-            "created-utc": 1411975924.0, 
-            "id": "2hrr5g"
-        }, 
-        {
-            "num-comments": 24, 
+            "num-comments": 26, 
             "domain": "self.Music", 
-            "score": 18, 
+            "score": 21, 
             "nsfw": false, 
             "title": "What's a good light melancholic piece of music?", 
             "url": "http://www.reddit.com/r/Music/comments/2hrusp/whats_a_good_light_melancholic_piece_of_music/", 
@@ -230,6 +266,18 @@
             "permalink": "http://www.reddit.com/r/Music/comments/2hrusp/whats_a_good_light_melancholic_piece_of_music/", 
             "created-utc": 1411980506.0, 
             "id": "2hrusp"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "self.Music", 
+            "score": 20, 
+            "nsfw": false, 
+            "title": "Looking for a couple albums", 
+            "url": "http://www.reddit.com/r/Music/comments/2hssp0/looking_for_a_couple_albums/", 
+            "author": "NytLyt", 
+            "permalink": "http://www.reddit.com/r/Music/comments/2hssp0/looking_for_a_couple_albums/", 
+            "created-utc": 1412008093.0, 
+            "id": "2hssp0"
         }, 
         {
             "num-comments": 3, 
@@ -244,18 +292,6 @@
             "id": "2hqp2l"
         }, 
         {
-            "num-comments": 3, 
-            "domain": "youtube.com", 
-            "score": 52, 
-            "nsfw": false, 
-            "title": "Pogo - Hermione Mix [Electronic] Emma Watson gets remixed", 
-            "url": "https://www.youtube.com/watch?v=lrsNeqANI3k", 
-            "author": "imadien", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hs9ux/pogo_hermione_mix_electronic_emma_watson_gets/", 
-            "created-utc": 1411996398.0, 
-            "id": "2hs9ux"
-        }, 
-        {
             "num-comments": 0, 
             "domain": "youtube.com", 
             "score": 14, 
@@ -266,42 +302,6 @@
             "permalink": "http://www.reddit.com/r/Music/comments/2hq9a0/the_disco_biscuits_9262014_philly_set_i_ii_jam/", 
             "created-utc": 1411938630.0, 
             "id": "2hq9a0"
-        }, 
-        {
-            "num-comments": 2, 
-            "domain": "youtube.com", 
-            "score": 13, 
-            "nsfw": false, 
-            "title": "12 year old Lorde - Use Somebody (by Kings of Leon) [Cover]", 
-            "url": "https://www.youtube.com/watch?v=afZ4RFfJCfM", 
-            "author": "musiconetime2", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hpo3n/12_year_old_lorde_use_somebody_by_kings_of_leon/", 
-            "created-utc": 1411926361.0, 
-            "id": "2hpo3n"
-        }, 
-        {
-            "num-comments": 10, 
-            "domain": "pitchfork.com", 
-            "score": 30, 
-            "nsfw": false, 
-            "title": "Led Zeppelin release new alternate mix to the Rain Song", 
-            "url": "http://pitchfork.com/news/56883-led-zeppelin-share-alternate-mix-of-the-rain-song/", 
-            "author": "heavym", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hsc9q/led_zeppelin_release_new_alternate_mix_to_the/", 
-            "created-utc": 1411998064.0, 
-            "id": "2hsc9q"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "rockandrollgps.com", 
-            "score": 12, 
-            "nsfw": false, 
-            "title": "The Eagles \"Hotel California\" Album Cover Location", 
-            "url": "http://www.rockandrollgps.com/the-eagles-hotel-california-album-cover-location/", 
-            "author": "thechefs2003", 
-            "permalink": "http://www.reddit.com/r/Music/comments/2hpqmh/the_eagles_hotel_california_album_cover_location/", 
-            "created-utc": 1411927833.0, 
-            "id": "2hpqmh"
         }
     ], 
     "subreddit": "/r/Music/", 

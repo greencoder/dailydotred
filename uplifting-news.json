@@ -1,12 +1,12 @@
 {
     "description": "A place to read and share positive and uplifting, feel good news stories", 
     "title": "Uplifting News", 
-    "generated-utc": 1412018399, 
+    "generated-utc": 1412028027, 
     "posts": [
         {
-            "num-comments": 774, 
+            "num-comments": 803, 
             "domain": "gajitz.com", 
-            "score": 3397, 
+            "score": 3428, 
             "nsfw": false, 
             "title": "15-year-old wins $25,000 scholarship for inventing a flashlight that runs on the body heat of the hand holding it", 
             "url": "http://gajitz.com/best-brightest-hollow-flashlight-runs-on-your-body-heat/", 
@@ -18,7 +18,7 @@
         {
             "num-comments": 3, 
             "domain": "news.yahoo.com", 
-            "score": 27, 
+            "score": 29, 
             "nsfw": false, 
             "title": "Philipines \"breaks world tree-planting record.\"", 
             "url": "http://news.yahoo.com/philippines-breaks-world-tree-planting-record-190103229.html;_ylt=AwrBJSB9FSdU0ggAbSnQtDMD", 
@@ -28,21 +28,9 @@
             "id": "2hr7j3"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "komonews.com", 
-            "score": 22, 
-            "nsfw": false, 
-            "title": "Firefighters use oxygen on hamsters rescued from blaze", 
-            "url": "http://www.komonews.com/news/local/Firefighters-use-oxygen-on-hamsters-rescued-from-blaze-277285541.html", 
-            "author": "misnamed", 
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hpnnb/firefighters_use_oxygen_on_hamsters_rescued_from/", 
-            "created-utc": 1411926087.0, 
-            "id": "2hpnnb"
-        }, 
-        {
             "num-comments": 1, 
             "domain": "star-telegram.com", 
-            "score": 12, 
+            "score": 19, 
             "nsfw": false, 
             "title": "Man who raised $55K for potato salad throws party [AP article, this one with photos]", 
             "url": "http://www.star-telegram.com/2014/09/27/6153806/man-who-raised-55k-for-potato.html", 
@@ -50,6 +38,42 @@
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hs35j/man_who_raised_55k_for_potato_salad_throws_party/", 
             "created-utc": 1411990652.0, 
             "id": "2hs35j"
+        }, 
+        {
+            "num-comments": 3, 
+            "domain": "ijreview.com", 
+            "score": 18, 
+            "nsfw": false, 
+            "title": "When Knight Rider Swings by to Pick Up a Mega-Fan with Down Syndrome, It\u2019s the Joyride of a Lifetime", 
+            "url": "http://www.ijreview.com/2014/09/182027-david-hasselhoff-dutch-mega-fan-syndrome-make-others-day-ride-lifetime/", 
+            "author": "nycsep", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hstun/when_knight_rider_swings_by_to_pick_up_a_megafan/", 
+            "created-utc": 1412008761.0, 
+            "id": "2hstun"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "dailymail.co.uk", 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "Shotgun victim who needed full face transplant finds love after years of hiding from the public\u2026 and reveals he\u2019s having to learn how to kiss again", 
+            "url": "http://www.dailymail.co.uk/news/article-2773467/Shotgun-victim-needed-face-transplant-finds-love-years-hiding-public-reveals-s-having-learn-kiss-again.html", 
+            "author": "sexyloser1128", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2ht58n/shotgun_victim_who_needed_full_face_transplant/", 
+            "created-utc": 1412014532.0, 
+            "id": "2ht58n"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "startasnowball.com", 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "MD Girl makes bath bombs and sells to benefit JDRF", 
+            "url": "http://startasnowball.com/bath-bombs-for-diabetes/", 
+            "author": "macwinslow", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2ht0c5/md_girl_makes_bath_bombs_and_sells_to_benefit_jdrf/", 
+            "created-utc": 1412012118.0, 
+            "id": "2ht0c5"
         }, 
         {
             "num-comments": 0, 
@@ -76,18 +100,6 @@
             "id": "2hrhqc"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "ijreview.com", 
-            "score": 11, 
-            "nsfw": false, 
-            "title": "When Knight Rider Swings by to Pick Up a Mega-Fan with Down Syndrome, It\u2019s the Joyride of a Lifetime", 
-            "url": "http://www.ijreview.com/2014/09/182027-david-hasselhoff-dutch-mega-fan-syndrome-make-others-day-ride-lifetime/", 
-            "author": "nycsep", 
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hstun/when_knight_rider_swings_by_to_pick_up_a_megafan/", 
-            "created-utc": 1412008761.0, 
-            "id": "2hstun"
-        }, 
-        {
             "num-comments": 0, 
             "domain": "weburbanist.com", 
             "score": 1, 
@@ -98,6 +110,18 @@
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hrgm8/over_1000_parking_spots_in_100_cities_around_the/", 
             "created-utc": 1411966130.0, 
             "id": "2hrgm8"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "q13fox.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Gun instructor\u2019s kids offer forgiveness to girl who accidentally killed their father.", 
+            "url": "http://q13fox.com/2014/09/12/gun-instructors-family-shows-sympathy-for-child-who-accidentally-killed-him/", 
+            "author": "recoveringgayfish", 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2htaer/gun_instructors_kids_offer_forgiveness_to_girl/", 
+            "created-utc": 1412017250.0, 
+            "id": "2htaer"
         }
     ], 
     "subreddit": "/r/UpliftingNews/", 

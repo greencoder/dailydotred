@@ -1,12 +1,12 @@
 {
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
-    "generated-utc": 1412018408, 
+    "generated-utc": 1412028037, 
     "posts": [
         {
             "num-comments": 3, 
             "domain": "imgur.com", 
-            "score": 25, 
+            "score": 27, 
             "nsfw": false, 
             "title": "Storm Approaching Scottsdale, Arizona 9/27/14", 
             "url": "http://imgur.com/gallery/5ocO09N", 
@@ -16,9 +16,9 @@
             "id": "2hqflm"
         }, 
         {
-            "num-comments": 8, 
+            "num-comments": 11, 
             "domain": "self.weather", 
-            "score": 2, 
+            "score": 5, 
             "nsfw": false, 
             "title": "What should I say to people who provocatively state that there weren't storms when they were younger?", 
             "url": "http://www.reddit.com/r/weather/comments/2hsvvz/what_should_i_say_to_people_who_provocatively/", 

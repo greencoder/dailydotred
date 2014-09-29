@@ -6,7 +6,7 @@
   <description>A place for major news from around the world, excluding US-internal news</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Mon, 29 Sep 2014 19:19:52 -0000</pubDate>
+  <pubDate>Mon, 29 Sep 2014 22:00:19 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/world-news.xml" rel="self" type="application/rss+xml" />
 
@@ -14,7 +14,7 @@
     <title>Makers of animals torture videos ‘Crush’ Sentenced to Life Imprisonment</title>
     <link>http://blog.petaasiapacific.com/companion-animals/breaking-news-makers-cruel-crush-video-sentenced-details</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hrx78/makers_of_animals_torture_videos_crush_sentenced/</guid>
-    <description>BY TWHR &#183; POSTED 09/29/14 5:39 AM EST &#183; BLOG.PETAASIAPACIFIC.COM &#183; SCORE 4154</description>
+    <description>BY TWHR &#183; POSTED 09/29/14 5:39 AM EST &#183; BLOG.PETAASIAPACIFIC.COM &#183; SCORE 4053</description>
     <category></category>
   </item>
 
@@ -22,31 +22,7 @@
     <title>Woman saves three relatives from Ebola. Her protection method is being taught to others in West Africa.</title>
     <link>http://www.cnn.com/2014/09/25/health/ebola-fatu-family/index.html?hpt=he_t2</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hqsca/woman_saves_three_relatives_from_ebola_her/</guid>
-    <description>BY TURDMALONE &#183; POSTED 09/28/14 8:28 PM EST &#183; CNN.COM &#183; SCORE 3406</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Dutch seize passports of 49 suspected jihadists</title>
-    <link>http://www.nltimes.nl/2014/09/28/dutch-seize-passports-49-suspected-jihadists/</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hpylb/dutch_seize_passports_of_49_suspected_jihadists/</guid>
-    <description>BY PALMFORESTFOX &#183; POSTED 09/28/14 3:29 PM EST &#183; NLTIMES.NL &#183; SCORE 2485</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Instagram has reportedly been blocked in mainland China as protests in Hong Kong intensify</title>
-    <link>http://www.theverge.com/2014/9/28/6859993/instagram-reportedly-blocked-in-mainland-china-following-hong-kong-protests</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hqgqp/instagram_has_reportedly_been_blocked_in_mainland/</guid>
-    <description>BY ALLESSANDRO &#183; POSTED 09/28/14 6:27 PM EST &#183; THEVERGE.COM &#183; SCORE 2514</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Saudi Pilot Arrested for Refusing to Bomb ISIS in Syria</title>
-    <link>http://www.almasdarnews.com/article/saudi-pilot-arrested-refusing-bomb-isis-syria/</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hqzbc/saudi_pilot_arrested_for_refusing_to_bomb_isis_in/</guid>
-    <description>BY CHREZVYCHAYNAYA &#183; POSTED 09/28/14 9:40 PM EST &#183; ALMASDARNEWS.COM &#183; SCORE 2491</description>
+    <description>BY TURDMALONE &#183; POSTED 09/28/14 8:28 PM EST &#183; CNN.COM &#183; SCORE 3466</description>
     <category></category>
   </item>
 
@@ -54,7 +30,31 @@
     <title>Hong Kong citizens step up democracy protests as riot police withdrawn | Roads blocked, banks and schools closed, as thousands join unprecedented demonstrations disrupting daily life</title>
     <link>http://www.theguardian.com/world/2014/sep/29/hong-kong-citizens-democracy-protests-riot-police-withdrawn</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hrmmr/hong_kong_citizens_step_up_democracy_protests_as/</guid>
-    <description>BY KULKKE &#183; POSTED 09/29/14 2:15 AM EST &#183; THEGUARDIAN.COM &#183; SCORE 2795</description>
+    <description>BY KULKKE &#183; POSTED 09/29/14 2:15 AM EST &#183; THEGUARDIAN.COM &#183; SCORE 3092</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Instagram has reportedly been blocked in mainland China as protests in Hong Kong intensify</title>
+    <link>http://www.theverge.com/2014/9/28/6859993/instagram-reportedly-blocked-in-mainland-china-following-hong-kong-protests</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hqgqp/instagram_has_reportedly_been_blocked_in_mainland/</guid>
+    <description>BY ALLESSANDRO &#183; POSTED 09/28/14 6:27 PM EST &#183; THEVERGE.COM &#183; SCORE 2592</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Saudi Pilot Arrested for Refusing to Bomb ISIS in Syria</title>
+    <link>http://www.almasdarnews.com/article/saudi-pilot-arrested-refusing-bomb-isis-syria/</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hqzbc/saudi_pilot_arrested_for_refusing_to_bomb_isis_in/</guid>
+    <description>BY CHREZVYCHAYNAYA &#183; POSTED 09/28/14 9:40 PM EST &#183; ALMASDARNEWS.COM &#183; SCORE 2593</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Dutch seize passports of 49 suspected jihadists</title>
+    <link>http://www.nltimes.nl/2014/09/28/dutch-seize-passports-49-suspected-jihadists/</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hpylb/dutch_seize_passports_of_49_suspected_jihadists/</guid>
+    <description>BY PALMFORESTFOX &#183; POSTED 09/28/14 3:29 PM EST &#183; NLTIMES.NL &#183; SCORE 2511</description>
     <category></category>
   </item>
 
@@ -62,7 +62,7 @@
     <title>Ukrainians in Kharkiv topple their square's statue of Lenin to cheers and anti-Russian chants.</title>
     <link>http://www.kyivpost.com/content/ukraine/lenin-monument-toppled-in-kharkiv-366230.html</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hqame/ukrainians_in_kharkiv_topple_their_squares_statue/</guid>
-    <description>BY EEEEEEP &#183; POSTED 09/28/14 5:24 PM EST &#183; KYIVPOST.COM &#183; SCORE 1295</description>
+    <description>BY EEEEEEP &#183; POSTED 09/28/14 5:24 PM EST &#183; KYIVPOST.COM &#183; SCORE 1333</description>
     <category></category>
   </item>
 
@@ -70,63 +70,7 @@
     <title>China Warns UK: Don't 'Interfere' Over Hong Kong</title>
     <link>http://news.sky.com/story/1344068/hong-kong-china-warns-uk-not-to-interfere</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hs510/china_warns_uk_dont_interfere_over_hong_kong/</guid>
-    <description>BY I_LOVE_FSA &#183; POSTED 09/29/14 8:07 AM EST &#183; NEWS.SKY.COM &#183; SCORE 1386</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>India PM Narendra Modi wows 20,000 people at Madison Square Garden with a promise to transform India and declares removal of archaic laws and announces new visa laws. Slated to meet CEOs of Fortune 500 companies in the coming days</title>
-    <link>http://blogs.wsj.com/indiarealtime/2014/09/28/live-blog-indias-narendra-modi-speaks-at-madison-square-garden/?mod=blog_flyover</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hpwjw/india_pm_narendra_modi_wows_20000_people_at/</guid>
-    <description>BY OLDTERRIBLEMAN &#183; POSTED 09/28/14 3:09 PM EST &#183; BLOGS.WSJ.COM &#183; SCORE 645</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Sepp Blatter tried to silence Fifa executive committee members who demanded release of 2022 World Cup corruption report</title>
-    <link>http://www.thesundaytimes.co.uk/sto/news/insight/article1464815.ece</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hq34p/sepp_blatter_tried_to_silence_fifa_executive/</guid>
-    <description>BY ASSUREDLYATHROWAWAY &#183; POSTED 09/28/14 4:12 PM EST &#183; THESUNDAYTIMES.CO.UK &#183; SCORE 385</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Qatari Donates $2 Million for ISIS Suicide Bomber Program...</title>
-    <link>http://www.dailymail.co.uk/news/article-2771571/ISIS-s-emir-suicide-bombers-raised-2million-military-operations-mystery-Qatari-donor-say-US-officials.html</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hqpb0/qatari_donates_2_million_for_isis_suicide_bomber/</guid>
-    <description>BY PESHMERGANCHETNIK &#183; POSTED 09/28/14 7:57 PM EST &#183; DAILYMAIL.CO.UK &#183; SCORE 391</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Solar energy: a sunflower solution to electricity shortage and desalination. IBM says it will install its first two devices for free in 2016 and has asked towns around the world to put their names forward to be the first to have a solar sunflower erected on their land.</title>
-    <link>http://www.theguardian.com/environment/2014/sep/28/solar-energy-sunflower-ibm-airlight-electricity</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hrcay/solar_energy_a_sunflower_solution_to_electricity/</guid>
-    <description>BY PNEWELL &#183; POSTED 09/28/14 11:56 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 410</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Beijing Blocks Reports on Hong Kong Democracy Movement</title>
-    <link>http://sinosphere.blogs.nytimes.com/2014/09/29/beijing-blocks-reports-on-hong-kong-democracy-movement/</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hruib/beijing_blocks_reports_on_hong_kong_democracy/</guid>
-    <description>BY BRBARAKA &#183; POSTED 09/29/14 4:42 AM EST &#183; SINOSPHERE.BLOGS.NYTIMES.COM &#183; SCORE 420</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>French Far-Right wins seats in French Senate for first time</title>
-    <link>http://www.theguardian.com/world/2014/sep/28/front-national-wins-seats-french-senate-first-time</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hprtl/french_farright_wins_seats_in_french_senate_for/</guid>
-    <description>BY KINGQAJAR &#183; POSTED 09/28/14 2:22 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 264</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>17 year old Hong Kong Democracy leader faces "battle" against Chinese government: "Mainland China is a tinderbox that's been physically suppressed by the authorities, and Hong Kong is a seed of fire...maybe the Chinese government will one day send troops onto the streets, or even tanks."</title>
-    <link>http://www.cnn.com/2014/09/21/world/asia/hong-kong-joshua-wong-democracy-protest/index.html?hpt=wo_mid</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hr5m6/17_year_old_hong_kong_democracy_leader_faces/</guid>
-    <description>BY INDEPENDENTLYTHOUGHT &#183; POSTED 09/28/14 10:47 PM EST &#183; CNN.COM &#183; SCORE 294</description>
+    <description>BY I_LOVE_FSA &#183; POSTED 09/29/14 8:07 AM EST &#183; NEWS.SKY.COM &#183; SCORE 1984</description>
     <category></category>
   </item>
 
@@ -134,31 +78,31 @@
     <title>Obama: 'They Don't Call Moscow' When There's Trouble In The World</title>
     <link>http://finance.yahoo.com/news/obama-dont-call-moscow-theres-234603911.html</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hsgyo/obama_they_dont_call_moscow_when_theres_trouble/</guid>
-    <description>BY TROT-TROT &#183; POSTED 09/29/14 10:28 AM EST &#183; FINANCE.YAHOO.COM &#183; SCORE 1490</description>
+    <description>BY TROT-TROT &#183; POSTED 09/29/14 10:28 AM EST &#183; FINANCE.YAHOO.COM &#183; SCORE 3640</description>
     <category></category>
   </item>
 
   <item>
-    <title>Schools and banks closed as Hong Kong paralysed by protest</title>
-    <link>http://www.telegraph.co.uk/news/worldnews/asia/hongkong/11127337/Schools-and-banks-closed-as-Hong-Kong-paralysed-by-protest.html</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hrods/schools_and_banks_closed_as_hong_kong_paralysed/</guid>
-    <description>BY CANAUSERNAMEBETOOLON &#183; POSTED 09/29/14 2:44 AM EST &#183; TELEGRAPH.CO.UK &#183; SCORE 305</description>
+    <title>India PM Narendra Modi wows 20,000 people at Madison Square Garden with a promise to transform India and declares removal of archaic laws and announces new visa laws. Slated to meet CEOs of Fortune 500 companies in the coming days</title>
+    <link>http://blogs.wsj.com/indiarealtime/2014/09/28/live-blog-indias-narendra-modi-speaks-at-madison-square-garden/?mod=blog_flyover</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hpwjw/india_pm_narendra_modi_wows_20000_people_at/</guid>
+    <description>BY OLDTERRIBLEMAN &#183; POSTED 09/28/14 3:09 PM EST &#183; BLOGS.WSJ.COM &#183; SCORE 661</description>
     <category></category>
   </item>
 
   <item>
-    <title>Statue of Lenin pulled down in Ukraine's Kharkiv</title>
-    <link>http://www.bbc.com/news/world-europe-29405392#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa?utm_source=twitterfeed&amp;utm_medium=twitter</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hqqb3/statue_of_lenin_pulled_down_in_ukraines_kharkiv/</guid>
-    <description>BY DJDB &#183; POSTED 09/28/14 8:07 PM EST &#183; BBC.COM &#183; SCORE 239</description>
+    <title>Solar energy: a sunflower solution to electricity shortage and desalination. IBM says it will install its first two devices for free in 2016 and has asked towns around the world to put their names forward to be the first to have a solar sunflower erected on their land.</title>
+    <link>http://www.theguardian.com/environment/2014/sep/28/solar-energy-sunflower-ibm-airlight-electricity</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hrcay/solar_energy_a_sunflower_solution_to_electricity/</guid>
+    <description>BY PNEWELL &#183; POSTED 09/28/14 11:56 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 451</description>
     <category></category>
   </item>
 
   <item>
-    <title>European Commision to accuse Ireland of giving illegal state aid to Apple, fines could be €Billions | 9to5Mac</title>
-    <link>http://9to5mac.com/2014/09/28/european-commision-to-accuse-ireland-of-giving-illegal-state-aid-to-apple-fines-could-be-ebillions/</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hqvpy/european_commision_to_accuse_ireland_of_giving/</guid>
-    <description>BY DJDB &#183; POSTED 09/28/14 9:03 PM EST &#183; 9TO5MAC.COM &#183; SCORE 225</description>
+    <title>Beijing Blocks Reports on Hong Kong Democracy Movement</title>
+    <link>http://sinosphere.blogs.nytimes.com/2014/09/29/beijing-blocks-reports-on-hong-kong-democracy-movement/</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hruib/beijing_blocks_reports_on_hong_kong_democracy/</guid>
+    <description>BY BRBARAKA &#183; POSTED 09/29/14 4:42 AM EST &#183; SINOSPHERE.BLOGS.NYTIMES.COM &#183; SCORE 523</description>
     <category></category>
   </item>
 
@@ -166,7 +110,55 @@
     <title>Climate change is no longer viewed by mainstream scientists as a future threat to our planet and our species. It is a palpable phenomenon that already affects the world, they insist. And a brief look round the globe certainly provides no lack of evidence to support this gloomy assertion</title>
     <link>http://www.theguardian.com/environment/2014/sep/28/climate-change-has-arrived-global-warming-icecaps-deserts</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hs5zx/climate_change_is_no_longer_viewed_by_mainstream/</guid>
-    <description>BY EIGHTROUNDSRAPID &#183; POSTED 09/29/14 8:21 AM EST &#183; THEGUARDIAN.COM &#183; SCORE 417</description>
+    <description>BY EIGHTROUNDSRAPID &#183; POSTED 09/29/14 8:21 AM EST &#183; THEGUARDIAN.COM &#183; SCORE 774</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Sepp Blatter tried to silence Fifa executive committee members who demanded release of 2022 World Cup corruption report</title>
+    <link>http://www.thesundaytimes.co.uk/sto/news/insight/article1464815.ece</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hq34p/sepp_blatter_tried_to_silence_fifa_executive/</guid>
+    <description>BY ASSUREDLYATHROWAWAY &#183; POSTED 09/28/14 4:12 PM EST &#183; THESUNDAYTIMES.CO.UK &#183; SCORE 393</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Qatari Donates $2 Million for ISIS Suicide Bomber Program...</title>
+    <link>http://www.dailymail.co.uk/news/article-2771571/ISIS-s-emir-suicide-bombers-raised-2million-military-operations-mystery-Qatari-donor-say-US-officials.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hqpb0/qatari_donates_2_million_for_isis_suicide_bomber/</guid>
+    <description>BY PESHMERGANCHETNIK &#183; POSTED 09/28/14 7:57 PM EST &#183; DAILYMAIL.CO.UK &#183; SCORE 408</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Schools and banks closed as Hong Kong paralysed by protest</title>
+    <link>http://www.telegraph.co.uk/news/worldnews/asia/hongkong/11127337/Schools-and-banks-closed-as-Hong-Kong-paralysed-by-protest.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hrods/schools_and_banks_closed_as_hong_kong_paralysed/</guid>
+    <description>BY CANAUSERNAMEBETOOLON &#183; POSTED 09/29/14 2:44 AM EST &#183; TELEGRAPH.CO.UK &#183; SCORE 354</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>17 year old Hong Kong Democracy leader faces "battle" against Chinese government: "Mainland China is a tinderbox that's been physically suppressed by the authorities, and Hong Kong is a seed of fire...maybe the Chinese government will one day send troops onto the streets, or even tanks."</title>
+    <link>http://www.cnn.com/2014/09/21/world/asia/hong-kong-joshua-wong-democracy-protest/index.html?hpt=wo_mid</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hr5m6/17_year_old_hong_kong_democracy_leader_faces/</guid>
+    <description>BY INDEPENDENTLYTHOUGHT &#183; POSTED 09/28/14 10:47 PM EST &#183; CNN.COM &#183; SCORE 311</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Statue of Lenin pulled down in Ukraine's Kharkiv</title>
+    <link>http://www.bbc.com/news/world-europe-29405392#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa?utm_source=twitterfeed&amp;utm_medium=twitter</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hqqb3/statue_of_lenin_pulled_down_in_ukraines_kharkiv/</guid>
+    <description>BY DJDB &#183; POSTED 09/28/14 8:07 PM EST &#183; BBC.COM &#183; SCORE 252</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>European Commision to accuse Ireland of giving illegal state aid to Apple, fines could be €Billions | 9to5Mac</title>
+    <link>http://9to5mac.com/2014/09/28/european-commision-to-accuse-ireland-of-giving-illegal-state-aid-to-apple-fines-could-be-ebillions/</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hqvpy/european_commision_to_accuse_ireland_of_giving/</guid>
+    <description>BY DJDB &#183; POSTED 09/28/14 9:03 PM EST &#183; 9TO5MAC.COM &#183; SCORE 237</description>
     <category></category>
   </item>
 
@@ -174,23 +166,15 @@
     <title>31 bodies recovered from Japanese volcano.</title>
     <link>http://bigstory.ap.org/article/1bc9bf6e86aa4254ab2d18b121e1ef6c/7-rescued-32-missing-volcano-erupts-japan</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hrkbs/31_bodies_recovered_from_japanese_volcano/</guid>
-    <description>BY BALLYHOO9 &#183; POSTED 09/29/14 1:39 AM EST &#183; BIGSTORY.AP.ORG &#183; SCORE 197</description>
+    <description>BY BALLYHOO9 &#183; POSTED 09/29/14 1:39 AM EST &#183; BIGSTORY.AP.ORG &#183; SCORE 224</description>
     <category></category>
   </item>
 
   <item>
-    <title>Hong Kong Protest Spreads to New Site Across Harbour</title>
-    <link>http://www.rappler.com/world/regions/asia-pacific/70454-hong-kong-protest-spreads</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hpozh/hong_kong_protest_spreads_to_new_site_across/</guid>
-    <description>BY ZJAN131 &#183; POSTED 09/28/14 1:54 PM EST &#183; RAPPLER.COM &#183; SCORE 133</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Anti-terror laws rob Australians of freedoms ISIS hate, security expert says</title>
-    <link>http://www.news.com.au/technology/online/antiterror-laws-rob-australians-of-freedoms-isis-hate-security-expert-says/story-fnjwmwrh-1227073688494</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hqzl9/antiterror_laws_rob_australians_of_freedoms_isis/</guid>
-    <description>BY FUSEBOX- &#183; POSTED 09/28/14 9:43 PM EST &#183; NEWS.COM.AU &#183; SCORE 108</description>
+    <title>ISIS fighters 'at the gates of Baghdad': Islamic militants fighting government forces 'just one mile from Iraqi capital' despite days Western airstrikes against the terror group</title>
+    <link>http://www.dailymail.co.uk/news/article-2773268/ISIS-militants-fighting-Iraqi-government-forces-just-six-miles-Baghdad-despite-Western-airstrikes-against-terror-group.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hs5y1/isis_fighters_at_the_gates_of_baghdad_islamic/</guid>
+    <description>BY STR8_CASH__HOMIE &#183; POSTED 09/29/14 8:21 AM EST &#183; DAILYMAIL.CO.UK &#183; SCORE 327</description>
     <category></category>
   </item>
 
@@ -198,7 +182,15 @@
     <title>Thai university hospital claims to have developed an Ebola vaccine</title>
     <link>http://www.straitstimes.com/news/asia/south-east-asia/story/thailand-hospital-has-developed-ebola-vaccine-says-state-news-agency</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hs580/thai_university_hospital_claims_to_have_developed/</guid>
-    <description>BY KINGY88 &#183; POSTED 09/29/14 8:10 AM EST &#183; STRAITSTIMES.COM &#183; SCORE 178</description>
+    <description>BY KINGY88 &#183; POSTED 09/29/14 8:10 AM EST &#183; STRAITSTIMES.COM &#183; SCORE 259</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Philippines 'breaks world tree-planting record'</title>
+    <link>http://news.yahoo.com/philippines-breaks-world-tree-planting-record-190103229.html;_ylt=AwrBJSB9FSdU0ggAbSnQtDMD</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hs9gb/philippines_breaks_world_treeplanting_record/</guid>
+    <description>BY ALEX1718 &#183; POSTED 09/29/14 9:08 AM EST &#183; NEWS.YAHOO.COM &#183; SCORE 417</description>
     <category></category>
   </item>
 
@@ -206,7 +198,15 @@
     <title>Spain government asks court to declare Catalonia vote illegal</title>
     <link>http://www.reuters.com/article/2014/09/29/us-spain-catalonia-idUSKCN0HO0XR20140929</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hs47v/spain_government_asks_court_to_declare_catalonia/</guid>
-    <description>BY TULIP55 &#183; POSTED 09/29/14 7:54 AM EST &#183; REUTERS.COM &#183; SCORE 144</description>
+    <description>BY TULIP55 &#183; POSTED 09/29/14 7:54 AM EST &#183; REUTERS.COM &#183; SCORE 203</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Ruble Sinks to Historic Low Against Currency Basket</title>
+    <link>http://www.themoscowtimes.com/business/article/ruble-sinks-to-historic-low-against-currency-basket/507985.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hs34w/ruble_sinks_to_historic_low_against_currency/</guid>
+    <description>BY NOT_SLIM_SHADDY &#183; POSTED 09/29/14 7:37 AM EST &#183; THEMOSCOWTIMES.COM &#183; SCORE 189</description>
     <category></category>
   </item>
 

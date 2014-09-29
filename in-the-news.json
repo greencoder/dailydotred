@@ -1,12 +1,24 @@
 {
     "description": "The subreddit for opinion, analysis, and discussion of recent events", 
     "title": "In the News: Opinion, Analysis, and Discussion", 
-    "generated-utc": 1412018395, 
+    "generated-utc": 1412028023, 
     "posts": [
         {
-            "num-comments": 2, 
+            "num-comments": 15, 
+            "domain": "alternet.org", 
+            "score": 112, 
+            "nsfw": false, 
+            "title": "More Americans Killed By Police Than By Terrorists: With Crime Down, Why Is Police Aggression Up?", 
+            "url": "http://www.alternet.org/civil-liberties/more-americans-killed-police-terrorists-crime-down-why-police-aggression", 
+            "author": "getthetime", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hsh0j/more_americans_killed_by_police_than_by/", 
+            "created-utc": 1412000957.0, 
+            "id": "2hsh0j"
+        }, 
+        {
+            "num-comments": 4, 
             "domain": "thefreethoughtproject.com", 
-            "score": 53, 
+            "score": 55, 
             "nsfw": false, 
             "title": "The \u2018Good Cop\u2019 Myth Dies a Little More", 
             "url": "http://thefreethoughtproject.com/good-cop-jail-reporting-misconduct-department/", 
@@ -18,7 +30,7 @@
         {
             "num-comments": 4, 
             "domain": "rawstory.com", 
-            "score": 39, 
+            "score": 42, 
             "nsfw": false, 
             "title": "Blacks six times more likely to be busted for marijuana possession in FL counties: report", 
             "url": "http://www.rawstory.com/rs/2014/09/blacks-six-times-more-likely-to-be-busted-for-marijuana-possession-in-fl-counties-report/#.VCixUJpHDXE.reddit", 
@@ -26,18 +38,6 @@
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hqwbu/blacks_six_times_more_likely_to_be_busted_for/", 
             "created-utc": 1411953007.0, 
             "id": "2hqwbu"
-        }, 
-        {
-            "num-comments": 9, 
-            "domain": "alternet.org", 
-            "score": 73, 
-            "nsfw": false, 
-            "title": "More Americans Killed By Police Than By Terrorists: With Crime Down, Why Is Police Aggression Up?", 
-            "url": "http://www.alternet.org/civil-liberties/more-americans-killed-police-terrorists-crime-down-why-police-aggression", 
-            "author": "getthetime", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hsh0j/more_americans_killed_by_police_than_by/", 
-            "created-utc": 1412000957.0, 
-            "id": "2hsh0j"
         }, 
         {
             "num-comments": 1, 
@@ -54,7 +54,7 @@
         {
             "num-comments": 1, 
             "domain": "nytimes.com", 
-            "score": 25, 
+            "score": 24, 
             "nsfw": false, 
             "title": "Costs Can Go Up Fast When E.R. Is in Network but the Doctors Are Not", 
             "url": "http://www.nytimes.com/2014/09/29/us/costs-can-go-up-fast-when-er-is-in-network-but-the-doctors-are-not.html?smid=re-share", 
@@ -78,7 +78,7 @@
         {
             "num-comments": 2, 
             "domain": "truthrevolt.org", 
-            "score": 11, 
+            "score": 10, 
             "nsfw": false, 
             "title": "Breaking: Beheading Suspect Alton 'Jah'Keem Yisrael' Nolen's Mother Releases Video Response", 
             "url": "http://www.truthrevolt.org/news/breaking-beheading-suspect-alton-jahkeem-yisrael-nolens-mother-releases-video-response", 
@@ -90,7 +90,7 @@
         {
             "num-comments": 1, 
             "domain": "mediaite.com", 
-            "score": 9, 
+            "score": 11, 
             "nsfw": false, 
             "title": "Man Who Beheaded Coworker Regains Consciousness, Speaks to Police", 
             "url": "http://www.mediaite.com/tv/man-who-beheaded-coworker-regains-consciousness-speaks-to-police/", 
@@ -100,9 +100,9 @@
             "id": "2hqavf"
         }, 
         {
-            "num-comments": 0, 
+            "num-comments": 3, 
             "domain": "time.com", 
-            "score": 6, 
+            "score": 7, 
             "nsfw": false, 
             "title": "Camille Paglia: The Modern Campus Cannot Comprehend Evil", 
             "url": "http://time.com/3444749/camille-paglia-the-modern-campus-cannot-comprehend-evil/", 
@@ -125,15 +125,15 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "bostonherald.com", 
+            "domain": "newyorker.com", 
             "score": 6, 
             "nsfw": false, 
-            "title": "Howie Carr imagines Gov. Deval Patrick testifying under oath before the Senate Judiciary Committee", 
-            "url": "http://www.bostonherald.com/news_opinion/columnists/howie_carr/2014/09/carr_deval_under_oath_if_only", 
-            "author": "Sunking278", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hpufw/howie_carr_imagines_gov_deval_patrick_testifying/", 
-            "created-utc": 1411930121.0, 
-            "id": "2hpufw"
+            "title": "Three Years on Rikers Without Trial", 
+            "url": "http://www.newyorker.com/magazine/2014/10/06/law-3", 
+            "author": "zsreport", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hsdm8/three_years_on_rikers_without_trial/", 
+            "created-utc": 1411998865.0, 
+            "id": "2hsdm8"
         }, 
         {
             "num-comments": 0, 
@@ -161,18 +161,6 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "mediaite.com", 
-            "score": 5, 
-            "nsfw": false, 
-            "title": "Kansas Fills its Budget Shortfall with Sex Toy Auction", 
-            "url": "http://www.mediaite.com/online/kansas-fills-its-budget-shortfall-with-sex-toy-auction/", 
-            "author": "michaelconfoy", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hpskt/kansas_fills_its_budget_shortfall_with_sex_toy/", 
-            "created-utc": 1411929014.0, 
-            "id": "2hpskt"
-        }, 
-        {
-            "num-comments": 0, 
             "domain": "nytimes.com", 
             "score": 4, 
             "nsfw": false, 
@@ -185,15 +173,27 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "therightscoop.com", 
-            "score": 2, 
+            "domain": "koco.com", 
+            "score": 3, 
             "nsfw": false, 
-            "title": "Homeland Security will focus more on global warming \"resiliency\" now .. than security, says official", 
-            "url": "http://therightscoop.com/homeland-security-official-says-theyre-going-to-focus-more-on-global-warming-resiliency-than-security/", 
+            "title": "Oklahoma City woman claims Nursing Home supervisor said he'd 'cut off her head'", 
+            "url": "http://www.koco.com/news/oklahoma-city-woman-claims-nursing-home-supervisor-said-hed-cut-off-her-head/28314736", 
+            "author": "mermlgloop", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2ht1jq/oklahoma_city_woman_claims_nursing_home/", 
+            "created-utc": 1412012682.0, 
+            "id": "2ht1jq"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "foxnews.com", 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "Obama faces backlash now after blaming Intelligece agencies for missing ISIS", 
+            "url": "http://www.foxnews.com/politics/2014/09/29/obama-faces-backlash-after-blaming-intel-community-for-missing-isis/", 
             "author": "secaa23", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hppkw/homeland_security_will_focus_more_on_global/", 
-            "created-utc": 1411927228.0, 
-            "id": "2hppkw"
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hsyxw/obama_faces_backlash_now_after_blaming/", 
+            "created-utc": 1412011404.0, 
+            "id": "2hsyxw"
         }, 
         {
             "num-comments": 0, 
@@ -209,15 +209,87 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "newyorker.com", 
-            "score": 5, 
+            "domain": "indiancountrytodaymedianetwork.com", 
+            "score": 4, 
             "nsfw": false, 
-            "title": "Three Years on Rikers Without Trial", 
-            "url": "http://www.newyorker.com/magazine/2014/10/06/law-3", 
+            "title": "Native School Girls Should Not Be for Sale on the Street", 
+            "url": "http://indiancountrytodaymedianetwork.com/2013/09/24/native-girls-should-not-be-sale-151407", 
             "author": "zsreport", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hsdm8/three_years_on_rikers_without_trial/", 
-            "created-utc": 1411998865.0, 
-            "id": "2hsdm8"
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2ht96b/native_school_girls_should_not_be_for_sale_on_the/", 
+            "created-utc": 1412016594.0, 
+            "id": "2ht96b"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "timesofindia.indiatimes.com", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "Netanyahu: A nuclear Iran poses greater threat to the world than ISIS", 
+            "url": "http://timesofindia.indiatimes.com/world/middle-east/Iran-poses-greater-threat-than-Islamic-State-Israeli-Prime-Minister-Benjamin-Netanyahu/articleshow/43828285.cms", 
+            "author": "Sunking278", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2ht77i/netanyahu_a_nuclear_iran_poses_greater_threat_to/", 
+            "created-utc": 1412015575.0, 
+            "id": "2ht77i"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "theatlantic.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "The Alaskan Town Where People Still Pan for Gold - The Atlantic", 
+            "url": "http://www.theatlantic.com/business/archive/2014/09/the-alaskan-town-where-people-still-pan-for-gold/380854/", 
+            "author": "trooper843", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2ht8a6/the_alaskan_town_where_people_still_pan_for_gold/", 
+            "created-utc": 1412016138.0, 
+            "id": "2ht8a6"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "living.msn.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Seven reasons you should NOT get a dog. &gt;...soon that tiny, \"like\"-garnering black-and-brown fluffball will become a 115-pound Bernese Mountain Dog.", 
+            "url": "http://living.msn.com/family-parenting/pets/7-signs-you-shouldnt-get-a-dog", 
+            "author": "imautoparts", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2ht87e/seven_reasons_you_should_not_get_a_dog_soon_that/", 
+            "created-utc": 1412016097.0, 
+            "id": "2ht87e"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "hotair.com", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "Sanitizing terror, part II: Backlash mounting over refusal to call OKC beheading what it is \u00ab Hot Air", 
+            "url": "http://hotair.com/archives/2014/09/29/defining-terror-down-part-ii-oklahoma-city-beheading-now-workplace-violence/", 
+            "author": "Thuban", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2ht803/sanitizing_terror_part_ii_backlash_mounting_over/", 
+            "created-utc": 1412015981.0, 
+            "id": "2ht803"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "kob.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "APD Officer makes remark about shooting James Boyd 2 hours before shooting James Boyd", 
+            "url": "http://www.kob.com/article/stories/S3573906.shtml?cat=500#.VCkAEBavPj0", 
+            "author": "censoredandagain", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2ht0h5/apd_officer_makes_remark_about_shooting_james/", 
+            "created-utc": 1412012181.0, 
+            "id": "2ht0h5"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "bbc.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "Tens of thousands of pro-democracy protesters are blocking Hong Kong's streets, shutting down its business hub and ignoring appeals to leave.", 
+            "url": "http://www.bbc.com/news/world-asia-china-29405195", 
+            "author": "Gnome_Sane", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hsx1z/tens_of_thousands_of_prodemocracy_protesters_are/", 
+            "created-utc": 1412010445.0, 
+            "id": "2hsx1z"
         }, 
         {
             "num-comments": 1, 
@@ -230,78 +302,6 @@
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hsnht/who_is_oklahoma_beheading_suspect_alton_nolen/", 
             "created-utc": 1412005032.0, 
             "id": "2hsnht"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "npr.org", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "What's At Stake For Hong Kong? : The Two-Way : NPR", 
-            "url": "http://www.npr.org/blogs/thetwo-way/2014/09/29/352467064/whats-at-stake-for-hong-kong?utm_source=twitter.com&amp;utm_campaign=npr&amp;utm_medium=social&amp;utm_term=nprnews", 
-            "author": "workerbotsuperhero", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hsn9c/whats_at_stake_for_hong_kong_the_twoway_npr/", 
-            "created-utc": 1412004888.0, 
-            "id": "2hsn9c"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "npr.org", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "Hong Kong Tense As Democracy Activists Face Down Police", 
-            "url": "http://www.npr.org/blogs/thetwo-way/2014/09/29/352417457/hong-kong-tense-as-democracy-activists-face-down-police", 
-            "author": "dumbstupidmoron", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hsm64/hong_kong_tense_as_democracy_activists_face_down/", 
-            "created-utc": 1412004231.0, 
-            "id": "2hsm64"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "time.com", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "Privileged Parents Are Driving Vaccine Refusal", 
-            "url": "http://time.com/3433516/privileged-parents-are-driving-vaccine-refusal/", 
-            "author": "Stewpid", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hs8ex/privileged_parents_are_driving_vaccine_refusal/", 
-            "created-utc": 1411995303.0, 
-            "id": "2hs8ex"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "washingtonpost.com", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "Dark side of the boom: North Dakota\u2019s oil rush brings cash and promise to reservation, along with drug-fueled crime", 
-            "url": "http://www.washingtonpost.com/sf/national/2014/09/28/dark-side-of-the-boom/", 
-            "author": "zsreport", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hs797/dark_side_of_the_boom_north_dakotas_oil_rush/", 
-            "created-utc": 1411994374.0, 
-            "id": "2hs797"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "nypost.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "Inside the plot against the middle class", 
-            "url": "http://nypost.com/2014/09/28/inside-the-plot-against-the-middle-class/?utm_campaign=SocialFlow&amp;utm_source=NYPTwitter&amp;utm_medium=SocialFlow", 
-            "author": "cavehobbit", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hrz2f/inside_the_plot_against_the_middle_class/", 
-            "created-utc": 1411985816.0, 
-            "id": "2hrz2f"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "businessweek.com", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "Air-Traffic Vulnerabily Examined in Fire Halting Flights", 
-            "url": "http://www.businessweek.com/news/2014-09-29/air-traffic-vulnerabily-examined-in-fire-halting-flights", 
-            "author": "Dr_Legacy", 
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hri58/airtraffic_vulnerabily_examined_in_fire_halting/", 
-            "created-utc": 1411967312.0, 
-            "id": "2hri58"
         }
     ], 
     "subreddit": "/r/inthenews/", 

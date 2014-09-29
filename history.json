@@ -1,12 +1,12 @@
 {
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
-    "generated-utc": 1412018428, 
+    "generated-utc": 1412028056, 
     "posts": [
         {
-            "num-comments": 247, 
+            "num-comments": 258, 
             "domain": "self.history", 
-            "score": 590, 
+            "score": 614, 
             "nsfw": false, 
             "title": "Have two nations ever been in a situation where they have both taken each others capital cities?", 
             "url": "http://www.reddit.com/r/history/comments/2hr5vk/have_two_nations_ever_been_in_a_situation_where/", 
@@ -16,9 +16,9 @@
             "id": "2hr5vk"
         }, 
         {
-            "num-comments": 22, 
+            "num-comments": 39, 
             "domain": "whizzpast.com", 
-            "score": 201, 
+            "score": 329, 
             "nsfw": false, 
             "title": "The board game Snakes and Ladders originated as a morality lesson, and more: the history of ancient board games that we still play today", 
             "url": "http://www.whizzpast.com/5-ancient-board-games-still-play-today/", 
@@ -28,9 +28,9 @@
             "id": "2hsahq"
         }, 
         {
-            "num-comments": 39, 
+            "num-comments": 59, 
             "domain": "irishcentral.com", 
-            "score": 153, 
+            "score": 266, 
             "nsfw": false, 
             "title": "Spanish documents suggest Irish arrived in America before Columbus - While Columbus is credited with discovering America in 1492, a 1521 Spanish report provides inklings of evidence that there were, in fact, Irish people settled in America prior to Columbus\u2019 journey.", 
             "url": "http://www.irishcentral.com/roots/history/old-spanish-document-suggests-irish-were-in-america-before-columbus-190817901-237769001.html", 
@@ -42,7 +42,7 @@
         {
             "num-comments": 1, 
             "domain": "self.history", 
-            "score": 7, 
+            "score": 6, 
             "nsfw": false, 
             "title": "Remember that Audio of Hitler talking with Mannerheim? The archives of Finnish Broadcasting Company are open to the whole world!", 
             "url": "http://www.reddit.com/r/history/comments/2hrrw1/remember_that_audio_of_hitler_talking_with/", 
@@ -52,7 +52,67 @@
             "id": "2hrrw1"
         }, 
         {
-            "num-comments": 7, 
+            "num-comments": 3, 
+            "domain": "youtube.com", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "'The Great War'", 
+            "url": "https://www.youtube.com/user/TheGreatWar/featured", 
+            "author": "FailedWar", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hsyza/the_great_war/", 
+            "created-utc": 1412011426.0, 
+            "id": "2hsyza"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "boingboing.net", 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "Stealing Japan's WWII surrender statement", 
+            "url": "http://boingboing.net/2014/09/29/stealing-japans-wwii-surrend.html", 
+            "author": "misnamed", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hsyzr/stealing_japans_wwii_surrender_statement/", 
+            "created-utc": 1412011433.0, 
+            "id": "2hsyzr"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "ancient-origins.net", 
+            "score": 7, 
+            "nsfw": false, 
+            "title": "Archaeologists believe they have found dungeons that held Vlad the Impaler.", 
+            "url": "http://www.ancient-origins.net/news-history-archaeology/archaeologists-believe-they-have-found-dungeons-held-dracula-002057", 
+            "author": "sakebomb69", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hsu3v/archaeologists_believe_they_have_found_dungeons/", 
+            "created-utc": 1412008909.0, 
+            "id": "2hsu3v"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "self.history", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Which came first? Haying vs Gardening (growing vegetables/fruits/grains)?", 
+            "url": "http://www.reddit.com/r/history/comments/2hsrre/which_came_first_haying_vs_gardening_growing/", 
+            "author": "22percentaccuracy", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hsrre/which_came_first_haying_vs_gardening_growing/", 
+            "created-utc": 1412007531.0, 
+            "id": "2hsrre"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "news.nationalgeographic.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "How Burmese Elephants Helped Defeat the Japanese in WWII - A British \"elephant whisperer\" &amp; his best beloved helpers waged guerrilla warfare &amp; carried refugees to safety.", 
+            "url": "http://news.nationalgeographic.com/news/2014/09/140928-burma-elephant-teak-kipling-japan-world-war-ngbooktalk/", 
+            "author": "anutensil", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hs2nl/how_burmese_elephants_helped_defeat_the_japanese/", 
+            "created-utc": 1411990107.0, 
+            "id": "2hs2nl"
+        }, 
+        {
+            "num-comments": 8, 
             "domain": "self.history", 
             "score": 4, 
             "nsfw": false, 
@@ -64,16 +124,16 @@
             "id": "2hr99n"
         }, 
         {
-            "num-comments": 4, 
-            "domain": "news.nationalgeographic.com", 
-            "score": 4, 
+            "num-comments": 1, 
+            "domain": "bbc.co.uk", 
+            "score": 0, 
             "nsfw": false, 
-            "title": "How Burmese Elephants Helped Defeat the Japanese in WWII - A British \"elephant whisperer\" &amp; his best beloved helpers waged guerrilla warfare &amp; carried refugees to safety.", 
-            "url": "http://news.nationalgeographic.com/news/2014/09/140928-burma-elephant-teak-kipling-japan-world-war-ngbooktalk/", 
-            "author": "anutensil", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hs2nl/how_burmese_elephants_helped_defeat_the_japanese/", 
-            "created-utc": 1411990107.0, 
-            "id": "2hs2nl"
+            "title": "How to keep fit (in 1861)", 
+            "url": "http://www.bbc.co.uk/news/health-28858090", 
+            "author": "pmreview", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hsm42/how_to_keep_fit_in_1861/", 
+            "created-utc": 1412004200.0, 
+            "id": "2hsm42"
         }, 
         {
             "num-comments": 1, 
@@ -88,40 +148,16 @@
             "id": "2hrvo1"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "self.history", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "Which came first? Haying vs Gardening (growing vegetables/fruits/grains)?", 
-            "url": "http://www.reddit.com/r/history/comments/2hsrre/which_came_first_haying_vs_gardening_growing/", 
-            "author": "22percentaccuracy", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hsrre/which_came_first_haying_vs_gardening_growing/", 
-            "created-utc": 1412007531.0, 
-            "id": "2hsrre"
-        }, 
-        {
             "num-comments": 1, 
-            "domain": "bbc.co.uk", 
+            "domain": "medium.com", 
             "score": 1, 
             "nsfw": false, 
-            "title": "How to keep fit (in 1861)", 
-            "url": "http://www.bbc.co.uk/news/health-28858090", 
-            "author": "pmreview", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hsm42/how_to_keep_fit_in_1861/", 
-            "created-utc": 1412004200.0, 
-            "id": "2hsm42"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "ancient-origins.net", 
-            "score": 5, 
-            "nsfw": false, 
-            "title": "Archaeologists believe they have found dungeons that held Vlad the Impaler.", 
-            "url": "http://www.ancient-origins.net/news-history-archaeology/archaeologists-believe-they-have-found-dungeons-held-dracula-002057", 
-            "author": "sakebomb69", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hsu3v/archaeologists_believe_they_have_found_dungeons/", 
-            "created-utc": 1412008909.0, 
-            "id": "2hsu3v"
+            "title": "Medieval Canterbury and modern day Detroit have more in common than you\u2019d think", 
+            "url": "https://medium.com/study-of-history/medieval-canterbury-and-modern-day-detroit-have-more-in-common-than-youd-think-1f3dd82d0e54", 
+            "author": "misnamed", 
+            "permalink": "http://www.reddit.com/r/history/comments/2hsxfi/medieval_canterbury_and_modern_day_detroit_have/", 
+            "created-utc": 1412010649.0, 
+            "id": "2hsxfi"
         }, 
         {
             "num-comments": 3, 
@@ -136,19 +172,7 @@
             "id": "2hsm3p"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "thenation.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "Life in the Ruins - How the destruction of architectural treasures became a weapon in Syria\u2019s ongoing civil war.", 
-            "url": "http://www.thenation.com/article/181726/life-ruins", 
-            "author": "anutensil", 
-            "permalink": "http://www.reddit.com/r/history/comments/2hsehp/life_in_the_ruins_how_the_destruction_of/", 
-            "created-utc": 1411999355.0, 
-            "id": "2hsehp"
-        }, 
-        {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "self.history", 
             "score": 0, 
             "nsfw": false, 

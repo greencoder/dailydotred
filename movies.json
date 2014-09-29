@@ -1,24 +1,12 @@
 {
     "description": "News and discussion of major motion pictures", 
     "title": "Movie News and Discussion", 
-    "generated-utc": 1412018456, 
+    "generated-utc": 1412028085, 
     "posts": [
         {
-            "num-comments": 1810, 
+            "num-comments": 4980, 
             "domain": "self.movies", 
-            "score": 3544, 
-            "nsfw": false, 
-            "title": "New on Netflix instant for October 2014.", 
-            "url": "http://www.reddit.com/r/movies/comments/2hpsax/new_on_netflix_instant_for_october_2014/", 
-            "author": "bacon-lazer", 
-            "permalink": "http://www.reddit.com/r/movies/comments/2hpsax/new_on_netflix_instant_for_october_2014/", 
-            "created-utc": 1411928844.0, 
-            "id": "2hpsax"
-        }, 
-        {
-            "num-comments": 4267, 
-            "domain": "self.movies", 
-            "score": 2761, 
+            "score": 2827, 
             "nsfw": false, 
             "title": "Kevin Smith tweets that Tusk is \"gasping for air\" at theatres. Considering his significant fan base, how has the film failed at the box office?", 
             "url": "http://www.reddit.com/r/movies/comments/2hrxn1/kevin_smith_tweets_that_tusk_is_gasping_for_air/", 
@@ -28,9 +16,9 @@
             "id": "2hrxn1"
         }, 
         {
-            "num-comments": 568, 
+            "num-comments": 582, 
             "domain": "en.wikipedia.org", 
-            "score": 2214, 
+            "score": 2225, 
             "nsfw": false, 
             "title": "Woody Allen has literally made a film every year since 1982.", 
             "url": "http://en.wikipedia.org/wiki/Woody_Allen_filmography", 
@@ -40,9 +28,9 @@
             "id": "2hpzje"
         }, 
         {
-            "num-comments": 178, 
+            "num-comments": 311, 
             "domain": "comicbookmovie.com", 
-            "score": 913, 
+            "score": 1800, 
             "nsfw": false, 
             "title": "David Fincher on meeting to direct EPISODE 7: \"I always thought of Star Wars as the story of two slaves (C-3PO/R2-D2) who go from owner to owner, witnessing their masters' folly, the ultimate folly of man. I thought it was an interesting idea in the first two, but it's gone by Return of the Jedi.\"", 
             "url": "http://www.comicbookmovie.com/fansites/JoshWildingNewsAndReviews/news/?a=108391", 
@@ -52,9 +40,9 @@
             "id": "2hs8rz"
         }, 
         {
-            "num-comments": 13, 
+            "num-comments": 14, 
             "domain": "self.movies", 
-            "score": 325, 
+            "score": 341, 
             "nsfw": false, 
             "title": "Ron Perlman AMA (Hellboy, Drive, Beauty and the Beast, Sons of Anarchy) Sep 30, 2:30pm EDT in R/IAmA", 
             "url": "http://www.reddit.com/r/movies/comments/2hqq2f/ron_perlman_ama_hellboy_drive_beauty_and_the/", 
@@ -64,9 +52,21 @@
             "id": "2hqq2f"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 217, 
+            "domain": "flickeringmyth.com", 
+            "score": 842, 
+            "nsfw": false, 
+            "title": "Kevin Smith secures financing for Clerks 3", 
+            "url": "http://www.flickeringmyth.com/2014/09/kevin-smith-secures-financing-clerks-3.html", 
+            "author": "Bennett1984", 
+            "permalink": "http://www.reddit.com/r/movies/comments/2hskmz/kevin_smith_secures_financing_for_clerks_3/", 
+            "created-utc": 1412003262.0, 
+            "id": "2hskmz"
+        }, 
+        {
+            "num-comments": 5, 
             "domain": "self.movies", 
-            "score": 96, 
+            "score": 103, 
             "nsfw": false, 
             "title": "Cary Elwes AMA (The Princess Bride, Robin Hood: Men in Tights, Saw) Oct 1, 6:30pm in r/IAmA", 
             "url": "http://www.reddit.com/r/movies/comments/2hqrfk/cary_elwes_ama_the_princess_bride_robin_hood_men/", 
@@ -76,9 +76,9 @@
             "id": "2hqrfk"
         }, 
         {
-            "num-comments": 61, 
+            "num-comments": 77, 
             "domain": "azmoviechallenge.wordpress.com", 
-            "score": 95, 
+            "score": 102, 
             "nsfw": false, 
             "title": "Top 7 Hans Zimmer Movie Scores", 
             "url": "http://azmoviechallenge.wordpress.com/2014/06/16/top-7-hans-zimmer-movie-scores/", 
@@ -90,7 +90,7 @@
         {
             "num-comments": 53, 
             "domain": "ign.com", 
-            "score": 74, 
+            "score": 79, 
             "nsfw": false, 
             "title": "SNL: Chris Pratt Stars in Marvel Trailer Parody", 
             "url": "http://www.ign.com/articles/2014/09/28/snl-chris-pratt-stars-in-marvel-trailer-parody", 
@@ -98,6 +98,18 @@
             "permalink": "http://www.reddit.com/r/movies/comments/2hqc8e/snl_chris_pratt_stars_in_marvel_trailer_parody/", 
             "created-utc": 1411940391.0, 
             "id": "2hqc8e"
+        }, 
+        {
+            "num-comments": 27, 
+            "domain": "youtu.be", 
+            "score": 89, 
+            "nsfw": false, 
+            "title": "First TV spot for 'Birdman'", 
+            "url": "http://youtu.be/2XWvY3kccVo", 
+            "author": "powerzjim", 
+            "permalink": "http://www.reddit.com/r/movies/comments/2hrt6x/first_tv_spot_for_birdman/", 
+            "created-utc": 1411978424.0, 
+            "id": "2hrt6x"
         }, 
         {
             "num-comments": 37, 
@@ -112,21 +124,9 @@
             "id": "2hqa9v"
         }, 
         {
-            "num-comments": 24, 
-            "domain": "youtu.be", 
-            "score": 74, 
-            "nsfw": false, 
-            "title": "First TV spot for 'Birdman'", 
-            "url": "http://youtu.be/2XWvY3kccVo", 
-            "author": "powerzjim", 
-            "permalink": "http://www.reddit.com/r/movies/comments/2hrt6x/first_tv_spot_for_birdman/", 
-            "created-utc": 1411978424.0, 
-            "id": "2hrt6x"
-        }, 
-        {
-            "num-comments": 365, 
+            "num-comments": 372, 
             "domain": "self.movies", 
-            "score": 62, 
+            "score": 61, 
             "nsfw": false, 
             "title": "What film do you consider to be the perfect example of \"The critics love it, the audience hates it\"? And vice-versa?", 
             "url": "http://www.reddit.com/r/movies/comments/2hq62t/what_film_do_you_consider_to_be_the_perfect/", 
@@ -136,21 +136,9 @@
             "id": "2hq62t"
         }, 
         {
-            "num-comments": 90, 
-            "domain": "flickeringmyth.com", 
-            "score": 231, 
-            "nsfw": false, 
-            "title": "Kevin Smith secures financing for Clerks 3", 
-            "url": "http://www.flickeringmyth.com/2014/09/kevin-smith-secures-financing-clerks-3.html", 
-            "author": "Bennett1984", 
-            "permalink": "http://www.reddit.com/r/movies/comments/2hskmz/kevin_smith_secures_financing_for_clerks_3/", 
-            "created-utc": 1412003262.0, 
-            "id": "2hskmz"
-        }, 
-        {
-            "num-comments": 164, 
+            "num-comments": 222, 
             "domain": "self.movies", 
-            "score": 57, 
+            "score": 72, 
             "nsfw": false, 
             "title": "I was watching 'Click' (2006) when I realised that the plot was just another take on 'A Christmas Carol'. Can you think of any other movies that are parallels of classic stories?", 
             "url": "http://www.reddit.com/r/movies/comments/2hrz25/i_was_watching_click_2006_when_i_realised_that/", 
@@ -160,7 +148,7 @@
             "id": "2hrz25"
         }, 
         {
-            "num-comments": 81, 
+            "num-comments": 85, 
             "domain": "self.movies", 
             "score": 37, 
             "nsfw": false, 
@@ -172,21 +160,21 @@
             "id": "2hr2lk"
         }, 
         {
-            "num-comments": 77, 
-            "domain": "variety.com", 
-            "score": 29, 
+            "num-comments": 4, 
+            "domain": "youtube.com", 
+            "score": 42, 
             "nsfw": false, 
-            "title": "Why Denzel Washington May Be the Last Pure Movie Star", 
-            "url": "http://variety.com/2014/film/news/denzel-washington-the-equalizer-movie-star-1201315712/", 
-            "author": "Melanismdotcom", 
-            "permalink": "http://www.reddit.com/r/movies/comments/2hrd11/why_denzel_washington_may_be_the_last_pure_movie/", 
-            "created-utc": 1411963468.0, 
-            "id": "2hrd11"
+            "title": "Inception Trailer A Capella Re-Dub", 
+            "url": "https://www.youtube.com/watch?v=d2yD4yDsiP4", 
+            "author": "shadowbannedguy1", 
+            "permalink": "http://www.reddit.com/r/movies/comments/2hrx05/inception_trailer_a_capella_redub/", 
+            "created-utc": 1411983337.0, 
+            "id": "2hrx05"
         }, 
         {
-            "num-comments": 85, 
+            "num-comments": 88, 
             "domain": "self.movies", 
-            "score": 29, 
+            "score": 34, 
             "nsfw": false, 
             "title": "I'm looking for movies that make you think, leaving you dumbfounded.", 
             "url": "http://www.reddit.com/r/movies/comments/2hrc7l/im_looking_for_movies_that_make_you_think_leaving/", 
@@ -198,7 +186,7 @@
         {
             "num-comments": 102, 
             "domain": "self.movies", 
-            "score": 29, 
+            "score": 34, 
             "nsfw": false, 
             "title": "Do people in America speak in the cinema during a movie like they do in the UK?", 
             "url": "http://www.reddit.com/r/movies/comments/2hqjvh/do_people_in_america_speak_in_the_cinema_during_a/", 
@@ -208,9 +196,21 @@
             "id": "2hqjvh"
         }, 
         {
-            "num-comments": 75, 
-            "domain": "self.movies", 
+            "num-comments": 80, 
+            "domain": "variety.com", 
             "score": 27, 
+            "nsfw": false, 
+            "title": "Why Denzel Washington May Be the Last Pure Movie Star", 
+            "url": "http://variety.com/2014/film/news/denzel-washington-the-equalizer-movie-star-1201315712/", 
+            "author": "Melanismdotcom", 
+            "permalink": "http://www.reddit.com/r/movies/comments/2hrd11/why_denzel_washington_may_be_the_last_pure_movie/", 
+            "created-utc": 1411963468.0, 
+            "id": "2hrd11"
+        }, 
+        {
+            "num-comments": 77, 
+            "domain": "self.movies", 
+            "score": 30, 
             "nsfw": false, 
             "title": "Are there any movies you disliked watching but enjoyed pondering the next day?", 
             "url": "http://www.reddit.com/r/movies/comments/2hr35r/are_there_any_movies_you_disliked_watching_but/", 
@@ -222,7 +222,7 @@
         {
             "num-comments": 46, 
             "domain": "self.movies", 
-            "score": 25, 
+            "score": 26, 
             "nsfw": false, 
             "title": "If there's a Rufus style role in the third Bill &amp; Ted film, who would you like to see in it?", 
             "url": "http://www.reddit.com/r/movies/comments/2hqjye/if_theres_a_rufus_style_role_in_the_third_bill/", 
@@ -232,21 +232,21 @@
             "id": "2hqjye"
         }, 
         {
-            "num-comments": 4, 
-            "domain": "youtube.com", 
-            "score": 34, 
+            "num-comments": 106, 
+            "domain": "self.movies", 
+            "score": 44, 
             "nsfw": false, 
-            "title": "Inception Trailer A Capella Re-Dub", 
-            "url": "https://www.youtube.com/watch?v=d2yD4yDsiP4", 
-            "author": "shadowbannedguy1", 
-            "permalink": "http://www.reddit.com/r/movies/comments/2hrx05/inception_trailer_a_capella_redub/", 
-            "created-utc": 1411983337.0, 
-            "id": "2hrx05"
+            "title": "What's the most subtly erotic film you've ever seen?", 
+            "url": "http://www.reddit.com/r/movies/comments/2hsff8/whats_the_most_subtly_erotic_film_youve_ever_seen/", 
+            "author": "m1schief", 
+            "permalink": "http://www.reddit.com/r/movies/comments/2hsff8/whats_the_most_subtly_erotic_film_youve_ever_seen/", 
+            "created-utc": 1411999935.0, 
+            "id": "2hsff8"
         }, 
         {
-            "num-comments": 41, 
+            "num-comments": 43, 
             "domain": "self.movies", 
-            "score": 22, 
+            "score": 24, 
             "nsfw": false, 
             "title": "Halloween movies?", 
             "url": "http://www.reddit.com/r/movies/comments/2hrh8z/halloween_movies/", 
@@ -256,16 +256,40 @@
             "id": "2hrh8z"
         }, 
         {
-            "num-comments": 83, 
-            "domain": "self.movies", 
-            "score": 26, 
+            "num-comments": 14, 
+            "domain": "slashfilm.com", 
+            "score": 34, 
             "nsfw": false, 
-            "title": "What's the most subtly erotic film you've ever seen?", 
-            "url": "http://www.reddit.com/r/movies/comments/2hsff8/whats_the_most_subtly_erotic_film_youve_ever_seen/", 
-            "author": "m1schief", 
-            "permalink": "http://www.reddit.com/r/movies/comments/2hsff8/whats_the_most_subtly_erotic_film_youve_ever_seen/", 
-            "created-utc": 1411999935.0, 
-            "id": "2hsff8"
+            "title": "Tarantino's Hateful Eight to begin shooting in December as Colorado shakes loose a $5mil rebate to help make it happen", 
+            "url": "http://www.slashfilm.com/hateful-eight-shoot-date/", 
+            "author": "KarmaTracker", 
+            "permalink": "http://www.reddit.com/r/movies/comments/2hsj6a/tarantinos_hateful_eight_to_begin_shooting_in/", 
+            "created-utc": 1412002352.0, 
+            "id": "2hsj6a"
+        }, 
+        {
+            "num-comments": 17, 
+            "domain": "self.movies", 
+            "score": 28, 
+            "nsfw": false, 
+            "title": "Where do the movie reviews come from on the digital cable channel guide?", 
+            "url": "http://www.reddit.com/r/movies/comments/2hsq3b/where_do_the_movie_reviews_come_from_on_the/", 
+            "author": "dmasterdyne", 
+            "permalink": "http://www.reddit.com/r/movies/comments/2hsq3b/where_do_the_movie_reviews_come_from_on_the/", 
+            "created-utc": 1412006539.0, 
+            "id": "2hsq3b"
+        }, 
+        {
+            "num-comments": 151, 
+            "domain": "self.movies", 
+            "score": 51, 
+            "nsfw": false, 
+            "title": "Dick Van Dyke's \"Accent\" in Mary Poppins is a Long-running Joke in UK but Which other actors have done \"bad accents\"?", 
+            "url": "http://www.reddit.com/r/movies/comments/2hsqfi/dick_van_dykes_accent_in_mary_poppins_is_a/", 
+            "author": "edzukcub", 
+            "permalink": "http://www.reddit.com/r/movies/comments/2hsqfi/dick_van_dykes_accent_in_mary_poppins_is_a/", 
+            "created-utc": 1412006733.0, 
+            "id": "2hsqfi"
         }, 
         {
             "num-comments": 7, 
@@ -278,30 +302,6 @@
             "permalink": "http://www.reddit.com/r/movies/comments/2hq0pe/searchable_catalogue_of_all_movies_on_hbo_go/", 
             "created-utc": 1411933749.0, 
             "id": "2hq0pe"
-        }, 
-        {
-            "num-comments": 55, 
-            "domain": "self.movies", 
-            "score": 11, 
-            "nsfw": false, 
-            "title": "The Master", 
-            "url": "http://www.reddit.com/r/movies/comments/2hqrf7/the_master/", 
-            "author": "ollakolla", 
-            "permalink": "http://www.reddit.com/r/movies/comments/2hqrf7/the_master/", 
-            "created-utc": 1411949939.0, 
-            "id": "2hqrf7"
-        }, 
-        {
-            "num-comments": 9, 
-            "domain": "self.movies", 
-            "score": 14, 
-            "nsfw": false, 
-            "title": "Watched the Roger Ebert documentary \"Life Itself\" yesterday. Does r/movies wanna have a discussion about it?", 
-            "url": "http://www.reddit.com/r/movies/comments/2hqc3i/watched_the_roger_ebert_documentary_life_itself/", 
-            "author": "foolish_observer", 
-            "permalink": "http://www.reddit.com/r/movies/comments/2hqc3i/watched_the_roger_ebert_documentary_life_itself/", 
-            "created-utc": 1411940315.0, 
-            "id": "2hqc3i"
         }
     ], 
     "subreddit": "/r/movies/", 

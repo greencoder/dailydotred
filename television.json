@@ -1,12 +1,12 @@
 {
     "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources.", 
     "title": "/r/television - A premium-quality television subreddit", 
-    "generated-utc": 1412018451, 
+    "generated-utc": 1412028080, 
     "posts": [
         {
-            "num-comments": 724, 
+            "num-comments": 927, 
             "domain": "youtu.be", 
-            "score": 2295, 
+            "score": 2531, 
             "nsfw": false, 
             "title": "Last Week Tonight with John Oliver: Drones (HBO)", 
             "url": "http://youtu.be/K4NRJoCNHIs", 
@@ -16,9 +16,9 @@
             "id": "2hrntm"
         }, 
         {
-            "num-comments": 52, 
+            "num-comments": 55, 
             "domain": "vid.me", 
-            "score": 145, 
+            "score": 152, 
             "nsfw": false, 
             "title": "Don Hertzfeldt's Couch Gag for The Simpsons [1:53]", 
             "url": "https://vid.me/VFj", 
@@ -28,9 +28,9 @@
             "id": "2hr4uh"
         }, 
         {
-            "num-comments": 105, 
+            "num-comments": 108, 
             "domain": "nypost.com", 
-            "score": 115, 
+            "score": 113, 
             "nsfw": false, 
             "title": "Andy Kaufman's writing partner Bob Zmuda reveals in his book that the 'Taxi' star faked his death and that \"Kaufman will be emerging to reveal his great prank to the world very soon\"", 
             "url": "http://nypost.com/2014/09/28/why-andy-kaufman-might-still-be-alive/", 
@@ -40,9 +40,9 @@
             "id": "2hpybt"
         }, 
         {
-            "num-comments": 44, 
+            "num-comments": 51, 
             "domain": "self.television", 
-            "score": 105, 
+            "score": 109, 
             "nsfw": false, 
             "title": "Reddit got a mention of the Simpsons/Family Guy crossover episode", 
             "url": "http://www.reddit.com/r/television/comments/2hqvu4/reddit_got_a_mention_of_the_simpsonsfamily_guy/", 
@@ -52,21 +52,9 @@
             "id": "2hqvu4"
         }, 
         {
-            "num-comments": 8, 
-            "domain": "youtube.com", 
-            "score": 36, 
-            "nsfw": false, 
-            "title": "27 Years Ago, Today... \"Star Trek: The Next Generation\" Premiered", 
-            "url": "https://www.youtube.com/watch?v=7tIWYtcwp2I", 
-            "author": "MulciberTenebras", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hpnb1/27_years_ago_today_star_trek_the_next_generation/", 
-            "created-utc": 1411925868.0, 
-            "id": "2hpnb1"
-        }, 
-        {
-            "num-comments": 10, 
+            "num-comments": 14, 
             "domain": "channel4.com", 
-            "score": 52, 
+            "score": 70, 
             "nsfw": false, 
             "title": "Black Mirror Christmas special announced and to star Jon Hamm, Rafe Spall &amp; Oona Chaplin", 
             "url": "http://www.channel4.com/info/press/news/jon-hamm-rafe-spall-oona-chaplin-set-for-black-mirror-xmas-special", 
@@ -78,7 +66,7 @@
         {
             "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 25, 
+            "score": 27, 
             "nsfw": false, 
             "title": "A Bad Lip Reading of The Walking Dead Season 4", 
             "url": "https://www.youtube.com/watch?v=-6BsMzc9mMs&amp;feature=em-share_video_user", 
@@ -88,21 +76,21 @@
             "id": "2hqcjw"
         }, 
         {
-            "num-comments": 11, 
-            "domain": "adage.com", 
-            "score": 19, 
+            "num-comments": 61, 
+            "domain": "penny-arcade.com", 
+            "score": 94, 
             "nsfw": false, 
-            "title": "\"Sunday Night Football\", \"The Big Bang Theory\" and \"The Walking Dead\" top the list of most expensive TV shows to buy advertising in.", 
-            "url": "http://adage.com/article/media/football-big-bang-tv-s-expensive-ad-buys/295130/", 
-            "author": "_Maui_", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hq6dl/sunday_night_football_the_big_bang_theory_and_the/", 
-            "created-utc": 1411936975.0, 
-            "id": "2hq6dl"
+            "title": "Penny Arcade's take on the writing in 'Gotham'.", 
+            "url": "http://www.penny-arcade.com/comic/2014/09/29/scrutable", 
+            "author": "Tannon", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hstep/penny_arcades_take_on_the_writing_in_gotham/", 
+            "created-utc": 1412008488.0, 
+            "id": "2hstep"
         }, 
         {
-            "num-comments": 10, 
+            "num-comments": 13, 
             "domain": "theage.com.au", 
-            "score": 20, 
+            "score": 22, 
             "nsfw": false, 
             "title": "World's worst content pirates - Australians - told to go into 'lockdown' until next year to avoid spoilers on who just died on The Simpsons", 
             "url": "http://www.theage.com.au/entertainment/tv-and-radio/who-was-it-the-simpsons-death-is-finally-revealed-20140929-10nidn.html", 
@@ -112,21 +100,21 @@
             "id": "2hrrlk"
         }, 
         {
-            "num-comments": 80, 
-            "domain": "self.television", 
-            "score": 17, 
+            "num-comments": 11, 
+            "domain": "adage.com", 
+            "score": 21, 
             "nsfw": false, 
-            "title": "The Simpsons Family Guy crossover was eh, right?", 
-            "url": "http://www.reddit.com/r/television/comments/2hr156/the_simpsons_family_guy_crossover_was_eh_right/", 
-            "author": "ColinOnReddit", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hr156/the_simpsons_family_guy_crossover_was_eh_right/", 
-            "created-utc": 1411956015.0, 
-            "id": "2hr156"
+            "title": "\"Sunday Night Football\", \"The Big Bang Theory\" and \"The Walking Dead\" top the list of most expensive TV shows to buy advertising in.", 
+            "url": "http://adage.com/article/media/football-big-bang-tv-s-expensive-ad-buys/295130/", 
+            "author": "_Maui_", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hq6dl/sunday_night_football_the_big_bang_theory_and_the/", 
+            "created-utc": 1411936975.0, 
+            "id": "2hq6dl"
         }, 
         {
             "num-comments": 16, 
             "domain": "doesnickoffermansayfremulon.com", 
-            "score": 15, 
+            "score": 16, 
             "nsfw": false, 
             "title": "Does Nick Offerman say \"Fremulon\" at the end of Brooklyn 99 episodes?", 
             "url": "http://doesnickoffermansayfremulon.com/", 
@@ -136,7 +124,31 @@
             "id": "2hr6x1"
         }, 
         {
-            "num-comments": 0, 
+            "num-comments": 81, 
+            "domain": "self.television", 
+            "score": 20, 
+            "nsfw": false, 
+            "title": "The Simpsons Family Guy crossover was eh, right?", 
+            "url": "http://www.reddit.com/r/television/comments/2hr156/the_simpsons_family_guy_crossover_was_eh_right/", 
+            "author": "ColinOnReddit", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hr156/the_simpsons_family_guy_crossover_was_eh_right/", 
+            "created-utc": 1411956015.0, 
+            "id": "2hr156"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "vulture.com", 
+            "score": 16, 
+            "nsfw": false, 
+            "title": "Daniel Radcliffe, Amy Schumer, Fred Armisen, and Others on Their Favorite Simpsons Episodes and Moments", 
+            "url": "http://www.vulture.com/2014/09/celebrities-pick-their-favorite-simpsons-episodes-moments.html?mid=twitter_nymag", 
+            "author": "CptnCat", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hsekh/daniel_radcliffe_amy_schumer_fred_armisen_and/", 
+            "created-utc": 1411999404.0, 
+            "id": "2hsekh"
+        }, 
+        {
+            "num-comments": 1, 
             "domain": "pcm-tv.com", 
             "score": 14, 
             "nsfw": false, 
@@ -149,20 +161,8 @@
         }, 
         {
             "num-comments": 2, 
-            "domain": "vulture.com", 
-            "score": 15, 
-            "nsfw": false, 
-            "title": "Daniel Radcliffe, Amy Schumer, Fred Armisen, and Others on Their Favorite Simpsons Episodes and Moments", 
-            "url": "http://www.vulture.com/2014/09/celebrities-pick-their-favorite-simpsons-episodes-moments.html?mid=twitter_nymag", 
-            "author": "CptnCat", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hsekh/daniel_radcliffe_amy_schumer_fred_armisen_and/", 
-            "created-utc": 1411999404.0, 
-            "id": "2hsekh"
-        }, 
-        {
-            "num-comments": 2, 
             "domain": "youtube.com", 
-            "score": 12, 
+            "score": 11, 
             "nsfw": false, 
             "title": "My favourite sketch from That Mitchell and Webb Look - Big Talk", 
             "url": "https://www.youtube.com/watch?v=0bfmq7leZdk", 
@@ -172,33 +172,21 @@
             "id": "2hraea"
         }, 
         {
-            "num-comments": 14, 
-            "domain": "self.television", 
-            "score": 8, 
+            "num-comments": 3, 
+            "domain": "youtube.com", 
+            "score": 11, 
             "nsfw": false, 
-            "title": "Bill Maher's closing comments on the latest episode of Real Time.", 
-            "url": "http://www.reddit.com/r/television/comments/2hpn2p/bill_mahers_closing_comments_on_the_latest/", 
-            "author": "TheConquest", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hpn2p/bill_mahers_closing_comments_on_the_latest/", 
-            "created-utc": 1411925720.0, 
-            "id": "2hpn2p"
-        }, 
-        {
-            "num-comments": 27, 
-            "domain": "penny-arcade.com", 
-            "score": 21, 
-            "nsfw": false, 
-            "title": "Penny Arcade's take on the writing in 'Gotham'.", 
-            "url": "http://www.penny-arcade.com/comic/2014/09/29/scrutable", 
-            "author": "Tannon", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hstep/penny_arcades_take_on_the_writing_in_gotham/", 
-            "created-utc": 1412008488.0, 
-            "id": "2hstep"
+            "title": "Deadwood (Set to the Western \"Game Of Thrones\" Cover Theme)", 
+            "url": "https://www.youtube.com/watch?v=_AVtRL2UByQ", 
+            "author": "MulciberTenebras", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hsqee/deadwood_set_to_the_western_game_of_thrones_cover/", 
+            "created-utc": 1412006715.0, 
+            "id": "2hsqee"
         }, 
         {
             "num-comments": 9, 
             "domain": "hollywoodreporter.com", 
-            "score": 8, 
+            "score": 14, 
             "nsfw": false, 
             "title": "'Masters of Sex': Creator Talks Finale, Season Three Plans", 
             "url": "http://www.hollywoodreporter.com/live-feed/masters-sex-creator-talks-finale-736269", 
@@ -210,7 +198,7 @@
         {
             "num-comments": 0, 
             "domain": "avclub.com", 
-            "score": 9, 
+            "score": 10, 
             "nsfw": false, 
             "title": "Rutger Hauer joins \"Galavant\"... and he'll sing things you people wouldn\u2019t believe", 
             "url": "http://www.avclub.com/article/rutger-hauer-will-sing-things-you-people-wouldnt-b-209791", 
@@ -220,9 +208,21 @@
             "id": "2hqvyl"
         }, 
         {
-            "num-comments": 6, 
+            "num-comments": 11, 
+            "domain": "youtube.com", 
+            "score": 64, 
+            "nsfw": false, 
+            "title": "The kids' show Arthur did a South Park parody one time", 
+            "url": "https://www.youtube.com/watch?v=sgALKH7cMKo", 
+            "author": "Dannnyc93", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hsxbz/the_kids_show_arthur_did_a_south_park_parody_one/", 
+            "created-utc": 1412010597.0, 
+            "id": "2hsxbz"
+        }, 
+        {
+            "num-comments": 8, 
             "domain": "nydailynews.com", 
-            "score": 6, 
+            "score": 9, 
             "nsfw": false, 
             "title": "SpongeBob SquarePants is a bully, corrupts minds, warns Kazakhstan", 
             "url": "http://www.nydailynews.com/entertainment/tv/spongebobr-bully-corrupts-minds-warns-kazakhstan-article-1.1954848", 
@@ -230,30 +230,6 @@
             "permalink": "http://www.reddit.com/r/television/comments/2hsg9x/spongebob_squarepants_is_a_bully_corrupts_minds/", 
             "created-utc": 1412000514.0, 
             "id": "2hsg9x"
-        }, 
-        {
-            "num-comments": 18, 
-            "domain": "self.television", 
-            "score": 8, 
-            "nsfw": false, 
-            "title": "Are there any shows similar to Utopia &amp; Black Mirror?", 
-            "url": "http://www.reddit.com/r/television/comments/2hpo5a/are_there_any_shows_similar_to_utopia_black_mirror/", 
-            "author": "Gabenberg", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hpo5a/are_there_any_shows_similar_to_utopia_black_mirror/", 
-            "created-utc": 1411926388.0, 
-            "id": "2hpo5a"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "avclub.com", 
-            "score": 9, 
-            "nsfw": false, 
-            "title": "Judd Hirsch on Forever, Taxi, falling out of a window, and playing schmucks", 
-            "url": "http://www.avclub.com/article/judd-hirsch-forever-taxi-falling-out-window-and-pl-209282", 
-            "author": "largeheartedboy", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hsf7f/judd_hirsch_on_forever_taxi_falling_out_of_a/", 
-            "created-utc": 1411999803.0, 
-            "id": "2hsf7f"
         }, 
         {
             "num-comments": 5, 
@@ -268,21 +244,33 @@
             "id": "2hrtqt"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "youtube.com", 
+            "num-comments": 26, 
+            "domain": "insidetv.ew.com", 
             "score": 10, 
             "nsfw": false, 
-            "title": "Deadwood (Set to the Western \"Game Of Thrones\" Cover Theme)", 
-            "url": "https://www.youtube.com/watch?v=_AVtRL2UByQ", 
-            "author": "MulciberTenebras", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hsqee/deadwood_set_to_the_western_game_of_thrones_cover/", 
-            "created-utc": 1412006715.0, 
-            "id": "2hsqee"
+            "title": "The Simpsons/Family Guy crossover is one of the most fascinatingly weird things to ever happen to television", 
+            "url": "http://insidetv.ew.com/2014/09/28/simpsons-family-guy-crossover/", 
+            "author": "Dorkside", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hsgwa/the_simpsonsfamily_guy_crossover_is_one_of_the/", 
+            "created-utc": 1412000903.0, 
+            "id": "2hsgwa"
         }, 
         {
-            "num-comments": 7, 
+            "num-comments": 1, 
+            "domain": "avclub.com", 
+            "score": 9, 
+            "nsfw": false, 
+            "title": "Judd Hirsch on Forever, Taxi, falling out of a window, and playing schmucks", 
+            "url": "http://www.avclub.com/article/judd-hirsch-forever-taxi-falling-out-window-and-pl-209282", 
+            "author": "largeheartedboy", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hsf7f/judd_hirsch_on_forever_taxi_falling_out_of_a/", 
+            "created-utc": 1411999803.0, 
+            "id": "2hsf7f"
+        }, 
+        {
+            "num-comments": 11, 
             "domain": "self.television", 
-            "score": 8, 
+            "score": 12, 
             "nsfw": false, 
             "title": "New on Netflix Instant (October 2014)", 
             "url": "http://www.reddit.com/r/television/comments/2hs0fk/new_on_netflix_instant_october_2014/", 
@@ -292,16 +280,28 @@
             "id": "2hs0fk"
         }, 
         {
-            "num-comments": 36, 
-            "domain": "self.television", 
-            "score": 7, 
+            "num-comments": 15, 
+            "domain": "youtube.com", 
+            "score": 64, 
             "nsfw": false, 
-            "title": "What was the greatest or worst TV crossover of all time?", 
-            "url": "http://www.reddit.com/r/television/comments/2hr2ks/what_was_the_greatest_or_worst_tv_crossover_of/", 
-            "author": "ColinOnReddit", 
-            "permalink": "http://www.reddit.com/r/television/comments/2hr2ks/what_was_the_greatest_or_worst_tv_crossover_of/", 
-            "created-utc": 1411956945.0, 
-            "id": "2hr2ks"
+            "title": "One of the most bizarre opening 'Simpsons' Couch Gags ever, created by animator Don Hertzfeldt (creator of the \"Rejected\" cartoons)", 
+            "url": "https://www.youtube.com/watch?v=m78gYyTrG7Y", 
+            "author": "jsidhom", 
+            "permalink": "http://www.reddit.com/r/television/comments/2ht6jr/one_of_the_most_bizarre_opening_simpsons_couch/", 
+            "created-utc": 1412015210.0, 
+            "id": "2ht6jr"
+        }, 
+        {
+            "num-comments": 19, 
+            "domain": "self.television", 
+            "score": 18, 
+            "nsfw": false, 
+            "title": "The Blacklist", 
+            "url": "http://www.reddit.com/r/television/comments/2hsszq/the_blacklist/", 
+            "author": "Landohh", 
+            "permalink": "http://www.reddit.com/r/television/comments/2hsszq/the_blacklist/", 
+            "created-utc": 1412008269.0, 
+            "id": "2hsszq"
         }
     ], 
     "subreddit": "/r/television/", 

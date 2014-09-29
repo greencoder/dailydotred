@@ -1,12 +1,12 @@
 {
     "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
     "title": "News Of The Stupid", 
-    "generated-utc": 1412018484, 
+    "generated-utc": 1412028113, 
     "posts": [
         {
-            "num-comments": 9, 
+            "num-comments": 11, 
             "domain": "inquisitr.com", 
-            "score": 46, 
+            "score": 47, 
             "nsfw": false, 
             "title": "Jessa Duggar Blames Holocaust On Belief In Evolution, Compares The Shoah To Abortion", 
             "url": "http://www.inquisitr.com/1505267/jessa-duggar-blames-holocaust-on-evolution-belief-compares-it-to-abortion/", 
@@ -18,7 +18,7 @@
         {
             "num-comments": 3, 
             "domain": "thesmokinggun.com", 
-            "score": 16, 
+            "score": 25, 
             "nsfw": false, 
             "title": "Man tries to trade stolen diamond worth $160,000 for $20 worth of pot.", 
             "url": "http://www.thesmokinggun.com/file/diamond-pot-trade", 
@@ -30,7 +30,7 @@
         {
             "num-comments": 0, 
             "domain": "9news.com", 
-            "score": 16, 
+            "score": 17, 
             "nsfw": false, 
             "title": "Man fires gun into neighbor's house because it is the only way he knows to unload it. (x posted from /r/trulyoffbeat)", 
             "url": "http://www.9news.com/story/news/weird/2014/09/27/ducks-county-george-byrd-unloads-gun-by-firing/16363449/", 
@@ -40,21 +40,9 @@
             "id": "2hrn48"
         }, 
         {
-            "num-comments": 2, 
-            "domain": "wsbtv.com", 
-            "score": 6, 
-            "nsfw": false, 
-            "title": "Cobb County woman arrested for allegedly fake $94M tax return", 
-            "url": "http://www.wsbtv.com/news/news/local/woman-arrested-allegedly-filing-fake-94-million-ta/nhWqX/", 
-            "author": "Maverick1987", 
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hsp80/cobb_county_woman_arrested_for_allegedly_fake_94m/", 
-            "created-utc": 1412006024.0, 
-            "id": "2hsp80"
-        }, 
-        {
             "num-comments": 1, 
             "domain": "kpho.com", 
-            "score": 9, 
+            "score": 17, 
             "nsfw": false, 
             "title": "Pet cow dies after being pelted with softballs", 
             "url": "http://www.kpho.com/story/26641636/phoenix-pd-pet-cow-dies-after-being-pelted-with-softballs", 
@@ -62,6 +50,18 @@
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hsla5/pet_cow_dies_after_being_pelted_with_softballs/", 
             "created-utc": 1412003673.0, 
             "id": "2hsla5"
+        }, 
+        {
+            "num-comments": 2, 
+            "domain": "wsbtv.com", 
+            "score": 9, 
+            "nsfw": false, 
+            "title": "Cobb County woman arrested for allegedly fake $94M tax return", 
+            "url": "http://www.wsbtv.com/news/news/local/woman-arrested-allegedly-filing-fake-94-million-ta/nhWqX/", 
+            "author": "Maverick1987", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hsp80/cobb_county_woman_arrested_for_allegedly_fake_94m/", 
+            "created-utc": 1412006024.0, 
+            "id": "2hsp80"
         }
     ], 
     "subreddit": "/r/NewsOfTheStupid/", 

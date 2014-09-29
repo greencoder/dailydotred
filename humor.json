@@ -1,12 +1,12 @@
 {
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
-    "generated-utc": 1412018475, 
+    "generated-utc": 1412028103, 
     "posts": [
         {
-            "num-comments": 42, 
+            "num-comments": 51, 
             "domain": "dropcan.co", 
-            "score": 290, 
+            "score": 341, 
             "nsfw": false, 
             "title": "My friend made a website where you can throw away things you don't want the internet to see for the internet to see. Thought reddit would enjoy it.", 
             "url": "http://dropcan.co/", 
@@ -16,9 +16,9 @@
             "id": "2hr8wz"
         }, 
         {
-            "num-comments": 0, 
+            "num-comments": 1, 
             "domain": "unsolicited.consulting", 
-            "score": 21, 
+            "score": 52, 
             "nsfw": false, 
             "title": "Startup Flakes - You know owning a business is work, right?", 
             "url": "http://unsolicited.consulting/article/startup-flakes", 
@@ -28,9 +28,33 @@
             "id": "2hsai7"
         }, 
         {
+            "num-comments": 5, 
+            "domain": "youtu.be", 
+            "score": 10, 
+            "nsfw": false, 
+            "title": "What Happened Since Last Time I Shot This: Ep 01", 
+            "url": "http://youtu.be/EQSbqSwgwmA", 
+            "author": "philmazo", 
+            "permalink": "http://www.reddit.com/r/humor/comments/2ht5tw/what_happened_since_last_time_i_shot_this_ep_01/", 
+            "created-utc": 1412014856.0, 
+            "id": "2ht5tw"
+        }, 
+        {
+            "num-comments": 1, 
+            "domain": "the-toast.net", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "Unsolicited dick pics through the ages: A selected history", 
+            "url": "http://the-toast.net/2014/09/29/unsolicited-dick-pics-ages-selected-history/", 
+            "author": "NickDouglas", 
+            "permalink": "http://www.reddit.com/r/humor/comments/2hsyoh/unsolicited_dick_pics_through_the_ages_a_selected/", 
+            "created-utc": 1412011290.0, 
+            "id": "2hsyoh"
+        }, 
+        {
             "num-comments": 0, 
             "domain": "mcsweeneys.net", 
-            "score": 0, 
+            "score": 1, 
             "nsfw": false, 
             "title": "An Oral History of Oral Histories.", 
             "url": "http://www.mcsweeneys.net/articles/an-oral-history-of-oral-histories", 
