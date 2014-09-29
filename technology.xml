@@ -6,31 +6,15 @@
   <description>News stories related to technology</description>
   <category>Knowledge</category>
   <language>en-us</language>
-  <pubDate>Sun, 28 Sep 2014 22:00:55 -0000</pubDate>
+  <pubDate>Mon, 29 Sep 2014 14:00:46 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/technology.xml" rel="self" type="application/rss+xml" />
 
   <item>
-    <title>Tim Berners-Lee calls for internet bill of rights to ensure greater privacy -- says world needs an online ‘Magna Carta’ to combat growing government and corporate control</title>
-    <link>http://www.theguardian.com/technology/2014/sep/28/tim-berners-lee-internet-bill-of-rights-greater-privacy</link>
-    <guid>http://www.reddit.com/r/technology/comments/2ho5d4/tim_bernerslee_calls_for_internet_bill_of_rights/</guid>
-    <description>BY BOGAINVILLA &#183; POSTED 09/27/14 11:32 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 3184</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Australian bill gives ASIO (Aus NSA) the power to monitor any number of computers in a network. But doesn't specify what a network is. So all your base belongs to Australia now?</title>
-    <link>http://www.smh.com.au/digital-life/consumer-security/terror-laws-clear-senate-enabling-entire-australian-web-to-be-monitored-and-whistleblowers-to-be-jailed-20140926-10m8ih.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hovmn/australian_bill_gives_asio_aus_nsa_the_power_to/</guid>
-    <description>BY CYNOFIELD &#183; POSTED 09/28/14 7:40 AM EST &#183; SMH.COM.AU &#183; SCORE 2563</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>EU home affairs chief secretly worked with US to undermine new privacy laws, campaigners claim -- digital rights group Access revealed an email that suggests Cecilia Malmström collaborated with the Americans in a successful attempt to water down Europe’s new privacy laws</title>
-    <link>https://gigaom.com/2014/09/28/eu-home-affairs-chief-secretly-worked-with-us-to-undermine-new-privacy-laws-campaigners-claim/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hoyqg/eu_home_affairs_chief_secretly_worked_with_us_to/</guid>
-    <description>BY BOGAINVILLA &#183; POSTED 09/28/14 8:37 AM EST &#183; GIGAOM.COM &#183; SCORE 1127</description>
+    <title>My dad asked his friend who works for AT&amp;T about Google Fiber, and he said, "There is little to no difference between 24mbps and 1gbps."</title>
+    <link>http://www.reddit.com/r/technology/comments/2hqdhi/my_dad_asked_his_friend_who_works_for_att_about/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hqdhi/my_dad_asked_his_friend_who_works_for_att_about/</guid>
+    <description>BY THEGUNNFIRE &#183; POSTED 09/28/14 5:52 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 3260</description>
     <category>Knowledge</category>
   </item>
 
@@ -38,63 +22,7 @@
     <title>MIT Wants You To Own Your Own Data, Not Give It Away</title>
     <link>http://www.fastcoexist.com/3033414/mit-wants-you-to-own-your-own-data-not-give-it-away</link>
     <guid>http://www.reddit.com/r/technology/comments/2hpdps/mit_wants_you_to_own_your_own_data_not_give_it/</guid>
-    <description>BY CONSCIOUS_GIRL &#183; POSTED 09/28/14 11:59 AM EST &#183; FASTCOEXIST.COM &#183; SCORE 966</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>"A former member of Facebook’s Data Science unit, Andrew Ledvina, told The Wall Street Journal that the in-house lab operates with few restrictions. 'Anyone on that team could run a test,' he said. 'They’re always trying to alter people’s behavior.'"</title>
-    <link>http://lareviewofbooks.org/essay/manipulators-facebooks-social-engineering-project</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hn8s6/a_former_member_of_facebooks_data_science_unit/</guid>
-    <description>BY ASSUREDLYATHROWAWAY &#183; POSTED 09/27/14 5:04 PM EST &#183; LAREVIEWOFBOOKS.ORG &#183; SCORE 400</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Reddit, if we truly want to combat the practices of a company like Comcast, I propose the following...</title>
-    <link>http://www.reddit.com/r/technology/comments/2hn4ga/reddit_if_we_truly_want_to_combat_the_practices/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hn4ga/reddit_if_we_truly_want_to_combat_the_practices/</guid>
-    <description>BY GAVIN_MCMAHON &#183; POSTED 09/27/14 4:18 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 293</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Alabama schools secretly spying on students' social media after NSA called in a tip</title>
-    <link>http://www.networkworld.com/article/2687993/microsoft-subnet/alabama-schools-secretly-spying-on-students-social-media-after-nsa-called-in-a-tip.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hojq4/alabama_schools_secretly_spying_on_students/</guid>
-    <description>BY THELINKMOBILE &#183; POSTED 09/28/14 3:17 AM EST &#183; NETWORKWORLD.COM &#183; SCORE 239</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>The Phone 6 can still be tracked despite increased iOS 8 privacy features</title>
-    <link>http://bgr.com/2014/09/26/iphone-6-ios-8-tracking/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hod1i/the_phone_6_can_still_be_tracked_despite/</guid>
-    <description>BY ZAKOS &#183; POSTED 09/28/14 1:19 AM EST &#183; BGR.COM &#183; SCORE 178</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Mantis Shrimps can see cancer. Now scientists created a camera that can see cancer too!</title>
-    <link>http://www.sciencealert.com.au/news/20142609-26244.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hnp4z/mantis_shrimps_can_see_cancer_now_scientists/</guid>
-    <description>BY CAPTANONYMOUS89 &#183; POSTED 09/27/14 8:11 PM EST &#183; SCIENCEALERT.COM.AU &#183; SCORE 133</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>UPS now lets you use 3D printers in nearly 100 US stores</title>
-    <link>http://www.engadget.com/2014/09/22/ups-3d-printer-expansion/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hnxjy/ups_now_lets_you_use_3d_printers_in_nearly_100_us/</guid>
-    <description>BY MOS_6502 &#183; POSTED 09/27/14 9:53 PM EST &#183; ENGADGET.COM &#183; SCORE 92</description>
-    <category>Knowledge</category>
-  </item>
-
-  <item>
-    <title>Boo! Microsoft Ending Windows 7’s Life Cycle Officially On Halloween</title>
-    <link>http://hothardware.com/News/Boo-Microsoft-Ending-Windows-7s-Life-Cycle-Officially-On-Halloween/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2ho1ta/boo_microsoft_ending_windows_7s_life_cycle/</guid>
-    <description>BY GODSCOMIC &#183; POSTED 09/27/14 10:47 PM EST &#183; HOTHARDWARE.COM &#183; SCORE 64</description>
+    <description>BY CONSCIOUS_GIRL &#183; POSTED 09/28/14 11:59 AM EST &#183; FASTCOEXIST.COM &#183; SCORE 2446</description>
     <category>Knowledge</category>
   </item>
 
@@ -102,7 +30,7 @@
     <title>Confirmed: Windows 9 to be a free upgrade for Windows 8 users</title>
     <link>http://news.yahoo.com/confirmed-windows-9-free-upgrade-windows-8-users-133033409.html</link>
     <guid>http://www.reddit.com/r/technology/comments/2hps0e/confirmed_windows_9_to_be_a_free_upgrade_for/</guid>
-    <description>BY TORQUEMADA1970 &#183; POSTED 09/28/14 2:24 PM EST &#183; NEWS.YAHOO.COM &#183; SCORE 361</description>
+    <description>BY TORQUEMADA1970 &#183; POSTED 09/28/14 2:24 PM EST &#183; NEWS.YAHOO.COM &#183; SCORE 2182</description>
     <category>Knowledge</category>
   </item>
 
@@ -110,47 +38,55 @@
     <title>If you're a journalist not using Tor, you're failing your sources.</title>
     <link>http://kernelmag.dailydot.com/issue-sections/staff-editorials/10395/why-to-download-tor/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hppv5/if_youre_a_journalist_not_using_tor_youre_failing/</guid>
-    <description>BY MOOOOOKY &#183; POSTED 09/28/14 2:03 PM EST &#183; KERNELMAG.DAILYDOT.COM &#183; SCORE 172</description>
+    <description>BY MOOOOOKY &#183; POSTED 09/28/14 2:03 PM EST &#183; KERNELMAG.DAILYDOT.COM &#183; SCORE 1850</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Drones approved for commercial use in US for first time, starting with Hollywood film shoots</title>
-    <link>http://www.nytimes.com/2014/09/26/business/media/drone-exemptions-for-hollywood-pave-the-way-for-widespread-use.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hn7jv/drones_approved_for_commercial_use_in_us_for/</guid>
-    <description>BY CANAUSERNAMEBETOOLON &#183; POSTED 09/27/14 4:53 PM EST &#183; NYTIMES.COM &#183; SCORE 37</description>
+    <title>Firefox finally dethrones Chrome in PCMags latest review</title>
+    <link>http://www.pcmag.com/article2/0,2817,2365692,00.asp</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hqadp/firefox_finally_dethrones_chrome_in_pcmags_latest/</guid>
+    <description>BY AICCIA &#183; POSTED 09/28/14 5:21 PM EST &#183; PCMAG.COM &#183; SCORE 1199</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Cloudflare appears set to announce free SSL on Monday for 4th birthday - First letter of paragraphs spell SSL TLS FREE</title>
-    <link>https://blog.cloudflare.com/celebrating-cloudflares-4th-birthday/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hnmkh/cloudflare_appears_set_to_announce_free_ssl_on/</guid>
-    <description>BY JOSHIEE &#183; POSTED 09/27/14 7:40 PM EST &#183; BLOG.CLOUDFLARE.COM &#183; SCORE 30</description>
+    <title>Mining Bitcoin with pencil and paper: 0.67 hashes per day</title>
+    <link>http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hq3cb/mining_bitcoin_with_pencil_and_paper_067_hashes/</guid>
+    <description>BY TEELM &#183; POSTED 09/28/14 4:14 PM EST &#183; RIGHTO.COM &#183; SCORE 409</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Neurokernel: An open source platform for emulating the fruit fly brain</title>
-    <link>http://neurokernel.github.io/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hor9e/neurokernel_an_open_source_platform_for_emulating/</guid>
-    <description>BY ELECTRONICS-ENGINEER &#183; POSTED 09/28/14 6:04 AM EST &#183; NEUROKERNEL.GITHUB.IO &#183; SCORE 25</description>
+    <title>FCC to rule on 'paid prioritization' deals by Internet service providers</title>
+    <link>http://www.pbs.org/newshour/rundown/can-internet-providers-cut-deals-sites-fcc-decide/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hqo6i/fcc_to_rule_on_paid_prioritization_deals_by/</guid>
+    <description>BY -GAVIN- &#183; POSTED 09/28/14 7:46 PM EST &#183; PBS.ORG &#183; SCORE 152</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>The Unrepentant Bootlegger</title>
-    <link>http://www.nytimes.com/2014/09/28/technology/the-unrepentant-bootlegger.html?&amp;hpw&amp;rref=business&amp;action=click&amp;pgtype=Homepage&amp;version=HpHedThumbWell&amp;module=well-region&amp;region=bottom-well&amp;WT.nav=bottom-well&amp;_r=0</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hovur/the_unrepentant_bootlegger/</guid>
-    <description>BY COOLCROSBY &#183; POSTED 09/28/14 7:45 AM EST &#183; NYTIMES.COM &#183; SCORE 21</description>
+    <title>Cosmos broswer, a broswer that allows you to browse the internet without using data or wifi!</title>
+    <link>http://www.reddit.com/r/technology/comments/2hqkz3/cosmos_broswer_a_broswer_that_allows_you_to/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hqkz3/cosmos_broswer_a_broswer_that_allows_you_to/</guid>
+    <description>BY VISHNUTHEKING &#183; POSTED 09/28/14 7:11 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 150</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>551 Feet Under the Sea: What It’s Like to Ride in a Deep-Sea Sub</title>
-    <link>http://blogs.scientificamerican.com/artful-amoeba/2014/09/23/551-feet-under-the-sea-what-its-like-to-ride-in-a-deep-sea-sub/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hpe1e/551_feet_under_the_sea_what_its_like_to_ride_in_a/</guid>
-    <description>BY QURUN &#183; POSTED 09/28/14 12:02 PM EST &#183; BLOGS.SCIENTIFICAMERICAN.COM &#183; SCORE 29</description>
+    <title>China blocks Instagram in the wake of Hong Kong democracy protests</title>
+    <link>http://www.engadget.com/2014/09/28/china-blocks-instagram/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hq3jh/china_blocks_instagram_in_the_wake_of_hong_kong/</guid>
+    <description>BY CANAUSERNAMEBETOOLON &#183; POSTED 09/28/14 4:16 PM EST &#183; ENGADGET.COM &#183; SCORE 123</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Imagine an Internet in which every possible creative work uploaded results in a copyright claim - because it's already been created</title>
+    <link>http://torrentfreak.com/copyright-apocalypse-trolls-attack-the-net-from-the-future-140928/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hpsgp/imagine_an_internet_in_which_every_possible/</guid>
+    <description>BY PROTO-SINAITIC &#183; POSTED 09/28/14 2:29 PM EST &#183; TORRENTFREAK.COM &#183; SCORE 96</description>
     <category>Knowledge</category>
   </item>
 
@@ -158,39 +94,87 @@
     <title>Yahoo Directory, once the center of a web empire, will shut down at the end of 2014</title>
     <link>http://www.theverge.com/2014/9/27/6854139/yahoo-directory-once-the-center-of-a-web-empire-will-shut-down</link>
     <guid>http://www.reddit.com/r/technology/comments/2hpexu/yahoo_directory_once_the_center_of_a_web_empire/</guid>
-    <description>BY MAXAMM0 &#183; POSTED 09/28/14 12:12 PM EST &#183; THEVERGE.COM &#183; SCORE 30</description>
+    <description>BY MAXAMM0 &#183; POSTED 09/28/14 12:12 PM EST &#183; THEVERGE.COM &#183; SCORE 64</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>This Is How Hollywood Movies Look Before &amp; After Visual Effects Are Applied</title>
-    <link>http://wonderfulengineering.com/this-is-how-hollywood-movies-look-before-after-visual-effects-are-applied/#sthash.5M3O5OhT.sfju</link>
-    <guid>http://www.reddit.com/r/technology/comments/2horbe/this_is_how_hollywood_movies_look_before_after/</guid>
-    <description>BY ANGIE_EVAN &#183; POSTED 09/28/14 6:06 AM EST &#183; WONDERFULENGINEERING.COM &#183; SCORE 14</description>
+    <title>EU is reportedly preparing tax accusations against Apple with billions of Euros in fines</title>
+    <link>https://gigaom.com/2014/09/29/apple-could-be-liable-for-billions-of-euros-in-fines-as-eu-reportedly-prepares-tax-accusations/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hrvmm/eu_is_reportedly_preparing_tax_accusations/</guid>
+    <description>BY RAHULDULTA &#183; POSTED 09/29/14 5:06 AM EST &#183; GIGAOM.COM &#183; SCORE 79</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Why do you think the west has never adopted toilets with technology?</title>
-    <link>http://www.reddit.com/r/technology/comments/2hn6lw/why_do_you_think_the_west_has_never_adopted/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hn6lw/why_do_you_think_the_west_has_never_adopted/</guid>
-    <description>BY DOCTORISH &#183; POSTED 09/27/14 4:43 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 15</description>
+    <title>Toyota’s New Hydrogen Car: An Exclusive Inside Look at This Amazing Technology</title>
+    <link>http://www.fool.com/investing/general/2014/09/28/toyotas-new-hydrogen-car-an-exclusive-inside-look.aspx</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hq6xv/toyotas_new_hydrogen_car_an_exclusive_inside_look/</guid>
+    <description>BY ACANTHAS &#183; POSTED 09/28/14 4:48 PM EST &#183; FOOL.COM &#183; SCORE 37</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>‘Cloaking’ device uses ordinary lenses to hide objects across range of angles</title>
-    <link>http://www.rochester.edu/newscenter/watch-rochester-cloak-uses-ordinary-lenses-to-hide-objects-across-continuous-range-of-angles-70592/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hoyod/cloaking_device_uses_ordinary_lenses_to_hide/</guid>
-    <description>BY TM204 &#183; POSTED 09/28/14 8:36 AM EST &#183; ROCHESTER.EDU &#183; SCORE 12</description>
+    <title>551 Feet Under the Sea: What It’s Like to Ride in a Deep-Sea Sub</title>
+    <link>http://blogs.scientificamerican.com/artful-amoeba/2014/09/23/551-feet-under-the-sea-what-its-like-to-ride-in-a-deep-sea-sub/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hpe1e/551_feet_under_the_sea_what_its_like_to_ride_in_a/</guid>
+    <description>BY QURUN &#183; POSTED 09/28/14 12:02 PM EST &#183; BLOGS.SCIENTIFICAMERICAN.COM &#183; SCORE 34</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Yahoo killing off Yahoo after 20 years of hierarchical organization</title>
-    <link>http://arstechnica.com/information-technology/2014/09/yahoo-killing-off-yahoo-after-20-years-of-hierarchical-organization/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2ho6if/yahoo_killing_off_yahoo_after_20_years_of/</guid>
-    <description>BY GRAUENWOLF &#183; POSTED 09/27/14 11:48 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 12</description>
+    <title>Growling by Comcast May Bring Tighter Leash</title>
+    <link>http://www.nytimes.com/2014/09/29/business/media/growling-by-comcast-may-bring-tighter-leash.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hr74p/growling_by_comcast_may_bring_tighter_leash/</guid>
+    <description>BY RIT56 &#183; POSTED 09/28/14 11:02 PM EST &#183; NYTIMES.COM &#183; SCORE 34</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Pentagon's space plane X-37B orbits the Earth in mystery</title>
+    <link>http://nypost.com/2014/09/28/what-is-the-pentagons-secret-space-drone-doing/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hqfdr/pentagons_space_plane_x37b_orbits_the_earth_in/</guid>
+    <description>BY JOHNDHACKENSACKER &#183; POSTED 09/28/14 6:12 PM EST &#183; NYPOST.COM &#183; SCORE 34</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Facebook Opens Gates to Vault of Consumer Data: On Monday, Facebook will roll out a rebuilt ad platform, called Atlas, that will allow marketers to tap its detailed knowledge of its users to direct ads to those people on thousands of other websites and mobile apps.</title>
+    <link>http://www.nytimes.com/2014/09/29/business/with-new-ad-platform-facebook-opens-the-gates-to-its-vault-of-consumer-data.html?hp</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hraly/facebook_opens_gates_to_vault_of_consumer_data_on/</guid>
+    <description>BY QUESTEION &#183; POSTED 09/28/14 11:37 PM EST &#183; NYTIMES.COM &#183; SCORE 25</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Liquid Benzene Squeezed to Form Diamond Nanothreads: High-pressure cycles unexpectedly convert benzene into superstrong and ultrathin threads. Will they put a space elevator within reach?</title>
+    <link>http://www.scientificamerican.com/article/liquid-benzene-squeezed-to-form-diamond-nanothreads/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hr6uu/liquid_benzene_squeezed_to_form_diamond/</guid>
+    <description>BY DAVIDREISS666 &#183; POSTED 09/28/14 10:59 PM EST &#183; SCIENTIFICAMERICAN.COM &#183; SCORE 26</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Net neutrality debate is reaching a key point</title>
+    <link>http://www.cbsnews.com/news/debate-over-net-neutrality-reaching-a-critical-point/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hpidh/net_neutrality_debate_is_reaching_a_key_point/</guid>
+    <description>BY THELINKMOBILE &#183; POSTED 09/28/14 12:47 PM EST &#183; CBSNEWS.COM &#183; SCORE 16</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Microsoft to Offer Programming Courses to 1 Million Young People in Latin America</title>
+    <link>http://latino.foxnews.com/latino/news/2014/09/24/microsoft-to-offer-programming-courses-to-1-mn-young-people-in-latin-america/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hptyd/microsoft_to_offer_programming_courses_to_1/</guid>
+    <description>BY PETER_BOLTON &#183; POSTED 09/28/14 2:43 PM EST &#183; LATINO.FOXNEWS.COM &#183; SCORE 14</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>If Microsoft no longer supported the .NET framework, what language/framework would be considered the most predominate in software creation for the Windows platform?</title>
+    <link>http://www.reddit.com/r/technology/comments/2hr52l/if_microsoft_no_longer_supported_the_net/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hr52l/if_microsoft_no_longer_supported_the_net/</guid>
+    <description>BY CORTEZVEE &#183; POSTED 09/28/14 10:41 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 13</description>
     <category>Knowledge</category>
   </item>
 
@@ -198,15 +182,31 @@
     <title>okTurtles: Surveillance-free communication on your favorite websites</title>
     <link>http://okturtles.com/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hpj29/okturtles_surveillancefree_communication_on_your/</guid>
-    <description>BY SIGBHU &#183; POSTED 09/28/14 12:54 PM EST &#183; OKTURTLES.COM &#183; SCORE 6</description>
+    <description>BY SIGBHU &#183; POSTED 09/28/14 12:54 PM EST &#183; OKTURTLES.COM &#183; SCORE 11</description>
     <category>Knowledge</category>
   </item>
 
   <item>
-    <title>Despite recent split from conservative group, Google’s connections to climate change denial runs deep - ALEC officials told The Chronicle this week that they expect more tech firms to leave, soon, too.</title>
-    <link>http://sfgate.com/business/article/Despite-recent-split-from-conservative-group-5781594.php</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hpbb6/despite_recent_split_from_conservative_group/</guid>
-    <description>BY PNEWELL &#183; POSTED 09/28/14 11:32 AM EST &#183; SFGATE.COM &#183; SCORE 6</description>
+    <title>Invite-Only, Ad-Free Social Network Is Receiving 38,000 Signups Per Hour</title>
+    <link>http://www.businessinsider.com/how-many-people-are-using-ello-2014-9</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hqjm5/inviteonly_adfree_social_network_is_receiving/</guid>
+    <description>BY TUX_GREYHAT &#183; POSTED 09/28/14 6:57 PM EST &#183; BUSINESSINSIDER.COM &#183; SCORE 9</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>Time for electronics industry to end supply chain slavery</title>
+    <link>http://edition.cnn.com/2014/09/26/opinion/freedom-project-verite-malaysia-supply-chains/index.html?hpt=hp_t5</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hpo47/time_for_electronics_industry_to_end_supply_chain/</guid>
+    <description>BY SILVERWOLFER &#183; POSTED 09/28/14 1:46 PM EST &#183; EDITION.CNN.COM &#183; SCORE 8</description>
+    <category>Knowledge</category>
+  </item>
+
+  <item>
+    <title>For Google shuttle drivers, it’s a grueling ride</title>
+    <link>http://www.sfgate.com/news/article/For-Google-shuttle-drivers-it-s-a-grueling-ride-5785556.php</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hp6he/for_google_shuttle_drivers_its_a_grueling_ride/</guid>
+    <description>BY WORLDCUPFORLIFE &#183; POSTED 09/28/14 10:33 AM EST &#183; SFGATE.COM &#183; SCORE 10</description>
     <category>Knowledge</category>
   </item>
 
