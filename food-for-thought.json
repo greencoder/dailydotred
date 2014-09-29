@@ -2,12 +2,12 @@
     "category": "Knowledge", 
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
-    "generated-utc": 1411999259, 
+    "generated-utc": 1412010295, 
     "posts": [
         {
-            "num-comments": 58, 
+            "num-comments": 86, 
             "domain": "slate.com", 
-            "score": 215, 
+            "score": 279, 
             "nsfw": false, 
             "title": "Americans Have No Idea How Bad Inequality Really Is", 
             "url": "http://www.slate.com/articles/business/moneybox/2014/09/americans_have_no_idea_how_bad_inequality_is_new_harvard_business_school.html", 
@@ -17,45 +17,33 @@
             "id": "2hqriy"
         }, 
         {
-            "num-comments": 34, 
-            "domain": "fastcompany.com", 
-            "score": 189, 
+            "num-comments": 3, 
+            "domain": "newyorker.com", 
+            "score": 16, 
             "nsfw": false, 
-            "title": "Anthony Bourdain Has Become The Future Of Cable News, And He Couldn't Care Less", 
-            "url": "http://www.fastcompany.com/3036090/innovation-agents/anthony-bourdain-has-become-the-future-of-cable-news-and-he-couldnt-care-l?src=longreads", 
-            "author": "willofmcd", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hpa5v/anthony_bourdain_has_become_the_future_of_cable/", 
-            "created-utc": 1411917518.0, 
-            "id": "2hpa5v"
+            "title": "Before the Law - A boy was accused of taking a backpack. The courts took the next three years of his life", 
+            "url": "http://www.newyorker.com/magazine/2014/10/06/law-3", 
+            "author": "marquis_of_chaos", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hs76p/before_the_law_a_boy_was_accused_of_taking_a/", 
+            "created-utc": 1411994309.0, 
+            "id": "2hs76p"
         }, 
         {
-            "num-comments": 0, 
-            "domain": "cato-unbound.org", 
-            "score": 26, 
+            "num-comments": 2, 
+            "domain": "theguardian.com", 
+            "score": 13, 
             "nsfw": false, 
-            "title": "The True Story of How the Patent Bar Captured a Court and Shrank the Intellectual Commons", 
-            "url": "http://www.cato-unbound.org/2014/09/08/eli-dourado/true-story-how-patent-bar-captured-court-shrank-intellectual-commons", 
+            "title": "It\u2019s silly to be frightened of being dead", 
+            "url": "http://www.theguardian.com/lifeandstyle/2014/sep/23/-sp-diana-athill-its-silly-frightened-being-dead", 
             "author": "marquis_of_chaos", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hp0tt/the_true_story_of_how_the_patent_bar_captured_a/", 
-            "created-utc": 1411909995.0, 
-            "id": "2hp0tt"
-        }, 
-        {
-            "num-comments": 4, 
-            "domain": "aeon.co", 
-            "score": 17, 
-            "nsfw": false, 
-            "title": "What is a good death in a secular age?", 
-            "url": "http://aeon.co/magazine/psychology/what-makes-a-good-death-in-a-secular-age/", 
-            "author": "marquis_of_chaos", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hp0fz/what_is_a_good_death_in_a_secular_age/", 
-            "created-utc": 1411909629.0, 
-            "id": "2hp0fz"
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hs6qv/its_silly_to_be_frightened_of_being_dead/", 
+            "created-utc": 1411993948.0, 
+            "id": "2hs6qv"
         }, 
         {
             "num-comments": 1, 
             "domain": "brainpickings.org", 
-            "score": 5, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Mark Twain on Masturbation", 
             "url": "http://www.brainpickings.org/2014/02/26/mark-twain-on-masturbation/", 
@@ -63,6 +51,18 @@
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hpxd5/mark_twain_on_masturbation/", 
             "created-utc": 1411931854.0, 
             "id": "2hpxd5"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "aeon.co", 
+            "score": 2, 
+            "nsfw": false, 
+            "title": "The symbol of life should be a loop, not a helix", 
+            "url": "http://aeon.co/magazine/science/why-the-symbol-of-life-is-a-loop-not-a-helix/", 
+            "author": "marquis_of_chaos", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hs77x/the_symbol_of_life_should_be_a_loop_not_a_helix/", 
+            "created-utc": 1411994346.0, 
+            "id": "2hs77x"
         }, 
         {
             "num-comments": 0, 
@@ -77,16 +77,16 @@
             "id": "2hpsba"
         }, 
         {
-            "num-comments": 1, 
-            "domain": "cabinetmagazine.org", 
-            "score": 3, 
+            "num-comments": 0, 
+            "domain": "theatlantic.com", 
+            "score": 1, 
             "nsfw": false, 
-            "title": "Campanologomania", 
-            "url": "http://www.cabinetmagazine.org/issues/53/hunt.php", 
-            "author": "marquis_of_chaos", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hp0mv/campanologomania/", 
-            "created-utc": 1411909820.0, 
-            "id": "2hp0mv"
+            "title": "The Health Effects of Leaving Religion", 
+            "url": "http://www.theatlantic.com/health/archive/2014/09/the-health-effects-of-leaving-religion/379651/?single_page=true", 
+            "author": "lingben", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hrg4j/the_health_effects_of_leaving_religion/", 
+            "created-utc": 1411965724.0, 
+            "id": "2hrg4j"
         }, 
         {
             "num-comments": 2, 
@@ -103,7 +103,7 @@
         {
             "num-comments": 1, 
             "domain": "chronicle.com", 
-            "score": 1, 
+            "score": 3, 
             "nsfw": false, 
             "title": "Why Academics' Writing Stinks", 
             "url": "https://chronicle.com/article/Why-Academics-Writing-Stinks/148989?cid=megamenu", 
@@ -111,42 +111,6 @@
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hprf9/why_academics_writing_stinks/", 
             "created-utc": 1411928284.0, 
             "id": "2hprf9"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "aeon.co", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "The symbol of life should be a loop, not a helix", 
-            "url": "http://aeon.co/magazine/science/why-the-symbol-of-life-is-a-loop-not-a-helix/", 
-            "author": "marquis_of_chaos", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hs77x/the_symbol_of_life_should_be_a_loop_not_a_helix/", 
-            "created-utc": 1411994346.0, 
-            "id": "2hs77x"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "newyorker.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "Before the Law - A boy was accused of taking a backpack. The courts took the next three years of his life", 
-            "url": "http://www.newyorker.com/magazine/2014/10/06/law-3", 
-            "author": "marquis_of_chaos", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hs76p/before_the_law_a_boy_was_accused_of_taking_a/", 
-            "created-utc": 1411994309.0, 
-            "id": "2hs76p"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "3quarksdaily.com", 
-            "score": 2, 
-            "nsfw": false, 
-            "title": "2 Cheers for Libertarian Paternalism!", 
-            "url": "http://www.3quarksdaily.com/3quarksdaily/2014/09/2-cheers-for-libertarian-paternalism.html", 
-            "author": "phileconomicus", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hs3nq/2_cheers_for_libertarian_paternalism/", 
-            "created-utc": 1411991136.0, 
-            "id": "2hs3nq"
         }, 
         {
             "num-comments": 0, 
@@ -162,27 +126,15 @@
         }, 
         {
             "num-comments": 0, 
-            "domain": "theatlantic.com", 
-            "score": 0, 
+            "domain": "3quarksdaily.com", 
+            "score": 1, 
             "nsfw": false, 
-            "title": "The Health Effects of Leaving Religion", 
-            "url": "http://www.theatlantic.com/health/archive/2014/09/the-health-effects-of-leaving-religion/379651/?single_page=true", 
-            "author": "lingben", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hrg4j/the_health_effects_of_leaving_religion/", 
-            "created-utc": 1411965724.0, 
-            "id": "2hrg4j"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "theguardian.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "title": "It\u2019s silly to be frightened of being dead", 
-            "url": "http://www.theguardian.com/lifeandstyle/2014/sep/23/-sp-diana-athill-its-silly-frightened-being-dead", 
-            "author": "marquis_of_chaos", 
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hs6qv/its_silly_to_be_frightened_of_being_dead/", 
-            "created-utc": 1411993948.0, 
-            "id": "2hs6qv"
+            "title": "2 Cheers for Libertarian Paternalism!", 
+            "url": "http://www.3quarksdaily.com/3quarksdaily/2014/09/2-cheers-for-libertarian-paternalism.html", 
+            "author": "phileconomicus", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hs3nq/2_cheers_for_libertarian_paternalism/", 
+            "created-utc": 1411991136.0, 
+            "id": "2hs3nq"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/Foodforthought/", 

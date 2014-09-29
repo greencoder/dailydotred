@@ -2,12 +2,12 @@
     "category": "Knowledge", 
     "description": "News stories related to technology", 
     "title": "Technology", 
-    "generated-utc": 1411999244, 
+    "generated-utc": 1412010281, 
     "posts": [
         {
-            "num-comments": 1522, 
+            "num-comments": 2095, 
             "domain": "self.technology", 
-            "score": 3260, 
+            "score": 3426, 
             "nsfw": false, 
             "title": "My dad asked his friend who works for AT&amp;T about Google Fiber, and he said, \"There is little to no difference between 24mbps and 1gbps.\"", 
             "url": "http://www.reddit.com/r/technology/comments/2hqdhi/my_dad_asked_his_friend_who_works_for_att_about/", 
@@ -17,21 +17,9 @@
             "id": "2hqdhi"
         }, 
         {
-            "num-comments": 74, 
-            "domain": "fastcoexist.com", 
-            "score": 2446, 
-            "nsfw": false, 
-            "title": "MIT Wants You To Own Your Own Data, Not Give It Away", 
-            "url": "http://www.fastcoexist.com/3033414/mit-wants-you-to-own-your-own-data-not-give-it-away", 
-            "author": "conscious_girl", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hpdps/mit_wants_you_to_own_your_own_data_not_give_it/", 
-            "created-utc": 1411919950.0, 
-            "id": "2hpdps"
-        }, 
-        {
-            "num-comments": 2230, 
+            "num-comments": 2303, 
             "domain": "news.yahoo.com", 
-            "score": 2182, 
+            "score": 2141, 
             "nsfw": false, 
             "title": "Confirmed: Windows 9 to be a free upgrade for Windows 8 users", 
             "url": "http://news.yahoo.com/confirmed-windows-9-free-upgrade-windows-8-users-133033409.html", 
@@ -41,9 +29,9 @@
             "id": "2hps0e"
         }, 
         {
-            "num-comments": 82, 
+            "num-comments": 100, 
             "domain": "kernelmag.dailydot.com", 
-            "score": 1850, 
+            "score": 2075, 
             "nsfw": false, 
             "title": "If you're a journalist not using Tor, you're failing your sources.", 
             "url": "http://kernelmag.dailydot.com/issue-sections/staff-editorials/10395/why-to-download-tor/", 
@@ -53,9 +41,9 @@
             "id": "2hppv5"
         }, 
         {
-            "num-comments": 327, 
+            "num-comments": 463, 
             "domain": "pcmag.com", 
-            "score": 1199, 
+            "score": 1566, 
             "nsfw": false, 
             "title": "Firefox finally dethrones Chrome in PCMags latest review", 
             "url": "http://www.pcmag.com/article2/0,2817,2365692,00.asp", 
@@ -65,9 +53,9 @@
             "id": "2hqadp"
         }, 
         {
-            "num-comments": 50, 
+            "num-comments": 92, 
             "domain": "righto.com", 
-            "score": 409, 
+            "score": 487, 
             "nsfw": false, 
             "title": "Mining Bitcoin with pencil and paper: 0.67 hashes per day", 
             "url": "http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html", 
@@ -77,9 +65,21 @@
             "id": "2hq3cb"
         }, 
         {
-            "num-comments": 14, 
+            "num-comments": 86, 
+            "domain": "gigaom.com", 
+            "score": 960, 
+            "nsfw": false, 
+            "title": "EU is reportedly preparing tax accusations against Apple with billions of Euros in fines", 
+            "url": "https://gigaom.com/2014/09/29/apple-could-be-liable-for-billions-of-euros-in-fines-as-eu-reportedly-prepares-tax-accusations/", 
+            "author": "rahuldulta", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hrvmm/eu_is_reportedly_preparing_tax_accusations/", 
+            "created-utc": 1411981574.0, 
+            "id": "2hrvmm"
+        }, 
+        {
+            "num-comments": 27, 
             "domain": "pbs.org", 
-            "score": 152, 
+            "score": 226, 
             "nsfw": false, 
             "title": "FCC to rule on 'paid prioritization' deals by Internet service providers", 
             "url": "http://www.pbs.org/newshour/rundown/can-internet-providers-cut-deals-sites-fcc-decide/", 
@@ -89,9 +89,9 @@
             "id": "2hqo6i"
         }, 
         {
-            "num-comments": 59, 
+            "num-comments": 65, 
             "domain": "self.technology", 
-            "score": 150, 
+            "score": 179, 
             "nsfw": false, 
             "title": "Cosmos broswer, a broswer that allows you to browse the internet without using data or wifi!", 
             "url": "http://www.reddit.com/r/technology/comments/2hqkz3/cosmos_broswer_a_broswer_that_allows_you_to/", 
@@ -103,7 +103,7 @@
         {
             "num-comments": 3, 
             "domain": "engadget.com", 
-            "score": 123, 
+            "score": 135, 
             "nsfw": false, 
             "title": "China blocks Instagram in the wake of Hong Kong democracy protests", 
             "url": "http://www.engadget.com/2014/09/28/china-blocks-instagram/", 
@@ -113,9 +113,33 @@
             "id": "2hq3jh"
         }, 
         {
-            "num-comments": 28, 
+            "num-comments": 94, 
+            "domain": "mashable.com", 
+            "score": 406, 
+            "nsfw": false, 
+            "title": "Facebook Ads Will Follow You Around. Starting Now.", 
+            "url": "http://mashable.com/2014/09/29/facebook-ads-atlas/", 
+            "author": "imalexbeck", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hscm6/facebook_ads_will_follow_you_around_starting_now/", 
+            "created-utc": 1411998259.0, 
+            "id": "2hscm6"
+        }, 
+        {
+            "num-comments": 188, 
+            "domain": "infoworld.com", 
+            "score": 348, 
+            "nsfw": false, 
+            "title": "With new OS, Microsoft will try to put Windows 8 era behind it", 
+            "url": "http://www.infoworld.com/article/2687744/operating-systems/with-new-os-microsoft-will-try-to-put-windows-8-era-behind-it.html", 
+            "author": "ThePrimeOptimus", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hs31k/with_new_os_microsoft_will_try_to_put_windows_8/", 
+            "created-utc": 1411990531.0, 
+            "id": "2hs31k"
+        }, 
+        {
+            "num-comments": 30, 
             "domain": "torrentfreak.com", 
-            "score": 96, 
+            "score": 103, 
             "nsfw": false, 
             "title": "Imagine an Internet in which every possible creative work uploaded results in a copyright claim - because it's already been created", 
             "url": "http://torrentfreak.com/copyright-apocalypse-trolls-attack-the-net-from-the-future-140928/", 
@@ -125,9 +149,33 @@
             "id": "2hpsgp"
         }, 
         {
+            "num-comments": 15, 
+            "domain": "blog.cloudflare.com", 
+            "score": 163, 
+            "nsfw": false, 
+            "title": "Introducing Universal SSL", 
+            "url": "https://blog.cloudflare.com/introducing-universal-ssl/", 
+            "author": "dknecht", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hs2k2/introducing_universal_ssl/", 
+            "created-utc": 1411990014.0, 
+            "id": "2hs2k2"
+        }, 
+        {
+            "num-comments": 328, 
+            "domain": "self.technology", 
+            "score": 144, 
+            "nsfw": false, 
+            "title": "This is Carl and David from OnePlus, Ask Us (Almost) Anything!", 
+            "url": "http://www.reddit.com/r/technology/comments/2hse9b/this_is_carl_and_david_from_oneplus_ask_us_almost/", 
+            "author": "devildv", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hse9b/this_is_carl_and_david_from_oneplus_ask_us_almost/", 
+            "created-utc": 1411999213.0, 
+            "id": "2hse9b"
+        }, 
+        {
             "num-comments": 10, 
             "domain": "theverge.com", 
-            "score": 64, 
+            "score": 67, 
             "nsfw": false, 
             "title": "Yahoo Directory, once the center of a web empire, will shut down at the end of 2014", 
             "url": "http://www.theverge.com/2014/9/27/6854139/yahoo-directory-once-the-center-of-a-web-empire-will-shut-down", 
@@ -137,45 +185,21 @@
             "id": "2hpexu"
         }, 
         {
-            "num-comments": 7, 
-            "domain": "gigaom.com", 
-            "score": 79, 
+            "num-comments": 13, 
+            "domain": "reuters.com", 
+            "score": 159, 
             "nsfw": false, 
-            "title": "EU is reportedly preparing tax accusations against Apple with billions of Euros in fines", 
-            "url": "https://gigaom.com/2014/09/29/apple-could-be-liable-for-billions-of-euros-in-fines-as-eu-reportedly-prepares-tax-accusations/", 
-            "author": "rahuldulta", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hrvmm/eu_is_reportedly_preparing_tax_accusations/", 
-            "created-utc": 1411981574.0, 
-            "id": "2hrvmm"
+            "title": "Sierra Nevada challenges NASA 'space taxi' contracts to Boeing, SpaceX", 
+            "url": "http://www.reuters.com/article/2014/09/27/us-usa-boeing-spacetaxi-sierra-nevada-idUSKCN0HM0H720140927", 
+            "author": "simsproblem", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hsc5k/sierra_nevada_challenges_nasa_space_taxi/", 
+            "created-utc": 1411997986.0, 
+            "id": "2hsc5k"
         }, 
         {
-            "num-comments": 38, 
-            "domain": "fool.com", 
-            "score": 37, 
-            "nsfw": false, 
-            "title": "Toyota\u2019s New Hydrogen Car: An Exclusive Inside Look at This Amazing Technology", 
-            "url": "http://www.fool.com/investing/general/2014/09/28/toyotas-new-hydrogen-car-an-exclusive-inside-look.aspx", 
-            "author": "Acanthas", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hq6xv/toyotas_new_hydrogen_car_an_exclusive_inside_look/", 
-            "created-utc": 1411937305.0, 
-            "id": "2hq6xv"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "blogs.scientificamerican.com", 
-            "score": 34, 
-            "nsfw": false, 
-            "title": "551 Feet Under the Sea: What It\u2019s Like to Ride in a Deep-Sea Sub", 
-            "url": "http://blogs.scientificamerican.com/artful-amoeba/2014/09/23/551-feet-under-the-sea-what-its-like-to-ride-in-a-deep-sea-sub/", 
-            "author": "qurun", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hpe1e/551_feet_under_the_sea_what_its_like_to_ride_in_a/", 
-            "created-utc": 1411920165.0, 
-            "id": "2hpe1e"
-        }, 
-        {
-            "num-comments": 2, 
+            "num-comments": 5, 
             "domain": "nytimes.com", 
-            "score": 34, 
+            "score": 49, 
             "nsfw": false, 
             "title": "Growling by Comcast May Bring Tighter Leash", 
             "url": "http://www.nytimes.com/2014/09/29/business/media/growling-by-comcast-may-bring-tighter-leash.html", 
@@ -185,9 +209,21 @@
             "id": "2hr74p"
         }, 
         {
-            "num-comments": 8, 
+            "num-comments": 38, 
+            "domain": "fool.com", 
+            "score": 41, 
+            "nsfw": false, 
+            "title": "Toyota\u2019s New Hydrogen Car: An Exclusive Inside Look at This Amazing Technology", 
+            "url": "http://www.fool.com/investing/general/2014/09/28/toyotas-new-hydrogen-car-an-exclusive-inside-look.aspx", 
+            "author": "Acanthas", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hq6xv/toyotas_new_hydrogen_car_an_exclusive_inside_look/", 
+            "created-utc": 1411937305.0, 
+            "id": "2hq6xv"
+        }, 
+        {
+            "num-comments": 9, 
             "domain": "nypost.com", 
-            "score": 34, 
+            "score": 37, 
             "nsfw": false, 
             "title": "Pentagon's space plane X-37B orbits the Earth in mystery", 
             "url": "http://nypost.com/2014/09/28/what-is-the-pentagons-secret-space-drone-doing/", 
@@ -197,9 +233,9 @@
             "id": "2hqfdr"
         }, 
         {
-            "num-comments": 9, 
+            "num-comments": 11, 
             "domain": "nytimes.com", 
-            "score": 25, 
+            "score": 42, 
             "nsfw": false, 
             "title": "Facebook Opens Gates to Vault of Consumer Data: On Monday, Facebook will roll out a rebuilt ad platform, called Atlas, that will allow marketers to tap its detailed knowledge of its users to direct ads to those people on thousands of other websites and mobile apps.", 
             "url": "http://www.nytimes.com/2014/09/29/business/with-new-ad-platform-facebook-opens-the-gates-to-its-vault-of-consumer-data.html?hp", 
@@ -209,9 +245,9 @@
             "id": "2hraly"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 5, 
             "domain": "scientificamerican.com", 
-            "score": 26, 
+            "score": 37, 
             "nsfw": false, 
             "title": "Liquid Benzene Squeezed to Form Diamond Nanothreads: High-pressure cycles unexpectedly convert benzene into superstrong and ultrathin threads. Will they put a space elevator within reach?", 
             "url": "http://www.scientificamerican.com/article/liquid-benzene-squeezed-to-form-diamond-nanothreads/", 
@@ -221,88 +257,52 @@
             "id": "2hr6uu"
         }, 
         {
-            "num-comments": 3, 
-            "domain": "cbsnews.com", 
-            "score": 16, 
+            "num-comments": 9, 
+            "domain": "ll.mit.edu", 
+            "score": 69, 
             "nsfw": false, 
-            "title": "Net neutrality debate is reaching a key point", 
-            "url": "http://www.cbsnews.com/news/debate-over-net-neutrality-reaching-a-critical-point/", 
-            "author": "TheLinkMobile", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hpidh/net_neutrality_debate_is_reaching_a_key_point/", 
-            "created-utc": 1411922863.0, 
-            "id": "2hpidh"
+            "title": "MIT Research - DRACO - a potential treatment for all viruses from Ebola to the common cold.", 
+            "url": "https://www.ll.mit.edu/news/DRACO.html", 
+            "author": "RoscoeMG", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hs2re/mit_research_draco_a_potential_treatment_for_all/", 
+            "created-utc": 1411990230.0, 
+            "id": "2hs2re"
         }, 
         {
-            "num-comments": 5, 
-            "domain": "latino.foxnews.com", 
-            "score": 14, 
+            "num-comments": 17, 
+            "domain": "dslreports.com", 
+            "score": 52, 
             "nsfw": false, 
-            "title": "Microsoft to Offer Programming Courses to 1 Million Young People in Latin America", 
-            "url": "http://latino.foxnews.com/latino/news/2014/09/24/microsoft-to-offer-programming-courses-to-1-mn-young-people-in-latin-america/", 
-            "author": "peter_bolton", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hptyd/microsoft_to_offer_programming_courses_to_1/", 
-            "created-utc": 1411929815.0, 
-            "id": "2hptyd"
-        }, 
-        {
-            "num-comments": 28, 
-            "domain": "self.technology", 
-            "score": 13, 
-            "nsfw": false, 
-            "title": "If Microsoft no longer supported the .NET framework, what language/framework would be considered the most predominate in software creation for the Windows platform?", 
-            "url": "http://www.reddit.com/r/technology/comments/2hr52l/if_microsoft_no_longer_supported_the_net/", 
-            "author": "CortezVee", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hr52l/if_microsoft_no_longer_supported_the_net/", 
-            "created-utc": 1411958497.0, 
-            "id": "2hr52l"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "okturtles.com", 
-            "score": 11, 
-            "nsfw": false, 
-            "title": "okTurtles: Surveillance-free communication on your favorite websites", 
-            "url": "http://okturtles.com/", 
-            "author": "sigbhu", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hpj29/okturtles_surveillancefree_communication_on_your/", 
-            "created-utc": 1411923290.0, 
-            "id": "2hpj29"
-        }, 
-        {
-            "num-comments": 5, 
-            "domain": "businessinsider.com", 
-            "score": 9, 
-            "nsfw": false, 
-            "title": "Invite-Only, Ad-Free Social Network Is Receiving 38,000 Signups Per Hour", 
-            "url": "http://www.businessinsider.com/how-many-people-are-using-ello-2014-9", 
-            "author": "tux_greyhat", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hqjm5/inviteonly_adfree_social_network_is_receiving/", 
-            "created-utc": 1411945024.0, 
-            "id": "2hqjm5"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "edition.cnn.com", 
-            "score": 8, 
-            "nsfw": false, 
-            "title": "Time for electronics industry to end supply chain slavery", 
-            "url": "http://edition.cnn.com/2014/09/26/opinion/freedom-project-verite-malaysia-supply-chains/index.html?hpt=hp_t5", 
-            "author": "silverwolfer", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hpo47/time_for_electronics_industry_to_end_supply_chain/", 
-            "created-utc": 1411926371.0, 
-            "id": "2hpo47"
+            "title": "AT&amp;T Promo Doubles Data Allotments -- on 15 GB Plans and Up", 
+            "url": "http://www.dslreports.com/shownews/ATT-Promo-Doubles-Data-Allotments-on-15-GB-Plans-and-Up-130636", 
+            "author": "benderunit9000", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hs8ca/att_promo_doubles_data_allotments_on_15_gb_plans/", 
+            "created-utc": 1411995246.0, 
+            "id": "2hs8ca"
         }, 
         {
             "num-comments": 1, 
-            "domain": "sfgate.com", 
-            "score": 10, 
+            "domain": "blog.cloudflare.com", 
+            "score": 37, 
             "nsfw": false, 
-            "title": "For Google shuttle drivers, it\u2019s a grueling ride", 
-            "url": "http://www.sfgate.com/news/article/For-Google-shuttle-drivers-it-s-a-grueling-ride-5785556.php", 
-            "author": "worldcupforlife", 
-            "permalink": "http://www.reddit.com/r/technology/comments/2hp6he/for_google_shuttle_drivers_its_a_grueling_ride/", 
-            "created-utc": 1411914815.0, 
-            "id": "2hp6he"
+            "title": "Cloudflare: Introducing Universal SSL (free SSL encryption for websites)", 
+            "url": "https://blog.cloudflare.com/introducing-universal-ssl/", 
+            "author": "wonkadonk", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hs6cl/cloudflare_introducing_universal_ssl_free_ssl/", 
+            "created-utc": 1411993617.0, 
+            "id": "2hs6cl"
+        }, 
+        {
+            "num-comments": 19, 
+            "domain": "nytimes.com", 
+            "score": 158, 
+            "nsfw": false, 
+            "title": "\u201cWe\u2019re talking about censorship,\u201d Ms. Le Guin wrote... \u201cGovernments use censorship for moral and political ends, justifiable or not. Amazon is using censorship to gain total market control...This is more than unjustifiable, it is intolerable.\u201d", 
+            "url": "http://www.nytimes.com/2014/09/29/business/literary-lions-unite-in-protest-over-amazons-e-book-tactics.html?_r=1", 
+            "author": "milagrojones", 
+            "permalink": "http://www.reddit.com/r/technology/comments/2hsjvy/were_talking_about_censorship_ms_le_guin_wrote/", 
+            "created-utc": 1412002810.0, 
+            "id": "2hsjvy"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/technology/", 

@@ -1,5 +1,5 @@
 {
-    "generated-utc": 1411941723, 
+    "generated-utc": 1412010352, 
     "subreddits": [
         {
             "category": "News", 
@@ -107,7 +107,7 @@
         }, 
         {
             "category": "Knowledge", 
-            "description": "The best forum and archive on the internet for layman-friendly Q&A.*", 
+            "description": "The best forum and archive on the internet for layman-friendly Q&A.", 
             "title": "Explain Like I'm Five | Don't Panic!", 
             "reddit-url": "http://www.reddit.com/r/explainlikeimfive/", 
             "api-url": "http://daily.red/explain-like-i-am-five.json", 

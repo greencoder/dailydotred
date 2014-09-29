@@ -2,12 +2,12 @@
     "category": "Knowledge", 
     "description": "Tips that improve your life in one way or another", 
     "title": "Life Pro Tips", 
-    "generated-utc": 1411999269, 
+    "generated-utc": 1412010305, 
     "posts": [
         {
-            "num-comments": 290, 
+            "num-comments": 421, 
             "domain": "self.LifeProTips", 
-            "score": 2633, 
+            "score": 3112, 
             "nsfw": false, 
             "title": "LPT: Disconnect your center channel speaker to mute the commentary when watching a football game.", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hr6zn/lpt_disconnect_your_center_channel_speaker_to/", 
@@ -17,33 +17,9 @@
             "id": "2hr6zn"
         }, 
         {
-            "num-comments": 178, 
-            "domain": "self.LifeProTips", 
-            "score": 1324, 
-            "nsfw": false, 
-            "title": "LPT Request: Speaking to recruiters at job fairs", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hp44o/lpt_request_speaking_to_recruiters_at_job_fairs/", 
-            "author": "justhereforhides", 
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hp44o/lpt_request_speaking_to_recruiters_at_job_fairs/", 
-            "created-utc": 1411912926.0, 
-            "id": "2hp44o"
-        }, 
-        {
-            "num-comments": 50, 
-            "domain": "self.LifeProTips", 
-            "score": 133, 
-            "nsfw": false, 
-            "title": "LPT: Scratch your balls (and anything else) with a hairbrush", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hqeeh/lpt_scratch_your_balls_and_anything_else_with_a/", 
-            "author": "Disco_Bits", 
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hqeeh/lpt_scratch_your_balls_and_anything_else_with_a/", 
-            "created-utc": 1411941742.0, 
-            "id": "2hqeeh"
-        }, 
-        {
             "num-comments": 32, 
             "domain": "self.LifeProTips", 
-            "score": 108, 
+            "score": 114, 
             "nsfw": false, 
             "title": "LPT Request: How to get the sour milk smell out of a travel mug?", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hpkgc/lpt_request_how_to_get_the_sour_milk_smell_out_of/", 
@@ -53,9 +29,9 @@
             "id": "2hpkgc"
         }, 
         {
-            "num-comments": 17, 
+            "num-comments": 21, 
             "domain": "self.LifeProTips", 
-            "score": 89, 
+            "score": 96, 
             "nsfw": false, 
             "title": "LPT Request: How to respond appropriately when someone is telling you their problems/secrets/serious shit", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hqp6l/lpt_request_how_to_respond_appropriately_when/", 
@@ -77,9 +53,9 @@
             "id": "2hpusq"
         }, 
         {
-            "num-comments": 30, 
+            "num-comments": 33, 
             "domain": "self.LifeProTips", 
-            "score": 32, 
+            "score": 37, 
             "nsfw": false, 
             "title": "[LPT REQUEST] How to get my old dog up and down stairs easily?", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hqrgv/lpt_request_how_to_get_my_old_dog_up_and_down/", 
@@ -89,9 +65,9 @@
             "id": "2hqrgv"
         }, 
         {
-            "num-comments": 17, 
+            "num-comments": 18, 
             "domain": "self.LifeProTips", 
-            "score": 30, 
+            "score": 27, 
             "nsfw": false, 
             "title": "LPT request: how to stop lying(or not lie as much)", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hqfk1/lpt_request_how_to_stop_lyingor_not_lie_as_much/", 
@@ -101,9 +77,9 @@
             "id": "2hqfk1"
         }, 
         {
-            "num-comments": 11, 
+            "num-comments": 12, 
             "domain": "self.LifeProTips", 
-            "score": 24, 
+            "score": 26, 
             "nsfw": false, 
             "title": "LPT Request: Mosquito Repellent that's not citronella", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hqy2d/lpt_request_mosquito_repellent_thats_not/", 
@@ -113,9 +89,9 @@
             "id": "2hqy2d"
         }, 
         {
-            "num-comments": 2, 
+            "num-comments": 3, 
             "domain": "self.LifeProTips", 
-            "score": 19, 
+            "score": 24, 
             "nsfw": false, 
             "title": "LPT: You can easily find mistakes in your essays by having a text to speech program read it back to you", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hrjsc/lpt_you_can_easily_find_mistakes_in_your_essays/", 
@@ -127,7 +103,7 @@
         {
             "num-comments": 11, 
             "domain": "self.LifeProTips", 
-            "score": 14, 
+            "score": 16, 
             "nsfw": false, 
             "title": "LPT: For those in supervisory positions at jobs.", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hq615/lpt_for_those_in_supervisory_positions_at_jobs/", 
@@ -139,7 +115,7 @@
         {
             "num-comments": 11, 
             "domain": "self.LifeProTips", 
-            "score": 12, 
+            "score": 14, 
             "nsfw": false, 
             "title": "LPT request: What to do about my hair shedding in the shower?", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hq0nu/lpt_request_what_to_do_about_my_hair_shedding_in/", 
@@ -149,21 +125,9 @@
             "id": "2hq0nu"
         }, 
         {
-            "num-comments": 18, 
-            "domain": "self.LifeProTips", 
-            "score": 7, 
-            "nsfw": false, 
-            "title": "LPT: Drink hot coffee or tea after eating something really spicy, not milk.", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hrb9b/lpt_drink_hot_coffee_or_tea_after_eating/", 
-            "author": "ATCaver", 
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hrb9b/lpt_drink_hot_coffee_or_tea_after_eating/", 
-            "created-utc": 1411962284.0, 
-            "id": "2hrb9b"
-        }, 
-        {
             "num-comments": 6, 
             "domain": "self.LifeProTips", 
-            "score": 7, 
+            "score": 12, 
             "nsfw": false, 
             "title": "LPT: Don't Fall for the \"Snitch Ticket\" Scam", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hrjgn/lpt_dont_fall_for_the_snitch_ticket_scam/", 
@@ -175,7 +139,7 @@
         {
             "num-comments": 13, 
             "domain": "self.LifeProTips", 
-            "score": 8, 
+            "score": 10, 
             "nsfw": false, 
             "title": "LPT Request: How to remove cat pee smell from the carpet?", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hrd9j/lpt_request_how_to_remove_cat_pee_smell_from_the/", 
@@ -185,9 +149,33 @@
             "id": "2hrd9j"
         }, 
         {
-            "num-comments": 4, 
+            "num-comments": 20, 
             "domain": "self.LifeProTips", 
             "score": 7, 
+            "nsfw": false, 
+            "title": "LPT: Drink hot coffee or tea after eating something really spicy, not milk.", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hrb9b/lpt_drink_hot_coffee_or_tea_after_eating/", 
+            "author": "ATCaver", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hrb9b/lpt_drink_hot_coffee_or_tea_after_eating/", 
+            "created-utc": 1411962284.0, 
+            "id": "2hrb9b"
+        }, 
+        {
+            "num-comments": 18, 
+            "domain": "self.LifeProTips", 
+            "score": 16, 
+            "nsfw": false, 
+            "title": "LPT: If you get a flat tire on a front wheel and have to use the small \"donut\" wheel/tire, move a full-size wheel/tire from the back to the front and use the \"donut\" on the rear.", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hsiet/lpt_if_you_get_a_flat_tire_on_a_front_wheel_and/", 
+            "author": "tn_notahick", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hsiet/lpt_if_you_get_a_flat_tire_on_a_front_wheel_and/", 
+            "created-utc": 1412001850.0, 
+            "id": "2hsiet"
+        }, 
+        {
+            "num-comments": 4, 
+            "domain": "self.LifeProTips", 
+            "score": 6, 
             "nsfw": false, 
             "title": "LPT Request: How to equilibriate the temperature in my apartment", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hq92p/lpt_request_how_to_equilibriate_the_temperature/", 
@@ -197,21 +185,9 @@
             "id": "2hq92p"
         }, 
         {
-            "num-comments": 7, 
+            "num-comments": 30, 
             "domain": "self.LifeProTips", 
-            "score": 4, 
-            "nsfw": false, 
-            "title": "LPT: Use a $1 broom to push snow off your car roof.", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hrhfa/lpt_use_a_1_broom_to_push_snow_off_your_car_roof/", 
-            "author": "rengreen", 
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hrhfa/lpt_use_a_1_broom_to_push_snow_off_your_car_roof/", 
-            "created-utc": 1411966747.0, 
-            "id": "2hrhfa"
-        }, 
-        {
-            "num-comments": 27, 
-            "domain": "self.LifeProTips", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "title": "[LPT Request] How to make a small amount of money quickly ($150-$300) as a 16 year old?", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hr9kn/lpt_request_how_to_make_a_small_amount_of_money/", 
@@ -221,9 +197,33 @@
             "id": "2hr9kn"
         }, 
         {
+            "num-comments": 1, 
+            "domain": "self.LifeProTips", 
+            "score": 4, 
+            "nsfw": false, 
+            "title": "LPT: Affordable Therapy", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hs8wj/lpt_affordable_therapy/", 
+            "author": "ECU_BSN", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hs8wj/lpt_affordable_therapy/", 
+            "created-utc": 1411995697.0, 
+            "id": "2hs8wj"
+        }, 
+        {
             "num-comments": 0, 
             "domain": "self.LifeProTips", 
-            "score": 2, 
+            "score": 3, 
+            "nsfw": false, 
+            "title": "LPT Request: Applying for jobs as a senior in college", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hrhf0/lpt_request_applying_for_jobs_as_a_senior_in/", 
+            "author": "sarobali", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hrhf0/lpt_request_applying_for_jobs_as_a_senior_in/", 
+            "created-utc": 1411966742.0, 
+            "id": "2hrhf0"
+        }, 
+        {
+            "num-comments": 0, 
+            "domain": "self.LifeProTips", 
+            "score": 3, 
             "nsfw": false, 
             "title": "LPT: When not sure if the spell check is working, or not picking up an incorrectly used word, right-click for synonyms to quickly confirm the word.", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hpzgf/lpt_when_not_sure_if_the_spell_check_is_working/", 
@@ -245,33 +245,9 @@
             "id": "2hpuac"
         }, 
         {
-            "num-comments": 1, 
+            "num-comments": 7, 
             "domain": "self.LifeProTips", 
             "score": 2, 
-            "nsfw": false, 
-            "title": "LPT: Affordable Therapy", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hs8wj/lpt_affordable_therapy/", 
-            "author": "ECU_BSN", 
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hs8wj/lpt_affordable_therapy/", 
-            "created-utc": 1411995697.0, 
-            "id": "2hs8wj"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "self.LifeProTips", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "LPT Request: Getting Free WiFi(which we've already paid for) on a Windows 8 laptop and Blackberry Curve", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hs8d7/lpt_request_getting_free_wifiwhich_weve_already/", 
-            "author": "research-Able", 
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hs8d7/lpt_request_getting_free_wifiwhich_weve_already/", 
-            "created-utc": 1411995262.0, 
-            "id": "2hs8d7"
-        }, 
-        {
-            "num-comments": 1, 
-            "domain": "self.LifeProTips", 
-            "score": 3, 
             "nsfw": false, 
             "title": "LPT: When getting honey from a jar, interrupt the stream with your finger so the lip doesn't get sticky.", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hs4l3/lpt_when_getting_honey_from_a_jar_interrupt_the/", 
@@ -283,26 +259,50 @@
         {
             "num-comments": 1, 
             "domain": "self.LifeProTips", 
-            "score": 0, 
+            "score": 1, 
             "nsfw": false, 
-            "title": "LPT Request: I'm an engineer, going to recruit at a career fair. What should I do?", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hrkh9/lpt_request_im_an_engineer_going_to_recruit_at_a/", 
-            "author": "science-man-29", 
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hrkh9/lpt_request_im_an_engineer_going_to_recruit_at_a/", 
-            "created-utc": 1411969286.0, 
-            "id": "2hrkh9"
+            "title": "LPT - Applying to become an exec of a club", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hrgdk/lpt_applying_to_become_an_exec_of_a_club/", 
+            "author": "ChinaBBG", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hrgdk/lpt_applying_to_become_an_exec_of_a_club/", 
+            "created-utc": 1411965931.0, 
+            "id": "2hrgdk"
         }, 
         {
-            "num-comments": 0, 
+            "num-comments": 7, 
             "domain": "self.LifeProTips", 
-            "score": 2, 
+            "score": 0, 
             "nsfw": false, 
-            "title": "LPT Request: Applying for jobs as a senior in college", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hrhf0/lpt_request_applying_for_jobs_as_a_senior_in/", 
-            "author": "sarobali", 
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hrhf0/lpt_request_applying_for_jobs_as_a_senior_in/", 
-            "created-utc": 1411966742.0, 
-            "id": "2hrhf0"
+            "title": "LPT: To fight off insomnia, stay VERY still. Don't toss and turn in bed AT ALL. You'll soon doze off!", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hr3ua/lpt_to_fight_off_insomnia_stay_very_still_dont/", 
+            "author": "canadiantonality", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hr3ua/lpt_to_fight_off_insomnia_stay_very_still_dont/", 
+            "created-utc": 1411957738.0, 
+            "id": "2hr3ua"
+        }, 
+        {
+            "num-comments": 5, 
+            "domain": "self.LifeProTips", 
+            "score": 1, 
+            "nsfw": false, 
+            "title": "LPT REQUEST: What to tell your bank to get them to reverse an overdraft fee.", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hqf0p/lpt_request_what_to_tell_your_bank_to_get_them_to/", 
+            "author": "yeastydishsodelish", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hqf0p/lpt_request_what_to_tell_your_bank_to_get_them_to/", 
+            "created-utc": 1411942142.0, 
+            "id": "2hqf0p"
+        }, 
+        {
+            "num-comments": 7, 
+            "domain": "self.LifeProTips", 
+            "score": 0, 
+            "nsfw": false, 
+            "title": "LPT: Set your bank to automatically withdraw the minimum amount for credit card bills each month.", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hrldg/lpt_set_your_bank_to_automatically_withdraw_the/", 
+            "author": "GeorgeousJames", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hrldg/lpt_set_your_bank_to_automatically_withdraw_the/", 
+            "created-utc": 1411970118.0, 
+            "id": "2hrldg"
         }
     ], 
     "reddit-url": "http://www.reddit.com/r/LifeProTips/", 

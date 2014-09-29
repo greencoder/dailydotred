@@ -6,151 +6,95 @@
   <description>News and discussion of major motion pictures</description>
   <category>Entertainment</category>
   <language>en-us</language>
-  <pubDate>Sun, 28 Sep 2014 22:01:32 -0000</pubDate>
+  <pubDate>Mon, 29 Sep 2014 17:05:21 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/movies.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>I was watching Battleship Potemkin (1925) and noticed that this guy has a nipple on his bicep.</title>
-    <link>http://i.imgur.com/Jnaub4c.jpg</link>
-    <guid>http://www.reddit.com/r/movies/comments/2ho3uq/i_was_watching_battleship_potemkin_1925_and/</guid>
-    <description>BY HAROUTO &#183; POSTED 09/27/14 11:13 PM EST &#183; I.IMGUR.COM &#183; SCORE 3171</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>Sherlock Holmes Baffled(1900) the First Movie to Feature the Character. He matches wits with a teleporting burglar.</title>
-    <link>http://i.imgur.com/5wSRyl6.gif</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hn4tc/sherlock_holmes_baffled1900_the_first_movie_to/</guid>
-    <description>BY ADAMJ1 &#183; POSTED 09/27/14 4:23 PM EST &#183; I.IMGUR.COM &#183; SCORE 323</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>William Shatner Confirms Star Trek 3 Cameo Has Been Offered</title>
-    <link>http://www.comicbookmovie.com/fansites/nailbiter111/news/?a=108339</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hnhqj/william_shatner_confirms_star_trek_3_cameo_has/</guid>
-    <description>BY NAILBITER111 &#183; POSTED 09/27/14 6:44 PM EST &#183; COMICBOOKMOVIE.COM &#183; SCORE 315</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>Westerns That Don't Feature John Wayne or Clint Eastwood.</title>
-    <link>http://imgur.com/gallery/14jol</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hp7lb/westerns_that_dont_feature_john_wayne_or_clint/</guid>
-    <description>BY ELECTRICMASTRO &#183; POSTED 09/28/14 10:47 AM EST &#183; IMGUR.COM &#183; SCORE 839</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>UK Poster for Nightcrawler (2014)</title>
-    <link>http://i.imgur.com/iBzw3pl.jpg</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hog8y/uk_poster_for_nightcrawler_2014/</guid>
-    <description>BY ODNOEN &#183; POSTED 09/28/14 2:12 AM EST &#183; I.IMGUR.COM &#183; SCORE 366</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>Japan's SoftBank is attempting to buy DreamWorks for $3.4bn</title>
-    <link>http://www.reuters.com/article/2014/09/28/us-dreamworks-anim-softbank-idUSKCN0HN03F20140928</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hoywj/japans_softbank_is_attempting_to_buy_dreamworks/</guid>
-    <description>BY KARMATRACKER &#183; POSTED 09/28/14 8:40 AM EST &#183; REUTERS.COM &#183; SCORE 319</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>Caught "THE KINGS OF SUMMER" on HBO this morning and completely loved it</title>
-    <link>http://www.cinemablend.com/reviews/The-Kings-Of-Summer-6426.html</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hn3r3/caught_the_kings_of_summer_on_hbo_this_morning/</guid>
-    <description>BY THEINKANDCODE &#183; POSTED 09/27/14 4:11 PM EST &#183; CINEMABLEND.COM &#183; SCORE 90</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>007: Whats your favorite invention by "Q"?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hoci2/007_whats_your_favorite_invention_by_q/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hoci2/007_whats_your_favorite_invention_by_q/</guid>
-    <description>BY N0TCREATLVE &#183; POSTED 09/28/14 1:11 AM EST &#183; SELF.MOVIES &#183; SCORE 51</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>What was the last movie that blew you away?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hoktq/what_was_the_last_movie_that_blew_you_away/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hoktq/what_was_the_last_movie_that_blew_you_away/</guid>
-    <description>BY HUNTINGPANDAS &#183; POSTED 09/28/14 3:38 AM EST &#183; SELF.MOVIES &#183; SCORE 39</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>Trailer #3 for Disney's Big Hero 6 (2014)</title>
-    <link>http://youtu.be/qXVWIXm2zEE</link>
-    <guid>http://www.reddit.com/r/movies/comments/2howey/trailer_3_for_disneys_big_hero_6_2014/</guid>
-    <description>BY INVISIBLEMIND &#183; POSTED 09/28/14 7:56 AM EST &#183; YOUTU.BE &#183; SCORE 56</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>What movie quote would you use right before you died?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hneps/what_movie_quote_would_you_use_right_before_you/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hneps/what_movie_quote_would_you_use_right_before_you/</guid>
-    <description>BY FORESTGUM41 &#183; POSTED 09/27/14 6:10 PM EST &#183; SELF.MOVIES &#183; SCORE 34</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>What film has the most realistic depiction of a bullet wound?</title>
-    <link>http://www.reddit.com/r/movies/comments/2ho2c5/what_film_has_the_most_realistic_depiction_of_a/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2ho2c5/what_film_has_the_most_realistic_depiction_of_a/</guid>
-    <description>BY BREAKING_SOUND &#183; POSTED 09/27/14 10:53 PM EST &#183; SELF.MOVIES &#183; SCORE 33</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>You're feeling sad. What movie will cheer you up?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hn8lb/youre_feeling_sad_what_movie_will_cheer_you_up/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hn8lb/youre_feeling_sad_what_movie_will_cheer_you_up/</guid>
-    <description>BY OUTHOUSELAUGHTER &#183; POSTED 09/27/14 5:02 PM EST &#183; SELF.MOVIES &#183; SCORE 32</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>What is a good or great movie with notably bad acting? Or, what is a bad movie with notably good acting?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hnv1m/what_is_a_good_or_great_movie_with_notably_bad/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hnv1m/what_is_a_good_or_great_movie_with_notably_bad/</guid>
-    <description>BY JUSTTYPICAL &#183; POSTED 09/27/14 9:22 PM EST &#183; SELF.MOVIES &#183; SCORE 23</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>What are your must watch movies for kids?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hn9o5/what_are_your_must_watch_movies_for_kids/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hn9o5/what_are_your_must_watch_movies_for_kids/</guid>
-    <description>BY PRONGS06 &#183; POSTED 09/27/14 5:13 PM EST &#183; SELF.MOVIES &#183; SCORE 23</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>Comedies you didn't find funny?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hp9q6/comedies_you_didnt_find_funny/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hp9q6/comedies_you_didnt_find_funny/</guid>
-    <description>BY OUTHOUSELAUGHTER &#183; POSTED 09/28/14 11:13 AM EST &#183; SELF.MOVIES &#183; SCORE 29</description>
-    <category>Entertainment</category>
-  </item>
 
   <item>
     <title>New on Netflix instant for October 2014.</title>
     <link>http://www.reddit.com/r/movies/comments/2hpsax/new_on_netflix_instant_for_october_2014/</link>
     <guid>http://www.reddit.com/r/movies/comments/2hpsax/new_on_netflix_instant_for_october_2014/</guid>
-    <description>BY BACON-LAZER &#183; POSTED 09/28/14 2:27 PM EST &#183; SELF.MOVIES &#183; SCORE 303</description>
+    <description>BY BACON-LAZER &#183; POSTED 09/28/14 2:27 PM EST &#183; SELF.MOVIES &#183; SCORE 3539</description>
     <category>Entertainment</category>
   </item>
 
   <item>
-    <title>Does anyone know of some Halloween movies that are intelligent and family/kid friendly? Example: The Halloween Tree (based on Ray Bradbury's story)</title>
-    <link>http://www.reddit.com/r/movies/comments/2hoy7j/does_anyone_know_of_some_halloween_movies_that/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hoy7j/does_anyone_know_of_some_halloween_movies_that/</guid>
-    <description>BY UXL &#183; POSTED 09/28/14 8:28 AM EST &#183; SELF.MOVIES &#183; SCORE 17</description>
+    <title>Woody Allen has literally made a film every year since 1982.</title>
+    <link>http://en.wikipedia.org/wiki/Woody_Allen_filmography</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hpzje/woody_allen_has_literally_made_a_film_every_year/</guid>
+    <description>BY MRDUDE817 &#183; POSTED 09/28/14 3:37 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 2194</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Kevin Smith tweets that Tusk is "gasping for air" at theatres. Considering his significant fan base, how has the film failed at the box office?</title>
+    <link>http://www.reddit.com/r/movies/comments/2hrxn1/kevin_smith_tweets_that_tusk_is_gasping_for_air/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hrxn1/kevin_smith_tweets_that_tusk_is_gasping_for_air/</guid>
+    <description>BY MEGAMOVIECRITIC &#183; POSTED 09/29/14 5:48 AM EST &#183; SELF.MOVIES &#183; SCORE 2410</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Ron Perlman AMA (Hellboy, Drive, Beauty and the Beast, Sons of Anarchy) Sep 30, 2:30pm EDT in R/IAmA</title>
+    <link>http://www.reddit.com/r/movies/comments/2hqq2f/ron_perlman_ama_hellboy_drive_beauty_and_the/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hqq2f/ron_perlman_ama_hellboy_drive_beauty_and_the/</guid>
+    <description>BY THROW10AWAY &#183; POSTED 09/28/14 8:04 PM EST &#183; SELF.MOVIES &#183; SCORE 303</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>David Fincher on meeting to direct EPISODE 7: "I always thought of Star Wars as the story of two slaves (C-3PO/R2-D2) who go from owner to owner, witnessing their masters' folly, the ultimate folly of man. I thought it was an interesting idea in the first two, but it's gone by Return of the Jedi."</title>
+    <link>http://www.comicbookmovie.com/fansites/JoshWildingNewsAndReviews/news/?a=108391</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hs8rz/david_fincher_on_meeting_to_direct_episode_7_i/</guid>
+    <description>BY JOIN_YOU_IN_THE_SUN &#183; POSTED 09/29/14 8:59 AM EST &#183; COMICBOOKMOVIE.COM &#183; SCORE 411</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Cary Elwes AMA (The Princess Bride, Robin Hood: Men in Tights, Saw) Oct 1, 6:30pm in r/IAmA</title>
+    <link>http://www.reddit.com/r/movies/comments/2hqrfk/cary_elwes_ama_the_princess_bride_robin_hood_men/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hqrfk/cary_elwes_ama_the_princess_bride_robin_hood_men/</guid>
+    <description>BY THROW10AWAY &#183; POSTED 09/28/14 8:19 PM EST &#183; SELF.MOVIES &#183; SCORE 82</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>SNL: Chris Pratt Stars in Marvel Trailer Parody</title>
+    <link>http://www.ign.com/articles/2014/09/28/snl-chris-pratt-stars-in-marvel-trailer-parody</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hqc8e/snl_chris_pratt_stars_in_marvel_trailer_parody/</guid>
+    <description>BY EMBRACING_THE_PAIN &#183; POSTED 09/28/14 5:39 PM EST &#183; IGN.COM &#183; SCORE 74</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Top 7 Hans Zimmer Movie Scores</title>
+    <link>http://azmoviechallenge.wordpress.com/2014/06/16/top-7-hans-zimmer-movie-scores/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hrzw6/top_7_hans_zimmer_movie_scores/</guid>
+    <description>BY LOGIEBAIRD &#183; POSTED 09/29/14 6:34 AM EST &#183; AZMOVIECHALLENGE.WORDPRESS.COM &#183; SCORE 79</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Was watching Ice Age and realized something familiar...</title>
+    <link>http://www.reddit.com/r/movies/comments/2hqa9v/was_watching_ice_age_and_realized_something/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hqa9v/was_watching_ice_age_and_realized_something/</guid>
+    <description>BY FOURTOEDCREED &#183; POSTED 09/28/14 5:20 PM EST &#183; SELF.MOVIES &#183; SCORE 70</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>What film do you consider to be the perfect example of "The critics love it, the audience hates it"? And vice-versa?</title>
+    <link>http://www.reddit.com/r/movies/comments/2hq62t/what_film_do_you_consider_to_be_the_perfect/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hq62t/what_film_do_you_consider_to_be_the_perfect/</guid>
+    <description>BY MARTIMNP &#183; POSTED 09/28/14 4:40 PM EST &#183; SELF.MOVIES &#183; SCORE 65</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>First TV spot for 'Birdman'</title>
+    <link>http://youtu.be/2XWvY3kccVo</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hrt6x/first_tv_spot_for_birdman/</guid>
+    <description>BY POWERZJIM &#183; POSTED 09/29/14 4:13 AM EST &#183; YOUTU.BE &#183; SCORE 64</description>
     <category>Entertainment</category>
   </item>
 
@@ -158,15 +102,7 @@
     <title>What was the best film you saw this week? (9/22/14 - 9/28/14)</title>
     <link>http://www.reddit.com/r/movies/comments/2hpk51/what_was_the_best_film_you_saw_this_week_92214/</link>
     <guid>http://www.reddit.com/r/movies/comments/2hpk51/what_was_the_best_film_you_saw_this_week_92214/</guid>
-    <description>BY MI-16EVIL &#183; POSTED 09/28/14 1:05 PM EST &#183; SELF.MOVIES &#183; SCORE 16</description>
-    <category>Entertainment</category>
-  </item>
-
-  <item>
-    <title>What are some movies with unique genre combinations?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hp45u/what_are_some_movies_with_unique_genre/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hp45u/what_are_some_movies_with_unique_genre/</guid>
-    <description>BY MIKEYDALE007 &#183; POSTED 09/28/14 10:02 AM EST &#183; SELF.MOVIES &#183; SCORE 16</description>
+    <description>BY MI-16EVIL &#183; POSTED 09/28/14 1:05 PM EST &#183; SELF.MOVIES &#183; SCORE 53</description>
     <category>Entertainment</category>
   </item>
 
@@ -174,39 +110,103 @@
     <title>What does r/movies think about Spider-Man 2?</title>
     <link>http://www.reddit.com/r/movies/comments/2hphka/what_does_rmovies_think_about_spiderman_2/</link>
     <guid>http://www.reddit.com/r/movies/comments/2hphka/what_does_rmovies_think_about_spiderman_2/</guid>
-    <description>BY BANECANCER &#183; POSTED 09/28/14 12:40 PM EST &#183; SELF.MOVIES &#183; SCORE 13</description>
+    <description>BY BANECANCER &#183; POSTED 09/28/14 12:40 PM EST &#183; SELF.MOVIES &#183; SCORE 35</description>
     <category>Entertainment</category>
   </item>
 
   <item>
-    <title>How do you tell if a movie is badly written and directed well? Or if a movie is badly directed and written well?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hov22/how_do_you_tell_if_a_movie_is_badly_written_and/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hov22/how_do_you_tell_if_a_movie_is_badly_written_and/</guid>
-    <description>BY JLEE69 &#183; POSTED 09/28/14 7:29 AM EST &#183; SELF.MOVIES &#183; SCORE 7</description>
+    <title>What are thoughts on the Zodiac (2007)</title>
+    <link>http://www.reddit.com/r/movies/comments/2hr2lk/what_are_thoughts_on_the_zodiac_2007/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hr2lk/what_are_thoughts_on_the_zodiac_2007/</guid>
+    <description>BY DUCKBUTTER123 &#183; POSTED 09/28/14 10:16 PM EST &#183; SELF.MOVIES &#183; SCORE 34</description>
     <category>Entertainment</category>
   </item>
 
   <item>
-    <title>Do you think Blu-Rays or home video in general will still be produced in five years' time?</title>
-    <link>http://www.reddit.com/r/movies/comments/2hpja0/do_you_think_blurays_or_home_video_in_general/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hpja0/do_you_think_blurays_or_home_video_in_general/</guid>
-    <description>BY IHEARTGINGERWOMEN &#183; POSTED 09/28/14 12:56 PM EST &#183; SELF.MOVIES &#183; SCORE 3</description>
+    <title>I was watching 'Click' (2006) when I realised that the plot was just another take on 'A Christmas Carol'. Can you think of any other movies that are parallels of classic stories?</title>
+    <link>http://www.reddit.com/r/movies/comments/2hrz25/i_was_watching_click_2006_when_i_realised_that/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hrz25/i_was_watching_click_2006_when_i_realised_that/</guid>
+    <description>BY NOT_A_SAIYAN &#183; POSTED 09/29/14 6:16 AM EST &#183; SELF.MOVIES &#183; SCORE 37</description>
     <category>Entertainment</category>
   </item>
 
   <item>
-    <title>Just took a chance on the movie Chef.</title>
-    <link>http://www.reddit.com/r/movies/comments/2ho1ne/just_took_a_chance_on_the_movie_chef/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2ho1ne/just_took_a_chance_on_the_movie_chef/</guid>
-    <description>BY TH0MYI &#183; POSTED 09/27/14 10:44 PM EST &#183; SELF.MOVIES &#183; SCORE 6</description>
+    <title>Do people in America speak in the cinema during a movie like they do in the UK?</title>
+    <link>http://www.reddit.com/r/movies/comments/2hqjvh/do_people_in_america_speak_in_the_cinema_during_a/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hqjvh/do_people_in_america_speak_in_the_cinema_during_a/</guid>
+    <description>BY SOURLEMON1 &#183; POSTED 09/28/14 6:59 PM EST &#183; SELF.MOVIES &#183; SCORE 27</description>
     <category>Entertainment</category>
   </item>
 
   <item>
-    <title>Alright peeps, I'm looking to watch all your favorite war films.</title>
-    <link>http://www.reddit.com/r/movies/comments/2hnndd/alright_peeps_im_looking_to_watch_all_your/</link>
-    <guid>http://www.reddit.com/r/movies/comments/2hnndd/alright_peeps_im_looking_to_watch_all_your/</guid>
-    <description>BY THEHIGHWRITER &#183; POSTED 09/27/14 7:50 PM EST &#183; SELF.MOVIES &#183; SCORE 8</description>
+    <title>Why Denzel Washington May Be the Last Pure Movie Star</title>
+    <link>http://variety.com/2014/film/news/denzel-washington-the-equalizer-movie-star-1201315712/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hrd11/why_denzel_washington_may_be_the_last_pure_movie/</guid>
+    <description>BY MELANISMDOTCOM &#183; POSTED 09/29/14 12:04 AM EST &#183; VARIETY.COM &#183; SCORE 34</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>I'm looking for movies that make you think, leaving you dumbfounded.</title>
+    <link>http://www.reddit.com/r/movies/comments/2hrc7l/im_looking_for_movies_that_make_you_think_leaving/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hrc7l/im_looking_for_movies_that_make_you_think_leaving/</guid>
+    <description>BY VAZURA &#183; POSTED 09/28/14 11:55 PM EST &#183; SELF.MOVIES &#183; SCORE 30</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Are there any movies you disliked watching but enjoyed pondering the next day?</title>
+    <link>http://www.reddit.com/r/movies/comments/2hr35r/are_there_any_movies_you_disliked_watching_but/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hr35r/are_there_any_movies_you_disliked_watching_but/</guid>
+    <description>BY CONTRARIAN1970 &#183; POSTED 09/28/14 10:22 PM EST &#183; SELF.MOVIES &#183; SCORE 28</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>If there's a Rufus style role in the third Bill &amp; Ted film, who would you like to see in it?</title>
+    <link>http://www.reddit.com/r/movies/comments/2hqjye/if_theres_a_rufus_style_role_in_the_third_bill/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hqjye/if_theres_a_rufus_style_role_in_the_third_bill/</guid>
+    <description>BY INTANJIBLE &#183; POSTED 09/28/14 7:00 PM EST &#183; SELF.MOVIES &#183; SCORE 25</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Halloween movies?</title>
+    <link>http://www.reddit.com/r/movies/comments/2hrh8z/halloween_movies/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hrh8z/halloween_movies/</guid>
+    <description>BY SWOLLVERINE &#183; POSTED 09/29/14 12:56 AM EST &#183; SELF.MOVIES &#183; SCORE 21</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Inception Trailer A Capella Re-Dub</title>
+    <link>https://www.youtube.com/watch?v=d2yD4yDsiP4</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hrx05/inception_trailer_a_capella_redub/</guid>
+    <description>BY SHADOWBANNEDGUY1 &#183; POSTED 09/29/14 5:35 AM EST &#183; YOUTUBE.COM &#183; SCORE 23</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Searchable catalogue of all movies on HBO Go, Netflix, Xfinity, Hulu, Amazon Prime, using Rotten Tomatoes - should we add TV?</title>
+    <link>http://www.flixfindr.com/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hq0pe/searchable_catalogue_of_all_movies_on_hbo_go/</guid>
+    <description>BY TIAGSTERS &#183; POSTED 09/28/14 3:49 PM EST &#183; FLIXFINDR.COM &#183; SCORE 17</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>The Master</title>
+    <link>http://www.reddit.com/r/movies/comments/2hqrf7/the_master/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hqrf7/the_master/</guid>
+    <description>BY OLLAKOLLA &#183; POSTED 09/28/14 8:18 PM EST &#183; SELF.MOVIES &#183; SCORE 13</description>
+    <category>Entertainment</category>
+  </item>
+
+  <item>
+    <title>Watched the Roger Ebert documentary "Life Itself" yesterday. Does r/movies wanna have a discussion about it?</title>
+    <link>http://www.reddit.com/r/movies/comments/2hqc3i/watched_the_roger_ebert_documentary_life_itself/</link>
+    <guid>http://www.reddit.com/r/movies/comments/2hqc3i/watched_the_roger_ebert_documentary_life_itself/</guid>
+    <description>BY FOOLISH_OBSERVER &#183; POSTED 09/28/14 5:38 PM EST &#183; SELF.MOVIES &#183; SCORE 13</description>
     <category>Entertainment</category>
   </item>
 
