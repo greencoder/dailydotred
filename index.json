@@ -1,5 +1,5 @@
 {
-    "generated-utc": 1412085730, 
+    "generated-utc": 1412092480, 
     "categories": [
         {
             "subreddits": [
@@ -9,7 +9,8 @@
                     "subreddit": "/r/news/", 
                     "reddit-url": "http://www.reddit.com/r/news/", 
                     "api-url": "http://daily.red/news.json", 
-                    "display-name": "News"
+                    "display-name": "News", 
+                    "order": 0
                 }, 
                 {
                     "description": "A place for major news from around the world, excluding US-internal news", 
@@ -17,7 +18,8 @@
                     "subreddit": "/r/worldnews/", 
                     "reddit-url": "http://www.reddit.com/r/worldnews/", 
                     "api-url": "http://daily.red/world-news.json", 
-                    "display-name": "World News"
+                    "display-name": "World News", 
+                    "order": 1
                 }, 
                 {
                     "description": "The subreddit for opinion, analysis, and discussion of recent events", 
@@ -25,7 +27,8 @@
                     "subreddit": "/r/inthenews/", 
                     "reddit-url": "http://www.reddit.com/r/inthenews/", 
                     "api-url": "http://daily.red/in-the-news.json", 
-                    "display-name": "In the News"
+                    "display-name": "In the News", 
+                    "order": 2
                 }, 
                 {
                     "description": "A place to read and share positive and uplifting, feel good news stories", 
@@ -33,7 +36,8 @@
                     "subreddit": "/r/UpliftingNews/", 
                     "reddit-url": "http://www.reddit.com/r/UpliftingNews/", 
                     "api-url": "http://daily.red/uplifting-news.json", 
-                    "display-name": "Uplifting News"
+                    "display-name": "Uplifting News", 
+                    "order": 3
                 }, 
                 {
                     "description": "News and discussion about economics, from the perspective of economists", 
@@ -41,7 +45,8 @@
                     "subreddit": "/r/Economics/", 
                     "reddit-url": "http://www.reddit.com/r/Economics/", 
                     "api-url": "http://daily.red/economics.json", 
-                    "display-name": "Economics"
+                    "display-name": "Economics", 
+                    "order": 4
                 }, 
                 {
                     "description": "Stories related to weather", 
@@ -49,7 +54,8 @@
                     "subreddit": "/r/weather/", 
                     "reddit-url": "http://www.reddit.com/r/weather/", 
                     "api-url": "http://daily.red/weather.json", 
-                    "display-name": "Weather"
+                    "display-name": "Weather", 
+                    "order": 5
                 }
             ], 
             "order": 0, 
@@ -63,7 +69,8 @@
                     "subreddit": "/r/todayilearned/", 
                     "reddit-url": "http://www.reddit.com/r/todayilearned/", 
                     "api-url": "http://daily.red/today-i-learned.json", 
-                    "display-name": "Today I Learned"
+                    "display-name": "Today I Learned", 
+                    "order": 0
                 }, 
                 {
                     "description": "News stories related to technology", 
@@ -71,7 +78,8 @@
                     "subreddit": "/r/technology/", 
                     "reddit-url": "http://www.reddit.com/r/technology/", 
                     "api-url": "http://daily.red/technology.json", 
-                    "display-name": "Technology"
+                    "display-name": "Technology", 
+                    "order": 1
                 }, 
                 {
                     "description": "The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences.", 
@@ -79,7 +87,8 @@
                     "subreddit": "/r/science/", 
                     "reddit-url": "http://www.reddit.com/r/science/", 
                     "api-url": "http://daily.red/science.json", 
-                    "display-name": "Science"
+                    "display-name": "Science", 
+                    "order": 2
                 }, 
                 {
                     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
@@ -87,7 +96,8 @@
                     "subreddit": "/r/history/", 
                     "reddit-url": "http://www.reddit.com/r/history/", 
                     "api-url": "http://daily.red/history.json", 
-                    "display-name": "History"
+                    "display-name": "History", 
+                    "order": 3
                 }, 
                 {
                     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
@@ -95,7 +105,8 @@
                     "subreddit": "/r/Foodforthought/", 
                     "reddit-url": "http://www.reddit.com/r/Foodforthought/", 
                     "api-url": "http://daily.red/food-for-thought.json", 
-                    "display-name": "Food for Thought"
+                    "display-name": "Food for Thought", 
+                    "order": 4
                 }, 
                 {
                     "description": "Ask a science question, get a science answer", 
@@ -103,7 +114,8 @@
                     "subreddit": "/r/askscience/", 
                     "reddit-url": "http://www.reddit.com/r/askscience/", 
                     "api-url": "http://daily.red/ask-science.json", 
-                    "display-name": "Ask Science"
+                    "display-name": "Ask Science", 
+                    "order": 5
                 }, 
                 {
                     "description": "Tips that improve your life in one way or another", 
@@ -111,7 +123,8 @@
                     "subreddit": "/r/LifeProTips/", 
                     "reddit-url": "http://www.reddit.com/r/LifeProTips/", 
                     "api-url": "http://daily.red/life-pro-tips.json", 
-                    "display-name": "Life Pro Tips"
+                    "display-name": "Life Pro Tips", 
+                    "order": 6
                 }, 
                 {
                     "description": "The best forum and archive on the internet for layman-friendly Q&A.", 
@@ -119,7 +132,8 @@
                     "subreddit": "/r/explainlikeimfive/", 
                     "reddit-url": "http://www.reddit.com/r/explainlikeimfive/", 
                     "api-url": "http://daily.red/explain-like-i-am-five.json", 
-                    "display-name": "Explain Like I'm Five"
+                    "display-name": "Explain Like I'm Five", 
+                    "order": 7
                 }
             ], 
             "order": 1, 
@@ -133,7 +147,8 @@
                     "subreddit": "/r/television/", 
                     "reddit-url": "http://www.reddit.com/r/television/", 
                     "api-url": "http://daily.red/television.json", 
-                    "display-name": "Television"
+                    "display-name": "Television", 
+                    "order": 0
                 }, 
                 {
                     "description": "News and discussion of major motion pictures", 
@@ -141,7 +156,8 @@
                     "subreddit": "/r/movies/", 
                     "reddit-url": "http://www.reddit.com/r/movies/", 
                     "api-url": "http://daily.red/movies.json", 
-                    "display-name": "Movies"
+                    "display-name": "Movies", 
+                    "order": 1
                 }, 
                 {
                     "description": "The musical community of reddit", 
@@ -149,7 +165,8 @@
                     "subreddit": "/r/Music/", 
                     "reddit-url": "http://www.reddit.com/r/Music/", 
                     "api-url": "http://daily.red/music.json", 
-                    "display-name": "Music"
+                    "display-name": "Music", 
+                    "order": 2
                 }, 
                 {
                     "description": "A subreddit for (almost) anything related to games - video games, board games, card games, etc.", 
@@ -157,7 +174,8 @@
                     "subreddit": "/r/gaming/", 
                     "reddit-url": "http://www.reddit.com/r/gaming/", 
                     "api-url": "http://daily.red/gaming.json", 
-                    "display-name": "Gaming"
+                    "display-name": "Gaming", 
+                    "order": 3
                 }
             ], 
             "order": 2, 
@@ -171,7 +189,8 @@
                     "subreddit": "/r/funny/", 
                     "reddit-url": "http://www.reddit.com/r/funny/", 
                     "api-url": "http://daily.red/funny.json", 
-                    "display-name": "Funny"
+                    "display-name": "Funny", 
+                    "order": 0
                 }, 
                 {
                     "description": "Humor is the place for things that bring a wry smile to your face", 
@@ -179,7 +198,8 @@
                     "subreddit": "/r/humor/", 
                     "reddit-url": "http://www.reddit.com/r/humor/", 
                     "api-url": "http://daily.red/humor.json", 
-                    "display-name": "Humor"
+                    "display-name": "Humor", 
+                    "order": 0
                 }, 
                 {
                     "description": "Things that make you say \"What the F*ck\"", 
@@ -187,7 +207,8 @@
                     "subreddit": "/r/WTF/", 
                     "reddit-url": "http://www.reddit.com/r/WTF/", 
                     "api-url": "http://daily.red/wtf.json", 
-                    "display-name": "WTF"
+                    "display-name": "WTF", 
+                    "order": 0
                 }, 
                 {
                     "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
@@ -195,7 +216,8 @@
                     "subreddit": "/r/NewsOfTheStupid/", 
                     "reddit-url": "http://www.reddit.com/r/NewsOfTheStupid/", 
                     "api-url": "http://daily.red/news-of-the-stupid.json", 
-                    "display-name": "News of the Stupid"
+                    "display-name": "News of the Stupid", 
+                    "order": 0
                 }, 
                 {
                     "description": "A subreddit to share anything that goes on in your head while in the shower", 
@@ -203,7 +225,8 @@
                     "subreddit": "/r/Showerthoughts/", 
                     "reddit-url": "http://www.reddit.com/r/Showerthoughts/", 
                     "api-url": "http://daily.red/shower-thoughts.json", 
-                    "display-name": "Shower Thoughts"
+                    "display-name": "Shower Thoughts", 
+                    "order": 0
                 }
             ], 
             "order": 3, 
