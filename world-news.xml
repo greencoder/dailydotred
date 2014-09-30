@@ -6,23 +6,23 @@
   <description>A place for major news from around the world, excluding US-internal news</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Tue, 30 Sep 2014 14:00:18 -0000</pubDate>
+  <pubDate>Tue, 30 Sep 2014 22:00:18 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/world-news.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>Iraq Kurds attack ISIS jihadists, retake villages</title>
+    <link>http://english.al-akhbar.com/content/iraq-kurds-attack-isis-jihadists-retake-villages</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvivg/iraq_kurds_attack_isis_jihadists_retake_villages/</guid>
+    <description>BY SYRIANCIVILWAR2 &#183; POSTED 09/30/14 5:31 AM EST &#183; ENGLISH.AL-AKHBAR.COM &#183; SCORE 4462</description>
+    <category></category>
+  </item>
 
   <item>
     <title>Earth lost 50% of its wildlife in the past 40 years, says WWF | Species across land, rivers and seas decimated as humans kill for food in unsustainable numbers and destroy habitats</title>
     <link>http://www.theguardian.com/environment/2014/sep/29/earth-lost-50-wildlife-in-40-years-wwf</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hu4fa/earth_lost_50_of_its_wildlife_in_the_past_40/</guid>
-    <description>BY KULKKE &#183; POSTED 09/29/14 7:17 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 4022</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Obama: 'They Don't Call Moscow' When There's Trouble In The World</title>
-    <link>http://finance.yahoo.com/news/obama-dont-call-moscow-theres-234603911.html</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hsgyo/obama_they_dont_call_moscow_when_theres_trouble/</guid>
-    <description>BY TROT-TROT &#183; POSTED 09/29/14 10:28 AM EST &#183; FINANCE.YAHOO.COM &#183; SCORE 3636</description>
+    <description>BY KULKKE &#183; POSTED 09/29/14 7:17 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 4005</description>
     <category></category>
   </item>
 
@@ -30,7 +30,15 @@
     <title>MH370 search reveals vast underwater world with huge volcanoes and ridges deeper than the Grand Canyon</title>
     <link>http://news.nationalpost.com/2014/09/29/mh370-search-reveals-vast-underwater-world-with-huge-volcanoes-and-ridges-deeper-than-the-grand-canyon/</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hto0b/mh370_search_reveals_vast_underwater_world_with/</guid>
-    <description>BY KENTUCKYFRIEDCHOCOBO &#183; POSTED 09/29/14 4:53 PM EST &#183; NEWS.NATIONALPOST.COM &#183; SCORE 2349</description>
+    <description>BY KENTUCKYFRIEDCHOCOBO &#183; POSTED 09/29/14 4:53 PM EST &#183; NEWS.NATIONALPOST.COM &#183; SCORE 2655</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>"Extremists" will have to get posts on Facebook and Twitter approved in advance by the police under sweeping rules planned by the UK Conservatives. They will also be barred from speaking at public events if they represent a threat to "the functioning of democracy"</title>
+    <link>http://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/11129474/Extremists-to-have-Facebook-and-Twitter-vetted-by-anti-terror-police.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvqh9/extremists_will_have_to_get_posts_on_facebook_and/</guid>
+    <description>BY EMILY_AMERICANA &#183; POSTED 09/30/14 7:44 AM EST &#183; TELEGRAPH.CO.UK &#183; SCORE 3343</description>
     <category></category>
   </item>
 
@@ -38,15 +46,15 @@
     <title>White House Changes Neutral Position on Hong Kong, Supports the Hong Kong Vote</title>
     <link>http://thespeaker.co/white-house-changes-neutral-position-hong-kong-supports-hong-kong-vote/</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2htzh3/white_house_changes_neutral_position_on_hong_kong/</guid>
-    <description>BY LAKBURG &#183; POSTED 09/29/14 6:32 PM EST &#183; THESPEAKER.CO &#183; SCORE 1711</description>
+    <description>BY LAKBURG &#183; POSTED 09/29/14 6:32 PM EST &#183; THESPEAKER.CO &#183; SCORE 2090</description>
     <category></category>
   </item>
 
   <item>
-    <title>Facebook Will Sell Users' Data to Serve Ads on Sites Across the Web</title>
-    <link>http://www.nbcnews.com/tech/social-media/facebook-will-sell-users-data-serve-ads-sites-across-web-n214026</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hsw32/facebook_will_sell_users_data_to_serve_ads_on/</guid>
-    <description>BY KEERIKKADAN91 &#183; POSTED 09/29/14 12:59 PM EST &#183; NBCNEWS.COM &#183; SCORE 1526</description>
+    <title>Sister of slain scientist says Iran killed him because he would not agree to help weaponize peaceful nuclear activities.</title>
+    <link>http://www.jpost.com/Middle-East/Iranian-nuclear-physicist-killed-by-Revolutionary-Guard-not-Israel-relative-claims-376656</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvomd/sister_of_slain_scientist_says_iran_killed_him/</guid>
+    <description>BY MIKLEDET &#183; POSTED 09/30/14 7:14 AM EST &#183; JPOST.COM &#183; SCORE 2328</description>
     <category></category>
   </item>
 
@@ -54,135 +62,7 @@
     <title>Hong Kong Protesters Connect Without Cell or Wi-Fi Networks: Pro-Democracy Protesters Are Downloading a Fast-Growing App Called FireChat to Stay in Touch</title>
     <link>http://www.npr.org/blogs/alltechconsidered/2014/09/29/352476454/how-hong-kong-protesters-are-connecting-without-cell-or-wi-fi-networks</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2htojc/hong_kong_protesters_connect_without_cell_or_wifi/</guid>
-    <description>BY ROSWELLSPACEMAN &#183; POSTED 09/29/14 4:58 PM EST &#183; NPR.ORG &#183; SCORE 1360</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Philippines 'breaks world tree-planting record'</title>
-    <link>http://news.yahoo.com/philippines-breaks-world-tree-planting-record-190103229.html;_ylt=AwrBJSB9FSdU0ggAbSnQtDMD</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hs9gb/philippines_breaks_world_treeplanting_record/</guid>
-    <description>BY ALEX1718 &#183; POSTED 09/29/14 9:08 AM EST &#183; NEWS.YAHOO.COM &#183; SCORE 873</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Apple faces billions in fines in tax avoidance probe</title>
-    <link>http://www.cnet.com/news/apple-faces-billions-in-fines-in-tax-avoidance-probe/</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2huiu7/apple_faces_billions_in_fines_in_tax_avoidance/</guid>
-    <description>BY ROGNIS &#183; POSTED 09/29/14 9:35 PM EST &#183; CNET.COM &#183; SCORE 955</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Drug use will spread if religion classes are not required, says Turkish President Erdoğan</title>
-    <link>http://www.todayszaman.com/national_drug-use-will-spread-if-religion-classes-not-required-says-erdogan_360188.html</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2ht3g6/drug_use_will_spread_if_religion_classes_are_not/</guid>
-    <description>BY HAMARTOLUS &#183; POSTED 09/29/14 2:00 PM EST &#183; TODAYSZAMAN.COM &#183; SCORE 469</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Canadian Minister of Citizenship and Immigration, Chris Alexander, has asked Pakistan to stop supporting insurgency, stating that there were no doubts of Pakistan being a terrorist safe-haven.</title>
-    <link>http://nation.com.pk/national/29-Sep-2014/canadian-minister-blames-pakistan-for-supporting-insurgency-having-safe-havens-for-terrorists</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hssx9/canadian_minister_of_citizenship_and_immigration/</guid>
-    <description>BY IONISED &#183; POSTED 09/29/14 12:30 PM EST &#183; NATION.COM.PK &#183; SCORE 359</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Iran executes man for heresy</title>
-    <link>http://www.theguardian.com/world/2014/sep/29/iran-executes-man-heresy-mohsen-amir-aslani</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2ht3sb/iran_executes_man_for_heresy/</guid>
-    <description>BY STATELESSNFAITHLESS &#183; POSTED 09/29/14 2:03 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 315</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>World's fourth largest sea dried up completely: NASA</title>
-    <link>http://www.sakaaltimes.com/NewsDetails.aspx?NewsId=4814790018574518917&amp;SectionId=4849332182566684055&amp;SectionName=World&amp;NewsDate=20140930&amp;NewsTitle=World%27s+fourth+largest+sea+dried+up+completely%3A+NASA</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hvc3l/worlds_fourth_largest_sea_dried_up_completely_nasa/</guid>
-    <description>BY ZEESUSKREIST &#183; POSTED 09/30/14 3:18 AM EST &#183; SAKAALTIMES.COM &#183; SCORE 556</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Iran set to execute Rayhaneh Jabbari, woman charged in killing attempted rapist</title>
-    <link>http://www.lisadaftari.com/iran-set-execute-rayhaneh-jabbari-woman-charged-killing-attempted-rapist/</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hsdt4/iran_set_to_execute_rayhaneh_jabbari_woman/</guid>
-    <description>BY EINFAL &#183; POSTED 09/29/14 9:56 AM EST &#183; LISADAFTARI.COM &#183; SCORE 270</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Mining firm Vale sets up beehives housing 350,000 on a remediation site in Copper Cliff, Ontario, in order to promote pollination and accelerate the re-vegetation process. They have also pledged to plant 3.3 million trees around the Sudbury area.</title>
-    <link>http://www.bbc.com/news/blogs-news-from-elsewhere-29411507</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hsut6/mining_firm_vale_sets_up_beehives_housing_350000/</guid>
-    <description>BY VRANAK &#183; POSTED 09/29/14 12:48 PM EST &#183; BBC.COM &#183; SCORE 274</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Isis an hour away from Baghdad - with no sign of Iraq army being able to make a successful counter-attack - and US air strikes are making little difference</title>
-    <link>http://www.independent.co.uk/news/world/middle-east/isis-an-hour-away-from-baghdad--with-no-sign-of-iraq-army-being-able-to-make-a-successful-counterattack-9763658.html</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hv5ae/isis_an_hour_away_from_baghdad_with_no_sign_of/</guid>
-    <description>BY MAXWELLHILL &#183; POSTED 09/30/14 1:32 AM EST &#183; INDEPENDENT.CO.UK &#183; SCORE 358</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>At U.N., Iceland Announces Men-Only Conference On Gender Equality</title>
-    <link>http://www.npr.org/blogs/thetwo-way/2014/09/29/352541250/at-u-n-iceland-announces-men-only-conference-on-gender-equality?utm_source=twitter.com&amp;utm_campaign=npr&amp;utm_medium=social&amp;utm_term=nprnews</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2htn45/at_un_iceland_announces_menonly_conference_on/</guid>
-    <description>BY ROSWELLSPACEMAN &#183; POSTED 09/29/14 4:46 PM EST &#183; NPR.ORG &#183; SCORE 207</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>High profile Ottawa police officer commits suicide at Police headquarters.</title>
-    <link>http://ottawa.ctvnews.ca/high-profile-ottawa-police-officer-takes-own-life-at-elgin-st-headquarters-1.2028573</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hu12a/high_profile_ottawa_police_officer_commits/</guid>
-    <description>BY SCHMIDTZY &#183; POSTED 09/29/14 6:46 PM EST &#183; OTTAWA.CTVNEWS.CA &#183; SCORE 180</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Iraq Kurds attack ISIS jihadists, retake villages</title>
-    <link>http://english.al-akhbar.com/content/iraq-kurds-attack-isis-jihadists-retake-villages</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hvivg/iraq_kurds_attack_isis_jihadists_retake_villages/</guid>
-    <description>BY SYRIANCIVILWAR2 &#183; POSTED 09/30/14 5:31 AM EST &#183; ENGLISH.AL-AKHBAR.COM &#183; SCORE 782</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Global Survey: We're Eating Better, But Our Diet is Unsustainable - More people eating local &amp; organic foods, but it's not enough. India, ranking 1st in food sustainability, came out far ahead, thanks to its cultural eating habits. Nearly 1 in 4 Indians is a vegetarian.</title>
-    <link>http://news.nationalgeographic.com/news/2014/09/140929-greendex-survey-environmental-attitudes-ngfood/</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hvk6b/global_survey_were_eating_better_but_our_diet_is/</guid>
-    <description>BY ANUTENSIL &#183; POSTED 09/30/14 5:56 AM EST &#183; NEWS.NATIONALGEOGRAPHIC.COM &#183; SCORE 363</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Iraqi comedy show mocks Islamic State propaganda - Telegraph</title>
-    <link>http://www.telegraph.co.uk/news/worldnews/middleeast/iraq/11127711/Iraqi-comedy-show-mocks-Islamic-State-propaganda.html</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hsj6l/iraqi_comedy_show_mocks_islamic_state_propaganda/</guid>
-    <description>BY SIXY11 &#183; POSTED 09/29/14 10:52 AM EST &#183; TELEGRAPH.CO.UK &#183; SCORE 119</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>KFC leaves Muslims baffled after branch drops alcohol hand-wipes in halal mix-up - Finger-licking farce as customers at KFC branch refused alcohol-based hand wipes in case they offended Muslims</title>
-    <link>http://www.telegraph.co.uk/news/religion/11128246/KFC-leaves-Muslims-baffled-after-branch-drops-alcohol-hand-wipes-in-halal-mix-up.html</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hsp8c/kfc_leaves_muslims_baffled_after_branch_drops/</guid>
-    <description>BY -DAMIEN- &#183; POSTED 09/29/14 11:53 AM EST &#183; TELEGRAPH.CO.UK &#183; SCORE 122</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Hong Kong: Fake Occupy Central app targets activists’ smartphones with spyware -- Suspicious behaviour by the application included recording audio and obtaining the location of the device. "It's a malware with spy behaviour"</title>
-    <link>http://www.scmp.com/news/hong-kong/article/1594667/fake-occupy-central-app-targets-activists-smartphones</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2huir3/hong_kong_fake_occupy_central_app_targets/</guid>
-    <description>BY MEPPER &#183; POSTED 09/29/14 9:34 PM EST &#183; SCMP.COM &#183; SCORE 137</description>
+    <description>BY ROSWELLSPACEMAN &#183; POSTED 09/29/14 4:58 PM EST &#183; NPR.ORG &#183; SCORE 1630</description>
     <category></category>
   </item>
 
@@ -190,23 +70,143 @@
     <title>UK spends $20bn a Year on drugs and prostitutes</title>
     <link>http://www.businessinsider.com/revised-british-household-spending-figures-2014-9</link>
     <guid>http://www.reddit.com/r/worldnews/comments/2hvlhd/uk_spends_20bn_a_year_on_drugs_and_prostitutes/</guid>
-    <description>BY IRISHMIKE23 &#183; POSTED 09/30/14 6:20 AM EST &#183; BUSINESSINSIDER.COM &#183; SCORE 330</description>
+    <description>BY IRISHMIKE23 &#183; POSTED 09/30/14 6:20 AM EST &#183; BUSINESSINSIDER.COM &#183; SCORE 2105</description>
     <category></category>
   </item>
 
   <item>
-    <title>ISIS fighters are reportedly one mile from Baghdad</title>
-    <link>http://www.thegatewaypundit.com/2014/09/breaking-isis-closes-in-on-baghdad-islamists-one-mile-from-iraqi-capital/</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hsqyo/isis_fighters_are_reportedly_one_mile_from_baghdad/</guid>
-    <description>BY UMUTK &#183; POSTED 09/29/14 12:10 PM EST &#183; THEGATEWAYPUNDIT.COM &#183; SCORE 81</description>
+    <title>Apple faces billions in fines in tax avoidance probe</title>
+    <link>http://www.cnet.com/news/apple-faces-billions-in-fines-in-tax-avoidance-probe/</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2huiu7/apple_faces_billions_in_fines_in_tax_avoidance/</guid>
+    <description>BY ROGNIS &#183; POSTED 09/29/14 9:35 PM EST &#183; CNET.COM &#183; SCORE 1592</description>
     <category></category>
   </item>
 
   <item>
-    <title>Rapist murderer of 13 year old girl on Thai train gets death sentence</title>
-    <link>http://englishnews.thaipbs.or.th/rapist-murderer-southern-train-gets-death-sentence/</link>
-    <guid>http://www.reddit.com/r/worldnews/comments/2hvbkc/rapist_murderer_of_13_year_old_girl_on_thai_train/</guid>
-    <description>BY STICKBOYBANGKOK &#183; POSTED 09/30/14 3:09 AM EST &#183; ENGLISHNEWS.THAIPBS.OR.TH &#183; SCORE 126</description>
+    <title>World's fourth largest sea dried up completely: NASA</title>
+    <link>http://www.sakaaltimes.com/NewsDetails.aspx?NewsId=4814790018574518917&amp;SectionId=4849332182566684055&amp;SectionName=World&amp;NewsDate=20140930&amp;NewsTitle=World%27s+fourth+largest+sea+dried+up+completely%3A+NASA</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvc3l/worlds_fourth_largest_sea_dried_up_completely_nasa/</guid>
+    <description>BY ZEESUSKREIST &#183; POSTED 09/30/14 3:18 AM EST &#183; SAKAALTIMES.COM &#183; SCORE 1640</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Global Survey: We're Eating Better, But Our Diet is Unsustainable - More people eating local &amp; organic foods, but it's not enough. India, ranking 1st in food sustainability, came out far ahead, thanks to its cultural eating habits. Nearly 1 in 4 Indians is a vegetarian.</title>
+    <link>http://news.nationalgeographic.com/news/2014/09/140929-greendex-survey-environmental-attitudes-ngfood/</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvk6b/global_survey_were_eating_better_but_our_diet_is/</guid>
+    <description>BY ANUTENSIL &#183; POSTED 09/30/14 5:56 AM EST &#183; NEWS.NATIONALGEOGRAPHIC.COM &#183; SCORE 1589</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>ISIS has reportedly surrounded the Turkish territory in Syria the Tomb of Suleyman Shah. 36 Turkish soldiers are reportedly located at the tomb where they defend the territory.</title>
+    <link>http://www.aydinlikdaily.com/Detail/ISIS-Surrounds-Tomb-Of-Suleymen-Shah/4625#.VCqgofl_s0w</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvt8m/isis_has_reportedly_surrounded_the_turkish/</guid>
+    <description>BY ZNAUK &#183; POSTED 09/30/14 8:25 AM EST &#183; AYDINLIKDAILY.COM &#183; SCORE 1495</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Indian Spacecraft Snaps Spectacular Portrait of Mars (Photo)</title>
+    <link>http://www.space.com/27291-indian-spacecraft-mars-portrait-photo.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvlm1/indian_spacecraft_snaps_spectacular_portrait_of/</guid>
+    <description>BY ALEX1718 &#183; POSTED 09/30/14 6:22 AM EST &#183; SPACE.COM &#183; SCORE 956</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Isis an hour away from Baghdad - with no sign of Iraq army being able to make a successful counter-attack - and US air strikes are making little difference</title>
+    <link>http://www.independent.co.uk/news/world/middle-east/isis-an-hour-away-from-baghdad--with-no-sign-of-iraq-army-being-able-to-make-a-successful-counterattack-9763658.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hv5ae/isis_an_hour_away_from_baghdad_with_no_sign_of/</guid>
+    <description>BY MAXWELLHILL &#183; POSTED 09/30/14 1:32 AM EST &#183; INDEPENDENT.CO.UK &#183; SCORE 805</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>India to join US-led anti-ISIS war</title>
+    <link>http://zeenews.india.com/news/narendra-modi-in-us/india-to-join-us-led-anti-isis-war-subramanian-swamy_1477900.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvvnp/india_to_join_usled_antiisis_war/</guid>
+    <description>BY BSDNOOB &#183; POSTED 09/30/14 8:56 AM EST &#183; ZEENEWS.INDIA.COM &#183; SCORE 1161</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Garry Kasparov: Putin is 'the most dangerous man' in the world and a bigger threat to the U.S. than the Islamic State</title>
+    <link>http://news.yahoo.com/bianna-golodryga-interviews-garry-kasparov-093317385.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvsbx/garry_kasparov_putin_is_the_most_dangerous_man_in/</guid>
+    <description>BY XANADU_RESIDENT &#183; POSTED 09/30/14 8:12 AM EST &#183; NEWS.YAHOO.COM &#183; SCORE 836</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Indian Prime Minister ends Central Park speech with “I salute you… may the Force be with you.”</title>
+    <link>http://indianexpress.com/article/india/india-others/pm-narendra-modi-calls-for-world-peace-at-global-citizen-festival-in-ny/</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvtc6/indian_prime_minister_ends_central_park_speech/</guid>
+    <description>BY LENSIERO &#183; POSTED 09/30/14 8:26 AM EST &#183; INDIANEXPRESS.COM &#183; SCORE 781</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Russian TV presents pictures from MH17 as mass graves of civilians killed by retreating Ukrainian troops</title>
+    <link>http://www.bbc.co.uk/monitoring/russian-tv-uses-crash-pictures-in-mass-grave-report</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvs8u/russian_tv_presents_pictures_from_mh17_as_mass/</guid>
+    <description>BY KABAV &#183; POSTED 09/30/14 8:11 AM EST &#183; BBC.CO.UK &#183; SCORE 583</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>At U.N., Iceland Announces Men-Only Conference On Gender Equality</title>
+    <link>http://www.npr.org/blogs/thetwo-way/2014/09/29/352541250/at-u-n-iceland-announces-men-only-conference-on-gender-equality?utm_source=twitter.com&amp;utm_campaign=npr&amp;utm_medium=social&amp;utm_term=nprnews</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2htn45/at_un_iceland_announces_menonly_conference_on/</guid>
+    <description>BY ROSWELLSPACEMAN &#183; POSTED 09/29/14 4:46 PM EST &#183; NPR.ORG &#183; SCORE 217</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Canada Demands Google, Netflix Data, Sets Deadline - Broadcast regulator on Monday gave American companies Google &amp; Netflix 3-day deadline to turn over subscriber data or have their testimony expunged from a major public hearing.</title>
+    <link>http://phys.org/news/2014-09-canada-demands-google-netflix-deadline.html</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvl7v/canada_demands_google_netflix_data_sets_deadline/</guid>
+    <description>BY ANUTENSIL &#183; POSTED 09/30/14 6:15 AM EST &#183; PHYS.ORG &#183; SCORE 300</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>High profile Ottawa police officer commits suicide at Police headquarters.</title>
+    <link>http://ottawa.ctvnews.ca/high-profile-ottawa-police-officer-takes-own-life-at-elgin-st-headquarters-1.2028573</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hu12a/high_profile_ottawa_police_officer_commits/</guid>
+    <description>BY SCHMIDTZY &#183; POSTED 09/29/14 6:46 PM EST &#183; OTTAWA.CTVNEWS.CA &#183; SCORE 204</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Hong Kong: Fake Occupy Central app targets activists’ smartphones with spyware -- Suspicious behaviour by the application included recording audio and obtaining the location of the device. "It's a malware with spy behaviour"</title>
+    <link>http://www.scmp.com/news/hong-kong/article/1594667/fake-occupy-central-app-targets-activists-smartphones</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2huir3/hong_kong_fake_occupy_central_app_targets/</guid>
+    <description>BY MEPPER &#183; POSTED 09/29/14 9:34 PM EST &#183; SCMP.COM &#183; SCORE 212</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Cost of U.S. campaign against the Islamic State likely closing in on $1 billion</title>
+    <link>http://www.washingtonpost.com/news/checkpoint/wp/2014/09/29/cost-of-u-s-campaign-against-the-islamic-state-closing-in-on-1-billion/?tid=hpModule_04941f10-8a79-11e2-98d9-3012c1cd8d1e</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvmbd/cost_of_us_campaign_against_the_islamic_state/</guid>
+    <description>BY XANADU_RESIDENT &#183; POSTED 09/30/14 6:35 AM EST &#183; WASHINGTONPOST.COM &#183; SCORE 260</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Chinese embassy in Australia warns of 'wider implications' over ABC report on Xinjiang conflict</title>
+    <link>http://www.abc.net.au/news/2014-09-30/abc-warned-of-wider-implications-from-china-story/5779218</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvayn/chinese_embassy_in_australia_warns_of_wider/</guid>
+    <description>BY THEBANON &#183; POSTED 09/30/14 3:00 AM EST &#183; ABC.NET.AU &#183; SCORE 190</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Brazil's Silent Abortion Dilemma - The risks faced by Brazilian women seeking an abortion has been highlighted by the brutal death of a 27-year-old woman. It's only legal under the most exceptional circumstances in Brazil - a traditionally Catholic country. Yet 1 in 5 have an abortion by age 40.</title>
+    <link>http://www.bbc.com/news/world-latin-america-29421911</link>
+    <guid>http://www.reddit.com/r/worldnews/comments/2hvnjb/brazils_silent_abortion_dilemma_the_risks_faced/</guid>
+    <description>BY ANUTENSIL &#183; POSTED 09/30/14 6:57 AM EST &#183; BBC.COM &#183; SCORE 221</description>
     <category></category>
   </item>
 

@@ -1,59 +1,36 @@
 {
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
-    "generated-utc": 1412085715, 
+    "generated-utc": 1412114503, 
     "posts": [
         {
-            "num-comments": 13, 
-            "domain": "the-toast.net", 
-            "score": 265, 
-            "nsfw": false, 
-            "title": "Ayn Rand's Buffy The Vampire Slayer", 
-            "url": "http://the-toast.net/2014/09/26/ayn-rands-buffy-vampire-slayer/", 
-            "author": "lifestyled", 
             "permalink": "http://www.reddit.com/r/humor/comments/2htdvq/ayn_rands_buffy_the_vampire_slayer/", 
-            "created-utc": 1412018972.0, 
-            "id": "2htdvq"
-        }, 
-        {
-            "num-comments": 4, 
-            "domain": "unsolicited.consulting", 
-            "score": 111, 
-            "nsfw": false, 
-            "title": "Startup Flakes - You know owning a business is work, right?", 
-            "url": "http://unsolicited.consulting/article/startup-flakes", 
-            "author": "5trokerac3", 
-            "permalink": "http://www.reddit.com/r/humor/comments/2hsai7/startup_flakes_you_know_owning_a_business_is_work/", 
-            "created-utc": 1411996860.0, 
-            "id": "2hsai7"
-        }, 
-        {
-            "num-comments": 6, 
-            "domain": "youtu.be", 
-            "score": 46, 
-            "nsfw": false, 
-            "title": "What Happened Since Last Time I Shot This: Ep 01", 
-            "url": "http://youtu.be/EQSbqSwgwmA", 
-            "author": "philmazo", 
-            "permalink": "http://www.reddit.com/r/humor/comments/2ht5tw/what_happened_since_last_time_i_shot_this_ep_01/", 
-            "created-utc": 1412014856.0, 
-            "id": "2ht5tw"
-        }, 
-        {
-            "num-comments": 2, 
             "domain": "the-toast.net", 
-            "score": 15, 
+            "score": 322, 
             "nsfw": false, 
-            "title": "Unsolicited dick pics through the ages: A selected history", 
-            "url": "http://the-toast.net/2014/09/29/unsolicited-dick-pics-ages-selected-history/", 
-            "author": "NickDouglas", 
-            "permalink": "http://www.reddit.com/r/humor/comments/2hsyoh/unsolicited_dick_pics_through_the_ages_a_selected/", 
-            "created-utc": 1412011290.0, 
-            "id": "2hsyoh"
+            "author": "lifestyled", 
+            "url": "http://the-toast.net/2014/09/26/ayn-rands-buffy-vampire-slayer/", 
+            "title": "Ayn Rand's Buffy The Vampire Slayer", 
+            "id": "2htdvq", 
+            "created-utc": 1412018972.0, 
+            "num-comments": 19
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/humor/comments/2hw00p/100_actual_titles_of_real_eighteenthcentury_novels/", 
+            "domain": "the-toast.net", 
+            "score": 45, 
+            "nsfw": false, 
+            "author": "Epistaxis", 
+            "url": "http://the-toast.net/2014/08/06/100-actual-titles-real-eighteenth-century-novels/", 
+            "title": "100 Actual Titles of Real Eighteenth-Century Novels", 
+            "id": "2hw00p", 
+            "created-utc": 1412084828.0, 
+            "num-comments": 0
         }
     ], 
     "subreddit": "/r/humor/", 
     "reddit-url": "http://www.reddit.com/r/humor/", 
     "api-url": "http://daily.red/humor.json", 
-    "display-name": "Humor"
+    "display-name": "Humor", 
+    "order": 0
 }
