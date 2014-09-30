@@ -1,24 +1,24 @@
 {
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
-    "generated-utc": 1412028103, 
+    "generated-utc": 1412085715, 
     "posts": [
         {
-            "num-comments": 51, 
-            "domain": "dropcan.co", 
-            "score": 341, 
+            "num-comments": 13, 
+            "domain": "the-toast.net", 
+            "score": 265, 
             "nsfw": false, 
-            "title": "My friend made a website where you can throw away things you don't want the internet to see for the internet to see. Thought reddit would enjoy it.", 
-            "url": "http://dropcan.co/", 
-            "author": "ultraaccel", 
-            "permalink": "http://www.reddit.com/r/humor/comments/2hr8wz/my_friend_made_a_website_where_you_can_throw_away/", 
-            "created-utc": 1411960798.0, 
-            "id": "2hr8wz"
+            "title": "Ayn Rand's Buffy The Vampire Slayer", 
+            "url": "http://the-toast.net/2014/09/26/ayn-rands-buffy-vampire-slayer/", 
+            "author": "lifestyled", 
+            "permalink": "http://www.reddit.com/r/humor/comments/2htdvq/ayn_rands_buffy_the_vampire_slayer/", 
+            "created-utc": 1412018972.0, 
+            "id": "2htdvq"
         }, 
         {
-            "num-comments": 1, 
+            "num-comments": 4, 
             "domain": "unsolicited.consulting", 
-            "score": 52, 
+            "score": 111, 
             "nsfw": false, 
             "title": "Startup Flakes - You know owning a business is work, right?", 
             "url": "http://unsolicited.consulting/article/startup-flakes", 
@@ -28,9 +28,9 @@
             "id": "2hsai7"
         }, 
         {
-            "num-comments": 5, 
+            "num-comments": 6, 
             "domain": "youtu.be", 
-            "score": 10, 
+            "score": 46, 
             "nsfw": false, 
             "title": "What Happened Since Last Time I Shot This: Ep 01", 
             "url": "http://youtu.be/EQSbqSwgwmA", 
@@ -40,9 +40,9 @@
             "id": "2ht5tw"
         }, 
         {
-            "num-comments": 1, 
+            "num-comments": 2, 
             "domain": "the-toast.net", 
-            "score": 2, 
+            "score": 15, 
             "nsfw": false, 
             "title": "Unsolicited dick pics through the ages: A selected history", 
             "url": "http://the-toast.net/2014/09/29/unsolicited-dick-pics-ages-selected-history/", 
@@ -50,18 +50,6 @@
             "permalink": "http://www.reddit.com/r/humor/comments/2hsyoh/unsolicited_dick_pics_through_the_ages_a_selected/", 
             "created-utc": 1412011290.0, 
             "id": "2hsyoh"
-        }, 
-        {
-            "num-comments": 0, 
-            "domain": "mcsweeneys.net", 
-            "score": 1, 
-            "nsfw": false, 
-            "title": "An Oral History of Oral Histories.", 
-            "url": "http://www.mcsweeneys.net/articles/an-oral-history-of-oral-histories", 
-            "author": "misnamed", 
-            "permalink": "http://www.reddit.com/r/humor/comments/2hrdnp/an_oral_history_of_oral_histories/", 
-            "created-utc": 1411963882.0, 
-            "id": "2hrdnp"
         }
     ], 
     "subreddit": "/r/humor/", 

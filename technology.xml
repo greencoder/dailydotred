@@ -6,39 +6,23 @@
   <description>News stories related to technology</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Mon, 29 Sep 2014 22:00:49 -0000</pubDate>
+  <pubDate>Tue, 30 Sep 2014 14:01:00 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/technology.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>My dad asked his friend who works for AT&amp;T about Google Fiber, and he said, "There is little to no difference between 24mbps and 1gbps."</title>
-    <link>http://www.reddit.com/r/technology/comments/2hqdhi/my_dad_asked_his_friend_who_works_for_att_about/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hqdhi/my_dad_asked_his_friend_who_works_for_att_about/</guid>
-    <description>BY THEGUNNFIRE &#183; POSTED 09/28/14 5:52 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 3444</description>
-    <category></category>
-  </item>
 
   <item>
     <title>Solar power is growing so fast that older energy companies are trying to stop it</title>
     <link>http://www.vox.com/2014/9/29/6849723/solar-power-net-metering-utilities-fight-states</link>
     <guid>http://www.reddit.com/r/technology/comments/2hsi4u/solar_power_is_growing_so_fast_that_older_energy/</guid>
-    <description>BY USER_NAME13 &#183; POSTED 09/29/14 10:41 AM EST &#183; VOX.COM &#183; SCORE 3989</description>
+    <description>BY USER_NAME13 &#183; POSTED 09/29/14 10:41 AM EST &#183; VOX.COM &#183; SCORE 4240</description>
     <category></category>
   </item>
 
   <item>
-    <title>Firefox finally dethrones Chrome in PCMags latest review</title>
-    <link>http://www.pcmag.com/article2/0,2817,2365692,00.asp</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hqadp/firefox_finally_dethrones_chrome_in_pcmags_latest/</guid>
-    <description>BY AICCIA &#183; POSTED 09/28/14 5:21 PM EST &#183; PCMAG.COM &#183; SCORE 1658</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Facebook Ads Will Follow You Around. Starting Now.</title>
-    <link>http://mashable.com/2014/09/29/facebook-ads-atlas/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hscm6/facebook_ads_will_follow_you_around_starting_now/</guid>
-    <description>BY IMALEXBECK &#183; POSTED 09/29/14 9:44 AM EST &#183; MASHABLE.COM &#183; SCORE 1896</description>
+    <title>Windows 9 will get rid of Windows 8 fullscreen Start Menu</title>
+    <link>http://www.pcworld.com/article/2683725/windows-9-rumor-roundup-everything-we-know-so-far.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hudf6/windows_9_will_get_rid_of_windows_8_fullscreen/</guid>
+    <description>BY SUPERMAN_V2 &#183; POSTED 09/29/14 8:43 PM EST &#183; PCWORLD.COM &#183; SCORE 3976</description>
     <category></category>
   </item>
 
@@ -46,15 +30,15 @@
     <title>iOS 8’s predictive QuickType keyboard found to suggest parts of your passwords</title>
     <link>http://www.idownloadblog.com/2014/09/29/ios-8-quicktype-suggests-passwords/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hsnuk/ios_8s_predictive_quicktype_keyboard_found_to/</guid>
-    <description>BY DARTHTATER &#183; POSTED 09/29/14 11:40 AM EST &#183; IDOWNLOADBLOG.COM &#183; SCORE 1280</description>
+    <description>BY DARTHTATER &#183; POSTED 09/29/14 11:40 AM EST &#183; IDOWNLOADBLOG.COM &#183; SCORE 2873</description>
     <category></category>
   </item>
 
   <item>
-    <title>With new OS, Microsoft will try to put Windows 8 era behind it</title>
-    <link>http://www.infoworld.com/article/2687744/operating-systems/with-new-os-microsoft-will-try-to-put-windows-8-era-behind-it.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hs31k/with_new_os_microsoft_will_try_to_put_windows_8/</guid>
-    <description>BY THEPRIMEOPTIMUS &#183; POSTED 09/29/14 7:35 AM EST &#183; INFOWORLD.COM &#183; SCORE 707</description>
+    <title>Facebook Ads Will Follow You Around. Starting Now.</title>
+    <link>http://mashable.com/2014/09/29/facebook-ads-atlas/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hscm6/facebook_ads_will_follow_you_around_starting_now/</guid>
+    <description>BY IMALEXBECK &#183; POSTED 09/29/14 9:44 AM EST &#183; MASHABLE.COM &#183; SCORE 2529</description>
     <category></category>
   </item>
 
@@ -62,15 +46,7 @@
     <title>“We’re talking about censorship,” Ms. Le Guin wrote... “Governments use censorship for moral and political ends, justifiable or not. Amazon is using censorship to gain total market control...This is more than unjustifiable, it is intolerable.”</title>
     <link>http://www.nytimes.com/2014/09/29/business/literary-lions-unite-in-protest-over-amazons-e-book-tactics.html?_r=1</link>
     <guid>http://www.reddit.com/r/technology/comments/2hsjvy/were_talking_about_censorship_ms_le_guin_wrote/</guid>
-    <description>BY MILAGROJONES &#183; POSTED 09/29/14 11:00 AM EST &#183; NYTIMES.COM &#183; SCORE 761</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Mining Bitcoin with pencil and paper: 0.67 hashes per day</title>
-    <link>http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hq3cb/mining_bitcoin_with_pencil_and_paper_067_hashes/</guid>
-    <description>BY TEELM &#183; POSTED 09/28/14 4:14 PM EST &#183; RIGHTO.COM &#183; SCORE 491</description>
+    <description>BY MILAGROJONES &#183; POSTED 09/29/14 11:00 AM EST &#183; NYTIMES.COM &#183; SCORE 1469</description>
     <category></category>
   </item>
 
@@ -78,23 +54,7 @@
     <title>Photographer Sues Imgur For Failing to Remove Copyrighted Photos</title>
     <link>http://torrentfreak.com/photographer-sues-imgur-for-failing-to-remove-copyrighted-photos-140929/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hso14/photographer_sues_imgur_for_failing_to_remove/</guid>
-    <description>BY KEN27238 &#183; POSTED 09/29/14 11:42 AM EST &#183; TORRENTFREAK.COM &#183; SCORE 521</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Sierra Nevada challenges NASA 'space taxi' contracts to Boeing, SpaceX</title>
-    <link>http://www.reuters.com/article/2014/09/27/us-usa-boeing-spacetaxi-sierra-nevada-idUSKCN0HM0H720140927</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hsc5k/sierra_nevada_challenges_nasa_space_taxi/</guid>
-    <description>BY SIMSPROBLEM &#183; POSTED 09/29/14 9:39 AM EST &#183; REUTERS.COM &#183; SCORE 311</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>FCC to rule on 'paid prioritization' deals by Internet service providers</title>
-    <link>http://www.pbs.org/newshour/rundown/can-internet-providers-cut-deals-sites-fcc-decide/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hqo6i/fcc_to_rule_on_paid_prioritization_deals_by/</guid>
-    <description>BY -GAVIN- &#183; POSTED 09/28/14 7:46 PM EST &#183; PBS.ORG &#183; SCORE 242</description>
+    <description>BY KEN27238 &#183; POSTED 09/29/14 11:42 AM EST &#183; TORRENTFREAK.COM &#183; SCORE 992</description>
     <category></category>
   </item>
 
@@ -102,15 +62,31 @@
     <title>Delivery Drones Become a Reality in Germany</title>
     <link>http://www.livescience.com/48032-dhl-drone-delivery-service.html?cmpid=558303</link>
     <guid>http://www.reddit.com/r/technology/comments/2hsn1r/delivery_drones_become_a_reality_in_germany/</guid>
-    <description>BY BURTZEV &#183; POSTED 09/29/14 11:32 AM EST &#183; LIVESCIENCE.COM &#183; SCORE 311</description>
+    <description>BY BURTZEV &#183; POSTED 09/29/14 11:32 AM EST &#183; LIVESCIENCE.COM &#183; SCORE 527</description>
     <category></category>
   </item>
 
   <item>
-    <title>Introducing Universal SSL</title>
-    <link>https://blog.cloudflare.com/introducing-universal-ssl/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hs2k2/introducing_universal_ssl/</guid>
-    <description>BY DKNECHT &#183; POSTED 09/29/14 7:26 AM EST &#183; BLOG.CLOUDFLARE.COM &#183; SCORE 216</description>
+    <title>AT&amp;T’s congestion magically disappears when it’s signing up new customers | Ars Technica</title>
+    <link>http://arstechnica.com/information-technology/2014/09/att-congestion-magically-disappears-when-its-signing-up-new-customers/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2ht0vg/atts_congestion_magically_disappears_when_its/</guid>
+    <description>BY SPECKZ &#183; POSTED 09/29/14 1:39 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 463</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Sierra Nevada challenges NASA 'space taxi' contracts to Boeing, SpaceX</title>
+    <link>http://www.reuters.com/article/2014/09/27/us-usa-boeing-spacetaxi-sierra-nevada-idUSKCN0HM0H720140927</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hsc5k/sierra_nevada_challenges_nasa_space_taxi/</guid>
+    <description>BY SIMSPROBLEM &#183; POSTED 09/29/14 9:39 AM EST &#183; REUTERS.COM &#183; SCORE 407</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Comcast/TWC merger vote delayed after NY regulators find “deficiencies”. Consumer protection agency points to companies' "substandard customer service."</title>
+    <link>http://arstechnica.com/business/2014/09/comcasttwc-merger-vote-delayed-after-ny-regulators-find-deficiencies/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hthoe/comcasttwc_merger_vote_delayed_after_ny/</guid>
+    <description>BY SURAJ-SUN &#183; POSTED 09/29/14 4:01 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 298</description>
     <category></category>
   </item>
 
@@ -118,71 +94,23 @@
     <title>This is Carl and David from OnePlus, Ask Us (Almost) Anything!</title>
     <link>http://www.reddit.com/r/technology/comments/2hse9b/this_is_carl_and_david_from_oneplus_ask_us_almost/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hse9b/this_is_carl_and_david_from_oneplus_ask_us_almost/</guid>
-    <description>BY DEVILDV &#183; POSTED 09/29/14 10:00 AM EST &#183; SELF.TECHNOLOGY &#183; SCORE 226</description>
+    <description>BY DEVILDV &#183; POSTED 09/29/14 10:00 AM EST &#183; SELF.TECHNOLOGY &#183; SCORE 278</description>
     <category></category>
   </item>
 
   <item>
-    <title>Cosmos broswer, a broswer that allows you to browse the internet without using data or wifi!</title>
-    <link>http://www.reddit.com/r/technology/comments/2hqkz3/cosmos_broswer_a_broswer_that_allows_you_to/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hqkz3/cosmos_broswer_a_broswer_that_allows_you_to/</guid>
-    <description>BY VISHNUTHEKING &#183; POSTED 09/28/14 7:11 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 185</description>
+    <title>Catastrophic bug in iOS 8: "Reset All Settings" option also wipes your iCloud storage.</title>
+    <link>http://www.macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2htyyj/catastrophic_bug_in_ios_8_reset_all_settings/</guid>
+    <description>BY FREYZHA &#183; POSTED 09/29/14 6:27 PM EST &#183; MACRUMORS.COM &#183; SCORE 186</description>
     <category></category>
   </item>
 
   <item>
-    <title>China blocks Instagram in the wake of Hong Kong democracy protests</title>
-    <link>http://www.engadget.com/2014/09/28/china-blocks-instagram/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hq3jh/china_blocks_instagram_in_the_wake_of_hong_kong/</guid>
-    <description>BY CANAUSERNAMEBETOOLON &#183; POSTED 09/28/14 4:16 PM EST &#183; ENGADGET.COM &#183; SCORE 141</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>MIT Research - DRACO - a potential treatment for all viruses from Ebola to the common cold.</title>
-    <link>https://www.ll.mit.edu/news/DRACO.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hs2re/mit_research_draco_a_potential_treatment_for_all/</guid>
-    <description>BY ROSCOEMG &#183; POSTED 09/29/14 7:30 AM EST &#183; LL.MIT.EDU &#183; SCORE 119</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>AT&amp;T Promo Doubles Data Allotments -- on 15 GB Plans and Up</title>
-    <link>http://www.dslreports.com/shownews/ATT-Promo-Doubles-Data-Allotments-on-15-GB-Plans-and-Up-130636</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hs8ca/att_promo_doubles_data_allotments_on_15_gb_plans/</guid>
-    <description>BY BENDERUNIT9000 &#183; POSTED 09/29/14 8:54 AM EST &#183; DSLREPORTS.COM &#183; SCORE 84</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Cloudflare: Introducing Universal SSL (free SSL encryption for websites)</title>
-    <link>https://blog.cloudflare.com/introducing-universal-ssl/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hs6cl/cloudflare_introducing_universal_ssl_free_ssl/</guid>
-    <description>BY WONKADONK &#183; POSTED 09/29/14 8:26 AM EST &#183; BLOG.CLOUDFLARE.COM &#183; SCORE 55</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Growling by Comcast May Bring Tighter Leash</title>
-    <link>http://www.nytimes.com/2014/09/29/business/media/growling-by-comcast-may-bring-tighter-leash.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hr74p/growling_by_comcast_may_bring_tighter_leash/</guid>
-    <description>BY RIT56 &#183; POSTED 09/28/14 11:02 PM EST &#183; NYTIMES.COM &#183; SCORE 57</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Facebook Opens Gates to Vault of Consumer Data: On Monday, Facebook will roll out a rebuilt ad platform, called Atlas, that will allow marketers to tap its detailed knowledge of its users to direct ads to those people on thousands of other websites and mobile apps.</title>
-    <link>http://www.nytimes.com/2014/09/29/business/with-new-ad-platform-facebook-opens-the-gates-to-its-vault-of-consumer-data.html?hp</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hraly/facebook_opens_gates_to_vault_of_consumer_data_on/</guid>
-    <description>BY QUESTEION &#183; POSTED 09/28/14 11:37 PM EST &#183; NYTIMES.COM &#183; SCORE 45</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Liquid Benzene Squeezed to Form Diamond Nanothreads: High-pressure cycles unexpectedly convert benzene into superstrong and ultrathin threads. Will they put a space elevator within reach?</title>
-    <link>http://www.scientificamerican.com/article/liquid-benzene-squeezed-to-form-diamond-nanothreads/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hr6uu/liquid_benzene_squeezed_to_form_diamond/</guid>
-    <description>BY DAVIDREISS666 &#183; POSTED 09/28/14 10:59 PM EST &#183; SCIENTIFICAMERICAN.COM &#183; SCORE 43</description>
+    <title>Yesterday I filed an FCC complaint against Comcast. Today I wrote this email to their corporate office letting them know.</title>
+    <link>http://www.reddit.com/r/technology/comments/2huiwe/yesterday_i_filed_an_fcc_complaint_against/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2huiwe/yesterday_i_filed_an_fcc_complaint_against/</guid>
+    <description>BY THIEF425 &#183; POSTED 09/29/14 9:35 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 113</description>
     <category></category>
   </item>
 
@@ -190,15 +118,31 @@
     <title>Protesters Are Using FireChat To Organize in Hong Kong</title>
     <link>http://gizmodo.com/protesters-are-using-firechat-to-organize-in-hong-kong-1640271776</link>
     <guid>http://www.reddit.com/r/technology/comments/2hsiqd/protesters_are_using_firechat_to_organize_in_hong/</guid>
-    <description>BY AMDOU &#183; POSTED 09/29/14 10:47 AM EST &#183; GIZMODO.COM &#183; SCORE 58</description>
+    <description>BY AMDOU &#183; POSTED 09/29/14 10:47 AM EST &#183; GIZMODO.COM &#183; SCORE 96</description>
     <category></category>
   </item>
 
   <item>
-    <title>Toyota’s New Hydrogen Car: An Exclusive Inside Look at This Amazing Technology</title>
-    <link>http://www.fool.com/investing/general/2014/09/28/toyotas-new-hydrogen-car-an-exclusive-inside-look.aspx</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hq6xv/toyotas_new_hydrogen_car_an_exclusive_inside_look/</guid>
-    <description>BY ACANTHAS &#183; POSTED 09/28/14 4:48 PM EST &#183; FOOL.COM &#183; SCORE 41</description>
+    <title>Bitcoin goes mainstream: Circle's payments make cryptocurrencies easy</title>
+    <link>http://www.theguardian.com/technology/2014/sep/29/bitcoin-circle-cryptocurrency-jeremy-allaire</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hsnpq/bitcoin_goes_mainstream_circles_payments_make/</guid>
+    <description>BY TEELM &#183; POSTED 09/29/14 11:39 AM EST &#183; THEGUARDIAN.COM &#183; SCORE 98</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Cox Communications will double the speeds of its most popular Internet service packages in New Orleans Tuesday and in Baton Rouge and Acadiana without increasing customers’ bills.</title>
+    <link>http://theadvocate.com/news/10348136-123/cox-doubling-internet-speeds-without</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hsjog/cox_communications_will_double_the_speeds_of_its/</guid>
+    <description>BY AGENTDOGGETT &#183; POSTED 09/29/14 10:57 AM EST &#183; THEADVOCATE.COM &#183; SCORE 69</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Hong Kong: Fake Occupy Central app targets activists’ smartphones with spyware -- Suspicious behaviour by the application included recording audio and obtaining the location of the device. "It's a malware with spy behaviour"</title>
+    <link>http://www.scmp.com/news/hong-kong/article/1594667/fake-occupy-central-app-targets-activists-smartphones</link>
+    <guid>http://www.reddit.com/r/technology/comments/2huis7/hong_kong_fake_occupy_central_app_targets/</guid>
+    <description>BY MEPPER &#183; POSTED 09/29/14 9:34 PM EST &#183; SCMP.COM &#183; SCORE 65</description>
     <category></category>
   </item>
 
@@ -206,7 +150,63 @@
     <title>BT Promises 1 Gbps Over Copper FTTN</title>
     <link>http://www.dslreports.com/shownews/BT-Promises-1-Gbps-Over-Copper-FTTN-130639</link>
     <guid>http://www.reddit.com/r/technology/comments/2hscvx/bt_promises_1_gbps_over_copper_fttn/</guid>
-    <description>BY BENDERUNIT9000 &#183; POSTED 09/29/14 9:47 AM EST &#183; DSLREPORTS.COM &#183; SCORE 48</description>
+    <description>BY BENDERUNIT9000 &#183; POSTED 09/29/14 9:47 AM EST &#183; DSLREPORTS.COM &#183; SCORE 55</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>A Developer Created A Brilliantly Innovative New Way To Use The iPhone's Widgets, But Apple Killed It</title>
+    <link>http://www.businessinsider.com/apple-removes-launcher-app-2014-9</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hum3s/a_developer_created_a_brilliantly_innovative_new/</guid>
+    <description>BY ERIER2003 &#183; POSTED 09/29/14 10:07 PM EST &#183; BUSINESSINSIDER.COM &#183; SCORE 51</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>At last, the Blockchain technology delivered to the masses (vs just techies).</title>
+    <link>https://www.circle.com/en</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hsju4/at_last_the_blockchain_technology_delivered_to/</guid>
+    <description>BY TEELM &#183; POSTED 09/29/14 10:59 AM EST &#183; CIRCLE.COM &#183; SCORE 40</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Ello Is Already Infested With Spammers and Bots</title>
+    <link>http://motherboard.vice.com/read/ello-is-already-infested-with-spammers-and-bots</link>
+    <guid>http://www.reddit.com/r/technology/comments/2huf6w/ello_is_already_infested_with_spammers_and_bots/</guid>
+    <description>BY CONSCIOUS_GIRL &#183; POSTED 09/29/14 9:01 PM EST &#183; MOTHERBOARD.VICE.COM &#183; SCORE 39</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Not Even China's Great Firewall Can Shut Out News About Hong Kong's Democracy Protests</title>
+    <link>http://www.businessweek.com/articles/2014-09-29/in-china-the-great-firewall-does-not-hold</link>
+    <guid>http://www.reddit.com/r/technology/comments/2htg9p/not_even_chinas_great_firewall_can_shut_out_news/</guid>
+    <description>BY WONKADONK &#183; POSTED 09/29/14 3:49 PM EST &#183; BUSINESSWEEK.COM &#183; SCORE 28</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>DailyTech - Report: Google to Force OEMs to Provide Recent Android Builds or Lose Access to Google Apps</title>
+    <link>http://www.dailytech.com/Report+Google+to+Force+OEMs+to+Provide+Recent+Android+Builds+or+Lose+Access+to+Google+Apps/article34311.htm</link>
+    <guid>http://www.reddit.com/r/technology/comments/2htrjc/dailytech_report_google_to_force_oems_to_provide/</guid>
+    <description>BY DETAILSGUY &#183; POSTED 09/29/14 5:22 PM EST &#183; DAILYTECH.COM &#183; SCORE 28</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>How Hong Kong Protesters Are Connecting, Without Cell Or Wi-Fi Networks</title>
+    <link>http://www.npr.org/blogs/alltechconsidered/2014/09/29/352476454/how-hong-kong-protesters-are-connecting-without-cell-or-wi-fi-networks</link>
+    <guid>http://www.reddit.com/r/technology/comments/2huj3u/how_hong_kong_protesters_are_connecting_without/</guid>
+    <description>BY KLMD &#183; POSTED 09/29/14 9:38 PM EST &#183; NPR.ORG &#183; SCORE 27</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Tor executive director hints at Firefox integration</title>
+    <link>http://www.dailydot.com/politics/tor-mozilla-firefox/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2ht3ob/tor_executive_director_hints_at_firefox/</guid>
+    <description>BY AIRSANK &#183; POSTED 09/29/14 2:02 PM EST &#183; DAILYDOT.COM &#183; SCORE 30</description>
     <category></category>
   </item>
 
