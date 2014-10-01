@@ -1,19 +1,19 @@
 {
     "description": "Ask a science question, get a science answer", 
     "title": "AskScience: Got Questions? Get Answers.", 
-    "generated-utc": 1412191980, 
+    "generated-utc": 1412192242, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hzk4v/why_are_articles_downplaying_ebola_when_it_sounds/", 
             "domain": "self.askscience", 
-            "score": 1963, 
+            "score": 1982, 
             "nsfw": false, 
             "author": "Gimli_the_White", 
             "url": "http://www.reddit.com/r/askscience/comments/2hzk4v/why_are_articles_downplaying_ebola_when_it_sounds/", 
             "title": "Why are articles downplaying Ebola when it sounds easier to catch than AIDS?", 
             "id": "2hzk4v", 
             "created-utc": 1412169264.0, 
-            "num-comments": 782
+            "num-comments": 785
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hyj85/does_the_sun_experience_tides_due_to_influence_of/", 
@@ -54,7 +54,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hx5ns/are_sociopaths_inherently_malicious/", 
             "domain": "self.askscience", 
-            "score": 15, 
+            "score": 12, 
             "nsfw": false, 
             "author": "CaskironPan", 
             "url": "http://www.reddit.com/r/askscience/comments/2hx5ns/are_sociopaths_inherently_malicious/", 
@@ -66,7 +66,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hyao6/has_anyone_been_cured_of_alzheimers/", 
             "domain": "self.askscience", 
-            "score": 10, 
+            "score": 12, 
             "nsfw": false, 
             "author": "slicedclementines", 
             "url": "http://www.reddit.com/r/askscience/comments/2hyao6/has_anyone_been_cured_of_alzheimers/", 
@@ -78,7 +78,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hxpg1/how_much_tree_growth_time_is_represented_by_an/", 
             "domain": "self.askscience", 
-            "score": 9, 
+            "score": 8, 
             "nsfw": false, 
             "author": "Granite-M", 
             "url": "http://www.reddit.com/r/askscience/comments/2hxpg1/how_much_tree_growth_time_is_represented_by_an/", 
@@ -90,7 +90,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hxdya/there_is_a_post_over_on_rtodayilearned_saying/", 
             "domain": "self.askscience", 
-            "score": 10, 
+            "score": 12, 
             "nsfw": false, 
             "author": "MrQuibbles", 
             "url": "http://www.reddit.com/r/askscience/comments/2hxdya/there_is_a_post_over_on_rtodayilearned_saying/", 
@@ -162,7 +162,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hygpc/does_rainwater_really_clean_the_air/", 
             "domain": "self.askscience", 
-            "score": 7, 
+            "score": 9, 
             "nsfw": false, 
             "author": "JasonAndrewRelva", 
             "url": "http://www.reddit.com/r/askscience/comments/2hygpc/does_rainwater_really_clean_the_air/", 
@@ -246,7 +246,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hz9bm/if_energy_cant_be_created_or_destroyed_how_can_it/", 
             "domain": "self.askscience", 
-            "score": 6, 
+            "score": 5, 
             "nsfw": false, 
             "author": "larkerx", 
             "url": "http://www.reddit.com/r/askscience/comments/2hz9bm/if_energy_cant_be_created_or_destroyed_how_can_it/", 
@@ -258,7 +258,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hy1yz/one_of_the_more_dangerous_parts_of_bee_venom_is/", 
             "domain": "self.askscience", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "author": "shavera", 
             "url": "http://www.reddit.com/r/askscience/comments/2hy1yz/one_of_the_more_dangerous_parts_of_bee_venom_is/", 
@@ -305,6 +305,7 @@
         }
     ], 
     "subreddit": "/r/askscience/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/askscience/", 
     "api-url": "http://daily.red/ask-science.json", 
     "display-name": "Ask Science", 

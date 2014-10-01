@@ -1,9 +1,10 @@
 {
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
-    "generated-utc": 1412192018, 
+    "generated-utc": 1412192279, 
     "posts": [], 
     "subreddit": "/r/humor/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/humor/", 
     "api-url": "http://daily.red/humor.json", 
     "display-name": "Humor", 

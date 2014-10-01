@@ -1,12 +1,12 @@
 {
     "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
     "title": "News Of The Stupid", 
-    "generated-utc": 1412192027, 
+    "generated-utc": 1412192289, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hy8ae/city_councilman_entertains_new_friends_in_his/", 
             "domain": "nbclosangeles.com", 
-            "score": 45, 
+            "score": 44, 
             "nsfw": false, 
             "author": "cat_handcuffs", 
             "url": "http://www.nbclosangeles.com/news/local/Perris-City-Councilman-Arrested-Drug-Charges-264500501.html", 
@@ -18,7 +18,7 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hzk2n/i_want_a_sex_change_again_transsexual_who_had/", 
             "domain": "dailymail.co.uk", 
-            "score": 36, 
+            "score": 40, 
             "nsfw": false, 
             "author": "undue-influence", 
             "url": "http://www.dailymail.co.uk/news/article-2776090/Transsexual-10-000-surgery-NHS-wants-man-again.html?ito=social-facebook", 
@@ -30,7 +30,7 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hwpwh/this_kfc_banned_hand_wipes_because_they_might/", 
             "domain": "tpnn.com", 
-            "score": 22, 
+            "score": 19, 
             "nsfw": false, 
             "author": "MIIAIIRIIK", 
             "url": "http://www.tpnn.com/2014/09/30/this-kfc-banned-hand-wipes-because-they-might-offend-muslim-customers/", 
@@ -42,14 +42,14 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hz33j/iraqi_air_force_accidentally_delivers_food_and/", 
             "domain": "huffingtonpost.com", 
-            "score": 13, 
+            "score": 16, 
             "nsfw": false, 
             "author": "statelessnfaithless", 
             "url": "http://www.huffingtonpost.com/2014/09/30/isis-iraqi-air-force_n_5908864.html", 
             "title": "Iraqi Air Force Accidentally Delivers Food And Ammunition To ISIS Militants", 
             "id": "2hz33j", 
             "created-utc": 1412152452.0, 
-            "num-comments": 2
+            "num-comments": 3
         }, 
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hy7u5/calgary_man_hunting_coyotes_accidentally_shoots/", 
@@ -66,7 +66,7 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hwxsp/man_accused_of_mooning_exposing_genitalia_to/", 
             "domain": "nwfdailynews.com", 
-            "score": 7, 
+            "score": 8, 
             "nsfw": false, 
             "author": "stankmanly", 
             "url": "http://www.nwfdailynews.com/local/crime/police-blotters/man-accused-of-mooning-exposing-genitalia-to-other-cars-1.379388", 
@@ -78,7 +78,7 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hwybc/afas_fischer_links_raping_puppy_headline_to/", 
             "domain": "goodasyou.org", 
-            "score": 5, 
+            "score": 4, 
             "nsfw": false, 
             "author": "stankmanly", 
             "url": "http://www.goodasyou.org/good_as_you/2014/09/afas-fischer-links-raping-puppy-headline-to-sexual-orientation-born-this-way-arguments.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+GoodAsYou+%28Good+As+You%29", 
@@ -90,7 +90,7 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hxofk/man_steals_160000_ring_and_trades_it_for_two/", 
             "domain": "mugshots.com", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "author": "furrowsmiter", 
             "url": "http://mugshots.com/Current-Events/WALTER-MORRISON.81404246.html", 
@@ -150,7 +150,7 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hzo8w/iraq_pilots_mistakenly_drop_supplies_not_bombs_on/", 
             "domain": "crooksandliars.com", 
-            "score": 2, 
+            "score": 4, 
             "nsfw": false, 
             "author": "michaelconfoy", 
             "url": "http://crooksandliars.com/2014/10/iraq-pilots-mistakenly-drop-supplies-not", 
@@ -185,6 +185,7 @@
         }
     ], 
     "subreddit": "/r/NewsOfTheStupid/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/NewsOfTheStupid/", 
     "api-url": "http://daily.red/news-of-the-stupid.json", 
     "display-name": "News of the Stupid", 

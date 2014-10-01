@@ -1,12 +1,12 @@
 {
     "description": "The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences.", 
     "title": "Science", 
-    "generated-utc": 1412191966, 
+    "generated-utc": 1412192228, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hy3r9/science_ama_series_ask_your_questions_about_ebola/", 
             "domain": "self.science", 
-            "score": 3418, 
+            "score": 3414, 
             "nsfw": false, 
             "author": "nallen", 
             "url": "http://www.reddit.com/r/science/comments/2hy3r9/science_ama_series_ask_your_questions_about_ebola/", 
@@ -18,19 +18,19 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hzlvt/power_can_corrupt_even_the_honest_the_findings/", 
             "domain": "alphagalileo.org", 
-            "score": 2652, 
+            "score": 2672, 
             "nsfw": false, 
             "author": "Libertatea", 
             "url": "http://www.alphagalileo.org/ViewItem.aspx?ItemId=145828&amp;CultureCode=en", 
             "title": "Power Can Corrupt Even the Honest: The findings showed that those who measured as less honest exhibited more corrupt behaviour, at least initially; however, over time, even those who initially scored high on honesty were not shielded from the corruptive effects of power.", 
             "id": "2hzlvt", 
             "created-utc": 1412170425.0, 
-            "num-comments": 359
+            "num-comments": 370
         }, 
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hzj18/the_first_unifying_theory_of_why_brain/", 
             "domain": "motherboard.vice.com", 
-            "score": 548, 
+            "score": 557, 
             "nsfw": false, 
             "author": "Letmeirkyou", 
             "url": "http://motherboard.vice.com/read/how-zapping-the-brain-with-electricity-can-help-fight-disease", 
@@ -42,7 +42,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hzhjf/science_ama_series_im_dr_david_eagleman_a/", 
             "domain": "self.science", 
-            "score": 323, 
+            "score": 317, 
             "nsfw": false, 
             "author": "Dr_David_Eagleman", 
             "url": "http://www.reddit.com/r/science/comments/2hzhjf/science_ama_series_im_dr_david_eagleman_a/", 
@@ -54,7 +54,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hwsdx/wild_chimps_learning_to_use_tools_from_each_other/", 
             "domain": "theverge.com", 
-            "score": 157, 
+            "score": 154, 
             "nsfw": false, 
             "author": "AddressThat", 
             "url": "http://www.theverge.com/2014/9/30/6872899/footage-of-a-chimp-community-in-the-wild-could-have-big-implications", 
@@ -66,7 +66,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hzn3e/study_finds_acupuncture_does_not_improve_chronic/", 
             "domain": "jama.jamanetwork.com", 
-            "score": 228, 
+            "score": 226, 
             "nsfw": false, 
             "author": "tazcel", 
             "url": "http://jama.jamanetwork.com/article.aspx?articleid=1910110", 
@@ -90,7 +90,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hzit4/dna_study_reveals_humanity_has_more_mothers_than/", 
             "domain": "investigativegenetics.com", 
-            "score": 98, 
+            "score": 101, 
             "nsfw": false, 
             "author": "PointyHead", 
             "url": "http://www.investigativegenetics.com/content/5/1/13", 
@@ -102,7 +102,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hxlwh/nasas_cassini_spacecraft_watches_mysterious/", 
             "domain": "jpl.nasa.gov", 
-            "score": 52, 
+            "score": 58, 
             "nsfw": false, 
             "author": "xSmoothx", 
             "url": "http://www.jpl.nasa.gov/news/news.php?release=2014-327", 
@@ -114,19 +114,19 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hz5td/mit_researchers_have_devised_a_novel_drug_capsule/", 
             "domain": "newsoffice.mit.edu", 
-            "score": 54, 
+            "score": 61, 
             "nsfw": false, 
             "author": "Libertatea", 
             "url": "http://newsoffice.mit.edu/2014/microneedles-drug-delivery-capsule-1001", 
             "title": "MIT researchers have devised a novel drug capsule coated with tiny needles that can inject drugs directly into the lining of the stomach after the capsule is swallowed. In animal studies, the team found that the capsule delivered insulin more efficiently than injection under the skin", 
             "id": "2hz5td", 
             "created-utc": 1412155754.0, 
-            "num-comments": 4
+            "num-comments": 5
         }, 
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hx9qr/strange_new_type_of_brain_cell_discovered/", 
             "domain": "news.discovery.com", 
-            "score": 35, 
+            "score": 36, 
             "nsfw": false, 
             "author": "DraugrWulfgar", 
             "url": "http://news.discovery.com/human/life/strange-new-type-of-brain-cell-discovered-140929.htm", 
@@ -138,7 +138,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hxprv/fossil_clue_found_to_epic_ancient_battle_between/", 
             "domain": "iflscience.com", 
-            "score": 29, 
+            "score": 27, 
             "nsfw": false, 
             "author": "MrMenkinn", 
             "url": "http://www.iflscience.com/plants-and-animals/clue-found-epic-ancient-battle", 
@@ -150,7 +150,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hzrjw/virus_dna_liquefies_from_a_solidlike_state_in/", 
             "domain": "rsc.org", 
-            "score": 43, 
+            "score": 46, 
             "nsfw": false, 
             "author": "godsenfrik", 
             "url": "http://www.rsc.org/chemistryworld/2014/10/viruses-melt-glassy-solid-dna", 
@@ -162,7 +162,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hy67b/deadly_diarrhea_rates_nearly_doubled_in_10_years/", 
             "domain": "elsevier.com", 
-            "score": 26, 
+            "score": 25, 
             "nsfw": false, 
             "author": "mubukugrappa", 
             "url": "http://www.elsevier.com/about/press-releases/research-and-journals/deadly-diarrhea-rates-nearly-doubled-in-10-years-study", 
@@ -186,7 +186,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hydsu/music_really_does_make_kids_smarter_researchers/", 
             "domain": "worldmag.com", 
-            "score": 21, 
+            "score": 23, 
             "nsfw": false, 
             "author": "mubukugrappa", 
             "url": "http://www.worldmag.com/2014/09/study_music_really_does_make_kids_smarter", 
@@ -210,7 +210,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hzhcw/exercise_may_help_to_safeguard_the_mind_against/", 
             "domain": "well.blogs.nytimes.com", 
-            "score": 24, 
+            "score": 26, 
             "nsfw": false, 
             "author": "Libertatea", 
             "url": "http://well.blogs.nytimes.com/2014/10/01/how-exercise-may-protect-against-depression/", 
@@ -222,7 +222,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hzil3/mothers_who_smoke_while_they_are_pregnant_or/", 
             "domain": "eshre.eu", 
-            "score": 24, 
+            "score": 26, 
             "nsfw": false, 
             "author": "Libertatea", 
             "url": "http://www.eshre.eu/Press-Room/Press-releases/Press-releases-2014/Damaging-legacy.aspx", 
@@ -234,7 +234,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hz4s1/study_shows_how_chimpanzees_share_skills/", 
             "domain": "sciencedaily.com", 
-            "score": 18, 
+            "score": 20, 
             "nsfw": false, 
             "author": "mubukugrappa", 
             "url": "http://www.sciencedaily.com/releases/2014/09/140930144159.htm", 
@@ -246,7 +246,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hz5li/iranian_scientists_build_biological_nanosensor/", 
             "domain": "iranfrontpage.com", 
-            "score": 14, 
+            "score": 18, 
             "nsfw": false, 
             "author": "arshamgrad", 
             "url": "http://iranfrontpage.com/news/society/sci-tech/2014/08/iranian-scientists-build-biological-nano-sensor-for-early-cancer-diagnosis/", 
@@ -258,7 +258,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hwqpl/laserguided_seamonkeys_show_that_tiny_animals_can/", 
             "domain": "news.nationalgeographic.com", 
-            "score": 14, 
+            "score": 15, 
             "nsfw": false, 
             "author": "NinjaDiscoJesus", 
             "url": "http://news.nationalgeographic.com/news/2014/09/140930-sea-monkeys-laser-ocean-animals-science/?google_editors_picks=true", 
@@ -270,7 +270,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hxf0s/transparent_rats_give_scientists_clear_view_to/", 
             "domain": "scientificamerican.com", 
-            "score": 15, 
+            "score": 17, 
             "nsfw": false, 
             "author": "vitruv", 
             "url": "http://www.scientificamerican.com/article/transparent-rats-give-scientists-clear-view-to-innards/?r=science", 
@@ -294,7 +294,7 @@
         {
             "permalink": "http://www.reddit.com/r/science/comments/2hz81y/crabs_protect_corals_from_voracious_starfish/", 
             "domain": "news.sciencemag.org", 
-            "score": 17, 
+            "score": 16, 
             "nsfw": false, 
             "author": "mubukugrappa", 
             "url": "http://news.sciencemag.org/plants-animals/2014/09/crabs-protect-corals-voracious-starfish", 
@@ -305,6 +305,7 @@
         }
     ], 
     "subreddit": "/r/science/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/science/", 
     "api-url": "http://daily.red/science.json", 
     "display-name": "Science", 

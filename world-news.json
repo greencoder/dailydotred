@@ -1,24 +1,24 @@
 {
     "description": "A place for major news from around the world, excluding US-internal news", 
     "title": "World News", 
-    "generated-utc": 1412191932, 
+    "generated-utc": 1412192194, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxgp5/kim_jongun_is_recovering_from_ankle_surgery_after/", 
             "domain": "independent.co.uk", 
-            "score": 3721, 
+            "score": 3723, 
             "nsfw": false, 
             "author": "hdah24", 
             "url": "http://www.independent.co.uk/news/world/asia/kim-jongun-absent-north-korean-leader-is-recovering-from-ankle-surgery-9765375.html", 
             "title": "Kim Jong-un is recovering from 'ankle surgery' after fracturing both ankles", 
             "id": "2hxgp5", 
             "created-utc": 1412112539.0, 
-            "num-comments": 1864
+            "num-comments": 1865
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxtzh/iraqi_air_force_accidentally_delivers_food_and/", 
             "domain": "huffingtonpost.com", 
-            "score": 3498, 
+            "score": 3509, 
             "nsfw": false, 
             "author": "peterspancakes", 
             "url": "http://www.huffingtonpost.com/2014/09/30/isis-iraqi-air-force_n_5908864.html?utm_hp_ref=tw", 
@@ -30,43 +30,43 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hyqyr/reuters_australia_passes_new_security_law_vastly/", 
             "domain": "reuters.com", 
-            "score": 3610, 
+            "score": 3609, 
             "nsfw": false, 
             "author": "FaffingtonBear", 
             "url": "http://www.reuters.com/article/2014/10/01/us-australia-security-idUSKCN0HQ2WX20141001", 
             "title": "Reuters: Australia passes new security law vastly expanding the government's power to monitor computers; journalists could be imprisoned for up to ten years simply for reporting on national security matters.", 
             "id": "2hyqyr", 
             "created-utc": 1412140329.0, 
-            "num-comments": 767
+            "num-comments": 771
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hyw46/hong_kong_police_chief_inspector_committed_suicide/", 
             "domain": "scmp.com", 
-            "score": 2459, 
+            "score": 2471, 
             "nsfw": false, 
             "author": "chaklong", 
             "url": "http://www.scmp.com/news/hong-kong/article/1605159/hong-kong-police-inspector-kills-himself-inside-north-point-station", 
             "title": "Hong Kong Police Chief Inspector Committed Suicide", 
             "id": "2hyw46", 
             "created-utc": 1412144792.0, 
-            "num-comments": 506
+            "num-comments": 508
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hyzpt/essen_city_in_western_germany_will_start_a/", 
             "domain": "thelocal.de", 
-            "score": 1496, 
+            "score": 1505, 
             "nsfw": false, 
             "author": "Nimelrian", 
             "url": "http://www.thelocal.de/20141001/city-starts-beer-for-alcoholics-project", 
             "title": "Essen (City in western Germany) will start a controversial project today to employ alcohol and drug addicts to clean the streets in return for beer, tobacco, food and small amounts of cash.", 
             "id": "2hyzpt", 
             "created-utc": 1412148423.0, 
-            "num-comments": 197
+            "num-comments": 202
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxqsz/chinese_hackers_are_targeting_prodemocracy/", 
             "domain": "businessinsider.com", 
-            "score": 898, 
+            "score": 893, 
             "nsfw": false, 
             "author": "heveabrasilien", 
             "url": "http://www.businessinsider.com/chinese-hackers-are-targeting-pro-democracy-protestors-in-hong-kong-through-their-iphones-2014-9", 
@@ -78,7 +78,7 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxi5t/grindr_urges_lgbt_community_to_hide_their/", 
             "domain": "independent.co.uk", 
-            "score": 824, 
+            "score": 828, 
             "nsfw": false, 
             "author": "johnnydermot", 
             "url": "http://www.independent.co.uk/news/world/africa/grindr-urges-lgbt-community-to-hide-their-identities-as-egypt-persecutes-nations-gay-community-9757652.html", 
@@ -90,31 +90,31 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hz66y/indian_female_boxer_sarita_devi_refuses_to_wear/", 
             "domain": "sports.ndtv.com", 
-            "score": 1273, 
+            "score": 1283, 
             "nsfw": false, 
             "author": "ranjan_zehereela2014", 
             "url": "http://sports.ndtv.com/asian-games-2014/news/230723-sarita-devi-refuses-to-wear-asian-games-bronze-cries-on-podium", 
             "title": "Indian Female Boxer Sarita Devi Refuses to Wear Asian Games Bronze, Weeps on Podium after the controversial decision", 
             "id": "2hz66y", 
             "created-utc": 1412156169.0, 
-            "num-comments": 400
+            "num-comments": 405
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hzg6o/an_estimated_35000_pacific_walrus_have_been/", 
             "domain": "independent.co.uk", 
-            "score": 2931, 
+            "score": 2993, 
             "nsfw": false, 
             "author": "EightRoundsRapid", 
             "url": "http://www.independent.co.uk/environment/35000-walrus-gather-ashore-on-northwest-alaska-beach-for-a-rest-9766616.html", 
             "title": "An estimated 35,000 pacific walrus have been spotted ashore on a beach in north-west Alaska. Unlike seals, the mammals cannot swim indefinitely and are now coming ashore in record numbers as they struggle to find sea ice for resting in the Artic.", 
             "id": "2hzg6o", 
             "created-utc": 1412166316.0, 
-            "num-comments": 668
+            "num-comments": 685
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hwq6r/live_india_can_emerge_as_a_major_world_power_says/", 
             "domain": "zeenews.india.com", 
-            "score": 441, 
+            "score": 436, 
             "nsfw": false, 
             "author": "mikledet", 
             "url": "http://zeenews.india.com/news/narendra-modi-in-us/live-india-can-emerge-as-a-major-world-power-says-us-president-barack-obama_1478159.html", 
@@ -126,7 +126,7 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxgh7/britons_spend_more_on_drugs_and_prostitutes_than/", 
             "domain": "telegraph.co.uk", 
-            "score": 251, 
+            "score": 248, 
             "nsfw": false, 
             "author": "The_Write_Stuff", 
             "url": "http://www.telegraph.co.uk/finance/economics/11131144/Britons-spend-more-on-drugs-and-prostitutes-than-beer-and-wine.html", 
@@ -138,19 +138,19 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxwe4/white_house_exempts_syria_airstrikes_from_tight/", 
             "domain": "news.yahoo.com", 
-            "score": 216, 
+            "score": 213, 
             "nsfw": false, 
             "author": "chrezvychaynaya", 
             "url": "https://news.yahoo.com/white-house-exempts-syria-airstrikes-from-tight-standards-on-civilian-deaths-183724795.html", 
             "title": "White House exempts Syria airstrikes from tight standards on civilian deaths", 
             "id": "2hxwe4", 
             "created-utc": 1412121287.0, 
-            "num-comments": 144
+            "num-comments": 146
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hz95n/the_10000_pigeons_released_in_a_ceremony_for/", 
             "domain": "smh.com.au", 
-            "score": 359, 
+            "score": 364, 
             "nsfw": false, 
             "author": "madazzahatter", 
             "url": "http://www.smh.com.au/world/china-bodysearched-10000-pigeons-reports-20141001-10oq38.html", 
@@ -162,31 +162,31 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hzi4y/hong_kong_prodemocracy_protests_spread_live/", 
             "domain": "theguardian.com", 
-            "score": 700, 
+            "score": 722, 
             "nsfw": false, 
             "author": "kulkke", 
             "url": "http://www.theguardian.com/world/live/2014/oct/01/hong-kong-protests-pro-democracy-rallies-mix-with-national-day-celebrations-live", 
             "title": "Hong Kong pro-democracy protests spread \u2013 live updates | Thousands defy call to leave streets on China\u2019s national holiday as protests spread to new front", 
             "id": "2hzi4y", 
             "created-utc": 1412167824.0, 
-            "num-comments": 70
+            "num-comments": 76
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hzcrm/australian_prime_minister_tony_abbott_reveals_he/", 
             "domain": "abc.net.au", 
-            "score": 251, 
+            "score": 248, 
             "nsfw": false, 
             "author": "debbiedearie", 
             "url": "http://www.abc.net.au/news/2014-10-01/abbott-says-he-wishes-the-burka-was-not-worn-in-australia/5782008", 
             "title": "Australian Prime Minister Tony Abbott reveals he wishes the burka 'was not worn' in Australia", 
             "id": "2hzcrm", 
             "created-utc": 1412163344.0, 
-            "num-comments": 191
+            "num-comments": 192
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hyt07/hong_kong_protest_drone_captures_scale_of_protest/", 
             "domain": "bbc.com", 
-            "score": 184, 
+            "score": 185, 
             "nsfw": false, 
             "author": "smchemique", 
             "url": "http://www.bbc.com/news/world-asia-29421914", 
@@ -198,7 +198,7 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxnmq/mexican_police_recover_burned_remains_of/", 
             "domain": "panampost.com", 
-            "score": 148, 
+            "score": 149, 
             "nsfw": false, 
             "author": "World_News_", 
             "url": "http://panampost.com/belen-marty/2014/09/29/mexican-police-recover-burned-remains-of-kidnapped-congressman/", 
@@ -210,14 +210,14 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hzmbh/under_a_new_russian_law_google_facebook_and/", 
             "domain": "theregister.co.uk", 
-            "score": 683, 
+            "score": 718, 
             "nsfw": false, 
             "author": "idiotlev", 
             "url": "http://www.theregister.co.uk/2014/09/26/google_twitter_facebook_russian_controls/", 
             "title": "Under a new Russian law, Google, Facebook and Twitter must register as \"organizers of information distribution,\" and store all data on Russian users in data centers on Russian soil", 
             "id": "2hzmbh", 
             "created-utc": 1412170699.0, 
-            "num-comments": 89
+            "num-comments": 91
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hzh75/scores_of_students_still_missing_after_ambush_by/", 
@@ -229,12 +229,12 @@
             "title": "Scores of students still missing after ambush by Mexican police and gunmen. The search continued on Tuesday for dozens of students missing since municipal police and unidentified gunmen opened fire on a convoy of buses in the southern Mexican city of Iguala over three days before.", 
             "id": "2hzh75", 
             "created-utc": 1412167112.0, 
-            "num-comments": 35
+            "num-comments": 36
         }, 
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxacr/first_case_of_mers_virus_confirmed_in_austria/", 
             "domain": "reuters.com", 
-            "score": 107, 
+            "score": 106, 
             "nsfw": false, 
             "author": "F16KILLER", 
             "url": "http://www.reuters.com/article/2014/09/30/us-austria-mers-idUSKCN0HP0EN20140930", 
@@ -258,7 +258,7 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hy1ji/belgium_launches_its_biggest_islamist_extremist/", 
             "domain": "reuters.com", 
-            "score": 81, 
+            "score": 76, 
             "nsfw": false, 
             "author": "GreenHandSocks", 
             "url": "http://www.reuters.com/article/2014/09/29/us-syria-crisis-belgium-islamists-idUSKCN0HO1IJ20140929", 
@@ -270,7 +270,7 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hyp5t/ebola_found_for_a_first_time_in_the_states/", 
             "domain": "nytimes.com", 
-            "score": 85, 
+            "score": 90, 
             "nsfw": false, 
             "author": "Bluerainbowsandrain", 
             "url": "http://www.nytimes.com/2014/10/01/health/airline-passenger-with-ebola-is-under-treatment-in-dallas.html?smid=re-share", 
@@ -282,7 +282,7 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxn18/student_protests_in_central_mexico_leave_43/", 
             "domain": "latino.foxnews.com", 
-            "score": 78, 
+            "score": 81, 
             "nsfw": false, 
             "author": "sadatay", 
             "url": "http://latino.foxnews.com/latino/news/2014/09/30/student-protests-in-central-mexico-leave-57-missing-6-dead-and-22-cops-arrested/", 
@@ -294,7 +294,7 @@
         {
             "permalink": "http://www.reddit.com/r/worldnews/comments/2hxskr/norway_is_the_best_place_to_grow_old_according_to/", 
             "domain": "bbc.com", 
-            "score": 76, 
+            "score": 74, 
             "nsfw": false, 
             "author": "NinjaDiscoJesus", 
             "url": "http://www.bbc.com/news/world-29426285", 
@@ -305,6 +305,7 @@
         }
     ], 
     "subreddit": "/r/worldnews/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/worldnews/", 
     "api-url": "http://daily.red/world-news.json", 
     "display-name": "World News", 

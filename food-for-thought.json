@@ -1,12 +1,12 @@
 {
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
-    "generated-utc": 1412191976, 
+    "generated-utc": 1412192237, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hzh55/zimmerman_family_values/", 
             "domain": "gq.com", 
-            "score": 40, 
+            "score": 47, 
             "nsfw": false, 
             "author": "marquis_of_chaos", 
             "url": "http://www.gq.com/news-politics/big-issues/201410/george-zimmerman-family-values", 
@@ -42,7 +42,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hygsq/9_rules_for_emailing_from_google_exec_eric_schmidt/", 
             "domain": "time.com", 
-            "score": 11, 
+            "score": 12, 
             "nsfw": false, 
             "author": "leo_trotzky", 
             "url": "http://time.com/3425368/google-email-rules/", 
@@ -70,7 +70,7 @@
             "nsfw": false, 
             "author": "marquis_of_chaos", 
             "url": "http://www.newcriterion.com/articles.cfm/Guilt-trip--Versailles--avant-garde---kitsch-7942", 
-            "title": "Guilt trip: Versailles, avant-garde &amp; kitsch", 
+            "title": "Guilt trip: Versailles, avant-garde & kitsch", 
             "id": "2hzh80", 
             "created-utc": 1412167132.0, 
             "num-comments": 0
@@ -78,7 +78,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hxk6x/gay_marriage_like_all_marriage_not_worth/", 
             "domain": "reason.com", 
-            "score": 7, 
+            "score": 6, 
             "nsfw": false, 
             "author": "charlatan", 
             "url": "http://reason.com/archives/2012/05/16/gay-marriage-like-all-marriage-not-worth", 
@@ -102,7 +102,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwuax/national_minimum_wage_nmw_doesnt_make_any/", 
             "domain": "autarchskiss.blogspot.co.uk", 
-            "score": 5, 
+            "score": 4, 
             "nsfw": false, 
             "author": "JustExtreme", 
             "url": "http://autarchskiss.blogspot.co.uk/2014/09/national-minimum-wage-nmw-doesnt-make.html", 
@@ -114,7 +114,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hyhl2/the_case_against_qatar_how_a_tiny_emirate_has_a/", 
             "domain": "foreignpolicy.com", 
-            "score": 4, 
+            "score": 6, 
             "nsfw": false, 
             "author": "Quouar", 
             "url": "http://www.foreignpolicy.com/articles/2014/09/30/the_case_against_qatar_funding_extremists_salafi_syria_uae_jihad_muslim_brotherhood_taliban", 
@@ -126,7 +126,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hy69g/can_hard_criminals_change_a_perspective_from/", 
             "domain": "ted.com", 
-            "score": 5, 
+            "score": 3, 
             "nsfw": false, 
             "author": "fstorino", 
             "url": "http://www.ted.com/talks/daniel_reisel_the_neuroscience_of_restorative_justice", 
@@ -138,7 +138,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwrly/revisiting_the_lehman_brothers_bailout_that_never/", 
             "domain": "nytimes.com", 
-            "score": 4, 
+            "score": 5, 
             "nsfw": false, 
             "author": "DoremusJessup", 
             "url": "http://www.nytimes.com/2014/09/30/business/revisiting-the-lehman-brothers-bailout-that-never-was.html?smid=re-share", 
@@ -150,7 +150,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2i0131/who_decides_what_medical_care_you_receive_at_end/", 
             "domain": "forbes.com", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "author": "cavehobbit", 
             "url": "http://www.forbes.com/sites/paulhsieh/2014/09/29/who-decides-what-medical-care-you-receive-at-end-of-life/", 
@@ -162,7 +162,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hx5o8/here_is_when_each_generation_begins_and_ends/", 
             "domain": "thewire.com", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "author": "charlatan", 
             "url": "http://www.thewire.com/politics/2014/03/here-is-when-each-generation-begins-and-ends-according-to-facts/359589/", 
@@ -174,7 +174,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2i071r/reexamining_residency_requirements_for_police/", 
             "domain": "fivethirtyeight.com", 
-            "score": 7, 
+            "score": 8, 
             "nsfw": false, 
             "author": "DoremusJessup", 
             "url": "http://fivethirtyeight.com/features/reexamining-residency-requirements-for-police-officers/", 
@@ -233,6 +233,7 @@
         }
     ], 
     "subreddit": "/r/Foodforthought/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/Foodforthought/", 
     "api-url": "http://daily.red/food-for-thought.json", 
     "display-name": "Food for Thought", 

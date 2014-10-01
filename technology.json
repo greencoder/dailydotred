@@ -1,60 +1,60 @@
 {
     "description": "News stories related to technology", 
     "title": "Technology", 
-    "generated-utc": 1412191961, 
+    "generated-utc": 1412192223, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hz29z/starting_today_uk_citizens_are_free_to_copy_mp3s/", 
             "domain": "torrentfreak.com", 
-            "score": 4638, 
+            "score": 4643, 
             "nsfw": false, 
             "author": "Libertatea", 
             "url": "http://torrentfreak.com/uk-government-legalizes-cd-ripping-cloud-backups-today-141001/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29", 
             "title": "Starting today UK citizens are free to copy MP3s, CDs, DVDs and live broadcasts for personal use. After an unexpected delay, UK copyright law was amended to legalize this common form of copying. In addition, the changes also broaden other forms of fair use, including parody and quotation rights.", 
             "id": "2hz29z", 
             "created-utc": 1412151512.0, 
-            "num-comments": 667
+            "num-comments": 669
         }, 
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hwmdr/the_new_windows_is_to_be_called_windows_10/", 
             "domain": "infoworld.com", 
-            "score": 3969, 
+            "score": 3966, 
             "nsfw": false, 
             "author": "Captainaddy44", 
             "url": "http://www.infoworld.com/article/2613504/microsoft-windows/microsoft-skips--too-good--windows-9--jumps-to-windows-10.html", 
             "title": "The new Windows is to be called \"Windows 10\", inexplicably skipping 9. What's funnier is the fact this was \"predicted\" by InfoWorld over a year ago in an April Fools' article.", 
             "id": "2hwmdr", 
             "created-utc": 1412097141.0, 
-            "num-comments": 2158
+            "num-comments": 2159
         }, 
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hx0oo/your_smartphone_will_soon_be_encrypted_by_default/", 
             "domain": "theguardian.com", 
-            "score": 1870, 
+            "score": 1868, 
             "nsfw": false, 
             "author": "bluegerm", 
             "url": "http://www.theguardian.com/commentisfree/2014/sep/30/iphone-6-encrypted-phone-data-default?CMP=fb_gu", 
             "title": "Your smartphone will soon be encrypted by default, and Apple or Google claim they will not be able open it for anyone \u2013 law enforcement, the FBI and possibly the NSA \u2013 even if they wanted to. Naturally, the US government is flipping out.", 
             "id": "2hx0oo", 
             "created-utc": 1412104303.0, 
-            "num-comments": 157
+            "num-comments": 158
         }, 
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hwy0r/reddit_gets_50_million_in_funding_and_will_share/", 
             "domain": "theverge.com", 
-            "score": 1782, 
+            "score": 1781, 
             "nsfw": false, 
             "author": "dbs87", 
             "url": "http://www.theverge.com/2014/9/30/6874353/reddit-50-million-funding-give-users-10-percent-stock-equity", 
             "title": "Reddit gets $50 million in funding and will share 10 percent of that with its users", 
             "id": "2hwy0r", 
             "created-utc": 1412102985.0, 
-            "num-comments": 444
+            "num-comments": 445
         }, 
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hz466/the_government_says_iphone_encryption_helps/", 
             "domain": "vox.com", 
-            "score": 806, 
+            "score": 817, 
             "nsfw": false, 
             "author": "SergeyGor", 
             "url": "http://www.vox.com/2014/9/29/6854679/iphone-encryption-james-comey-government-backdoor", 
@@ -66,7 +66,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hwqxq/everything_we_know_about_windows_10/", 
             "domain": "self.technology", 
-            "score": 203, 
+            "score": 206, 
             "nsfw": false, 
             "author": "larperdoodle", 
             "url": "http://www.reddit.com/r/technology/comments/2hwqxq/everything_we_know_about_windows_10/", 
@@ -78,7 +78,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hyc1l/this_is_why_you_should_install_an_ad_blocker_even/", 
             "domain": "arstechnica.com", 
-            "score": 144, 
+            "score": 148, 
             "nsfw": false, 
             "author": "Denyborg", 
             "url": "http://arstechnica.com/security/2014/09/advertising-firms-struggle-to-kill-malvertisements/", 
@@ -90,7 +90,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hxoat/secret_service_declassified_another_500_pages/", 
             "domain": "theblackvault.com", 
-            "score": 126, 
+            "score": 119, 
             "nsfw": false, 
             "author": "blackvault", 
             "url": "http://www.theblackvault.com/m/articles/view/Aaron-Swartz", 
@@ -102,7 +102,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hxg1v/arduino_to_sell_3d_printer800_in_kit_form_or_1000/", 
             "domain": "arstechnica.com", 
-            "score": 114, 
+            "score": 116, 
             "nsfw": false, 
             "author": "RockDiesel", 
             "url": "http://arstechnica.com/information-technology/2014/09/arduino-to-sell-3d-printer-800-in-kit-form-or-1000-pre-assembled/", 
@@ -114,7 +114,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hwog0/its_official_windows_10_will_be_the_name_for/", 
             "domain": "theverge.com", 
-            "score": 106, 
+            "score": 109, 
             "nsfw": false, 
             "author": "rahuldulta", 
             "url": "http://www.theverge.com/2014/9/30/6868695/microsoft-windows-10-announced-official", 
@@ -126,19 +126,19 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hyoot/top_10_flashlight_apps_are_stealing_your_data/", 
             "domain": "benswann.com", 
-            "score": 97, 
+            "score": 104, 
             "nsfw": false, 
             "author": "davidverner", 
             "url": "http://benswann.com/exclusive-top-10-flashlight-apps-are-stealing-your-data-even-pics-off-your-phone/", 
             "title": "Top 10 Flashlight Apps Are Stealing Your Data, Even Pics Off Your Phone", 
             "id": "2hyoot", 
             "created-utc": 1412138536.0, 
-            "num-comments": 41
+            "num-comments": 42
         }, 
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hz85z/uk_legalizes_cd_ripping_and_cloud_backups_today/", 
             "domain": "torrentfreak.com", 
-            "score": 91, 
+            "score": 88, 
             "nsfw": false, 
             "author": "KAPT_Kipper", 
             "url": "http://torrentfreak.com/uk-government-legalizes-cd-ripping-cloud-backups-today-141001/", 
@@ -150,7 +150,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hwmbb/windows_10_is_the_official_name_for_microsofts/", 
             "domain": "theverge.com", 
-            "score": 49, 
+            "score": 53, 
             "nsfw": false, 
             "author": "KoolAidMan1", 
             "url": "http://www.theverge.com/2014/9/30/6868695/microsoft-windows-9-announced-official", 
@@ -174,7 +174,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hx5wj/reddit_plans_its_own_cryptocurrency_to_give_back/", 
             "domain": "techcrunch.com", 
-            "score": 43, 
+            "score": 45, 
             "nsfw": false, 
             "author": "rs16", 
             "url": "http://techcrunch.com/2014/09/30/reddit-scoops-up-50m-series-b-from-sam-altman-a16z-sequoia-at-500m-valuation/?ncid=rss", 
@@ -186,7 +186,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hx886/fcc_eliminates_sports_blackout_rules/", 
             "domain": "fcc.gov", 
-            "score": 38, 
+            "score": 32, 
             "nsfw": false, 
             "author": "1ch", 
             "url": "https://www.fcc.gov/document/fcc-eliminates-sports-blackout-rules", 
@@ -198,7 +198,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hwsv6/uber_used_private_location_data_for_party/", 
             "domain": "valleywag.gawker.com", 
-            "score": 30, 
+            "score": 27, 
             "nsfw": false, 
             "author": "marji80", 
             "url": "http://valleywag.gawker.com/uber-used-private-location-data-for-party-amusement-1640820384/+laceydonohue", 
@@ -210,7 +210,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hykt1/hackers_charged_with_stealing_over_100m_in_us/", 
             "domain": "theguardian.com", 
-            "score": 30, 
+            "score": 31, 
             "nsfw": false, 
             "author": "intergalactic512", 
             "url": "http://www.theguardian.com/technology/2014/sep/30/four-hackers-charged-stealing-xbox-army-technology", 
@@ -222,7 +222,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hxrbh/grooveshark_where_employees_uploaded_thousands_of/", 
             "domain": "arstechnica.com", 
-            "score": 27, 
+            "score": 29, 
             "nsfw": false, 
             "author": "kulkke", 
             "url": "http://arstechnica.com/tech-policy/2014/09/judge-rules-grooveshark-infringed-thousands-of-copyrights/", 
@@ -234,7 +234,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hx4h3/peak_ipv4_global_ipv6_traffic_is_growing_ddos/", 
             "domain": "theregister.co.uk", 
-            "score": 26, 
+            "score": 30, 
             "nsfw": false, 
             "author": "ActualStack", 
             "url": "http://www.theregister.co.uk/2014/09/30/its_about_time_were_finally_getting_off_ipv4_says_akamai/", 
@@ -246,7 +246,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hyq8x/australian_telco_to_revamp_payphones_into_wifi/", 
             "domain": "news.com.au", 
-            "score": 23, 
+            "score": 22, 
             "nsfw": false, 
             "author": "lewko", 
             "url": "http://www.news.com.au/finance/business/telstra-to-revamp-payphones-into-wifi-hot-spots/story-fn5lic6c-1227075008995", 
@@ -258,7 +258,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hyin4/the_worst_legal_advice_ever_presented_by_a/", 
             "domain": "techdirt.com", 
-            "score": 21, 
+            "score": 18, 
             "nsfw": false, 
             "author": "HoussenMoshine", 
             "url": "https://www.techdirt.com/articles/20140930/04474128668/worst-legal-advice-ever-presented-clueless-blogger-insurance-company.shtml", 
@@ -270,7 +270,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hwwv0/thought_crime_uk_leadership_wants_to_ban/", 
             "domain": "techdirt.com", 
-            "score": 21, 
+            "score": 19, 
             "nsfw": false, 
             "author": "wonkadonk", 
             "url": "https://www.techdirt.com/articles/20140930/06101628670/thought-crime-uk-leadership-wants-to-ban-predicted-extremists-social-media-tv-events.shtml", 
@@ -282,7 +282,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hyqd9/the_us_federal_aviation_administration_is/", 
             "domain": "reuters.com", 
-            "score": 19, 
+            "score": 20, 
             "nsfw": false, 
             "author": "Scientologist2a", 
             "url": "http://www.reuters.com/article/2014/10/01/us-boeing-faa-idUSKCN0HQ2TH20141001", 
@@ -294,7 +294,7 @@
         {
             "permalink": "http://www.reddit.com/r/technology/comments/2hzy6p/computercop_the_dubious_internet_safety_software/", 
             "domain": "eff.org", 
-            "score": 55, 
+            "score": 57, 
             "nsfw": false, 
             "author": "ajehals", 
             "url": "https://www.eff.org/deeplinks/2014/09/computercop-dangerous-internet-safety-software-hundreds-police-agencies", 
@@ -305,6 +305,7 @@
         }
     ], 
     "subreddit": "/r/technology/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/technology/", 
     "api-url": "http://daily.red/technology.json", 
     "display-name": "Technology", 

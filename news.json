@@ -1,48 +1,48 @@
 {
     "description": "Real news articles, primarily but not exclusively, news relating to the United States", 
     "title": "All news, US and international.", 
-    "generated-utc": 1412191928, 
+    "generated-utc": 1412192188, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hxb21/cdc_confirms_first_ebola_case_diagnosed_in_us/", 
             "domain": "cnbc.com", 
-            "score": 4542, 
+            "score": 4546, 
             "nsfw": false, 
             "author": "gpia7r", 
             "url": "http://www.cnbc.com/id/102037055", 
             "title": "CDC confirms first ebola case diagnosed in US", 
             "id": "2hxb21", 
             "created-utc": 1412109655.0, 
-            "num-comments": 7096
+            "num-comments": 7097
         }, 
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hzac1/snoop_dogg_now_a_coowner_of_reddit/", 
             "domain": "independent.co.uk", 
-            "score": 3158, 
+            "score": 3155, 
             "nsfw": false, 
             "author": "Boaring", 
             "url": "http://www.independent.co.uk/news/business/news/snoop-dogg-and-jared-leto-join-silicon-valley-elite-in-50m-reddit-fundraising-9766489.html", 
             "title": "Snoop Dogg now a co-owner of Reddit", 
             "id": "2hzac1", 
             "created-utc": 1412160996.0, 
-            "num-comments": 1548
+            "num-comments": 1555
         }, 
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hyc73/north_dakota_to_consider_providing_free_college/", 
             "domain": "valleynewslive.com", 
-            "score": 1862, 
+            "score": 1861, 
             "nsfw": false, 
             "author": "HeWhoSubmitsThings", 
             "url": "http://www.valleynewslive.com/story/26668259/free-college-tuition-for-north-dakota-students", 
             "title": "North Dakota to consider providing free college tuition utilizing its $5,000,000,000 annual oil revenue", 
             "id": "2hyc73", 
             "created-utc": 1412130352.0, 
-            "num-comments": 283
+            "num-comments": 284
         }, 
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hx6c1/76_of_79_deceased_nfl_players_found_to_have_brain/", 
             "domain": "pbs.org", 
-            "score": 709, 
+            "score": 699, 
             "nsfw": false, 
             "author": "eddiemarshall", 
             "url": "http://www.pbs.org/wgbh/pages/frontline/sports/concussion-watch/76-of-79-deceased-nfl-players-found-to-have-brain-disease/", 
@@ -54,19 +54,19 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hy2el/apple_will_not_allow_publications_who_post/", 
             "domain": "computerbild.de", 
-            "score": 711, 
+            "score": 722, 
             "nsfw": false, 
             "author": "GooglePlex9000", 
             "url": "http://www.computerbild.de/artikel/cb-News-Handy-Apple-boycotts-COMPUTER-BILD-An-open-letter-to-Tim-Cook-10953399.html", 
             "title": "Apple Will Not Allow Publications Who Post \"#bendgate\" Coverage To Receive Test Devices and Take Part In Future Events", 
             "id": "2hy2el", 
             "created-utc": 1412124651.0, 
-            "num-comments": 275
+            "num-comments": 276
         }, 
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hzbjb/pulling_the_curtain_back_on_longhidden_industry/", 
             "domain": "latimes.com", 
-            "score": 843, 
+            "score": 858, 
             "nsfw": false, 
             "author": "madazzahatter", 
             "url": "http://www.latimes.com/business/la-fi-doctors-payments-20141001-story.html", 
@@ -78,19 +78,19 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hz9r2/arkansas_shooting_range_declares_itself_a_muslim/", 
             "domain": "washingtontimes.com", 
-            "score": 513, 
+            "score": 514, 
             "nsfw": false, 
             "author": "Manpreeto", 
             "url": "http://www.washingtontimes.com/news/2014/sep/30/arkansas-shooting-range-declares-itself-a-muslim-f/", 
             "title": "Arkansas shooting range declares itself a \"muslim free zone\"", 
             "id": "2hz9r2", 
             "created-utc": 1412160369.0, 
-            "num-comments": 402
+            "num-comments": 404
         }, 
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hwv7g/the_girls_who_were_taken_before_hannah_graham_one/", 
             "domain": "thedailybeast.com", 
-            "score": 233, 
+            "score": 230, 
             "nsfw": false, 
             "author": "johnbailey1", 
             "url": "http://www.thedailybeast.com/articles/2014/09/30/the-girls-who-were-taken-before-hannah-graham.html", 
@@ -102,7 +102,7 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hxqce/white_samesex_couple_sues_sperm_bank_for_giving/", 
             "domain": "chicagotribune.com", 
-            "score": 238, 
+            "score": 235, 
             "nsfw": false, 
             "author": "kaps84", 
             "url": "http://www.chicagotribune.com/news/local/breaking/ct-sperm-donor-lawsuit-met-20140930-story.html", 
@@ -114,19 +114,19 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hzqah/eric_holder_didnt_send_a_single_banker_to_jail/", 
             "domain": "theguardian.com", 
-            "score": 1013, 
+            "score": 1050, 
             "nsfw": false, 
             "author": "ShellOilNigeria", 
             "url": "http://www.theguardian.com/money/us-money-blog/2014/sep/25/eric-holder-resign-mortgage-abuses-americans", 
             "title": "Eric Holder didn't send a single banker to jail for the mortgage crisis.", 
             "id": "2hzqah", 
             "created-utc": 1412173198.0, 
-            "num-comments": 156
+            "num-comments": 163
         }, 
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hwsie/effort_underway_to_legalize_marijuana_in/", 
             "domain": "clarionledger.com", 
-            "score": 222, 
+            "score": 225, 
             "nsfw": false, 
             "author": "NegroMedic", 
             "url": "http://www.clarionledger.com/story/news/politics/2014/09/30/group-seeks-ballot-initative-legalize-marijuana-ms/16478031/", 
@@ -138,19 +138,19 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hziwz/florida_cop_suspended_after_shooting_62yearold/", 
             "domain": "csmonitor.com", 
-            "score": 367, 
+            "score": 359, 
             "nsfw": false, 
             "author": "JackassWhisperer", 
             "url": "http://www.csmonitor.com/USA/Latest-News-Wires/2014/1001/Florida-cop-suspended-after-shooting-black-woman-in-back-with-stun-gun", 
             "title": "Florida cop suspended after shooting 62-year-old black woman in back with stun gun", 
             "id": "2hziwz", 
             "created-utc": 1412168424.0, 
-            "num-comments": 121
+            "num-comments": 123
         }, 
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hz87f/jamaicas_justice_minister_said_tuesday_that/", 
             "domain": "usatoday.com", 
-            "score": 258, 
+            "score": 257, 
             "nsfw": false, 
             "author": "madazzahatter", 
             "url": "http://www.usatoday.com/story/news/world/2014/09/30/pot-decriminalization-jamaica/16512359/", 
@@ -162,7 +162,7 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hwovf/lower_iq_in_children_linked_to_chemical_in_water/", 
             "domain": "scientificamerican.com", 
-            "score": 175, 
+            "score": 174, 
             "nsfw": false, 
             "author": "nirad", 
             "url": "http://www.scientificamerican.com/article/lower-iq-in-children-linked-to-chemical-in-water/", 
@@ -174,7 +174,7 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hxbgi/dallas_ebola_case_confirmed_by_cdc_first/", 
             "domain": "dallasnews.com", 
-            "score": 170, 
+            "score": 172, 
             "nsfw": false, 
             "author": "bambalame", 
             "url": "http://www.dallasnews.com/news/metro/20140929-dallas-ebola-case-confirmed-by-cdc-first-diagnosis-in-u.s..ece", 
@@ -193,7 +193,7 @@
             "title": "Ginsburg Says Citizens United Was Supreme Court\u2019s Worst Ruling", 
             "id": "2hygxl", 
             "created-utc": 1412133270.0, 
-            "num-comments": 101
+            "num-comments": 103
         }, 
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hyu6f/california_will_allow_family_members_to_seek/", 
@@ -210,7 +210,7 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hy39k/german_universities_will_be_tuitionfree/", 
             "domain": "thetimes.co.uk", 
-            "score": 139, 
+            "score": 141, 
             "nsfw": false, 
             "author": "whatmeworkquestion", 
             "url": "http://www.thetimes.co.uk/tto/news/world/europe/article4213550.ece", 
@@ -222,7 +222,7 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hwqip/this_city_is_demanding_125_to_take_pictures_in/", 
             "domain": "benswann.com", 
-            "score": 128, 
+            "score": 129, 
             "nsfw": false, 
             "author": "Sheilaaliens", 
             "url": "http://benswann.com/this-city-is-demanding-125-just-to-take-pictures-in-public-parks/", 
@@ -234,7 +234,7 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hzb9k/nasa_images_reveal_shocking_scale_of_aral_sea/", 
             "domain": "foxnews.com", 
-            "score": 158, 
+            "score": 161, 
             "nsfw": false, 
             "author": "undue-influence", 
             "url": "http://www.foxnews.com/science/2014/10/01/nasa-images-reveal-shocking-scale-aral-sea-environmental-disaster/?intcmp=latestnews", 
@@ -246,7 +246,7 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hwooj/reddit_plans_to_share_50_million_from_latest/", 
             "domain": "recode.net", 
-            "score": 123, 
+            "score": 121, 
             "nsfw": false, 
             "author": "twitterer4", 
             "url": "http://recode.net/2014/09/30/reddit-raises-50m-plans-to-share-stock-with-community-members/", 
@@ -258,7 +258,7 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hzi8l/former_tsa_officer_accused_of_secretly_recording/", 
             "domain": "news.yahoo.com", 
-            "score": 132, 
+            "score": 131, 
             "nsfw": false, 
             "author": "gnujack", 
             "url": "http://news.yahoo.com/former-tsa-officer-accused-secretly-recording-female-co-004224316.html", 
@@ -270,7 +270,7 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hzcyi/35000_walruses_stranded_as_global_warming_shrinks/", 
             "domain": "independent.co.uk", 
-            "score": 116, 
+            "score": 122, 
             "nsfw": false, 
             "author": "WessexTV", 
             "url": "http://www.independent.co.uk/environment/35000-walrus-gather-ashore-on-northwest-alaska-beach-for-a-rest-9766616.html", 
@@ -282,14 +282,14 @@
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hzv1u/second_person_being_monitored_for_possible_ebola/", 
             "domain": "usatoday.com", 
-            "score": 159, 
+            "score": 163, 
             "nsfw": false, 
             "author": "xxStitchxx", 
             "url": "http://www.usatoday.com/story/news/nation/2014/10/01/texas-ebola-patient/16525649/", 
             "title": "Second person being monitored for possible Ebola infection", 
             "id": "2hzv1u", 
             "created-utc": 1412175924.0, 
-            "num-comments": 181
+            "num-comments": 184
         }, 
         {
             "permalink": "http://www.reddit.com/r/news/comments/2hyx8l/intruder_uses_golf_club_to_kill_920_foster_farms/", 
@@ -305,6 +305,7 @@
         }
     ], 
     "subreddit": "/r/news/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/news/", 
     "api-url": "http://daily.red/news.json", 
     "display-name": "News", 

@@ -1,24 +1,24 @@
 {
     "description": "A television subreddit for thoughtful discussion, reviews, and top level news sources.", 
     "title": "/r/television - A premium-quality television subreddit", 
-    "generated-utc": 1412191995, 
+    "generated-utc": 1412192256, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hyrht/the_fcc_is_considering_implementng_fines_for/", 
             "domain": "variety.com", 
-            "score": 1241, 
+            "score": 1245, 
             "nsfw": false, 
             "author": "Dorkside", 
             "url": "http://variety.com/2014/tv/news/redskins-ban-fcc-1201317855/", 
             "title": "The FCC is considering implementng fines for saying \"Redskins\" on broadcast television", 
             "id": "2hyrht", 
             "created-utc": 1412140732.0, 
-            "num-comments": 1490
+            "num-comments": 1506
         }, 
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hxl9j/yvette_nicole_brown_leaves_community/", 
             "domain": "imdb.com", 
-            "score": 470, 
+            "score": 466, 
             "nsfw": false, 
             "author": "stepae", 
             "url": "http://imdb.com/rg/an_share/news/news/ni57810398", 
@@ -30,7 +30,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hxl5e/jon_stewart_tears_fox_news_a_new_one_and/", 
             "domain": "thedailyshow.cc.com", 
-            "score": 154, 
+            "score": 156, 
             "nsfw": false, 
             "author": "Bodark", 
             "url": "http://thedailyshow.cc.com/videos/b7hxzd/the-way-we-war", 
@@ -42,7 +42,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hxb83/fx_renews_comedies_married_and_youre_the_worst/", 
             "domain": "deadline.com", 
-            "score": 102, 
+            "score": 99, 
             "nsfw": false, 
             "author": "Dorkside", 
             "url": "http://deadline.com/2014/09/married-youre-the-worst-renewed-season-2-fx-fxx-843762/", 
@@ -54,7 +54,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hyxvv/first_full_trailer_for_american_horror_story/", 
             "domain": "youtube.com", 
-            "score": 129, 
+            "score": 132, 
             "nsfw": false, 
             "author": "dandoolan", 
             "url": "https://www.youtube.com/watch?v=EkI2Akgpfig", 
@@ -66,19 +66,19 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hzq28/fox_news_nabs_historic_cable_ratings_victory/", 
             "domain": "hollywoodreporter.com", 
-            "score": 34, 
+            "score": 37, 
             "nsfw": false, 
             "author": "soxTD", 
             "url": "http://www.hollywoodreporter.com/live-feed/fox-news-nabs-historic-cable-736624?", 
             "title": "Fox News Nabs Historic Cable Ratings Victory", 
             "id": "2hzq28", 
             "created-utc": 1412173056.0, 
-            "num-comments": 53
+            "num-comments": 54
         }, 
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hxi6n/showrunners_the_art_of_running_a_tv_documentary/", 
             "domain": "youtube.com", 
-            "score": 24, 
+            "score": 22, 
             "nsfw": false, 
             "author": "Rubix89", 
             "url": "https://www.youtube.com/watch?v=aYWRgqRcSO4", 
@@ -90,7 +90,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hztj2/netflix_sets_plans_for_animated_series_kong_king/", 
             "domain": "insidetv.ew.com", 
-            "score": 51, 
+            "score": 47, 
             "nsfw": false, 
             "author": "Melanismdotcom", 
             "url": "http://insidetv.ew.com/2014/10/01/netflix-kong-king-of-the-apes/", 
@@ -102,14 +102,14 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2i00zm/tim_conway_just_destroys_a_sketch_on_the_carol/", 
             "domain": "youtube.com", 
-            "score": 125, 
+            "score": 129, 
             "nsfw": false, 
             "author": "KazamaSmokers", 
             "url": "http://www.youtube.com/watch?v=3qqE_WmagjY", 
             "title": "Tim Conway just DESTROYS a sketch on the Carol Burnett show.", 
             "id": "2i00zm", 
             "created-utc": 1412179151.0, 
-            "num-comments": 29
+            "num-comments": 30
         }, 
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hz3t4/first_3_minutes_of_the_100_season_2/", 
@@ -126,7 +126,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hy9x9/famous_tv_show_casts_before_they_were_famous/", 
             "domain": "worldwideinterweb.com", 
-            "score": 15, 
+            "score": 14, 
             "nsfw": false, 
             "author": "MoistMan69", 
             "url": "http://www.worldwideinterweb.com/item/7213-famous-tv-show-casts-before-they-were-famous.html", 
@@ -154,7 +154,7 @@
             "nsfw": false, 
             "author": "Melanismdotcom", 
             "url": "http://deadline.com/2014/09/rush-hour-tv-series-bill-lawrence-brett-ratner-843720/", 
-            "title": "\u2018Rush Hour\u2019 To Be Remade As Action Series From Bill Lawrence &amp; Brett Ratner", 
+            "title": "\u2018Rush Hour\u2019 To Be Remade As Action Series From Bill Lawrence & Brett Ratner", 
             "id": "2hxe6g", 
             "created-utc": 1412111262.0, 
             "num-comments": 25
@@ -174,7 +174,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hzguz/anthony_bourdain_onetime_chef_culinary_explorer/", 
             "domain": "eater.com", 
-            "score": 14, 
+            "score": 13, 
             "nsfw": false, 
             "author": "zsreport", 
             "url": "http://www.eater.com/2014/9/30/6874303/anthony-bourdain-chef-culinary-explorer-cnn-savior", 
@@ -198,7 +198,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hxq33/10_cruel_and_unusual_reality_tv_shows_from_around/", 
             "domain": "youtube.com", 
-            "score": 9, 
+            "score": 11, 
             "nsfw": false, 
             "author": "Adamj1", 
             "url": "https://www.youtube.com/watch?v=F_2IaW2ffxY", 
@@ -210,7 +210,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hzwjz/tom_hanks_big_is_coming_to_the_small_screen/", 
             "domain": "irishexaminer.com", 
-            "score": 14, 
+            "score": 13, 
             "nsfw": false, 
             "author": "KazamaSmokers", 
             "url": "http://www.irishexaminer.com/examviral/celeb-life/tom-hanks-big-coming-to-small-screen-289442.html", 
@@ -234,7 +234,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2i01xd/carried_away_can_homeland_outrun_its_past_by_andy/", 
             "domain": "grantland.com", 
-            "score": 17, 
+            "score": 18, 
             "nsfw": false, 
             "author": "Melanismdotcom", 
             "url": "http://grantland.com/hollywood-prospectus/homeland-showtime-season-4-claire-danes/", 
@@ -246,7 +246,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hzrlq/could_someone_explain_a_joke_from_a_book_to_me/", 
             "domain": "self.television", 
-            "score": 9, 
+            "score": 11, 
             "nsfw": false, 
             "author": "IckGlokmah", 
             "url": "http://www.reddit.com/r/television/comments/2hzrlq/could_someone_explain_a_joke_from_a_book_to_me/", 
@@ -270,7 +270,7 @@
         {
             "permalink": "http://www.reddit.com/r/television/comments/2hyaau/fred_armisen_as_ira_glassunaired_dress_rehearsal/", 
             "domain": "screen.yahoo.com", 
-            "score": 4, 
+            "score": 6, 
             "nsfw": false, 
             "author": "hambonekneeslap", 
             "url": "https://screen.yahoo.com/dress-rehearsal-exclusive-fred-ira-005203006.html", 
@@ -301,10 +301,11 @@
             "title": "What are some deaths that occurred on comedies?", 
             "id": "2hzzdg", 
             "created-utc": 1412178298.0, 
-            "num-comments": 20
+            "num-comments": 21
         }
     ], 
     "subreddit": "/r/television/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/television/", 
     "api-url": "http://daily.red/television.json", 
     "display-name": "Television", 

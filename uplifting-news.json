@@ -1,12 +1,12 @@
 {
     "description": "A place to read and share positive and uplifting, feel good news stories", 
     "title": "Uplifting News", 
-    "generated-utc": 1412191942, 
+    "generated-utc": 1412192203, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hy0g6/reddit_ceo_giving_stock_to_users/", 
             "domain": "techcrunch.com", 
-            "score": 1008, 
+            "score": 1009, 
             "nsfw": false, 
             "author": "dubmose", 
             "url": "http://techcrunch.com/2014/09/30/reddit-fundraising/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;utm_content=FaceBook", 
@@ -18,19 +18,19 @@
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hzt5z/cop_offers_to_help_thief_instead_of_arresting_her/", 
             "domain": "thechive.com", 
-            "score": 911, 
+            "score": 915, 
             "nsfw": false, 
             "author": "InFocusForOnce", 
             "url": "http://thechive.com/2014/10/01/cop-opts-not-to-arrest-a-thief-and-instead-changes-her-life-4-photos/", 
             "title": "Cop offers to help thief instead of arresting her for stealing groceries. Generosity ensues.", 
             "id": "2hzt5z", 
             "created-utc": 1412174843.0, 
-            "num-comments": 187
+            "num-comments": 192
         }, 
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hxoa0/boy_with_no_face_since_his_birth_is_ready_to_get/", 
             "domain": "lidtime.com", 
-            "score": 51, 
+            "score": 52, 
             "nsfw": false, 
             "author": "mikledet", 
             "url": "http://www.lidtime.com/boy-with-no-face-since-his-birth-is-ready-to-get-life-changing-surgery/", 
@@ -54,7 +54,7 @@
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hx25p/reddit_raises_50_million_in_funding_giving_5/", 
             "domain": "theverge.com", 
-            "score": 18, 
+            "score": 16, 
             "nsfw": false, 
             "author": "freefall1n", 
             "url": "http://www.theverge.com/2014/9/30/6874353/reddit-50-million-funding-give-users-10-percent-stock-equity", 
@@ -66,7 +66,7 @@
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hxnzz/norway_ranked_best_for_older_people/", 
             "domain": "voanews.com", 
-            "score": 15, 
+            "score": 17, 
             "nsfw": false, 
             "author": "mikledet", 
             "url": "http://www.voanews.com/content/ageing-report-2014-30sept14/2467425.html", 
@@ -78,7 +78,7 @@
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hyq9d/rescuers_save_dog_stuck_in_tar/", 
             "domain": "mashable.com", 
-            "score": 8, 
+            "score": 10, 
             "nsfw": false, 
             "author": "Pka152", 
             "url": "http://mashable.com/2014/10/01/rescuers-save-dog-stuck-in-tar/?utm_cid=mash-com-Tw-main-link", 
@@ -137,6 +137,7 @@
         }
     ], 
     "subreddit": "/r/UpliftingNews/", 
+    "expires-utc": 1412200800, 
     "reddit-url": "http://www.reddit.com/r/UpliftingNews/", 
     "api-url": "http://daily.red/uplifting-news.json", 
     "display-name": "Uplifting News", 
