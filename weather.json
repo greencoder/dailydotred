@@ -1,12 +1,12 @@
 {
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
-    "generated-utc": 1412192213, 
+    "generated-utc": 1412200835, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/weather/comments/2hxplk/itap_of_an_amazing_sky/", 
             "domain": "i.imgur.com", 
-            "score": 18, 
+            "score": 20, 
             "nsfw": false, 
             "author": "Grjnnf", 
             "url": "http://i.imgur.com/KN93qGF.jpg", 
@@ -18,14 +18,14 @@
         {
             "permalink": "http://www.reddit.com/r/weather/comments/2hyx4t/hd_timelapse_convective_rain_shower_triggered_by/", 
             "domain": "youtube.com", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "author": "ltsaGiraffe", 
             "url": "https://www.youtube.com/watch?v=0y24XtUzczI", 
             "title": "HD Timelapse: Convective rain shower triggered by power plant exhaust plume", 
             "id": "2hyx4t", 
             "created-utc": 1412145747.0, 
-            "num-comments": 6
+            "num-comments": 5
         }, 
         {
             "permalink": "http://www.reddit.com/r/weather/comments/2hyybo/shes_a_dry_one_today_in_the_land_of_oz/", 
@@ -65,7 +65,7 @@
         }
     ], 
     "subreddit": "/r/weather/", 
-    "expires-utc": 1412200800, 
+    "expires-utc": 1412258400, 
     "reddit-url": "http://www.reddit.com/r/weather/", 
     "api-url": "http://daily.red/weather.json", 
     "display-name": "Weather", 

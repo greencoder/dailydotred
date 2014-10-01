@@ -1,12 +1,12 @@
 {
     "description": "The subreddit for opinion, analysis, and discussion of recent events", 
     "title": "In the News: Opinion, Analysis, and Discussion", 
-    "generated-utc": 1412192199, 
+    "generated-utc": 1412200821, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hxd7b/dallas_ebola_case_confirmed_by_cdc_first/", 
             "domain": "dallasnews.com", 
-            "score": 69, 
+            "score": 71, 
             "nsfw": false, 
             "author": "zsreport", 
             "url": "http://www.dallasnews.com/news/metro/20140929-dallas-ebola-case-confirmed-by-cdc-first-diagnosis-in-u.s..ece", 
@@ -16,9 +16,21 @@
             "num-comments": 20
         }, 
         {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzmvp/8_disturbing_ways_the_kochs_have_amassed_their/", 
+            "domain": "salon.com", 
+            "score": 33, 
+            "nsfw": false, 
+            "author": "michaelconfoy", 
+            "url": "http://www.salon.com/2014/10/01/8_disturbing_ways_the_kochs_have_amassed_their_fortune_partner/", 
+            "title": "8 disturbing ways the Kochs have amassed their fortune", 
+            "id": "2hzmvp", 
+            "created-utc": 1412171069.0, 
+            "num-comments": 19
+        }, 
+        {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hyal7/the_new_campus_sex_puritans_sixty_years_ago/", 
             "domain": "theglobeandmail.com", 
-            "score": 19, 
+            "score": 21, 
             "nsfw": false, 
             "author": "HamsterWithNoName", 
             "url": "http://www.theglobeandmail.com/globe-debate/the-new-campus-sex-puritans/article20842849/", 
@@ -28,69 +40,33 @@
             "num-comments": 2
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzmvp/8_disturbing_ways_the_kochs_have_amassed_their/", 
-            "domain": "salon.com", 
-            "score": 27, 
-            "nsfw": false, 
-            "author": "michaelconfoy", 
-            "url": "http://www.salon.com/2014/10/01/8_disturbing_ways_the_kochs_have_amassed_their_fortune_partner/", 
-            "title": "8 disturbing ways the Kochs have amassed their fortune", 
-            "id": "2hzmvp", 
-            "created-utc": 1412171069.0, 
-            "num-comments": 4
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwyzp/behind_the_scenes_of_our_tense_segment_the_daily/", 
-            "domain": "huffingtonpost.com", 
-            "score": 17, 
-            "nsfw": false, 
-            "author": "day465", 
-            "url": "http://www.huffingtonpost.com/migizi-pensoneau/1491s-daily-show_b_5907244.html?ncid=fcbklnkushpmg00000063", 
-            "title": "Behind The Scenes Of Our Tense Segment The Daily Show", 
-            "id": "2hwyzp", 
-            "created-utc": 1412103475.0, 
-            "num-comments": 5
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwygp/after_two_doj_warnings_ferguson_police_still/", 
-            "domain": "crooksandliars.com", 
-            "score": 10, 
-            "nsfw": false, 
-            "author": "michaelconfoy", 
-            "url": "http://crooksandliars.com/2014/09/after-two-doj-warnings-ferguson-police", 
-            "title": "After Two DOJ Warnings, Ferguson Police Still Refuse To Wear Name Tags", 
-            "id": "2hwygp", 
-            "created-utc": 1412103203.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hzomm/republicans_new_black_friend_is_either_a_stock/", 
             "domain": "thedailybanter.com", 
-            "score": 18, 
+            "score": 36, 
             "nsfw": false, 
             "author": "TommyChristopher", 
             "url": "http://thedailybanter.com/2014/09/republicans-new-black-friend-either-stock-photo-interesting-day/#GFQr7MPImM0q1FyZ.16", 
             "title": "Republicans\u2019 New Black Friend Is Either A Stock Photo Or Is Having A Very Interesting Day", 
             "id": "2hzomm", 
             "created-utc": 1412172167.0, 
-            "num-comments": 8
+            "num-comments": 11
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzh1j/survey_says_half_of_all_married_women_now_have_a/", 
-            "domain": "blog.sfgate.com", 
-            "score": 8, 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hz8ws/reza_aslan_mahers_facile_generalizations_of_islam/", 
+            "domain": "realclearpolitics.com", 
+            "score": 14, 
             "nsfw": false, 
-            "author": "secaa23", 
-            "url": "http://blog.sfgate.com/relationships/2014/09/30/survey-says-half-of-all-married-women-have-a-backup-husband-in-mind/#24902101=0", 
-            "title": "Survey says half of all married women now have a \"backup husband\" in mind", 
-            "id": "2hzh1j", 
-            "created-utc": 1412166991.0, 
-            "num-comments": 6
+            "author": "Trynottobeacunt", 
+            "url": "http://www.realclearpolitics.com/video/2014/09/30/reza_aslan_mahers_facile_generalizations_of_islam_the_definition_of_bigotry.html", 
+            "title": "Reza Aslan: Maher's \"Facile\" Generalizations Of Islam The Definition Of Bigotry", 
+            "id": "2hz8ws", 
+            "created-utc": 1412159426.0, 
+            "num-comments": 4
         }, 
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hzrok/us_veterans_send_fox_news_open_letter_about_boobs/", 
             "domain": "businessinsider.com", 
-            "score": 14, 
+            "score": 15, 
             "nsfw": false, 
             "author": "Bemuzed", 
             "url": "http://www.businessinsider.com/us-veterans-send-fox-news-open-letter-about-boobs-on-the-ground-joke-2014-9", 
@@ -100,21 +76,21 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hz8ws/reza_aslan_mahers_facile_generalizations_of_islam/", 
-            "domain": "realclearpolitics.com", 
-            "score": 12, 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzh1j/survey_says_half_of_all_married_women_now_have_a/", 
+            "domain": "blog.sfgate.com", 
+            "score": 19, 
             "nsfw": false, 
-            "author": "Trynottobeacunt", 
-            "url": "http://www.realclearpolitics.com/video/2014/09/30/reza_aslan_mahers_facile_generalizations_of_islam_the_definition_of_bigotry.html", 
-            "title": "Reza Aslan: Maher's \"Facile\" Generalizations Of Islam The Definition Of Bigotry", 
-            "id": "2hz8ws", 
-            "created-utc": 1412159426.0, 
-            "num-comments": 3
+            "author": "secaa23", 
+            "url": "http://blog.sfgate.com/relationships/2014/09/30/survey-says-half-of-all-married-women-have-a-backup-husband-in-mind/#24902101=0", 
+            "title": "Survey says half of all married women now have a \"backup husband\" in mind", 
+            "id": "2hzh1j", 
+            "created-utc": 1412166991.0, 
+            "num-comments": 6
         }, 
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hxgkx/the_girls_who_were_taken_before_hannah_graham_one/", 
             "domain": "thedailybeast.com", 
-            "score": 7, 
+            "score": 8, 
             "nsfw": false, 
             "author": "michaelconfoy", 
             "url": "http://www.thedailybeast.com/articles/2014/09/30/the-girls-who-were-taken-before-hannah-graham.html", 
@@ -126,7 +102,7 @@
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hx5ek/reddit_gets_50_mil_will_share_10_with_users/", 
             "domain": "theverge.com", 
-            "score": 9, 
+            "score": 8, 
             "nsfw": false, 
             "author": "Oknativedavid", 
             "url": "http://www.theverge.com/2014/9/30/6874353/reddit-50-million-funding-give-users-10-percent-stock-equity", 
@@ -136,21 +112,9 @@
             "num-comments": 2
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hx00h/colorado_supreme_court_hears_appeal_of_worker/", 
-            "domain": "rawstory.com", 
-            "score": 5, 
-            "nsfw": false, 
-            "author": "michaelconfoy", 
-            "url": "http://www.rawstory.com/rs/2014/09/colorado-supreme-court-hears-appeal-of-worker-fired-for-using-medical-marijuana/#.VCr_E1na3Ls.reddit", 
-            "title": "Colorado Supreme Court hears appeal of worker fired for using medical marijuana", 
-            "id": "2hx00h", 
-            "created-utc": 1412103980.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hxgru/texas_patient_confirmed_as_first_ebola_case/", 
             "domain": "news.yahoo.com", 
-            "score": 6, 
+            "score": 5, 
             "nsfw": false, 
             "author": "gari-soflo", 
             "url": "http://news.yahoo.com/texas-patient-confirmed-as-first-ebola-case-diagnosed-in-us-205031312.html", 
@@ -172,21 +136,9 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwzcj/ben_carson_ap_history_would_make_kids_want_to/", 
-            "domain": "talkingpointsmemo.com", 
-            "score": 6, 
-            "nsfw": false, 
-            "author": "michaelconfoy", 
-            "url": "http://talkingpointsmemo.com/livewire/ben-carson-ap-history-isis", 
-            "title": "Ben Carson: AP History Would Make Kids Want To 'Sign Up For ISIS' (VIDEO)", 
-            "id": "2hwzcj", 
-            "created-utc": 1412103659.0, 
-            "num-comments": 3
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hzmof/after_a_man_died_in_police_custody_cops_claimed/", 
             "domain": "nj.com", 
-            "score": 6, 
+            "score": 8, 
             "nsfw": false, 
             "author": "Shabe", 
             "url": "http://www.nj.com/excited-delirium/", 
@@ -205,30 +157,6 @@
             "title": "What toppled Lenin statues tell us about Ukraine\u2019s crisis", 
             "id": "2hy7j5", 
             "created-utc": 1412127592.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwzom/authorities_claim_alleged_thieves_used_drones_to/", 
-            "domain": "consumerist.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "author": "michaelconfoy", 
-            "url": "http://consumerist.com/2014/09/30/authorities-claim-alleged-thieves-used-drones-to-case-victims-before-robbery/", 
-            "title": "Authorities Claim Alleged Thieves Used Drones To Case Victims Before Robbery", 
-            "id": "2hwzom", 
-            "created-utc": 1412103820.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwoqs/ebola_orphans_in_west_africa_shunned_by_relatives/", 
-            "domain": "theguardian.com", 
-            "score": 5, 
-            "nsfw": false, 
-            "author": "mermlgloop", 
-            "url": "http://www.theguardian.com/world/2014/sep/30/ebola-orphans-west-africa-guinea-liberia-sierra-leone", 
-            "title": "Ebola orphans in West Africa shunned by relatives", 
-            "id": "2hwoqs", 
-            "created-utc": 1412098343.0, 
             "num-comments": 0
         }, 
         {
@@ -253,6 +181,18 @@
             "title": "Ebola case stokes concerns for Liberians in Texas", 
             "id": "2hyw9k", 
             "created-utc": 1412144927.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hydc1/the_fake_terror_threat_used_to_justify_bombing/", 
+            "domain": "firstlook.org", 
+            "score": 3, 
+            "nsfw": false, 
+            "author": "blackiddx", 
+            "url": "https://firstlook.org/theintercept/2014/09/28/u-s-officials-invented-terror-group-justify-bombing-syria/", 
+            "title": "The Fake Terror Threat Used To Justify Bombing Syria", 
+            "id": "2hydc1", 
+            "created-utc": 1412131055.0, 
             "num-comments": 0
         }, 
         {
@@ -302,10 +242,70 @@
             "id": "2hx69l", 
             "created-utc": 1412107154.0, 
             "num-comments": 1
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2i06v5/immigration_law_is_revoking_the_citizenship_of/", 
+            "domain": "forbes.com", 
+            "score": 3, 
+            "nsfw": false, 
+            "author": "CronyPatrol", 
+            "url": "http://www.forbes.com/sites/andyjsemotiuk/2014/10/01/immigration-law-is-revoking-the-citizenship-of-terror-suspects-right-or-wrong/", 
+            "title": "Immigration Law: Is Revoking The Citizenship Of Terror Suspects Right Or Wrong? - Forbes", 
+            "id": "2i06v5", 
+            "created-utc": 1412182213.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzzml/9_attempts_to_explain_the_crazy_complexity_of_the/", 
+            "domain": "washingtonpost.com", 
+            "score": 3, 
+            "nsfw": false, 
+            "author": "singsingasong", 
+            "url": "http://www.washingtonpost.com/blogs/worldviews/wp/2014/10/01/9-attempts-to-explain-the-crazy-complexity-of-the-middle-east/", 
+            "title": "9 attempts to explain the crazy complexity of the Middle East", 
+            "id": "2hzzml", 
+            "created-utc": 1412178439.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzygc/the_most_ticketed_car_in_america_is/", 
+            "domain": "marketwatch.com", 
+            "score": 3, 
+            "nsfw": false, 
+            "author": "bustergonad", 
+            "url": "http://www.marketwatch.com/story/the-most-ticketed-car-in-america-is-2014-09-30?dist=lcountdown", 
+            "title": "The most ticketed car in America is\u2026", 
+            "id": "2hzygc", 
+            "created-utc": 1412177783.0, 
+            "num-comments": 1
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzuvc/how_the_umbrella_revolution_could_win/", 
+            "domain": "dartthrowingchimp.wordpress.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "author": "myothercarisayoshi", 
+            "url": "http://dartthrowingchimp.wordpress.com/2014/10/01/how-the-umbrella-revolution-could-win/", 
+            "title": "How the Umbrella Revolution Could Win", 
+            "id": "2hzuvc", 
+            "created-utc": 1412175821.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hztpf/how_the_us_healthcare_system_would_handle_ebola/", 
+            "domain": "theatlantic.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "author": "bobodod", 
+            "url": "http://www.theatlantic.com/health/archive/2014/08/what-would-happen-if-someone-got-ebola-in-america/375928", 
+            "title": "How the U.S. Healthcare System Would Handle Ebola \"Let\u2019s get one thing straight: You are not going to get Ebola. Donald Trump is not going to get Ebola. You are more likely to be killed by Batman, the ride. Ebola-like viruses have already breached our borders, and there were no secondary infections\"", 
+            "id": "2hztpf", 
+            "created-utc": 1412175151.0, 
+            "num-comments": 0
         }
     ], 
     "subreddit": "/r/inthenews/", 
-    "expires-utc": 1412200800, 
+    "expires-utc": 1412258400, 
     "reddit-url": "http://www.reddit.com/r/inthenews/", 
     "api-url": "http://daily.red/in-the-news.json", 
     "display-name": "In the News", 

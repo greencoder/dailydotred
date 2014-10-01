@@ -1,60 +1,36 @@
 {
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
-    "generated-utc": 1412192232, 
+    "generated-utc": 1412200856, 
     "posts": [
-        {
-            "permalink": "http://www.reddit.com/r/history/comments/2hwrzb/the_cbs_radio_news_broadcast_announcing/", 
-            "domain": "youtube.com", 
-            "score": 714, 
-            "nsfw": false, 
-            "author": "ukazes", 
-            "url": "https://www.youtube.com/watch?v=R3gjS8AnWVI", 
-            "title": "The CBS Radio News broadcast announcing unconfirmed reports of an Allied invasion of Europe - June 6, 1944", 
-            "id": "2hwrzb", 
-            "created-utc": 1412099966.0, 
-            "num-comments": 42
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/history/comments/2hzakt/how_the_mechanized_nature_of_warfare_in_wwi_was/", 
-            "domain": "altomagazine.com", 
-            "score": 112, 
-            "nsfw": false, 
-            "author": "tictomtac", 
-            "url": "http://www.altomagazine.com/newsdetails/art-and-collecting/collecting/the-rise-of-the-modern-wristwatch-from-the-trenches-of-world-war-i-4390749/", 
-            "title": "How the mechanized nature of warfare in WWI was responsible for the wristwatch", 
-            "id": "2hzakt", 
-            "created-utc": 1412161272.0, 
-            "num-comments": 12
-        }, 
         {
             "permalink": "http://www.reddit.com/r/history/comments/2hzlqh/25_years_ago_today_denmark_became_the_first/", 
             "domain": "wilsonquarterly.com", 
-            "score": 448, 
+            "score": 799, 
             "nsfw": false, 
             "author": "estivate", 
             "url": "http://wilsonquarterly.com/stories/denmarks-civil-unions-one-giant-leap-for-mankind/", 
             "title": "25 years ago today, Denmark became the first country in the world to issue civil unions to gay couples", 
             "id": "2hzlqh", 
             "created-utc": 1412170333.0, 
-            "num-comments": 41
+            "num-comments": 72
         }, 
         {
-            "permalink": "http://www.reddit.com/r/history/comments/2hwovd/who_controls_the_past_controls_the_future_the/", 
-            "domain": "medium.com", 
-            "score": 26, 
+            "permalink": "http://www.reddit.com/r/history/comments/2hzakt/how_the_mechanized_nature_of_warfare_in_wwi_was/", 
+            "domain": "altomagazine.com", 
+            "score": 119, 
             "nsfw": false, 
-            "author": "OverSilentTalk", 
-            "url": "https://medium.com/@CRDenning/who-controls-the-past-controls-the-future-7ed413a9bcd9", 
-            "title": "Who Controls the Past Controls the Future: The Misguided Debate Over History Education", 
-            "id": "2hwovd", 
-            "created-utc": 1412098397.0, 
-            "num-comments": 8
+            "author": "tictomtac", 
+            "url": "http://www.altomagazine.com/newsdetails/art-and-collecting/collecting/the-rise-of-the-modern-wristwatch-from-the-trenches-of-world-war-i-4390749/", 
+            "title": "How the mechanized nature of warfare in WWI was responsible for the wristwatch", 
+            "id": "2hzakt", 
+            "created-utc": 1412161272.0, 
+            "num-comments": 13
         }, 
         {
             "permalink": "http://www.reddit.com/r/history/comments/2hzgih/even_in_1784_america_it_was_impossible_to_make_a/", 
             "domain": "smithsonianmag.com", 
-            "score": 12, 
+            "score": 13, 
             "nsfw": false, 
             "author": "anutensil", 
             "url": "http://www.smithsonianmag.com/history/even-1784-america-it-was-impossible-make-map-without-infuriating-someone-180952700/", 
@@ -66,7 +42,7 @@
         {
             "permalink": "http://www.reddit.com/r/history/comments/2hxarj/i_would_love_some_ideassuggestions_on_fun_topics/", 
             "domain": "self.history", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "author": "hankysospanky", 
             "url": "http://www.reddit.com/r/history/comments/2hxarj/i_would_love_some_ideassuggestions_on_fun_topics/", 
@@ -74,18 +50,6 @@
             "id": "2hxarj", 
             "created-utc": 1412109506.0, 
             "num-comments": 5
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/history/comments/2hym02/kissinger_drew_up_plans_to_attack_cuba_records/", 
-            "domain": "nytimes.com", 
-            "score": 3, 
-            "nsfw": false, 
-            "author": "DoremusJessup", 
-            "url": "http://www.nytimes.com/2014/10/01/world/americas/kissinger-drew-up-plans-to-attack-cuba-records-show.html?smid=re-share", 
-            "title": "Kissinger Drew Up Plans to Attack Cuba, Records Show", 
-            "id": "2hym02", 
-            "created-utc": 1412136605.0, 
-            "num-comments": 3
         }, 
         {
             "permalink": "http://www.reddit.com/r/history/comments/2hy7m3/what_did_it_mean_to_make_social_calls_in_prousts/", 
@@ -100,6 +64,18 @@
             "num-comments": 4
         }, 
         {
+            "permalink": "http://www.reddit.com/r/history/comments/2i0f1g/the_antikythera_mechanism_the_clockwork_computer/", 
+            "domain": "economist.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "author": "Thistleknot", 
+            "url": "http://www.economist.com/node/1337165", 
+            "title": "The Antikythera mechanism: The clockwork computer", 
+            "id": "2i0f1g", 
+            "created-utc": 1412186312.0, 
+            "num-comments": 1
+        }, 
+        {
             "permalink": "http://www.reddit.com/r/history/comments/2hxvge/new_chronology_of_ethiopian_emperors/", 
             "domain": "self.history", 
             "score": 3, 
@@ -112,9 +88,21 @@
             "num-comments": 0
         }, 
         {
+            "permalink": "http://www.reddit.com/r/history/comments/2i0972/pirate_attacks_corruption_treasure_revealed_in/", 
+            "domain": "livescience.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "author": "Mictlantecuhtli", 
+            "url": "http://www.livescience.com/48067-pirate-tale-revealed-in-vatican-archives.html", 
+            "title": "Pirate Attacks, Corruption & Treasure Revealed in Vatican Archives", 
+            "id": "2i0972", 
+            "created-utc": 1412183432.0, 
+            "num-comments": 2
+        }, 
+        {
             "permalink": "http://www.reddit.com/r/history/comments/2hz06b/a_history_of_the_middle_east_video_i_made_please/", 
             "domain": "vimeo.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "author": "bingobobo", 
             "url": "https://vimeo.com/107381244", 
@@ -122,6 +110,18 @@
             "id": "2hz06b", 
             "created-utc": 1412148899.0, 
             "num-comments": 2
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/history/comments/2hym02/kissinger_drew_up_plans_to_attack_cuba_records/", 
+            "domain": "nytimes.com", 
+            "score": 5, 
+            "nsfw": false, 
+            "author": "DoremusJessup", 
+            "url": "http://www.nytimes.com/2014/10/01/world/americas/kissinger-drew-up-plans-to-attack-cuba-records-show.html?smid=re-share", 
+            "title": "Kissinger Drew Up Plans to Attack Cuba, Records Show", 
+            "id": "2hym02", 
+            "created-utc": 1412136605.0, 
+            "num-comments": 4
         }, 
         {
             "permalink": "http://www.reddit.com/r/history/comments/2i029a/the_first_south_americans_extreme_living_after/", 
@@ -138,7 +138,7 @@
         {
             "permalink": "http://www.reddit.com/r/history/comments/2hzqa6/book_recommendation_about_spain_in_the_17th/", 
             "domain": "self.history", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "author": "macacolouco", 
             "url": "http://www.reddit.com/r/history/comments/2hzqa6/book_recommendation_about_spain_in_the_17th/", 
@@ -150,7 +150,7 @@
         {
             "permalink": "http://www.reddit.com/r/history/comments/2hz10v/what_do_you_think_of_the_xin_dynasty_under_the/", 
             "domain": "self.history", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "author": "HorsesPlease", 
             "url": "http://www.reddit.com/r/history/comments/2hz10v/what_do_you_think_of_the_xin_dynasty_under_the/", 
@@ -158,22 +158,10 @@
             "id": "2hz10v", 
             "created-utc": 1412149863.0, 
             "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/history/comments/2hybuw/interview_with_eye_witness_of_kent_state_shootings/", 
-            "domain": "self.history", 
-            "score": 0, 
-            "nsfw": false, 
-            "author": "IAmACollegeStudent1", 
-            "url": "http://www.reddit.com/r/history/comments/2hybuw/interview_with_eye_witness_of_kent_state_shootings/", 
-            "title": "Interview with eye witness of Kent State Shootings", 
-            "id": "2hybuw", 
-            "created-utc": 1412130150.0, 
-            "num-comments": 2
         }
     ], 
     "subreddit": "/r/history/", 
-    "expires-utc": 1412200800, 
+    "expires-utc": 1412258400, 
     "reddit-url": "http://www.reddit.com/r/history/", 
     "api-url": "http://daily.red/history.json", 
     "display-name": "History", 

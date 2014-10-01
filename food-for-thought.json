@@ -1,24 +1,24 @@
 {
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
-    "generated-utc": 1412192237, 
+    "generated-utc": 1412200860, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hzh55/zimmerman_family_values/", 
             "domain": "gq.com", 
-            "score": 47, 
+            "score": 67, 
             "nsfw": false, 
             "author": "marquis_of_chaos", 
             "url": "http://www.gq.com/news-politics/big-issues/201410/george-zimmerman-family-values", 
             "title": "Zimmerman Family Values", 
             "id": "2hzh55", 
             "created-utc": 1412167069.0, 
-            "num-comments": 13
+            "num-comments": 26
         }, 
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hx37d/prison_bankers_cash_in_on_captive_customers/", 
             "domain": "publicintegrity.org", 
-            "score": 16, 
+            "score": 18, 
             "nsfw": false, 
             "author": "DoremusJessup", 
             "url": "http://www.publicintegrity.org/2014/09/30/15761/prison-bankers-cash-captive-customers", 
@@ -28,21 +28,9 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hy3k4/the_big_middle_class_ripoff_how_a_short_sale/", 
-            "domain": "salon.com", 
-            "score": 10, 
-            "nsfw": false, 
-            "author": "fsacb3", 
-            "url": "http://www.salon.com/2014/09/29/the_big_middle_class_rip_off_how_a_short_sale_taught_me_rich_peoples_ethics/#comments", 
-            "title": "The big \u201cmiddle class\u201d rip-off: How a short sale taught me rich people\u2019s ethics", 
-            "id": "2hy3k4", 
-            "created-utc": 1412125326.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hygsq/9_rules_for_emailing_from_google_exec_eric_schmidt/", 
             "domain": "time.com", 
-            "score": 12, 
+            "score": 10, 
             "nsfw": false, 
             "author": "leo_trotzky", 
             "url": "http://time.com/3425368/google-email-rules/", 
@@ -52,9 +40,21 @@
             "num-comments": 0
         }, 
         {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hy3k4/the_big_middle_class_ripoff_how_a_short_sale/", 
+            "domain": "salon.com", 
+            "score": 11, 
+            "nsfw": false, 
+            "author": "fsacb3", 
+            "url": "http://www.salon.com/2014/09/29/the_big_middle_class_rip_off_how_a_short_sale_taught_me_rich_peoples_ethics/#comments", 
+            "title": "The big \u201cmiddle class\u201d rip-off: How a short sale taught me rich people\u2019s ethics", 
+            "id": "2hy3k4", 
+            "created-utc": 1412125326.0, 
+            "num-comments": 0
+        }, 
+        {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hxjuf/the_horatio_ratio_the_story_of_americas_most/", 
             "domain": "slate.com", 
-            "score": 8, 
+            "score": 7, 
             "nsfw": false, 
             "author": "june_oyster", 
             "url": "http://www.slate.com/articles/news_and_politics/history/2014/09/the_self_made_man_history_of_a_myth_from_ben_franklin_to_andrew_carnegie.html", 
@@ -78,7 +78,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hxk6x/gay_marriage_like_all_marriage_not_worth/", 
             "domain": "reason.com", 
-            "score": 6, 
+            "score": 9, 
             "nsfw": false, 
             "author": "charlatan", 
             "url": "http://reason.com/archives/2012/05/16/gay-marriage-like-all-marriage-not-worth", 
@@ -86,6 +86,30 @@
             "id": "2hxk6x", 
             "created-utc": 1412114381.0, 
             "num-comments": 5
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2i0131/who_decides_what_medical_care_you_receive_at_end/", 
+            "domain": "forbes.com", 
+            "score": 12, 
+            "nsfw": false, 
+            "author": "cavehobbit", 
+            "url": "http://www.forbes.com/sites/paulhsieh/2014/09/29/who-decides-what-medical-care-you-receive-at-end-of-life/", 
+            "title": "Who Decides What Medical Care You Receive At End of Life?", 
+            "id": "2i0131", 
+            "created-utc": 1412179193.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2i071r/reexamining_residency_requirements_for_police/", 
+            "domain": "fivethirtyeight.com", 
+            "score": 15, 
+            "nsfw": false, 
+            "author": "DoremusJessup", 
+            "url": "http://fivethirtyeight.com/features/reexamining-residency-requirements-for-police-officers/", 
+            "title": "Reexamining Residency Requirements For Police Officers", 
+            "id": "2i071r", 
+            "created-utc": 1412182313.0, 
+            "num-comments": 0
         }, 
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hx7eg/there_are_more_jihadists_from_france_than_pakistan/", 
@@ -100,21 +124,9 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwuax/national_minimum_wage_nmw_doesnt_make_any/", 
-            "domain": "autarchskiss.blogspot.co.uk", 
-            "score": 4, 
-            "nsfw": false, 
-            "author": "JustExtreme", 
-            "url": "http://autarchskiss.blogspot.co.uk/2014/09/national-minimum-wage-nmw-doesnt-make.html", 
-            "title": "National Minimum Wage (NMW) doesn't make any difference if you have no hours. How about a National Minimum Income (NMI)/Universal Basic Income (UBI) instead?", 
-            "id": "2hwuax", 
-            "created-utc": 1412101135.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hyhl2/the_case_against_qatar_how_a_tiny_emirate_has_a/", 
             "domain": "foreignpolicy.com", 
-            "score": 6, 
+            "score": 5, 
             "nsfw": false, 
             "author": "Quouar", 
             "url": "http://www.foreignpolicy.com/articles/2014/09/30/the_case_against_qatar_funding_extremists_salafi_syria_uae_jihad_muslim_brotherhood_taliban", 
@@ -126,7 +138,7 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hy69g/can_hard_criminals_change_a_perspective_from/", 
             "domain": "ted.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "author": "fstorino", 
             "url": "http://www.ted.com/talks/daniel_reisel_the_neuroscience_of_restorative_justice", 
@@ -136,33 +148,9 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwrly/revisiting_the_lehman_brothers_bailout_that_never/", 
-            "domain": "nytimes.com", 
-            "score": 5, 
-            "nsfw": false, 
-            "author": "DoremusJessup", 
-            "url": "http://www.nytimes.com/2014/09/30/business/revisiting-the-lehman-brothers-bailout-that-never-was.html?smid=re-share", 
-            "title": "Revisiting the Lehman Brothers Bailout That Never Was", 
-            "id": "2hwrly", 
-            "created-utc": 1412099774.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2i0131/who_decides_what_medical_care_you_receive_at_end/", 
-            "domain": "forbes.com", 
-            "score": 9, 
-            "nsfw": false, 
-            "author": "cavehobbit", 
-            "url": "http://www.forbes.com/sites/paulhsieh/2014/09/29/who-decides-what-medical-care-you-receive-at-end-of-life/", 
-            "title": "Who Decides What Medical Care You Receive At End of Life?", 
-            "id": "2i0131", 
-            "created-utc": 1412179193.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hx5o8/here_is_when_each_generation_begins_and_ends/", 
             "domain": "thewire.com", 
-            "score": 3, 
+            "score": 2, 
             "nsfw": false, 
             "author": "charlatan", 
             "url": "http://www.thewire.com/politics/2014/03/here-is-when-each-generation-begins-and-ends-according-to-facts/359589/", 
@@ -172,40 +160,16 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2i071r/reexamining_residency_requirements_for_police/", 
-            "domain": "fivethirtyeight.com", 
-            "score": 8, 
-            "nsfw": false, 
-            "author": "DoremusJessup", 
-            "url": "http://fivethirtyeight.com/features/reexamining-residency-requirements-for-police-officers/", 
-            "title": "Reexamining Residency Requirements For Police Officers", 
-            "id": "2i071r", 
-            "created-utc": 1412182313.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hz390/cruel_and_usual_punishment_against_prison_even/", 
-            "domain": "abc.net.au", 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2i0kas/the_political_geography_of_hong_kongs_protests/", 
+            "domain": "theatlantic.com", 
             "score": 1, 
             "nsfw": false, 
-            "author": "phileconomicus", 
-            "url": "http://www.abc.net.au/religion/articles/2014/10/01/4098300.htm", 
-            "title": "Cruel and Usual Punishment [Against prison. Even flogging would be better]", 
-            "id": "2hz390", 
-            "created-utc": 1412152623.0, 
+            "author": "yodatsracist", 
+            "url": "http://www.theatlantic.com/international/archive/2014/09/the-political-geography-of-hong-kongs-protests/380925/", 
+            "title": "The Political Geography of Hong Kong's Protests: Hong Kongers are demanding democracy at intersections all over the city and not just central squares.", 
+            "id": "2i0kas", 
+            "created-utc": 1412188869.0, 
             "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwouc/for_a_worker_with_little_time_between_3_jobs_a/", 
-            "domain": "nytimes.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "author": "uliekunkel", 
-            "url": "http://www.nytimes.com/2014/09/29/nyregion/3-jobs-plenty-of-dreams-and-the-fatal-consequences-of-one-dangerous-decision.html?smid=fb-nytimes&amp;smtyp=cur&amp;bicmp=AD&amp;bicmlukp=WT.mc_id&amp;bicmst=1409232722000&amp;bicmet=1419773522000", 
-            "title": "For a Worker With Little Time Between 3 Jobs, a Nap Has Fatal Consequences", 
-            "id": "2hwouc", 
-            "created-utc": 1412098387.0, 
-            "num-comments": 6
         }, 
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hzq6o/the_internet_has_a_problematic_johannah/", 
@@ -220,20 +184,20 @@
             "num-comments": 1
         }, 
         {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwpxl/duke_university_porn_star_who_said_porn_is/", 
-            "domain": "lifesitenews.com", 
-            "score": 0, 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hz390/cruel_and_usual_punishment_against_prison_even/", 
+            "domain": "abc.net.au", 
+            "score": 1, 
             "nsfw": false, 
-            "author": "Melchizedek4", 
-            "url": "http://www.lifesitenews.com/blogs/porn-is-super-empowering-just-ask-the-duke-university-porn-star", 
-            "title": "Duke University Porn Star Who Said \u201cPorn Is Empowering\u201d Reveals Sad Truth", 
-            "id": "2hwpxl", 
-            "created-utc": 1412098912.0, 
-            "num-comments": 3
+            "author": "phileconomicus", 
+            "url": "http://www.abc.net.au/religion/articles/2014/10/01/4098300.htm", 
+            "title": "Cruel and Usual Punishment [Against prison. Even flogging would be better]", 
+            "id": "2hz390", 
+            "created-utc": 1412152623.0, 
+            "num-comments": 0
         }
     ], 
     "subreddit": "/r/Foodforthought/", 
-    "expires-utc": 1412200800, 
+    "expires-utc": 1412258400, 
     "reddit-url": "http://www.reddit.com/r/Foodforthought/", 
     "api-url": "http://daily.red/food-for-thought.json", 
     "display-name": "Food for Thought", 

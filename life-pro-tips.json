@@ -1,60 +1,72 @@
 {
     "description": "Tips that improve your life in one way or another", 
     "title": "Life Pro Tips", 
-    "generated-utc": 1412192247, 
+    "generated-utc": 1412200870, 
     "posts": [
-        {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hx01k/lpt_to_avoid_a_generic_answer_ask_what_have_you/", 
-            "domain": "self.LifeProTips", 
-            "score": 2874, 
-            "nsfw": false, 
-            "author": "flambashingsly", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hx01k/lpt_to_avoid_a_generic_answer_ask_what_have_you/", 
-            "title": "LPT: To avoid a generic answer: Ask, \"What have you been listening to lately?\" instead of, \"What kind of music do you like?\"", 
-            "id": "2hx01k", 
-            "created-utc": 1412103991.0, 
-            "num-comments": 473
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hwsmy/lpt_before_lending_something_to_a_friend_consider/", 
-            "domain": "self.LifeProTips", 
-            "score": 2076, 
-            "nsfw": false, 
-            "author": "redditor1101", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hwsmy/lpt_before_lending_something_to_a_friend_consider/", 
-            "title": "LPT: Before lending something to a friend, consider that you might not get it back. If you can't deal with that, don't lend it.", 
-            "id": "2hwsmy", 
-            "created-utc": 1412100293.0, 
-            "num-comments": 256
-        }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hz0hw/lpt_replace_umms_with_silences_when_talking_to/", 
             "domain": "self.LifeProTips", 
-            "score": 546, 
+            "score": 606, 
             "nsfw": false, 
             "author": "TigerBalmer", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hz0hw/lpt_replace_umms_with_silences_when_talking_to/", 
             "title": "LPT: Replace \"umms\" with silences when talking to appear more confident and intelligent.", 
             "id": "2hz0hw", 
             "created-utc": 1412149256.0, 
-            "num-comments": 151
+            "num-comments": 173
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2i016j/lpt_cover_food_with_a_wet_paper_towel_when/", 
+            "domain": "self.LifeProTips", 
+            "score": 1163, 
+            "nsfw": false, 
+            "author": "cant_always_be_right", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2i016j/lpt_cover_food_with_a_wet_paper_towel_when/", 
+            "title": "LPT: Cover food with a wet paper towel when reheating in a microwave.", 
+            "id": "2i016j", 
+            "created-utc": 1412179236.0, 
+            "num-comments": 214
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hzyr2/lpt_request_how_to_ask_for_a_raise_at_work/", 
+            "domain": "self.LifeProTips", 
+            "score": 270, 
+            "nsfw": false, 
+            "author": "mkp11", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hzyr2/lpt_request_how_to_ask_for_a_raise_at_work/", 
+            "title": "LPT Request- How to ask for a raise at work without coming off as \"entitled\".", 
+            "id": "2hzyr2", 
+            "created-utc": 1412177940.0, 
+            "num-comments": 68
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hzx8d/lpt_request_how_to_avoid_saying_like_all_the_time/", 
+            "domain": "self.LifeProTips", 
+            "score": 80, 
+            "nsfw": false, 
+            "author": "Tony-Bologna", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hzx8d/lpt_request_how_to_avoid_saying_like_all_the_time/", 
+            "title": "LPT Request: How to avoid saying \"like\" all the time.", 
+            "id": "2hzx8d", 
+            "created-utc": 1412177129.0, 
+            "num-comments": 48
         }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hx7m2/lpt_if_it_hasnt_rained_a_lot_using_a_shovel_is/", 
             "domain": "self.LifeProTips", 
-            "score": 55, 
+            "score": 52, 
             "nsfw": false, 
             "author": "masturbait", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hx7m2/lpt_if_it_hasnt_rained_a_lot_using_a_shovel_is/", 
             "title": "LPT: if it hasn't rained a lot, using a shovel is effective for raking leaves", 
             "id": "2hx7m2", 
             "created-utc": 1412107836.0, 
-            "num-comments": 12
+            "num-comments": 14
         }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hx17w/lpt_youtube_now_has_a_playback_speed_option_25x/", 
             "domain": "self.LifeProTips", 
-            "score": 33, 
+            "score": 32, 
             "nsfw": false, 
             "author": "scott_ci", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hx17w/lpt_youtube_now_has_a_playback_speed_option_25x/", 
@@ -64,52 +76,52 @@
             "num-comments": 4
         }, 
         {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hzyr2/lpt_request_how_to_ask_for_a_raise_at_work/", 
-            "domain": "self.LifeProTips", 
-            "score": 205, 
-            "nsfw": false, 
-            "author": "mkp11", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hzyr2/lpt_request_how_to_ask_for_a_raise_at_work/", 
-            "title": "LPT Request- How to ask for a raise at work without coming off as \"entitled\".", 
-            "id": "2hzyr2", 
-            "created-utc": 1412177940.0, 
-            "num-comments": 43
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hx312/lpt_how_to_actually_study_and_retain_information/", 
-            "domain": "self.LifeProTips", 
-            "score": 24, 
-            "nsfw": false, 
-            "author": "keepcrazy", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hx312/lpt_how_to_actually_study_and_retain_information/", 
-            "title": "LPT: How to ACTUALLY study and retain information and make your relationships more productive!", 
-            "id": "2hx312", 
-            "created-utc": 1412105524.0, 
-            "num-comments": 8
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hy6ih/lpt_request_how_do_you_be_happy_for_yourself_and/", 
             "domain": "self.LifeProTips", 
-            "score": 23, 
+            "score": 25, 
             "nsfw": false, 
             "author": "Booblays", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hy6ih/lpt_request_how_do_you_be_happy_for_yourself_and/", 
             "title": "LPT Request: How do you be happy for yourself and successfully stay happy?", 
             "id": "2hy6ih", 
             "created-utc": 1412127006.0, 
-            "num-comments": 24
+            "num-comments": 25
         }, 
         {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2i016j/lpt_cover_food_with_a_wet_paper_towel_when/", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hx312/lpt_how_to_actually_study_and_retain_information/", 
             "domain": "self.LifeProTips", 
-            "score": 501, 
+            "score": 27, 
             "nsfw": false, 
-            "author": "cant_always_be_right", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2i016j/lpt_cover_food_with_a_wet_paper_towel_when/", 
-            "title": "LPT: Cover food with a wet paper towel when reheating in a microwave.", 
-            "id": "2i016j", 
-            "created-utc": 1412179236.0, 
-            "num-comments": 98
+            "author": "keepcrazy", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hx312/lpt_how_to_actually_study_and_retain_information/", 
+            "title": "LPT: How to ACTUALLY study and retain information and make your relationships more productive!", 
+            "id": "2hx312", 
+            "created-utc": 1412105524.0, 
+            "num-comments": 7
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2i07cy/lpt_to_avoid_making_people_who_arent_really/", 
+            "domain": "self.LifeProTips", 
+            "score": 37, 
+            "nsfw": false, 
+            "author": "quelokate", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2i07cy/lpt_to_avoid_making_people_who_arent_really/", 
+            "title": "LPT: To avoid making people who aren't really proud/excited about their career feel boring ask \"how do you spend most of your time?\" not \"what do you do?\"", 
+            "id": "2i07cy", 
+            "created-utc": 1412182486.0, 
+            "num-comments": 5
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hzlj6/lpt_request_how_to_break_into_the_computer/", 
+            "domain": "self.LifeProTips", 
+            "score": 19, 
+            "nsfw": false, 
+            "author": "Kamaria", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hzlj6/lpt_request_how_to_break_into_the_computer/", 
+            "title": "[LPT Request] How to break into the computer industry after college.", 
+            "id": "2hzlj6", 
+            "created-utc": 1412170200.0, 
+            "num-comments": 13
         }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hx1i1/lpt_proofreadingplagiarism_check/", 
@@ -124,16 +136,16 @@
             "num-comments": 4
         }, 
         {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hzx8d/lpt_request_how_to_avoid_saying_like_all_the_time/", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hzlmc/lpt_request_is_there_a_way_to_find_out_which/", 
             "domain": "self.LifeProTips", 
-            "score": 67, 
+            "score": 9, 
             "nsfw": false, 
-            "author": "Tony-Bologna", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hzx8d/lpt_request_how_to_avoid_saying_like_all_the_time/", 
-            "title": "LPT Request: How to avoid saying \"like\" all the time.", 
-            "id": "2hzx8d", 
-            "created-utc": 1412177129.0, 
-            "num-comments": 42
+            "author": "lngrin", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2hzlmc/lpt_request_is_there_a_way_to_find_out_which/", 
+            "title": "LPT Request. Is there a way to find out which (legal) streaming site has the movie you are looking for?", 
+            "id": "2hzlmc", 
+            "created-utc": 1412170251.0, 
+            "num-comments": 14
         }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hxysp/lpt_request_how_to_get_around_when_immobile/", 
@@ -160,9 +172,21 @@
             "num-comments": 4
         }, 
         {
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2i07df/lpt_if_you_lend_take_a_pic_of_what_you_lend_with/", 
+            "domain": "self.LifeProTips", 
+            "score": 12, 
+            "nsfw": false, 
+            "author": "22WhatWasIThinking22", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2i07df/lpt_if_you_lend_take_a_pic_of_what_you_lend_with/", 
+            "title": "LPT: If you lend, take a pic of what you lend with the person borrowing the item.", 
+            "id": "2i07df", 
+            "created-utc": 1412182499.0, 
+            "num-comments": 10
+        }, 
+        {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hyaaq/lpt_use_windows_key_l_to_lock_your_workstation/", 
             "domain": "self.LifeProTips", 
-            "score": 8, 
+            "score": 9, 
             "nsfw": false, 
             "author": "firespock", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hyaaq/lpt_use_windows_key_l_to_lock_your_workstation/", 
@@ -181,103 +205,67 @@
             "title": "LPT Request: How to fix audio lag from otherwise good video files?", 
             "id": "2hx7nv", 
             "created-utc": 1412107864.0, 
-            "num-comments": 8
+            "num-comments": 7
         }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hyac2/lpt_request_preventing_sore_feet_and_lower_back/", 
             "domain": "self.LifeProTips", 
-            "score": 7, 
+            "score": 6, 
             "nsfw": false, 
             "author": "MattWolfTV", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hyac2/lpt_request_preventing_sore_feet_and_lower_back/", 
             "title": "LPT Request: Preventing sore feet and lower back when at an amusement park on your feet for 6+ hours.", 
             "id": "2hyac2", 
             "created-utc": 1412129202.0, 
-            "num-comments": 7
+            "num-comments": 8
         }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hxhuu/lpt_how_to_quit_chapstick_addiction/", 
             "domain": "self.LifeProTips", 
-            "score": 6, 
+            "score": 4, 
             "nsfw": false, 
             "author": "fullhalf", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hxhuu/lpt_how_to_quit_chapstick_addiction/", 
             "title": "LPT: How to quit Chapstick addiction!", 
             "id": "2hxhuu", 
             "created-utc": 1412113141.0, 
-            "num-comments": 15
+            "num-comments": 16
         }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hx4mj/lpt_request_how_to_determine_if_all_of_your/", 
             "domain": "self.LifeProTips", 
-            "score": 5, 
+            "score": 7, 
             "nsfw": false, 
             "author": "wordwordwordwordword", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hx4mj/lpt_request_how_to_determine_if_all_of_your/", 
             "title": "LPT request: How to determine if all of your dentist's recommendations or \"treatment plan\" are actually necessary.", 
             "id": "2hx4mj", 
             "created-utc": 1412106300.0, 
-            "num-comments": 8
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hzlj6/lpt_request_how_to_break_into_the_computer/", 
-            "domain": "self.LifeProTips", 
-            "score": 18, 
-            "nsfw": false, 
-            "author": "Kamaria", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hzlj6/lpt_request_how_to_break_into_the_computer/", 
-            "title": "[LPT Request] How to break into the computer industry after college.", 
-            "id": "2hzlj6", 
-            "created-utc": 1412170200.0, 
-            "num-comments": 10
+            "num-comments": 7
         }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hyc2e/lpt_living_your_life_intentionally_purposely/", 
             "domain": "self.LifeProTips", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "author": "des398", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hyc2e/lpt_living_your_life_intentionally_purposely/", 
             "title": "[LPT] Living your life intentionally & purposely.", 
             "id": "2hyc2e", 
             "created-utc": 1412130272.0, 
-            "num-comments": 0
+            "num-comments": 1
         }, 
         {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2i07df/lpt_if_you_lend_take_a_pic_of_what_you_lend_with/", 
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2i0ic4/lpt_enable_the_undo_send_function_in_gmail_it/", 
             "domain": "self.LifeProTips", 
-            "score": 9, 
+            "score": 15, 
             "nsfw": false, 
-            "author": "22WhatWasIThinking22", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2i07df/lpt_if_you_lend_take_a_pic_of_what_you_lend_with/", 
-            "title": "LPT: If you lend, take a pic of what you lend with the person borrowing the item.", 
-            "id": "2i07df", 
-            "created-utc": 1412182499.0, 
-            "num-comments": 8
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hzlmc/lpt_request_is_there_a_way_to_find_out_which/", 
-            "domain": "self.LifeProTips", 
-            "score": 13, 
-            "nsfw": false, 
-            "author": "lngrin", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hzlmc/lpt_request_is_there_a_way_to_find_out_which/", 
-            "title": "LPT Request. Is there a way to find out which (legal) streaming site has the movie you are looking for?", 
-            "id": "2hzlmc", 
-            "created-utc": 1412170251.0, 
-            "num-comments": 14
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hyxcf/lpt_dont_try_and_get_your_bartenders_attention_by/", 
-            "domain": "self.LifeProTips", 
-            "score": 1, 
-            "nsfw": false, 
-            "author": "FringeVaginaSciences", 
-            "url": "http://www.reddit.com/r/LifeProTips/comments/2hyxcf/lpt_dont_try_and_get_your_bartenders_attention_by/", 
-            "title": "LPT: Don't try and get your bartenders attention by holding out money.", 
-            "id": "2hyxcf", 
-            "created-utc": 1412145980.0, 
-            "num-comments": 29
+            "author": "smellslikejesus", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2i0ic4/lpt_enable_the_undo_send_function_in_gmail_it/", 
+            "title": "LPT: enable the \"Undo Send\" function in Gmail. It gives you several seconds after sending an email to retract the email. It has saved me numerous times.", 
+            "id": "2i0ic4", 
+            "created-utc": 1412187874.0, 
+            "num-comments": 3
         }, 
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hy3kf/lpt_request_how_to_market_and_sell_a_fixer_upper/", 
@@ -294,7 +282,7 @@
         {
             "permalink": "http://www.reddit.com/r/LifeProTips/comments/2hxy1q/lpt_request_how_is_it_possible_for_a_schoolchild/", 
             "domain": "self.LifeProTips", 
-            "score": 3, 
+            "score": 1, 
             "nsfw": false, 
             "author": "canadiantonality", 
             "url": "http://www.reddit.com/r/LifeProTips/comments/2hxy1q/lpt_request_how_is_it_possible_for_a_schoolchild/", 
@@ -302,10 +290,22 @@
             "id": "2hxy1q", 
             "created-utc": 1412122205.0, 
             "num-comments": 11
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/LifeProTips/comments/2i0ik6/lpt_wobbly_table_on_uneven_ground_rotate_it_a/", 
+            "domain": "self.LifeProTips", 
+            "score": 0, 
+            "nsfw": false, 
+            "author": "Spore2012", 
+            "url": "http://www.reddit.com/r/LifeProTips/comments/2i0ik6/lpt_wobbly_table_on_uneven_ground_rotate_it_a/", 
+            "title": "LPT: Wobbly table on uneven ground? Rotate it a quarter turn instead of putting crap under the leg (math inside).", 
+            "id": "2i0ik6", 
+            "created-utc": 1412187992.0, 
+            "num-comments": 2
         }
     ], 
     "subreddit": "/r/LifeProTips/", 
-    "expires-utc": 1412200800, 
+    "expires-utc": 1412258400, 
     "reddit-url": "http://www.reddit.com/r/LifeProTips/", 
     "api-url": "http://daily.red/life-pro-tips.json", 
     "display-name": "Life Pro Tips", 

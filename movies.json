@@ -1,36 +1,36 @@
 {
     "description": "News and discussion of major motion pictures", 
     "title": "Movie News and Discussion", 
-    "generated-utc": 1412192261, 
+    "generated-utc": 1412200885, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hx2ww/the_new_poster_for_hit_by_lightning_might_be_the/", 
             "domain": "i.imgur.com", 
-            "score": 3863, 
+            "score": 3875, 
             "nsfw": false, 
             "author": "DEVLIN712", 
             "url": "http://i.imgur.com/yYVZkKn.jpg", 
             "title": "The new poster for Hit By Lightning might be the worst poster ever released", 
             "id": "2hx2ww", 
             "created-utc": 1412105454.0, 
-            "num-comments": 2838
+            "num-comments": 2841
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hxwr4/zombieland_2_back_from_the_dead_with_a_new_writer/", 
             "domain": "collider.com", 
-            "score": 1366, 
+            "score": 1401, 
             "nsfw": false, 
             "author": "powerzjim", 
             "url": "http://collider.com/zombieland-2-news-ruben-fleischer/", 
             "title": "'Zombieland 2' back from the dead with a new writer; Ruben Fleischer intends to direct", 
             "id": "2hxwr4", 
             "created-utc": 1412121498.0, 
-            "num-comments": 174
+            "num-comments": 177
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hxtfu/making_of_the_movie_poster_for_oblivion_xpost/", 
             "domain": "i.imgur.com", 
-            "score": 528, 
+            "score": 531, 
             "nsfw": false, 
             "author": "pqjp", 
             "url": "http://i.imgur.com/UQy4HHb.gif", 
@@ -42,31 +42,43 @@
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hyg7e/cool_new_keanu_reeves_john_wick_poster_2730_4095/", 
             "domain": "imgur.com", 
-            "score": 475, 
+            "score": 519, 
             "nsfw": false, 
             "author": "ironmanjakarta", 
             "url": "http://imgur.com/nFtglna", 
             "title": "Cool New Keanu Reeves John Wick Poster (2,730 \u00d7 4,095)", 
             "id": "2hyg7e", 
             "created-utc": 1412132795.0, 
-            "num-comments": 63
+            "num-comments": 71
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hzjdz/exodus_gods_and_kings_theatrical_trailer/", 
             "domain": "youtube.com", 
-            "score": 489, 
+            "score": 574, 
             "nsfw": false, 
             "author": "l0rdv4d3r", 
             "url": "http://www.youtube.com/watch?v=t-8YsulfxVI", 
             "title": "Exodus: Gods and Kings Theatrical Trailer", 
             "id": "2hzjdz", 
             "created-utc": 1412168759.0, 
-            "num-comments": 346
+            "num-comments": 394
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/movies/comments/2hzjft/as_theaters_boycott_netflix_collapsed_windows/", 
+            "domain": "variety.com", 
+            "score": 444, 
+            "nsfw": false, 
+            "author": "NinjaDiscoJesus", 
+            "url": "http://variety.com/2014/film/news/as-theater-chains-boycott-netflix-collapsed-windows-seen-as-inevitable-1201317673/", 
+            "title": "As Theaters Boycott Netflix, Collapsed Windows Seen as Inevitable.", 
+            "id": "2hzjft", 
+            "created-utc": 1412168793.0, 
+            "num-comments": 415
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hxvd7/horrible_bosses_2_official_main_trailer_hd/", 
             "domain": "youtube.com", 
-            "score": 344, 
+            "score": 355, 
             "nsfw": false, 
             "author": "zolman", 
             "url": "https://www.youtube.com/watch?v=utriEZFno0E", 
@@ -76,93 +88,69 @@
             "num-comments": 106
         }, 
         {
-            "permalink": "http://www.reddit.com/r/movies/comments/2hzjft/as_theaters_boycott_netflix_collapsed_windows/", 
-            "domain": "variety.com", 
-            "score": 377, 
-            "nsfw": false, 
-            "author": "NinjaDiscoJesus", 
-            "url": "http://variety.com/2014/film/news/as-theater-chains-boycott-netflix-collapsed-windows-seen-as-inevitable-1201317673/", 
-            "title": "As Theaters Boycott Netflix, Collapsed Windows Seen as Inevitable.", 
-            "id": "2hzjft", 
-            "created-utc": 1412168793.0, 
-            "num-comments": 374
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/movies/comments/2hybx9/bill_murray_digital_vinyl_figures_by_evil_corp/", 
-            "domain": "evilcorp.tv", 
-            "score": 227, 
-            "nsfw": false, 
-            "author": "Estoye", 
-            "url": "http://www.evilcorp.tv/evilblog/wp-content/uploads/2014/09/Bill_Murray.jpg", 
-            "title": "Bill Murray Digital Vinyl Figures by Evil Corp", 
-            "id": "2hybx9", 
-            "created-utc": 1412130187.0, 
-            "num-comments": 19
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/movies/comments/2hzl26/margaret_hamilton_wicked_witch_ray_bolger/", 
             "domain": "i.imgur.com", 
-            "score": 399, 
+            "score": 623, 
             "nsfw": false, 
             "author": "Join_You_In_The_Sun", 
             "url": "http://i.imgur.com/x7cwlf1.jpg", 
             "title": "Margaret Hamilton (Wicked Witch), Ray Bolger (Scarecrow), and Jack Haley (Tin Man) of THE WIZARD OF OZ reunited in 1970", 
             "id": "2hzl26", 
             "created-utc": 1412169874.0, 
-            "num-comments": 15
+            "num-comments": 23
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/movies/comments/2hybx9/bill_murray_digital_vinyl_figures_by_evil_corp/", 
+            "domain": "evilcorp.tv", 
+            "score": 240, 
+            "nsfw": false, 
+            "author": "Estoye", 
+            "url": "http://www.evilcorp.tv/evilblog/wp-content/uploads/2014/09/Bill_Murray.jpg", 
+            "title": "Bill Murray Digital Vinyl Figures by Evil Corp", 
+            "id": "2hybx9", 
+            "created-utc": 1412130187.0, 
+            "num-comments": 22
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hzq9l/sir_alec_guinness_talks_about_his_experience/", 
             "domain": "youtube.com", 
-            "score": 224, 
+            "score": 271, 
             "nsfw": false, 
             "author": "Join_You_In_The_Sun", 
             "url": "http://www.youtube.com/watch?v=gyhO2uRA4FM", 
             "title": "Sir Alec Guinness talks about his experience reading STAR WARS for the first time, earning a percentage, and seeing the final film", 
             "id": "2hzq9l", 
             "created-utc": 1412173179.0, 
-            "num-comments": 123
+            "num-comments": 144
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/movies/comments/2hzxj6/interstellar_official_trailer_4/", 
+            "domain": "youtube.com", 
+            "score": 269, 
+            "nsfw": false, 
+            "author": "l0rdv4d3r", 
+            "url": "https://www.youtube.com/watch?v=0vxOhd4qlnA#t=16", 
+            "title": "Interstellar Official Trailer #4", 
+            "id": "2hzxj6", 
+            "created-utc": 1412177302.0, 
+            "num-comments": 192
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hxlhg/til_sylvester_stallone_was_offered_beverly_hills/", 
             "domain": "en.wikipedia.org", 
-            "score": 137, 
+            "score": 139, 
             "nsfw": false, 
             "author": "TheLadyEve", 
             "url": "http://en.wikipedia.org/wiki/Beverly_Hills_Cop#Production", 
             "title": "TIL Sylvester Stallone was offered Beverly Hills Cop before Eddie Murphy--after his ideas for changes were rejected, he pulled out of the film and later used his ideas for Beverly Hills Cop rewrites to make the film Cobra", 
             "id": "2hxlhg", 
             "created-utc": 1412115080.0, 
-            "num-comments": 27
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/movies/comments/2hwosa/stole_this_from_rgaming_tell_reddit_your_three/", 
-            "domain": "self.movies", 
-            "score": 110, 
-            "nsfw": false, 
-            "author": "Guardian_Ainsel", 
-            "url": "http://www.reddit.com/r/movies/comments/2hwosa/stole_this_from_rgaming_tell_reddit_your_three/", 
-            "title": "Stole this from /r/gaming. Tell Reddit your three favorite movies and Reddit will tell you about yourself!", 
-            "id": "2hwosa", 
-            "created-utc": 1412098365.0, 
-            "num-comments": 1021
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/movies/comments/2hxtkx/john_wick_trailer_2_2014/", 
-            "domain": "youtube.com", 
-            "score": 87, 
-            "nsfw": false, 
-            "author": "Rubix89", 
-            "url": "https://www.youtube.com/watch?v=uRkDFEXnZwA", 
-            "title": "'John Wick' Trailer #2 (2014)", 
-            "id": "2hxtkx", 
-            "created-utc": 1412119656.0, 
-            "num-comments": 40
+            "num-comments": 28
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hx4vv/supercut_of_people_saying_let_her_go_in_movies/", 
             "domain": "youtube.com", 
-            "score": 85, 
+            "score": 86, 
             "nsfw": false, 
             "author": "cameronxylo", 
             "url": "https://www.youtube.com/watch?v=iR-s07VndGA", 
@@ -172,45 +160,45 @@
             "num-comments": 18
         }, 
         {
+            "permalink": "http://www.reddit.com/r/movies/comments/2hxtkx/john_wick_trailer_2_2014/", 
+            "domain": "youtube.com", 
+            "score": 84, 
+            "nsfw": false, 
+            "author": "Rubix89", 
+            "url": "https://www.youtube.com/watch?v=uRkDFEXnZwA", 
+            "title": "'John Wick' Trailer #2 (2014)", 
+            "id": "2hxtkx", 
+            "created-utc": 1412119656.0, 
+            "num-comments": 43
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/movies/comments/2i05w9/today_is_dayofdredd_watch_and_share_dredd_to_help/", 
+            "domain": "moargeek.com", 
+            "score": 835, 
+            "nsfw": false, 
+            "author": "tuzionpop", 
+            "url": "http://moargeek.com/2014/10/01/today-is-dayofdredd-watch-and-share-dredd-to-help-support-a-sequel/", 
+            "title": "Today Is #DayOfDredd: Watch And Share Dredd To Help Support A Sequel", 
+            "id": "2i05w9", 
+            "created-utc": 1412181670.0, 
+            "num-comments": 127
+        }, 
+        {
             "permalink": "http://www.reddit.com/r/movies/comments/2hxtio/why_is_hellboy_3_not_being_produced_when_hellboy/", 
             "domain": "self.movies", 
-            "score": 70, 
+            "score": 68, 
             "nsfw": false, 
             "author": "einbitburger", 
             "url": "http://www.reddit.com/r/movies/comments/2hxtio/why_is_hellboy_3_not_being_produced_when_hellboy/", 
             "title": "Why is Hellboy 3 not being produced when Hellboy 2 has had a profit of over $75 million, and Hellboy 3 has a quality, big name director willing to direct it?", 
             "id": "2hxtio", 
             "created-utc": 1412119617.0, 
-            "num-comments": 52
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/movies/comments/2hzxj6/interstellar_official_trailer_4/", 
-            "domain": "youtube.com", 
-            "score": 161, 
-            "nsfw": false, 
-            "author": "l0rdv4d3r", 
-            "url": "https://www.youtube.com/watch?v=0vxOhd4qlnA#t=16", 
-            "title": "Interstellar Official Trailer #4", 
-            "id": "2hzxj6", 
-            "created-utc": 1412177302.0, 
-            "num-comments": 142
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/movies/comments/2hwph4/xmen_days_of_future_past_vfx_breakdown_2014_hd/", 
-            "domain": "youtube.com", 
-            "score": 59, 
-            "nsfw": false, 
-            "author": "nailbiter111", 
-            "url": "https://www.youtube.com/watch?v=1vGlBa9fM3w&amp;list=UUVJWMJivK-w1AfIZxLAlEfg&amp;feature=player_detailpage", 
-            "title": "X-MEN: DAYS OF FUTURE PAST VFX Breakdown (2014) [HD]", 
-            "id": "2hwph4", 
-            "created-utc": 1412098709.0, 
-            "num-comments": 11
+            "num-comments": 54
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hx87c/someone_should_make_a_version_of_300_and_300_rise/", 
             "domain": "self.movies", 
-            "score": 54, 
+            "score": 49, 
             "nsfw": false, 
             "author": "Bellybutton_Fluff", 
             "url": "http://www.reddit.com/r/movies/comments/2hx87c/someone_should_make_a_version_of_300_and_300_rise/", 
@@ -220,45 +208,45 @@
             "num-comments": 39
         }, 
         {
-            "permalink": "http://www.reddit.com/r/movies/comments/2hwwhk/what_was_your_biggest_well_no_shit_moment_while/", 
-            "domain": "self.movies", 
-            "score": 52, 
-            "nsfw": false, 
-            "author": "Eab123", 
-            "url": "http://www.reddit.com/r/movies/comments/2hwwhk/what_was_your_biggest_well_no_shit_moment_while/", 
-            "title": "What was your biggest \"well no shit!\" Moment while watching a movie.", 
-            "id": "2hwwhk", 
-            "created-utc": 1412102191.0, 
-            "num-comments": 169
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/movies/comments/2hyijl/which_directors_cut_is_worse_than_the_theatrical/", 
             "domain": "self.movies", 
-            "score": 44, 
+            "score": 41, 
             "nsfw": false, 
             "author": "Inoffensive_name", 
             "url": "http://www.reddit.com/r/movies/comments/2hyijl/which_directors_cut_is_worse_than_the_theatrical/", 
             "title": "Which \"director's cut\" is worse than the theatrical release?", 
             "id": "2hyijl", 
             "created-utc": 1412134289.0, 
-            "num-comments": 194
+            "num-comments": 216
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hzjot/exodus_gods_and_kings_trailer_2_2014_christian/", 
             "domain": "youtube.com", 
-            "score": 37, 
+            "score": 39, 
             "nsfw": false, 
             "author": "nailbiter111", 
             "url": "https://www.youtube.com/watch?feature=player_embedded&amp;v=z5Gci7ITwuA", 
             "title": "EXODUS: GODS AND KINGS Trailer #2 (2014) Christian Bale Biblical Epic HD", 
             "id": "2hzjot", 
             "created-utc": 1412168973.0, 
+            "num-comments": 26
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/movies/comments/2hzyth/interstellar_opening_three_days_early_in_imax/", 
+            "domain": "slashfilm.com", 
+            "score": 46, 
+            "nsfw": false, 
+            "author": "wangulator", 
+            "url": "http://www.slashfilm.com/interstellar-imax-early-opening/", 
+            "title": "\u2018Interstellar\u2019 Opening Three Days Early in IMAX", 
+            "id": "2hzyth", 
+            "created-utc": 1412177973.0, 
             "num-comments": 25
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hxjmb/your_most_recommended_documentary_film/", 
             "domain": "self.movies", 
-            "score": 28, 
+            "score": 25, 
             "nsfw": false, 
             "author": "R3v4n07", 
             "url": "http://www.reddit.com/r/movies/comments/2hxjmb/your_most_recommended_documentary_film/", 
@@ -270,14 +258,14 @@
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hypeh/bad_moviesthat_are_visually_stunning/", 
             "domain": "self.movies", 
-            "score": 26, 
+            "score": 22, 
             "nsfw": false, 
             "author": "OfAnthony", 
             "url": "http://www.reddit.com/r/movies/comments/2hypeh/bad_moviesthat_are_visually_stunning/", 
             "title": "BAD movies...that are VISUALLY stunning.", 
             "id": "2hypeh", 
             "created-utc": 1412139117.0, 
-            "num-comments": 197
+            "num-comments": 206
         }, 
         {
             "permalink": "http://www.reddit.com/r/movies/comments/2hxxpk/awesome_foreign_posters_for_your_favorite_horror/", 
@@ -289,23 +277,35 @@
             "title": "Awesome Foreign Posters for Your Favorite Horror Movies", 
             "id": "2hxxpk", 
             "created-utc": 1412122036.0, 
-            "num-comments": 2
+            "num-comments": 3
         }, 
         {
-            "permalink": "http://www.reddit.com/r/movies/comments/2hwnsi/the_evolution_of_chase_scenes110_years_of_chase/", 
-            "domain": "youtube.com", 
-            "score": 21, 
+            "permalink": "http://www.reddit.com/r/movies/comments/2i02wl/tim_curry_is_a_remarkably_prolific_actor_whose/", 
+            "domain": "moviefail.com", 
+            "score": 58, 
             "nsfw": false, 
-            "author": "jimhcasey", 
-            "url": "https://www.youtube.com/watch?v=V08DR7nQJ5I", 
-            "title": "The Evolution Of Chase Scenes..110 years of chase scenes in 2 mins", 
-            "id": "2hwnsi", 
-            "created-utc": 1412097865.0, 
-            "num-comments": 11
+            "author": "kimonoko", 
+            "url": "http://moviefail.com/tim-curry/", 
+            "title": "Tim Curry is a remarkably prolific actor whose theatrical performances as both heroes and villains have cemented themselves in our collective consciousness.", 
+            "id": "2i02wl", 
+            "created-utc": 1412180134.0, 
+            "num-comments": 35
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/movies/comments/2hxzxv/russell_crowes_directorial_debut_the_water/", 
+            "domain": "youtube.com", 
+            "score": 22, 
+            "nsfw": false, 
+            "author": "R0mper_St0mper", 
+            "url": "https://www.youtube.com/watch?v=JL3WU3fMc1U", 
+            "title": "Russell Crowe's directorial debut - THE WATER DIVINER Official Trailer (Australia & New Zealand)", 
+            "id": "2hxzxv", 
+            "created-utc": 1412123294.0, 
+            "num-comments": 5
         }
     ], 
     "subreddit": "/r/movies/", 
-    "expires-utc": 1412200800, 
+    "expires-utc": 1412258400, 
     "reddit-url": "http://www.reddit.com/r/movies/", 
     "api-url": "http://daily.red/movies.json", 
     "display-name": "Movies", 

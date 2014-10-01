@@ -1,19 +1,31 @@
 {
     "description": "You learn something new every day; what did you learn today? Submit interesting and specific facts about something that you just found out here.", 
     "title": "Today I Learned (TIL)", 
-    "generated-utc": 1412192217, 
+    "generated-utc": 1412200840, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hx4ci/til_the_german_parliament_building_has_a_glass/", 
             "domain": "en.wikipedia.org", 
-            "score": 3970, 
+            "score": 3969, 
             "nsfw": false, 
             "author": "Pmmeanavocado", 
             "url": "http://en.wikipedia.org/wiki/Reichstag_dome", 
             "title": "TIL the German Parliament building has a glass dome above it that people can walk over. This is to remind the politicians that government should be transparent, and the people are always above them.", 
             "id": "2hx4ci", 
             "created-utc": 1412106150.0, 
-            "num-comments": 343
+            "num-comments": 347
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hzc66/til_jehovahs_witnesses_teach_that_satan_and_his/", 
+            "domain": "en.wikipedia.org", 
+            "score": 3598, 
+            "nsfw": false, 
+            "author": "Tokyo_Yosomono", 
+            "url": "https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses", 
+            "title": "TIL Jehovah's Witnesses teach that Satan and his demons were cast down to earth from heaven 100 years ago today: October 1, 1914", 
+            "id": "2hzc66", 
+            "created-utc": 1412162789.0, 
+            "num-comments": 1987
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hxp7m/til_a_fitness_trainer_intentionally_gained_over/", 
@@ -25,120 +37,156 @@
             "title": "TIL a fitness trainer intentionally gained over 70 pounds to better understand the plight of his overweight clients. Then lost it all again six months later.", 
             "id": "2hxp7m", 
             "created-utc": 1412117179.0, 
-            "num-comments": 3023
+            "num-comments": 3060
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hx38u/til_when_emperor_justinian_ii_was_dethroned_his/", 
             "domain": "scribd.com", 
-            "score": 2461, 
+            "score": 2483, 
             "nsfw": false, 
             "author": "Tsukamori", 
             "url": "http://www.scribd.com/doc/234077062/Byzantium-1-The-Early-Centuries-John-Julius-Norwich", 
             "title": "TIL when Emperor Justinian II was dethroned, his nose was cut off and he was sent to live in Crimea. 10 years later, he returned to Constantinople with an entire Bulgar army of 15,000 men to retake the throne. He beheaded the two Emperors that ruled while he was absent, now wearing a golden nose.", 
             "id": "2hx38u", 
             "created-utc": 1412105621.0, 
-            "num-comments": 219
+            "num-comments": 228
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hxc9e/til_that_when_celebrity_chef_jamie_oliver/", 
             "domain": "en.wikipedia.org", 
-            "score": 2139, 
+            "score": 2177, 
             "nsfw": false, 
             "author": "conniecheewa", 
             "url": "http://en.wikipedia.org/wiki/Jamie_Oliver#Controversies", 
             "title": "TIL that when celebrity chef Jamie Oliver slaughtered a live lamb on television, he was praised by PETA for broadcasting it uncensored, as it \"could turn the more diehard carnivore into a vegetarian\".", 
             "id": "2hxc9e", 
             "created-utc": 1412110278.0, 
-            "num-comments": 662
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hzc66/til_jehovahs_witnesses_teach_that_satan_and_his/", 
-            "domain": "en.wikipedia.org", 
-            "score": 3448, 
-            "nsfw": false, 
-            "author": "Tokyo_Yosomono", 
-            "url": "https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses", 
-            "title": "TIL Jehovah's Witnesses teach that Satan and his demons were cast down to earth from heaven 100 years ago today: October 1, 1914", 
-            "id": "2hzc66", 
-            "created-utc": 1412162789.0, 
-            "num-comments": 1536
+            "num-comments": 727
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hxbmq/til_a_prisoner_impregnated_4_guards_and_made_15k/", 
             "domain": "npr.org", 
-            "score": 1684, 
+            "score": 1730, 
             "nsfw": false, 
             "author": "captain_reiteration", 
             "url": "http://www.npr.org/blogs/thetwo-way/2013/04/24/178799235/1-inmate-impregnated-4-guards-at-md-jail-prosecutors-say", 
             "title": "TIL a prisoner impregnated 4 guards and made $15k+ monthly while incarcerated", 
             "id": "2hxbmq", 
             "created-utc": 1412109964.0, 
-            "num-comments": 214
+            "num-comments": 222
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hyug7/til_canada_took_in_255_diverted_flights_from_the/", 
             "domain": "en.wikipedia.org", 
-            "score": 1730, 
+            "score": 1864, 
             "nsfw": false, 
             "author": "snood1205", 
             "url": "https://en.wikipedia.org/wiki/Operation_Yellow_Ribbon", 
             "title": "TIL Canada took in 255 diverted flights from the US on 9/11 and then the Canadians fed the diverted passangers", 
             "id": "2hyug7", 
             "created-utc": 1412143254.0, 
-            "num-comments": 192
+            "num-comments": 231
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hxf2u/til_there_is_an_antirape_device_called_rapex_a/", 
             "domain": "discardedlies.com", 
-            "score": 1195, 
+            "score": 1219, 
             "nsfw": false, 
             "author": "lucas1235", 
             "url": "http://discardedlies.com/entry/?4548_rapex-the-antirape-condom", 
             "title": "TIL there is an anti-rape device called Rapex, a vaginally-inserted tampon-sized device with barbs that hook into the attacker's penis, causing intense pain and \"giving the woman an opportunity to escape.\"", 
             "id": "2hxf2u", 
             "created-utc": 1412111704.0, 
-            "num-comments": 371
+            "num-comments": 395
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hxn57/til_22_to_28_of_medical_students_in_egypt_believe/", 
             "domain": "who.int", 
-            "score": 805, 
+            "score": 834, 
             "nsfw": false, 
             "author": "walkonthebeach", 
             "url": "http://www.who.int/reproductivehealth/topics/fgm/fgm_prevalence_egypt/en/", 
             "title": "TIL 22% to 28% of medical students in Egypt believe that Female Genital Mutilation is acceptable.", 
             "id": "2hxn57", 
             "created-utc": 1412116012.0, 
-            "num-comments": 170
+            "num-comments": 193
         }, 
         {
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hwvu3/til_there_is_a_town_in_japan_where_deceased_or/", 
-            "domain": "weburbanist.com", 
-            "score": 560, 
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hzmdq/til_that_according_to_an_iowa_state_university/", 
+            "domain": "archive.news.iastate.edu", 
+            "score": 1233, 
             "nsfw": false, 
-            "author": "vitruv", 
-            "url": "http://weburbanist.com/2014/05/06/valley-of-the-dolls-missing-people-replaced-with-puppets/", 
-            "title": "TIL there is a town in Japan where deceased or otherwise departed people have been slowly replaced by dolls - over the last 10 years, the doll population has grown to 350, now outnumbering humans 10 to 1, populating empty schools, sidewalks and more", 
-            "id": "2hwvu3", 
-            "created-utc": 1412101866.0, 
-            "num-comments": 51
+            "author": "ArchangelPT", 
+            "url": "http://archive.news.iastate.edu/news/2011/apr/Pokewalker", 
+            "title": "TIL that according to an Iowa State University study, the Pok\u00e9walker is one of the most accurate pedometers ever made", 
+            "id": "2hzmdq", 
+            "created-utc": 1412170738.0, 
+            "num-comments": 92
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2i02sj/til_robert_englund_famous_for_playing_freddy/", 
+            "domain": "en.wikipedia.org", 
+            "score": 4179, 
+            "nsfw": false, 
+            "author": "BRBaraka", 
+            "url": "http://en.wikipedia.org/wiki/Mark_Hamill#Star_Wars", 
+            "title": "TIL Robert Englund, famous for playing Freddy Krueger in \"A Nightmare on Elm Street,\" was auditioning for \"Apocalypse Now\" when he noticed auditions for \"Star Wars\" across the hall. He thought his friend Mark Hamill was perfect for the role of Luke Skywalker, and he suggested Hamill audition for it.", 
+            "id": "2i02sj", 
+            "created-utc": 1412180079.0, 
+            "num-comments": 463
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hyc2g/til_that_sean_parker_founder_of_illegal_music/", 
             "domain": "en.wikipedia.org", 
-            "score": 538, 
+            "score": 587, 
             "nsfw": false, 
             "author": "JohnnyBackSlash", 
             "url": "http://en.wikipedia.org/wiki/Spotify#Evolution", 
             "title": "TIL That Sean parker, founder of illegal music filesharing site Napster, is now the person at Spotify who helps form deal with major record companies. He orchestrated deals with Universal, Warner and others.", 
             "id": "2hyc2g", 
             "created-utc": 1412130272.0, 
-            "num-comments": 34
+            "num-comments": 37
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hyxum/til_the_hualapai_tribe_in_arizona_agreed_to_allow/", 
+            "domain": "en.wikipedia.org", 
+            "score": 585, 
+            "nsfw": false, 
+            "author": "Runner_one", 
+            "url": "http://en.wikipedia.org/wiki/Grand_Canyon_Skywalk#Hualapai", 
+            "title": "TIL the Hualapai Tribe in Arizona agreed to allow the builder of the Grand Canyon Skywalk to operate it for 25 years to recoup his $30 million investment. In 2012, just 5 years after it opened, the tribe seized control of the Skywalk. They lost in court and now must pay the builder $28.5 million.", 
+            "id": "2hyxum", 
+            "created-utc": 1412146511.0, 
+            "num-comments": 114
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hzyjp/til_the_word_honeymoon_dates_back_to_the_5th/", 
+            "domain": "uponmyword.com", 
+            "score": 2008, 
+            "nsfw": false, 
+            "author": "tedlove", 
+            "url": "http://uponmyword.com/etymology-of-honeymoon", 
+            "title": "TIL the word \"honeymoon\" dates back to the 5th century pagan tradition whereby newlyweds got drunk off mead (alcohol made from honey) for the first month of marriage", 
+            "id": "2hzyjp", 
+            "created-utc": 1412177833.0, 
+            "num-comments": 118
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hz9m6/til_it_is_illegal_for_anyone_even_children_to/", 
+            "domain": "gov.uk", 
+            "score": 518, 
+            "nsfw": false, 
+            "author": "Takuma_Sato", 
+            "url": "https://www.gov.uk/foreign-travel-advice/barbados/local-laws-and-customs", 
+            "title": "TIL it is illegal for anyone, even children, to wear camouflage clothing of any kind in Barbados", 
+            "id": "2hz9m6", 
+            "created-utc": 1412160214.0, 
+            "num-comments": 53
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hxrql/til_the_amphitheatre_of_pompeji_the_first_one_the/", 
             "domain": "csoonline.com", 
-            "score": 339, 
+            "score": 349, 
             "nsfw": false, 
             "author": "true_grit", 
             "url": "http://www.csoonline.com/article/2121493/access-control/modern-crowd-control-lessons--from-ancient-pompeii-.html", 
@@ -148,57 +196,45 @@
             "num-comments": 18
         }, 
         {
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hyxum/til_the_hualapai_tribe_in_arizona_agreed_to_allow/", 
-            "domain": "en.wikipedia.org", 
-            "score": 476, 
-            "nsfw": false, 
-            "author": "Runner_one", 
-            "url": "http://en.wikipedia.org/wiki/Grand_Canyon_Skywalk#Hualapai", 
-            "title": "TIL the Hualapai Tribe in Arizona agreed to allow the builder of the Grand Canyon Skywalk to operate it for 25 years to recoup his $30 million investment. In 2012, just 5 years after it opened, the tribe seized control of the Skywalk. They lost in court and now must pay the builder $28.5 million.", 
-            "id": "2hyxum", 
-            "created-utc": 1412146511.0, 
-            "num-comments": 98
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hy3v7/til_the_deepest_recorded_ocean_depth_is_35814_ft/", 
             "domain": "deepseanews.com", 
-            "score": 330, 
+            "score": 350, 
             "nsfw": false, 
             "author": "claymcdab", 
             "url": "http://deepseanews.com/2012/03/cool-as-a-sea-cucumber-life-and-death-at-extraordinary-deep-sea-pressures/", 
             "title": "TIL The Deepest Recorded Ocean Depth is 35,814 ft (10,916 m). At that depth you experience 1100 atm, which is almost the same pressure commercial water cutters use to cut steel.", 
             "id": "2hy3v7", 
             "created-utc": 1412125482.0, 
-            "num-comments": 28
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hwo18/til_the_hiroshima_bomb_killed_us_pows_who_were/", 
-            "domain": "symonsez.wordpress.com", 
-            "score": 265, 
-            "nsfw": false, 
-            "author": "practicalist", 
-            "url": "http://symonsez.wordpress.com/2010/07/29/the-forgotten-tragic-loss-of-american-airmen-at-hiroshima/", 
-            "title": "TIL - The Hiroshima bomb killed U.S. POWs who were detained 1/2 mile from where the bomb detonated. Three prisoners survived; 2 died from radiation poisoning, the last was found tied to Aioi bridge with a sign that read: Beat This American Soldier Before You Pass.", 
-            "id": "2hwo18", 
-            "created-utc": 1412097984.0, 
-            "num-comments": 41
+            "num-comments": 29
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hye9e/til_teens_in_rural_america_are_more_likely_to_get/", 
             "domain": "cnn.com", 
-            "score": 271, 
+            "score": 282, 
             "nsfw": false, 
             "author": "collegeknocks", 
             "url": "http://www.cnn.com/2013/02/27/opinion/stepp-teenage-pregancies/", 
             "title": "TIL teens in rural America are more likely to get pregnant than teens from US cities.", 
             "id": "2hye9e", 
             "created-utc": 1412131630.0, 
-            "num-comments": 51
+            "num-comments": 56
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hza2c/til_that_dole_sued_and_tried_to_shut_down/", 
+            "domain": "filmguide.sundance.org", 
+            "score": 402, 
+            "nsfw": false, 
+            "author": "Bobloblawblablabla", 
+            "url": "http://filmguide.sundance.org/film/120060/big_boys_gone_bananas", 
+            "title": "TIL that Dole sued and tried to shut down documentarian Fredrik Gertten from showing his movie \"bananas\"(following a lawsuit, workers loosing limbs because of Doles poisoning). Gerttens reply was to make a documentary, about how Dole tried stop the movie, called it\"Big boys goes bananas\".", 
+            "id": "2hza2c", 
+            "created-utc": 1412160705.0, 
+            "num-comments": 23
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hxgfc/til_the_roman_calendar_used_to_have_ten_months/", 
             "domain": "en.wikipedia.org", 
-            "score": 205, 
+            "score": 210, 
             "nsfw": false, 
             "author": "yiersan", 
             "url": "http://en.wikipedia.org/wiki/Roman_calendar#Nundinal_cycle", 
@@ -208,21 +244,21 @@
             "num-comments": 26
         }, 
         {
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hz9m6/til_it_is_illegal_for_anyone_even_children_to/", 
-            "domain": "gov.uk", 
-            "score": 386, 
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hz8td/til_after_a_rude_interaction_zach_galifianakis/", 
+            "domain": "popwatch.ew.com", 
+            "score": 356, 
             "nsfw": false, 
-            "author": "Takuma_Sato", 
-            "url": "https://www.gov.uk/foreign-travel-advice/barbados/local-laws-and-customs", 
-            "title": "TIL it is illegal for anyone, even children, to wear camouflage clothing of any kind in Barbados", 
-            "id": "2hz9m6", 
-            "created-utc": 1412160214.0, 
-            "num-comments": 42
+            "author": "becauseican95", 
+            "url": "http://popwatch.ew.com/2011/05/23/january-jones-zach-galifianakis/", 
+            "title": "TIL After a rude interaction, Zach Galifianakis once told January Jones \"... everybody's going to forget about you in a few years, so be fucking nice.\"", 
+            "id": "2hz8td", 
+            "created-utc": 1412159318.0, 
+            "num-comments": 59
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hyevj/til_that_the_fukushima_nuclear_accident/", 
             "domain": "en.wikipedia.org", 
-            "score": 179, 
+            "score": 189, 
             "nsfw": false, 
             "author": "Vranak", 
             "url": "https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster", 
@@ -232,80 +268,44 @@
             "num-comments": 4
         }, 
         {
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hyf60/til_alice_cooper_once_held_a_gun_to_elvis/", 
-            "domain": "mirror.co.uk", 
-            "score": 126, 
+            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hzvnd/til_that_the_shawshank_redemption_won_zero/", 
+            "domain": "imdb.com", 
+            "score": 730, 
             "nsfw": false, 
-            "author": "mags87", 
-            "url": "http://www.mirror.co.uk/3am/celebrity-news/alice-cooper-interview-the-day-i-almost-shot-133446", 
-            "title": "TIL Alice Cooper once held a gun to Elvis Presley's head", 
-            "id": "2hyf60", 
-            "created-utc": 1412132189.0, 
-            "num-comments": 11
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hwv67/til_the_term_carhop_came_from_the_practice_of_the/", 
-            "domain": "en.wikipedia.org", 
-            "score": 121, 
-            "nsfw": false, 
-            "author": "TRAVICEW", 
-            "url": "http://en.wikipedia.org/wiki/Carhop", 
-            "title": "TIL the term \"Carhop\" came from the practice of the waitress or waiter jumping up on the running board of a patron's car rolling into the parking lot. This car hopping showed that this particular car was that server's car, as tips were the main income of these waiters and waitresses.", 
-            "id": "2hwv67", 
-            "created-utc": 1412101540.0, 
-            "num-comments": 8
+            "author": "Girlshaveboobs", 
+            "url": "http://www.imdb.com/title/tt0111161/awards", 
+            "title": "TIL that The Shawshank Redemption won zero Academy Awards, Golden Globes and SAG Awards. It did win 'best foreign film' from the Awards of the Japanese Academy.", 
+            "id": "2hzvnd", 
+            "created-utc": 1412176278.0, 
+            "num-comments": 124
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hyupu/til_the_only_evidence_of_the_deaths_of_most_of/", 
             "domain": "en.wikipedia.org", 
-            "score": 157, 
+            "score": 180, 
             "nsfw": false, 
             "author": "the_dj_zig", 
             "url": "http://en.wikipedia.org/wiki/Sinking_of_the_RMS_Titanic#Aftermath", 
             "title": "TIL the only evidence of the deaths of most of the RMS Titanic's passengers are pairs of shoes laying side by side on the ocean floor, where bodies had lain before decomposing.", 
             "id": "2hyupu", 
             "created-utc": 1412143506.0, 
-            "num-comments": 10
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hzmdq/til_that_according_to_an_iowa_state_university/", 
-            "domain": "archive.news.iastate.edu", 
-            "score": 910, 
-            "nsfw": false, 
-            "author": "ArchangelPT", 
-            "url": "http://archive.news.iastate.edu/news/2011/apr/Pokewalker", 
-            "title": "TIL that according to an Iowa State University study, the Pok\u00e9walker is one of the most accurate pedometers ever made", 
-            "id": "2hzmdq", 
-            "created-utc": 1412170738.0, 
-            "num-comments": 45
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/todayilearned/comments/2hza2c/til_that_dole_sued_and_tried_to_shut_down/", 
-            "domain": "filmguide.sundance.org", 
-            "score": 269, 
-            "nsfw": false, 
-            "author": "Bobloblawblablabla", 
-            "url": "http://filmguide.sundance.org/film/120060/big_boys_gone_bananas", 
-            "title": "TIL that Dole sued and tried to shut down documentarian Fredrik Gertten from showing his movie \"bananas\"(following a lawsuit, workers loosing limbs because of Doles poisoning). Gerttens reply was to make a documentary, about how Dole tried stop the movie, called it\"Big boys goes bananas\".", 
-            "id": "2hza2c", 
-            "created-utc": 1412160705.0, 
-            "num-comments": 15
+            "num-comments": 11
         }, 
         {
             "permalink": "http://www.reddit.com/r/todayilearned/comments/2hz81n/til_that_several_other_presidents_existed_before/", 
             "domain": "jjmccullough.com", 
-            "score": 136, 
+            "score": 171, 
             "nsfw": false, 
             "author": "Kozij", 
             "url": "http://www.jjmccullough.com/earlypresidents.htm", 
             "title": "TIL that several other \"Presidents\" existed before George Washington as Presidents of the Continental Congress.", 
             "id": "2hz81n", 
             "created-utc": 1412158266.0, 
-            "num-comments": 9
+            "num-comments": 12
         }
     ], 
     "subreddit": "/r/todayilearned/", 
-    "expires-utc": 1412200800, 
+    "expires-utc": 1412258400, 
     "reddit-url": "http://www.reddit.com/r/todayilearned/", 
     "api-url": "http://daily.red/today-i-learned.json", 
     "display-name": "Today I Learned", 

@@ -6,7 +6,7 @@
   <description>The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences.</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Wed, 01 Oct 2014 19:37:10 -0000</pubDate>
+  <pubDate>Wed, 01 Oct 2014 22:00:53 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/science.xml" rel="self" type="application/rss+xml" />
 
@@ -14,7 +14,7 @@
     <title>Science AMA Series: Ask Your Questions About Ebola.</title>
     <link>http://www.reddit.com/r/science/comments/2hy3r9/science_ama_series_ask_your_questions_about_ebola/</link>
     <guid>http://www.reddit.com/r/science/comments/2hy3r9/science_ama_series_ask_your_questions_about_ebola/</guid>
-    <description>BY NALLEN &#183; POSTED 09/30/14 9:03 PM EST &#183; SELF.SCIENCE &#183; SCORE 3414</description>
+    <description>BY NALLEN &#183; POSTED 09/30/14 9:03 PM EST &#183; SELF.SCIENCE &#183; SCORE 3426</description>
     <category></category>
   </item>
 
@@ -22,7 +22,15 @@
     <title>Power Can Corrupt Even the Honest: The findings showed that those who measured as less honest exhibited more corrupt behaviour, at least initially; however, over time, even those who initially scored high on honesty were not shielded from the corruptive effects of power.</title>
     <link>http://www.alphagalileo.org/ViewItem.aspx?ItemId=145828&amp;CultureCode=en</link>
     <guid>http://www.reddit.com/r/science/comments/2hzlvt/power_can_corrupt_even_the_honest_the_findings/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 10/01/14 9:33 AM EST &#183; ALPHAGALILEO.ORG &#183; SCORE 2672</description>
+    <description>BY LIBERTATEA &#183; POSTED 10/01/14 9:33 AM EST &#183; ALPHAGALILEO.ORG &#183; SCORE 3648</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Memory loss associated with Alzheimer's disease reversed for the first time.</title>
+    <link>http://neurosciencenews.com/alzheimers-memory-loss-reversal-1377/</link>
+    <guid>http://www.reddit.com/r/science/comments/2hxifv/memory_loss_associated_with_alzheimers_disease/</guid>
+    <description>BY JEZEBAAL &#183; POSTED 09/30/14 5:44 PM EST &#183; NEUROSCIENCENEWS.COM &#183; SCORE 1912</description>
     <category></category>
   </item>
 
@@ -30,7 +38,7 @@
     <title>The first unifying theory of why brain stimulation–zapping the brain with electric currents—can fight brain disease (like Alzheimer’s or depression) and improve memory has been put together by Harvard neuroscientists. This ushers in a new era of brain stimulation experimentation!</title>
     <link>http://motherboard.vice.com/read/how-zapping-the-brain-with-electricity-can-help-fight-disease</link>
     <guid>http://www.reddit.com/r/science/comments/2hzj18/the_first_unifying_theory_of_why_brain/</guid>
-    <description>BY LETMEIRKYOU &#183; POSTED 10/01/14 9:01 AM EST &#183; MOTHERBOARD.VICE.COM &#183; SCORE 557</description>
+    <description>BY LETMEIRKYOU &#183; POSTED 10/01/14 9:01 AM EST &#183; MOTHERBOARD.VICE.COM &#183; SCORE 680</description>
     <category></category>
   </item>
 
@@ -38,15 +46,7 @@
     <title>Science AMA Series: I'm Dr. David Eagleman, a Neuroscience professor at Baylor College of Medicine in Houston, TX. One of my graduate students and I are testing the limits of expanding our perception through non-invasive sensory augmentation/substitution device designs. AMA!</title>
     <link>http://www.reddit.com/r/science/comments/2hzhjf/science_ama_series_im_dr_david_eagleman_a/</link>
     <guid>http://www.reddit.com/r/science/comments/2hzhjf/science_ama_series_im_dr_david_eagleman_a/</guid>
-    <description>BY DR_DAVID_EAGLEMAN &#183; POSTED 10/01/14 8:42 AM EST &#183; SELF.SCIENCE &#183; SCORE 317</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Wild chimps learning to use tools from each other may hint at humanity's past: "We are now almost sure that chimpanzees have socially transmitted culture"</title>
-    <link>http://www.theverge.com/2014/9/30/6872899/footage-of-a-chimp-community-in-the-wild-could-have-big-implications</link>
-    <guid>http://www.reddit.com/r/science/comments/2hwsdx/wild_chimps_learning_to_use_tools_from_each_other/</guid>
-    <description>BY ADDRESSTHAT &#183; POSTED 09/30/14 2:02 PM EST &#183; THEVERGE.COM &#183; SCORE 154</description>
+    <description>BY DR_DAVID_EAGLEMAN &#183; POSTED 10/01/14 8:42 AM EST &#183; SELF.SCIENCE &#183; SCORE 373</description>
     <category></category>
   </item>
 
@@ -54,7 +54,7 @@
     <title>Study finds acupuncture does not improve chronic knee pain</title>
     <link>http://jama.jamanetwork.com/article.aspx?articleid=1910110</link>
     <guid>http://www.reddit.com/r/science/comments/2hzn3e/study_finds_acupuncture_does_not_improve_chronic/</guid>
-    <description>BY TAZCEL &#183; POSTED 10/01/14 9:47 AM EST &#183; JAMA.JAMANETWORK.COM &#183; SCORE 226</description>
+    <description>BY TAZCEL &#183; POSTED 10/01/14 9:47 AM EST &#183; JAMA.JAMANETWORK.COM &#183; SCORE 288</description>
     <category></category>
   </item>
 
@@ -62,7 +62,15 @@
     <title>Platinum meets its match in quantum dots from coal: Rice University’s cheap hybrid outperforms rare metal as fuel-cell catalyst</title>
     <link>http://news.rice.edu/2014/09/30/platinum-meets-its-match-in-quantum-dots-from-coal-2/</link>
     <guid>http://www.reddit.com/r/science/comments/2hzs3y/platinum_meets_its_match_in_quantum_dots_from/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 10/01/14 10:37 AM EST &#183; NEWS.RICE.EDU &#183; SCORE 180</description>
+    <description>BY LIBERTATEA &#183; POSTED 10/01/14 10:37 AM EST &#183; NEWS.RICE.EDU &#183; SCORE 234</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>92% of patients say medical marijuana works</title>
+    <link>http://www.washingtonpost.com/blogs/wonkblog/wp/2014/10/01/92-of-patients-say-medical-marijuana-works/</link>
+    <guid>http://www.reddit.com/r/science/comments/2i07vx/92_of_patients_say_medical_marijuana_works/</guid>
+    <description>BY CINGRAHAM &#183; POSTED 10/01/14 12:59 PM EST &#183; WASHINGTONPOST.COM &#183; SCORE 1024</description>
     <category></category>
   </item>
 
@@ -70,15 +78,7 @@
     <title>DNA Study Reveals Humanity has More Mothers than Fathers</title>
     <link>http://www.investigativegenetics.com/content/5/1/13</link>
     <guid>http://www.reddit.com/r/science/comments/2hzit4/dna_study_reveals_humanity_has_more_mothers_than/</guid>
-    <description>BY POINTYHEAD &#183; POSTED 10/01/14 8:59 AM EST &#183; INVESTIGATIVEGENETICS.COM &#183; SCORE 101</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>NASA's Cassini Spacecraft Watches Mysterious Feature Evolve in Titan Sea</title>
-    <link>http://www.jpl.nasa.gov/news/news.php?release=2014-327</link>
-    <guid>http://www.reddit.com/r/science/comments/2hxlwh/nasas_cassini_spacecraft_watches_mysterious/</guid>
-    <description>BY XSMOOTHX &#183; POSTED 09/30/14 6:15 PM EST &#183; JPL.NASA.GOV &#183; SCORE 58</description>
+    <description>BY POINTYHEAD &#183; POSTED 10/01/14 8:59 AM EST &#183; INVESTIGATIVEGENETICS.COM &#183; SCORE 121</description>
     <category></category>
   </item>
 
@@ -86,23 +86,15 @@
     <title>MIT researchers have devised a novel drug capsule coated with tiny needles that can inject drugs directly into the lining of the stomach after the capsule is swallowed. In animal studies, the team found that the capsule delivered insulin more efficiently than injection under the skin</title>
     <link>http://newsoffice.mit.edu/2014/microneedles-drug-delivery-capsule-1001</link>
     <guid>http://www.reddit.com/r/science/comments/2hz5td/mit_researchers_have_devised_a_novel_drug_capsule/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 10/01/14 5:29 AM EST &#183; NEWSOFFICE.MIT.EDU &#183; SCORE 61</description>
+    <description>BY LIBERTATEA &#183; POSTED 10/01/14 5:29 AM EST &#183; NEWSOFFICE.MIT.EDU &#183; SCORE 63</description>
     <category></category>
   </item>
 
   <item>
-    <title>Strange New Type of Brain Cell Discovered</title>
-    <link>http://news.discovery.com/human/life/strange-new-type-of-brain-cell-discovered-140929.htm</link>
-    <guid>http://www.reddit.com/r/science/comments/2hx9qr/strange_new_type_of_brain_cell_discovered/</guid>
-    <description>BY DRAUGRWULFGAR &#183; POSTED 09/30/14 4:29 PM EST &#183; NEWS.DISCOVERY.COM &#183; SCORE 36</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Fossil Clue Found To Epic Ancient Battle Between Huge Predators</title>
-    <link>http://www.iflscience.com/plants-and-animals/clue-found-epic-ancient-battle</link>
-    <guid>http://www.reddit.com/r/science/comments/2hxprv/fossil_clue_found_to_epic_ancient_battle_between/</guid>
-    <description>BY MRMENKINN &#183; POSTED 09/30/14 6:51 PM EST &#183; IFLSCIENCE.COM &#183; SCORE 27</description>
+    <title>NASA's Cassini Spacecraft Watches Mysterious Feature Evolve in Titan Sea</title>
+    <link>http://www.jpl.nasa.gov/news/news.php?release=2014-327</link>
+    <guid>http://www.reddit.com/r/science/comments/2hxlwh/nasas_cassini_spacecraft_watches_mysterious/</guid>
+    <description>BY XSMOOTHX &#183; POSTED 09/30/14 6:15 PM EST &#183; JPL.NASA.GOV &#183; SCORE 60</description>
     <category></category>
   </item>
 
@@ -110,7 +102,23 @@
     <title>Virus DNA liquefies from a solid-like state in preparation for infection of host cells. Two new studies determine its mechanism and the factors triggering the transition.</title>
     <link>http://www.rsc.org/chemistryworld/2014/10/viruses-melt-glassy-solid-dna</link>
     <guid>http://www.reddit.com/r/science/comments/2hzrjw/virus_dna_liquefies_from_a_solidlike_state_in/</guid>
-    <description>BY GODSENFRIK &#183; POSTED 10/01/14 10:32 AM EST &#183; RSC.ORG &#183; SCORE 46</description>
+    <description>BY GODSENFRIK &#183; POSTED 10/01/14 10:32 AM EST &#183; RSC.ORG &#183; SCORE 60</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Strange New Type of Brain Cell Discovered</title>
+    <link>http://news.discovery.com/human/life/strange-new-type-of-brain-cell-discovered-140929.htm</link>
+    <guid>http://www.reddit.com/r/science/comments/2hx9qr/strange_new_type_of_brain_cell_discovered/</guid>
+    <description>BY DRAUGRWULFGAR &#183; POSTED 09/30/14 4:29 PM EST &#183; NEWS.DISCOVERY.COM &#183; SCORE 39</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Researchers have captured the spread of a new type of tool use in a wild population of chimps.They say this is the first clear evidence of wild chimpanzees developing a new culture.</title>
+    <link>http://www.bbc.com/news/science-environment-29429405</link>
+    <guid>http://www.reddit.com/r/science/comments/2i0174/researchers_have_captured_the_spread_of_a_new/</guid>
+    <description>BY NINJADISCOJESUS &#183; POSTED 10/01/14 12:00 PM EST &#183; BBC.COM &#183; SCORE 44</description>
     <category></category>
   </item>
 
@@ -118,39 +126,15 @@
     <title>“Deadly diarrhea” rates nearly doubled in 10 years: Infections with the intestinal superbug C. difficile nearly doubled from 2001 to 2010 in U.S. hospitals without noticeable improvement in patient mortality rates or hospital lengths of stay, study of 2.2 million C. difficile infection cases shows</title>
     <link>http://www.elsevier.com/about/press-releases/research-and-journals/deadly-diarrhea-rates-nearly-doubled-in-10-years-study</link>
     <guid>http://www.reddit.com/r/science/comments/2hy67b/deadly_diarrhea_rates_nearly_doubled_in_10_years/</guid>
-    <description>BY MUBUKUGRAPPA &#183; POSTED 09/30/14 9:26 PM EST &#183; ELSEVIER.COM &#183; SCORE 25</description>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 09/30/14 9:26 PM EST &#183; ELSEVIER.COM &#183; SCORE 29</description>
     <category></category>
   </item>
 
   <item>
-    <title>New research suggests that plankton, like this adult brine shrimp, could play an important role in mixing oceans. As much as one trillion watts of power might be generated by these tiny creatures, and the swirling eddies they collectively create might have to be included in future climate models.</title>
-    <link>http://news.nationalgeographic.com/news/2014/09/140930-sea-monkeys-laser-ocean-animals-science/</link>
-    <guid>http://www.reddit.com/r/science/comments/2hwv11/new_research_suggests_that_plankton_like_this/</guid>
-    <description>BY BURIESIT &#183; POSTED 09/30/14 2:24 PM EST &#183; NEWS.NATIONALGEOGRAPHIC.COM &#183; SCORE 21</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Music really does make kids smarter: Researchers tracked 44 students over two years as they learned to play an instrument; children who completed 2 years of music training had a stronger neurophysiological distinction of stop consonants, a neural mechanism linked to reading and language skills</title>
-    <link>http://www.worldmag.com/2014/09/study_music_really_does_make_kids_smarter</link>
-    <guid>http://www.reddit.com/r/science/comments/2hydsu/music_really_does_make_kids_smarter_researchers/</guid>
-    <description>BY MUBUKUGRAPPA &#183; POSTED 09/30/14 10:42 PM EST &#183; WORLDMAG.COM &#183; SCORE 23</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>European Spacecraft to Make Historic Comet Landing on Nov. 12</title>
-    <link>http://www.space.com/27289-rosetta-spacecraft-comet-landing-date.html?cmpid=514630_20140930_32539106</link>
-    <guid>http://www.reddit.com/r/science/comments/2hyk4z/european_spacecraft_to_make_historic_comet/</guid>
-    <description>BY ZOYID &#183; POSTED 09/30/14 11:49 PM EST &#183; SPACE.COM &#183; SCORE 20</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Exercise may help to safeguard the mind against depression through previously unknown effects on working muscles, according to a new study involving mice. The findings may have broad implications for anyone whose stress levels threaten to become emotionally overwhelming.</title>
-    <link>http://well.blogs.nytimes.com/2014/10/01/how-exercise-may-protect-against-depression/</link>
-    <guid>http://www.reddit.com/r/science/comments/2hzhcw/exercise_may_help_to_safeguard_the_mind_against/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 10/01/14 8:40 AM EST &#183; WELL.BLOGS.NYTIMES.COM &#183; SCORE 26</description>
+    <title>Fossil Clue Found To Epic Ancient Battle Between Huge Predators</title>
+    <link>http://www.iflscience.com/plants-and-animals/clue-found-epic-ancient-battle</link>
+    <guid>http://www.reddit.com/r/science/comments/2hxprv/fossil_clue_found_to_epic_ancient_battle_between/</guid>
+    <description>BY MRMENKINN &#183; POSTED 09/30/14 6:51 PM EST &#183; IFLSCIENCE.COM &#183; SCORE 29</description>
     <category></category>
   </item>
 
@@ -158,7 +142,31 @@
     <title>Mothers who smoke while they are pregnant or breast feeding may be damaging the future fertility of their sons, according to new findings from research in mice. The study is the first comprehensive animal model to show the mechanism by which smoking can affect the fertility of male offspring.</title>
     <link>http://www.eshre.eu/Press-Room/Press-releases/Press-releases-2014/Damaging-legacy.aspx</link>
     <guid>http://www.reddit.com/r/science/comments/2hzil3/mothers_who_smoke_while_they_are_pregnant_or/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 10/01/14 8:56 AM EST &#183; ESHRE.EU &#183; SCORE 26</description>
+    <description>BY LIBERTATEA &#183; POSTED 10/01/14 8:56 AM EST &#183; ESHRE.EU &#183; SCORE 27</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Exercise may help to safeguard the mind against depression through previously unknown effects on working muscles, according to a new study involving mice. The findings may have broad implications for anyone whose stress levels threaten to become emotionally overwhelming.</title>
+    <link>http://well.blogs.nytimes.com/2014/10/01/how-exercise-may-protect-against-depression/</link>
+    <guid>http://www.reddit.com/r/science/comments/2hzhcw/exercise_may_help_to_safeguard_the_mind_against/</guid>
+    <description>BY LIBERTATEA &#183; POSTED 10/01/14 8:40 AM EST &#183; WELL.BLOGS.NYTIMES.COM &#183; SCORE 25</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Music really does make kids smarter: Researchers tracked 44 students over two years as they learned to play an instrument; children who completed 2 years of music training had a stronger neurophysiological distinction of stop consonants, a neural mechanism linked to reading and language skills</title>
+    <link>http://www.worldmag.com/2014/09/study_music_really_does_make_kids_smarter</link>
+    <guid>http://www.reddit.com/r/science/comments/2hydsu/music_really_does_make_kids_smarter_researchers/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 09/30/14 10:42 PM EST &#183; WORLDMAG.COM &#183; SCORE 24</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>European Spacecraft to Make Historic Comet Landing on Nov. 12</title>
+    <link>http://www.space.com/27289-rosetta-spacecraft-comet-landing-date.html?cmpid=514630_20140930_32539106</link>
+    <guid>http://www.reddit.com/r/science/comments/2hyk4z/european_spacecraft_to_make_historic_comet/</guid>
+    <description>BY ZOYID &#183; POSTED 09/30/14 11:49 PM EST &#183; SPACE.COM &#183; SCORE 23</description>
     <category></category>
   </item>
 
@@ -166,31 +174,7 @@
     <title>Study shows how chimpanzees share skills: Biologists have found evidence of new behavior being adopted and transmitted socially from one individual to another within a wild chimpanzee community. This is the first instance of social learning recorded in the wild</title>
     <link>http://www.sciencedaily.com/releases/2014/09/140930144159.htm</link>
     <guid>http://www.reddit.com/r/science/comments/2hz4s1/study_shows_how_chimpanzees_share_skills/</guid>
-    <description>BY MUBUKUGRAPPA &#183; POSTED 10/01/14 5:07 AM EST &#183; SCIENCEDAILY.COM &#183; SCORE 20</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Iranian scientists build biological nano-sensor for early cancer diagnosis</title>
-    <link>http://iranfrontpage.com/news/society/sci-tech/2014/08/iranian-scientists-build-biological-nano-sensor-for-early-cancer-diagnosis/</link>
-    <guid>http://www.reddit.com/r/science/comments/2hz5li/iranian_scientists_build_biological_nanosensor/</guid>
-    <description>BY ARSHAMGRAD &#183; POSTED 10/01/14 5:23 AM EST &#183; IRANFRONTPAGE.COM &#183; SCORE 18</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Laser-Guided Sea-Monkeys Show That Tiny Animals Can Move Mountains of Seawater - Small crustaceans like krill could have a big effect on how seawater is mixed in the ocean.</title>
-    <link>http://news.nationalgeographic.com/news/2014/09/140930-sea-monkeys-laser-ocean-animals-science/?google_editors_picks=true</link>
-    <guid>http://www.reddit.com/r/science/comments/2hwqpl/laserguided_seamonkeys_show_that_tiny_animals_can/</guid>
-    <description>BY NINJADISCOJESUS &#183; POSTED 09/30/14 1:48 PM EST &#183; NEWS.NATIONALGEOGRAPHIC.COM &#183; SCORE 15</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Transparent Rats Give Scientists Clear View to Innards: New technique turns rodent bodies transparent</title>
-    <link>http://www.scientificamerican.com/article/transparent-rats-give-scientists-clear-view-to-innards/?r=science</link>
-    <guid>http://www.reddit.com/r/science/comments/2hxf0s/transparent_rats_give_scientists_clear_view_to/</guid>
-    <description>BY VITRUV &#183; POSTED 09/30/14 5:14 PM EST &#183; SCIENTIFICAMERICAN.COM &#183; SCORE 17</description>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/01/14 5:07 AM EST &#183; SCIENCEDAILY.COM &#183; SCORE 23</description>
     <category></category>
   </item>
 
@@ -203,10 +187,26 @@
   </item>
 
   <item>
+    <title>Lower Buffet Prices Lead to Less Taste Satisfaction</title>
+    <link>http://onlinelibrary.wiley.com/doi/10.1111/joss.12117/abstract</link>
+    <guid>http://www.reddit.com/r/science/comments/2hzmvy/lower_buffet_prices_lead_to_less_taste/</guid>
+    <description>BY DRESTAURO &#183; POSTED 10/01/14 9:44 AM EST &#183; ONLINELIBRARY.WILEY.COM &#183; SCORE 18</description>
+    <category></category>
+  </item>
+
+  <item>
     <title>Crabs protect corals from voracious starfish: Coral reefs provide habitat and nurseries for as much as a quarter of all ocean species, but they face many natural predators, from sea snails to starfish. Fortunately for the Pocillopora corals in the Indo-Pacific, coral guard crabs come to the rescue</title>
     <link>http://news.sciencemag.org/plants-animals/2014/09/crabs-protect-corals-voracious-starfish</link>
     <guid>http://www.reddit.com/r/science/comments/2hz81y/crabs_protect_corals_from_voracious_starfish/</guid>
-    <description>BY MUBUKUGRAPPA &#183; POSTED 10/01/14 6:11 AM EST &#183; NEWS.SCIENCEMAG.ORG &#183; SCORE 16</description>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/01/14 6:11 AM EST &#183; NEWS.SCIENCEMAG.ORG &#183; SCORE 15</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Iranian scientists build biological nano-sensor for early cancer diagnosis</title>
+    <link>http://iranfrontpage.com/news/society/sci-tech/2014/08/iranian-scientists-build-biological-nano-sensor-for-early-cancer-diagnosis/</link>
+    <guid>http://www.reddit.com/r/science/comments/2hz5li/iranian_scientists_build_biological_nanosensor/</guid>
+    <description>BY ARSHAMGRAD &#183; POSTED 10/01/14 5:23 AM EST &#183; IRANFRONTPAGE.COM &#183; SCORE 18</description>
     <category></category>
   </item>
 

@@ -1,12 +1,12 @@
 {
     "description": "A subreddit created for news stories that prove humanity is on a downward spiral", 
     "title": "News Of The Stupid", 
-    "generated-utc": 1412192289, 
+    "generated-utc": 1412200915, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hy8ae/city_councilman_entertains_new_friends_in_his/", 
             "domain": "nbclosangeles.com", 
-            "score": 44, 
+            "score": 41, 
             "nsfw": false, 
             "author": "cat_handcuffs", 
             "url": "http://www.nbclosangeles.com/news/local/Perris-City-Councilman-Arrested-Drug-Charges-264500501.html", 
@@ -18,26 +18,14 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hzk2n/i_want_a_sex_change_again_transsexual_who_had/", 
             "domain": "dailymail.co.uk", 
-            "score": 40, 
+            "score": 49, 
             "nsfw": false, 
             "author": "undue-influence", 
             "url": "http://www.dailymail.co.uk/news/article-2776090/Transsexual-10-000-surgery-NHS-wants-man-again.html?ito=social-facebook", 
             "title": "I want a sex change... again: Transsexual who had \u00a310,000 surgery on NHS wants to become a man again", 
             "id": "2hzk2n", 
             "created-utc": 1412169224.0, 
-            "num-comments": 25
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hwpwh/this_kfc_banned_hand_wipes_because_they_might/", 
-            "domain": "tpnn.com", 
-            "score": 19, 
-            "nsfw": false, 
-            "author": "MIIAIIRIIK", 
-            "url": "http://www.tpnn.com/2014/09/30/this-kfc-banned-hand-wipes-because-they-might-offend-muslim-customers/", 
-            "title": "This KFC Banned Hand Wipes Because They Might Offend Muslim Customers", 
-            "id": "2hwpwh", 
-            "created-utc": 1412098892.0, 
-            "num-comments": 13
+            "num-comments": 35
         }, 
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hz33j/iraqi_air_force_accidentally_delivers_food_and/", 
@@ -54,7 +42,7 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hy7u5/calgary_man_hunting_coyotes_accidentally_shoots/", 
             "domain": "calgarysun.com", 
-            "score": 7, 
+            "score": 6, 
             "nsfw": false, 
             "author": "ruskeeblue", 
             "url": "http://www.calgarysun.com/2014/09/30/calgary-man-hunting-coyotes-accidentally-shoots-himself-instead", 
@@ -64,45 +52,21 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hwxsp/man_accused_of_mooning_exposing_genitalia_to/", 
-            "domain": "nwfdailynews.com", 
-            "score": 8, 
-            "nsfw": false, 
-            "author": "stankmanly", 
-            "url": "http://www.nwfdailynews.com/local/crime/police-blotters/man-accused-of-mooning-exposing-genitalia-to-other-cars-1.379388", 
-            "title": "Man accused of mooning, exposing genitalia to other cars", 
-            "id": "2hwxsp", 
-            "created-utc": 1412102871.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hwybc/afas_fischer_links_raping_puppy_headline_to/", 
-            "domain": "goodasyou.org", 
-            "score": 4, 
-            "nsfw": false, 
-            "author": "stankmanly", 
-            "url": "http://www.goodasyou.org/good_as_you/2014/09/afas-fischer-links-raping-puppy-headline-to-sexual-orientation-born-this-way-arguments.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+GoodAsYou+%28Good+As+You%29", 
-            "title": "AFA's Fischer links 'raping puppy' headline to sexual orientation, 'born this way' arguments", 
-            "id": "2hwybc", 
-            "created-utc": 1412103141.0, 
-            "num-comments": 1
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hxofk/man_steals_160000_ring_and_trades_it_for_two/", 
             "domain": "mugshots.com", 
-            "score": 6, 
+            "score": 5, 
             "nsfw": false, 
             "author": "furrowsmiter", 
             "url": "http://mugshots.com/Current-Events/WALTER-MORRISON.81404246.html", 
             "title": "Man steals $160,000 ring and trades it for two grams of pot.", 
             "id": "2hxofk", 
             "created-utc": 1412116748.0, 
-            "num-comments": 0
+            "num-comments": 1
         }, 
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hzzmj/a_26yearold_man_caught_on_security_camera/", 
             "domain": "komonews.com", 
-            "score": 4, 
+            "score": 6, 
             "nsfw": false, 
             "author": "stankmanly", 
             "url": "http://www.komonews.com/news/crime/Charges-Man-caught-on-security-camera-stealing-security-camera-277643401.html", 
@@ -112,21 +76,45 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hywha/ftc_to_retailers_drop_your_caffeinated_drawers/", 
-            "domain": "news.yahoo.com", 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2i0d5k/fox_host_to_cdc_director_obama_lied_about_things/", 
+            "domain": "rawstory.com", 
+            "score": 4, 
+            "nsfw": false, 
+            "author": "statelessnfaithless", 
+            "url": "http://www.rawstory.com/rs/2014/10/fox-host-to-cdc-director-obama-lied-about-things-so-maybe-youre-lying-about-ebola/", 
+            "title": "Fox host to CDC director: Obama lied about \u2018things\u2019 so maybe you\u2019re lying about Ebola", 
+            "id": "2i0d5k", 
+            "created-utc": 1412185397.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hzo8w/iraq_pilots_mistakenly_drop_supplies_not_bombs_on/", 
+            "domain": "crooksandliars.com", 
+            "score": 5, 
+            "nsfw": false, 
+            "author": "michaelconfoy", 
+            "url": "http://crooksandliars.com/2014/10/iraq-pilots-mistakenly-drop-supplies-not", 
+            "title": "Iraq Pilots Mistakenly Drop Supplies, Not Bombs, On Isis", 
+            "id": "2hzo8w", 
+            "created-utc": 1412171897.0, 
+            "num-comments": 1
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2i0e1o/wutang_clan_to_release_new_album_on_boombox/", 
+            "domain": "theguardian.com", 
             "score": 2, 
             "nsfw": false, 
-            "author": "desotojoe", 
-            "url": "https://news.yahoo.com/fda-retailers-drop-caffeinated-drawers-222104085.html", 
-            "title": "FTC to retailers: Drop your caffeinated drawers", 
-            "id": "2hywha", 
-            "created-utc": 1412145139.0, 
-            "num-comments": 0
+            "author": "statelessnfaithless", 
+            "url": "http://www.theguardian.com/music/2014/oct/01/wu-tang-clan-to-release-new-album-wu-edition-boombot-rex-portable-boombox-speaker-a-better-tomorrow", 
+            "title": "Wu-Tang Clan to release new album on boombox speaker", 
+            "id": "2i0e1o", 
+            "created-utc": 1412185822.0, 
+            "num-comments": 2
         }, 
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2i05az/his_wife_was_calling_him_expletives_and_yelling/", 
             "domain": "naplesnews.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "author": "stankmanly", 
             "url": "http://www.naplesnews.com/news/crime/woman-beats-husband-says-hes-no-christian", 
@@ -138,7 +126,7 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hzrji/woman_uses_huge_teddy_bear_as_passenger_in/", 
             "domain": "aol.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "author": "stankmanly", 
             "url": "http://www.aol.com/article/2014/09/30/woman-uses-huge-teddy-bear-as-passenger-in-carpool-lane/20969875/", 
@@ -148,21 +136,21 @@
             "num-comments": 2
         }, 
         {
-            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hzo8w/iraq_pilots_mistakenly_drop_supplies_not_bombs_on/", 
-            "domain": "crooksandliars.com", 
-            "score": 4, 
+            "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hywha/ftc_to_retailers_drop_your_caffeinated_drawers/", 
+            "domain": "news.yahoo.com", 
+            "score": 3, 
             "nsfw": false, 
-            "author": "michaelconfoy", 
-            "url": "http://crooksandliars.com/2014/10/iraq-pilots-mistakenly-drop-supplies-not", 
-            "title": "Iraq Pilots Mistakenly Drop Supplies, Not Bombs, On Isis", 
-            "id": "2hzo8w", 
-            "created-utc": 1412171897.0, 
-            "num-comments": 1
+            "author": "desotojoe", 
+            "url": "https://news.yahoo.com/fda-retailers-drop-caffeinated-drawers-222104085.html", 
+            "title": "FTC to retailers: Drop your caffeinated drawers", 
+            "id": "2hywha", 
+            "created-utc": 1412145139.0, 
+            "num-comments": 0
         }, 
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hywlj/dallas_man_arrested_after_illfated_casket_prank/", 
             "domain": "news.yahoo.com", 
-            "score": 0, 
+            "score": 1, 
             "nsfw": false, 
             "author": "desotojoe", 
             "url": "https://news.yahoo.com/dallas-man-arrested-ill-fated-casket-prank-185638018.html", 
@@ -174,7 +162,7 @@
         {
             "permalink": "http://www.reddit.com/r/NewsOfTheStupid/comments/2hyv8d/woman_who_died_from_cancer_is_heard_screaming/", 
             "domain": "mirror.co.uk", 
-            "score": 0, 
+            "score": 1, 
             "nsfw": false, 
             "author": "desotojoe", 
             "url": "http://www.mirror.co.uk/news/world-news/woman-who-died-cancer-heard-4329977", 
@@ -185,7 +173,7 @@
         }
     ], 
     "subreddit": "/r/NewsOfTheStupid/", 
-    "expires-utc": 1412200800, 
+    "expires-utc": 1412258400, 
     "reddit-url": "http://www.reddit.com/r/NewsOfTheStupid/", 
     "api-url": "http://daily.red/news-of-the-stupid.json", 
     "display-name": "News of the Stupid", 

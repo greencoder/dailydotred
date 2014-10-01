@@ -1,36 +1,48 @@
 {
     "description": "Ask a science question, get a science answer", 
     "title": "AskScience: Got Questions? Get Answers.", 
-    "generated-utc": 1412192242, 
+    "generated-utc": 1412200866, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hzk4v/why_are_articles_downplaying_ebola_when_it_sounds/", 
             "domain": "self.askscience", 
-            "score": 1982, 
+            "score": 2442, 
             "nsfw": false, 
             "author": "Gimli_the_White", 
             "url": "http://www.reddit.com/r/askscience/comments/2hzk4v/why_are_articles_downplaying_ebola_when_it_sounds/", 
             "title": "Why are articles downplaying Ebola when it sounds easier to catch than AIDS?", 
             "id": "2hzk4v", 
             "created-utc": 1412169264.0, 
-            "num-comments": 785
+            "num-comments": 1009
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hyj85/does_the_sun_experience_tides_due_to_influence_of/", 
             "domain": "self.askscience", 
-            "score": 311, 
+            "score": 319, 
             "nsfw": false, 
             "author": "markmiddleton", 
             "url": "http://www.reddit.com/r/askscience/comments/2hyj85/does_the_sun_experience_tides_due_to_influence_of/", 
             "title": "Does the Sun experience \"tides\" due to influence of it's satellites (the planets)?", 
             "id": "2hyj85", 
             "created-utc": 1412134738.0, 
-            "num-comments": 31
+            "num-comments": 32
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzsyv/what_kind_of_damage_would_a_collapsing_space/", 
+            "domain": "self.askscience", 
+            "score": 29, 
+            "nsfw": false, 
+            "author": "Millennion", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzsyv/what_kind_of_damage_would_a_collapsing_space/", 
+            "title": "What kind of damage would a collapsing space elevator do to earth?", 
+            "id": "2hzsyv", 
+            "created-utc": 1412174727.0, 
+            "num-comments": 24
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hxl1r/do_we_actually_know_what_dinosaurs_sounded_like/", 
             "domain": "self.askscience", 
-            "score": 22, 
+            "score": 21, 
             "nsfw": false, 
             "author": "BackpackCat", 
             "url": "http://www.reddit.com/r/askscience/comments/2hxl1r/do_we_actually_know_what_dinosaurs_sounded_like/", 
@@ -38,18 +50,6 @@
             "id": "2hxl1r", 
             "created-utc": 1412114832.0, 
             "num-comments": 8
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hzsyv/what_kind_of_damage_would_a_collapsing_space/", 
-            "domain": "self.askscience", 
-            "score": 22, 
-            "nsfw": false, 
-            "author": "Millennion", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hzsyv/what_kind_of_damage_would_a_collapsing_space/", 
-            "title": "What kind of damage would a collapsing space elevator do to earth?", 
-            "id": "2hzsyv", 
-            "created-utc": 1412174727.0, 
-            "num-comments": 19
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hx5ns/are_sociopaths_inherently_malicious/", 
@@ -61,12 +61,24 @@
             "title": "Are Sociopaths inherently malicious?", 
             "id": "2hx5ns", 
             "created-utc": 1412106845.0, 
-            "num-comments": 9
+            "num-comments": 10
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzrm9/is_there_a_study_showing_a_causal_link_between/", 
+            "domain": "self.askscience", 
+            "score": 13, 
+            "nsfw": false, 
+            "author": "rhiever", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzrm9/is_there_a_study_showing_a_causal_link_between/", 
+            "title": "Is there a study showing a causal link between tooth brushing frequency and oral health?", 
+            "id": "2hzrm9", 
+            "created-utc": 1412173966.0, 
+            "num-comments": 8
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hyao6/has_anyone_been_cured_of_alzheimers/", 
             "domain": "self.askscience", 
-            "score": 12, 
+            "score": 10, 
             "nsfw": false, 
             "author": "slicedclementines", 
             "url": "http://www.reddit.com/r/askscience/comments/2hyao6/has_anyone_been_cured_of_alzheimers/", 
@@ -78,7 +90,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hxpg1/how_much_tree_growth_time_is_represented_by_an/", 
             "domain": "self.askscience", 
-            "score": 8, 
+            "score": 10, 
             "nsfw": false, 
             "author": "Granite-M", 
             "url": "http://www.reddit.com/r/askscience/comments/2hxpg1/how_much_tree_growth_time_is_represented_by_an/", 
@@ -100,40 +112,16 @@
             "num-comments": 5
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hzrm9/is_there_a_study_showing_a_causal_link_between/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hznv8/what_are_the_physical_differences_between_a/", 
             "domain": "self.askscience", 
-            "score": 13, 
+            "score": 12, 
             "nsfw": false, 
-            "author": "rhiever", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hzrm9/is_there_a_study_showing_a_causal_link_between/", 
-            "title": "Is there a study showing a causal link between tooth brushing frequency and oral health?", 
-            "id": "2hzrm9", 
-            "created-utc": 1412173966.0, 
-            "num-comments": 7
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwyez/was_the_milgram_experiment_a_sham_if_so_why_do/", 
-            "domain": "self.askscience", 
-            "score": 9, 
-            "nsfw": false, 
-            "author": "Ihpkmn", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwyez/was_the_milgram_experiment_a_sham_if_so_why_do/", 
-            "title": "Was the Milgram experiment a sham? If so, why do people still treat their results as true?", 
-            "id": "2hwyez", 
-            "created-utc": 1412103179.0, 
-            "num-comments": 4
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwwai/why_does_smoking_impair_our_sense_of_smell/", 
-            "domain": "self.askscience", 
-            "score": 10, 
-            "nsfw": false, 
-            "author": "Jurachi", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwwai/why_does_smoking_impair_our_sense_of_smell/", 
-            "title": "Why does smoking impair our sense of smell?", 
-            "id": "2hwwai", 
-            "created-utc": 1412102085.0, 
-            "num-comments": 6
+            "author": "Voltasalt", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hznv8/what_are_the_physical_differences_between_a/", 
+            "title": "What are the physical differences between a dominant and non-dominant hand?", 
+            "id": "2hznv8", 
+            "created-utc": 1412171704.0, 
+            "num-comments": 2
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hxmxn/why_do_systems_maximize_entropy/", 
@@ -150,7 +138,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hxl5q/how_much_of_a_snake_is_tail/", 
             "domain": "self.askscience", 
-            "score": 8, 
+            "score": 10, 
             "nsfw": false, 
             "author": "GinkoWeed", 
             "url": "http://www.reddit.com/r/askscience/comments/2hxl5q/how_much_of_a_snake_is_tail/", 
@@ -160,9 +148,21 @@
             "num-comments": 4
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hygpc/does_rainwater_really_clean_the_air/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzup5/ask_anything_wednesday_engineering_mathematics/", 
             "domain": "self.askscience", 
             "score": 9, 
+            "nsfw": false, 
+            "author": "AutoModerator", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzup5/ask_anything_wednesday_engineering_mathematics/", 
+            "title": "Ask Anything Wednesday - Engineering, Mathematics, Computer Science", 
+            "id": "2hzup5", 
+            "created-utc": 1412175731.0, 
+            "num-comments": 10
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hygpc/does_rainwater_really_clean_the_air/", 
+            "domain": "self.askscience", 
+            "score": 8, 
             "nsfw": false, 
             "author": "JasonAndrewRelva", 
             "url": "http://www.reddit.com/r/askscience/comments/2hygpc/does_rainwater_really_clean_the_air/", 
@@ -184,28 +184,16 @@
             "num-comments": 6
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwqw9/how_does_pressure_affect_collision_rate_of_gas/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2i01ca/why_have_ssds_not_replaced_moving_disk_storage/", 
             "domain": "self.askscience", 
             "score": 7, 
             "nsfw": false, 
-            "author": "Hello_999", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwqw9/how_does_pressure_affect_collision_rate_of_gas/", 
-            "title": "How does pressure affect collision rate of gas with a container?", 
-            "id": "2hwqw9", 
-            "created-utc": 1412099407.0, 
+            "author": "rob5i", 
+            "url": "http://www.reddit.com/r/askscience/comments/2i01ca/why_have_ssds_not_replaced_moving_disk_storage/", 
+            "title": "Why have SSDs not replaced moving disk storage?", 
+            "id": "2i01ca", 
+            "created-utc": 1412179310.0, 
             "num-comments": 10
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hzup5/ask_anything_wednesday_engineering_mathematics/", 
-            "domain": "self.askscience", 
-            "score": 8, 
-            "nsfw": false, 
-            "author": "AutoModerator", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hzup5/ask_anything_wednesday_engineering_mathematics/", 
-            "title": "Ask Anything Wednesday - Engineering, Mathematics, Computer Science", 
-            "id": "2hzup5", 
-            "created-utc": 1412175731.0, 
-            "num-comments": 9
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hzt1h/does_a_volcanic_eruption_one_side_of_the_planet/", 
@@ -222,38 +210,26 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hzo11/if_you_can_make_lighterthanair_crafts_is_there_a/", 
             "domain": "self.askscience", 
-            "score": 5, 
+            "score": 6, 
             "nsfw": false, 
             "author": "monkey_metaphore", 
             "url": "http://www.reddit.com/r/askscience/comments/2hzo11/if_you_can_make_lighterthanair_crafts_is_there_a/", 
             "title": "If you can make lighter-than-air crafts, is there a limit to how light you can make them? So is there a maximum amount of buoyancy and lift?", 
             "id": "2hzo11", 
             "created-utc": 1412171786.0, 
-            "num-comments": 4
+            "num-comments": 5
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hznv8/what_are_the_physical_differences_between_a/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzmza/are_computers_quieter_in_winter/", 
             "domain": "self.askscience", 
-            "score": 9, 
+            "score": 4, 
             "nsfw": false, 
-            "author": "Voltasalt", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hznv8/what_are_the_physical_differences_between_a/", 
-            "title": "What are the physical differences between a dominant and non-dominant hand?", 
-            "id": "2hznv8", 
-            "created-utc": 1412171704.0, 
-            "num-comments": 1
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hz9bm/if_energy_cant_be_created_or_destroyed_how_can_it/", 
-            "domain": "self.askscience", 
-            "score": 5, 
-            "nsfw": false, 
-            "author": "larkerx", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hz9bm/if_energy_cant_be_created_or_destroyed_how_can_it/", 
-            "title": "If energy cant be created or destroyed. How can it be here?", 
-            "id": "2hz9bm", 
-            "created-utc": 1412159902.0, 
-            "num-comments": 10
+            "author": "sekathon", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzmza/are_computers_quieter_in_winter/", 
+            "title": "Are computers quieter in winter?", 
+            "id": "2hzmza", 
+            "created-utc": 1412171138.0, 
+            "num-comments": 6
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hy1yz/one_of_the_more_dangerous_parts_of_bee_venom_is/", 
@@ -268,44 +244,68 @@
             "num-comments": 3
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwvkw/how_did_fish_end_up_in_lakes/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2i0g3a/is_there_soil_beneath_sandy_deserts_if_we_dug/", 
             "domain": "self.askscience", 
-            "score": 6, 
+            "score": 2, 
             "nsfw": false, 
-            "author": "BeanieMcChimp", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwvkw/how_did_fish_end_up_in_lakes/", 
-            "title": "How did fish end up in lakes?", 
-            "id": "2hwvkw", 
-            "created-utc": 1412101729.0, 
-            "num-comments": 5
+            "author": "akhay", 
+            "url": "http://www.reddit.com/r/askscience/comments/2i0g3a/is_there_soil_beneath_sandy_deserts_if_we_dug/", 
+            "title": "Is there soil beneath sandy deserts? If we dug down far enough, could we plant something (and then water it, etc.)?", 
+            "id": "2i0g3a", 
+            "created-utc": 1412186838.0, 
+            "num-comments": 2
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwsv2/as_simply_as_possible_why_dont_photons_interact/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2i08im/what_happens_to_a_displaced_ant_like_if_one/", 
             "domain": "self.askscience", 
-            "score": 5, 
+            "score": 11, 
             "nsfw": false, 
-            "author": "Powercutters", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwsv2/as_simply_as_possible_why_dont_photons_interact/", 
-            "title": "As simply as possible, why don't photons interact with the higgs field?", 
-            "id": "2hwsv2", 
-            "created-utc": 1412100406.0, 
+            "author": "conradical30", 
+            "url": "http://www.reddit.com/r/askscience/comments/2i08im/what_happens_to_a_displaced_ant_like_if_one/", 
+            "title": "What happens to a displaced ant? Like if one climbs on my shoe and I get in my car and go somewhere and once I get there he climbs off my shoe onto the ground 10 miles from his colony.", 
+            "id": "2i08im", 
+            "created-utc": 1412183075.0, 
             "num-comments": 3
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwpff/does_pushing_on_an_object_propagate_through_the/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzvfl/why_cant_we_treat_depression_or_just_become_happy/", 
             "domain": "self.askscience", 
             "score": 5, 
             "nsfw": false, 
-            "author": "Algernon_Moncrieff", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwpff/does_pushing_on_an_object_propagate_through_the/", 
-            "title": "Does pushing on an object propagate through the object at its speed of sound?", 
-            "id": "2hwpff", 
-            "created-utc": 1412098679.0, 
-            "num-comments": 4
+            "author": "AttemptedLogic", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzvfl/why_cant_we_treat_depression_or_just_become_happy/", 
+            "title": "Why can't we treat depression (or just become happy) by actually injecting serotonin?", 
+            "id": "2hzvfl", 
+            "created-utc": 1412176156.0, 
+            "num-comments": 3
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hz9bm/if_energy_cant_be_created_or_destroyed_how_can_it/", 
+            "domain": "self.askscience", 
+            "score": 7, 
+            "nsfw": false, 
+            "author": "larkerx", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hz9bm/if_energy_cant_be_created_or_destroyed_how_can_it/", 
+            "title": "If energy cant be created or destroyed. How can it be here?", 
+            "id": "2hz9bm", 
+            "created-utc": 1412159902.0, 
+            "num-comments": 10
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hz73w/how_far_from_the_surface_of_the_earth_would_a/", 
+            "domain": "self.askscience", 
+            "score": 4, 
+            "nsfw": false, 
+            "author": "Tango_Justice", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hz73w/how_far_from_the_surface_of_the_earth_would_a/", 
+            "title": "How far from the surface of the Earth would a nuclear explosion have to be before it didn't create a mushroom cloud?", 
+            "id": "2hz73w", 
+            "created-utc": 1412157236.0, 
+            "num-comments": 1
         }
     ], 
     "subreddit": "/r/askscience/", 
-    "expires-utc": 1412200800, 
+    "expires-utc": 1412258400, 
     "reddit-url": "http://www.reddit.com/r/askscience/", 
     "api-url": "http://daily.red/ask-science.json", 
     "display-name": "Ask Science", 
