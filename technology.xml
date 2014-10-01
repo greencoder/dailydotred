@@ -6,55 +6,15 @@
   <description>News stories related to technology</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Tue, 30 Sep 2014 22:00:47 -0000</pubDate>
+  <pubDate>Wed, 01 Oct 2014 14:00:47 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/technology.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>Windows 9 will get rid of Windows 8 fullscreen Start Menu</title>
-    <link>http://www.pcworld.com/article/2683725/windows-9-rumor-roundup-everything-we-know-so-far.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hudf6/windows_9_will_get_rid_of_windows_8_fullscreen/</guid>
-    <description>BY SUPERMAN_V2 &#183; POSTED 09/29/14 8:43 PM EST &#183; PCWORLD.COM &#183; SCORE 4275</description>
-    <category></category>
-  </item>
 
   <item>
     <title>How the FBI is trying to scare the public into believing iPhone privacy and security features are somehow dangerous</title>
     <link>http://www.theguardian.com/commentisfree/2014/sep/30/iphone-6-encrypted-phone-data-default</link>
     <guid>http://www.reddit.com/r/technology/comments/2hw2rv/how_the_fbi_is_trying_to_scare_the_public_into/</guid>
-    <description>BY TREY4 &#183; POSTED 09/30/14 10:14 AM EST &#183; THEGUARDIAN.COM &#183; SCORE 4237</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Comcast/TWC merger vote delayed after NY regulators find “deficiencies”. Consumer protection agency points to companies' "substandard customer service."</title>
-    <link>http://arstechnica.com/business/2014/09/comcasttwc-merger-vote-delayed-after-ny-regulators-find-deficiencies/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hthoe/comcasttwc_merger_vote_delayed_after_ny/</guid>
-    <description>BY SURAJ-SUN &#183; POSTED 09/29/14 4:01 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 352</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>PayPal to separate from eBay, become its own publicly traded company</title>
-    <link>http://www.ctvnews.ca/business/paypal-to-separate-from-ebay-become-its-own-publicly-traded-company-1.2031019</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hvwbe/paypal_to_separate_from_ebay_become_its_own/</guid>
-    <description>BY THEPOLITICATOR &#183; POSTED 09/30/14 9:05 AM EST &#183; CTVNEWS.CA &#183; SCORE 330</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Catastrophic bug in iOS 8: "Reset All Settings" option also wipes your iCloud storage.</title>
-    <link>http://www.macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2htyyj/catastrophic_bug_in_ios_8_reset_all_settings/</guid>
-    <description>BY FREYZHA &#183; POSTED 09/29/14 6:27 PM EST &#183; MACRUMORS.COM &#183; SCORE 245</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Germany orders Google to stop illegal user data processing: As part of an EU-wide crackdown on Google's data collection practices, Germany has ordered the company to change its user data processing, which is in violation of the country's laws.</title>
-    <link>http://www.computerworld.com/article/2689593/government/germany-orders-google-to-stop-illegal-user-data-processing.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+computerworld%2Fnews%2Ffeed+%28Latest+from+Computerworld%29#tk.rss_all</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hw7hq/germany_orders_google_to_stop_illegal_user_data/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 09/30/14 10:59 AM EST &#183; COMPUTERWORLD.COM &#183; SCORE 306</description>
+    <description>BY TREY4 &#183; POSTED 09/30/14 10:14 AM EST &#183; THEGUARDIAN.COM &#183; SCORE 4393</description>
     <category></category>
   </item>
 
@@ -62,15 +22,23 @@
     <title>The new Windows is to be called "Windows 10", inexplicably skipping 9. What's funnier is the fact this was "predicted" by InfoWorld over a year ago in an April Fools' article.</title>
     <link>http://www.infoworld.com/article/2613504/microsoft-windows/microsoft-skips--too-good--windows-9--jumps-to-windows-10.html</link>
     <guid>http://www.reddit.com/r/technology/comments/2hwmdr/the_new_windows_is_to_be_called_windows_10/</guid>
-    <description>BY CAPTAINADDY44 &#183; POSTED 09/30/14 1:12 PM EST &#183; INFOWORLD.COM &#183; SCORE 843</description>
+    <description>BY CAPTAINADDY44 &#183; POSTED 09/30/14 1:12 PM EST &#183; INFOWORLD.COM &#183; SCORE 3929</description>
     <category></category>
   </item>
 
   <item>
-    <title>Yesterday I filed an FCC complaint against Comcast. Today I wrote this email to their corporate office letting them know.</title>
-    <link>http://www.reddit.com/r/technology/comments/2huiwe/yesterday_i_filed_an_fcc_complaint_against/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2huiwe/yesterday_i_filed_an_fcc_complaint_against/</guid>
-    <description>BY THIEF425 &#183; POSTED 09/29/14 9:35 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 184</description>
+    <title>Reddit gets $50 million in funding and will share 10 percent of that with its users</title>
+    <link>http://www.theverge.com/2014/9/30/6874353/reddit-50-million-funding-give-users-10-percent-stock-equity</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hwy0r/reddit_gets_50_million_in_funding_and_will_share/</guid>
+    <description>BY DBS87 &#183; POSTED 09/30/14 2:49 PM EST &#183; THEVERGE.COM &#183; SCORE 1677</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Your smartphone will soon be encrypted by default, and Apple or Google claim they will not be able open it for anyone – law enforcement, the FBI and possibly the NSA – even if they wanted to. Naturally, the US government is flipping out.</title>
+    <link>http://www.theguardian.com/commentisfree/2014/sep/30/iphone-6-encrypted-phone-data-default?CMP=fb_gu</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hx0oo/your_smartphone_will_soon_be_encrypted_by_default/</guid>
+    <description>BY BLUEGERM &#183; POSTED 09/30/14 3:11 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 1635</description>
     <category></category>
   </item>
 
@@ -78,15 +46,31 @@
     <title>New Windows Version will be called Windows 10</title>
     <link>http://www.reddit.com/r/technology/comments/2hwlrk/new_windows_version_will_be_called_windows_10/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hwlrk/new_windows_version_will_be_called_windows_10/</guid>
-    <description>BY TALKINGRECKLESS &#183; POSTED 09/30/14 1:07 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 384</description>
+    <description>BY TALKINGRECKLESS &#183; POSTED 09/30/14 1:07 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 1057</description>
     <category></category>
   </item>
 
   <item>
-    <title>Hong Kong: Fake Occupy Central app targets activists’ smartphones with spyware -- Suspicious behaviour by the application included recording audio and obtaining the location of the device. "It's a malware with spy behaviour"</title>
-    <link>http://www.scmp.com/news/hong-kong/article/1594667/fake-occupy-central-app-targets-activists-smartphones</link>
-    <guid>http://www.reddit.com/r/technology/comments/2huis7/hong_kong_fake_occupy_central_app_targets/</guid>
-    <description>BY MEPPER &#183; POSTED 09/29/14 9:34 PM EST &#183; SCMP.COM &#183; SCORE 107</description>
+    <title>Germany orders Google to stop illegal user data processing: As part of an EU-wide crackdown on Google's data collection practices, Germany has ordered the company to change its user data processing, which is in violation of the country's laws.</title>
+    <link>http://www.computerworld.com/article/2689593/government/germany-orders-google-to-stop-illegal-user-data-processing.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+computerworld%2Fnews%2Ffeed+%28Latest+from+Computerworld%29#tk.rss_all</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hw7hq/germany_orders_google_to_stop_illegal_user_data/</guid>
+    <description>BY LIBERTATEA &#183; POSTED 09/30/14 10:59 AM EST &#183; COMPUTERWORLD.COM &#183; SCORE 585</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>PayPal to separate from eBay, become its own publicly traded company</title>
+    <link>http://www.ctvnews.ca/business/paypal-to-separate-from-ebay-become-its-own-publicly-traded-company-1.2031019</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hvwbe/paypal_to_separate_from_ebay_become_its_own/</guid>
+    <description>BY THEPOLITICATOR &#183; POSTED 09/30/14 9:05 AM EST &#183; CTVNEWS.CA &#183; SCORE 564</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Everything we know about Windows 10</title>
+    <link>http://www.reddit.com/r/technology/comments/2hwqxq/everything_we_know_about_windows_10/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hwqxq/everything_we_know_about_windows_10/</guid>
+    <description>BY LARPERDOODLE &#183; POSTED 09/30/14 1:50 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 198</description>
     <category></category>
   </item>
 
@@ -94,31 +78,15 @@
     <title>The FTC doubles down on its net neutrality ambitions "A top official at the Federal Trade Commission is warning that consumers will be hurt if a fellow agency, the Federal Communications Commission, pushes for strong net neutrality protections under Title II of the Communications Act."</title>
     <link>http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/29/the-ftc-doubles-down-on-its-net-neutrality-ambitions/?tid=rssfeed</link>
     <guid>http://www.reddit.com/r/technology/comments/2hvxom/the_ftc_doubles_down_on_its_net_neutrality/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 09/30/14 9:21 AM EST &#183; WASHINGTONPOST.COM &#183; SCORE 120</description>
+    <description>BY LIBERTATEA &#183; POSTED 09/30/14 9:21 AM EST &#183; WASHINGTONPOST.COM &#183; SCORE 189</description>
     <category></category>
   </item>
 
   <item>
-    <title>Executive Order 12333 Documents Redefine 'Collection,' Authorize Majority Of Dragnet Surveillance Programs</title>
-    <link>https://www.techdirt.com/articles/20140929/13451828665/executive-order-12333-documents-redefine-collection-authorize-majority-dragnet-surveillance-programs.shtml</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hvd17/executive_order_12333_documents_redefine/</guid>
-    <description>BY WONKADONK &#183; POSTED 09/30/14 3:34 AM EST &#183; TECHDIRT.COM &#183; SCORE 112</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>A Developer Created A Brilliantly Innovative New Way To Use The iPhone's Widgets, But Apple Killed It</title>
-    <link>http://www.businessinsider.com/apple-removes-launcher-app-2014-9</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hum3s/a_developer_created_a_brilliantly_innovative_new/</guid>
-    <description>BY ERIER2003 &#183; POSTED 09/29/14 10:07 PM EST &#183; BUSINESSINSIDER.COM &#183; SCORE 75</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Europe’s best-selling computer magazine Bild gets Apple PR accreditation revoked after #bendgate video</title>
-    <link>http://9to5mac.com/2014/09/30/europes-best-selling-computer-magazine-bild-gets-apple-pr-accreditation-revoked-after-bendgate-video/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hwaqa/europes_bestselling_computer_magazine_bild_gets/</guid>
-    <description>BY FXGOD &#183; POSTED 09/30/14 11:29 AM EST &#183; 9TO5MAC.COM &#183; SCORE 92</description>
+    <title>Starting today UK citizens are free to copy MP3s, CDs, DVDs and live broadcasts for personal use. After an unexpected delay, UK copyright law was amended to legalize this common form of copying. In addition, the changes also broaden other forms of fair use, including parody and quotation rights.</title>
+    <link>http://torrentfreak.com/uk-government-legalizes-cd-ripping-cloud-backups-today-141001/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hz29z/starting_today_uk_citizens_are_free_to_copy_mp3s/</guid>
+    <description>BY LIBERTATEA &#183; POSTED 10/01/14 4:18 AM EST &#183; TORRENTFREAK.COM &#183; SCORE 3128</description>
     <category></category>
   </item>
 
@@ -126,31 +94,7 @@
     <title>Google announces Drive for Education: free unlimited storage &amp; more security, coming soon.</title>
     <link>http://venturebeat.com/2014/09/30/google-announces-drive-for-education-free-unlimited-storage-more-security-coming-soon/</link>
     <guid>http://www.reddit.com/r/technology/comments/2hw7u6/google_announces_drive_for_education_free/</guid>
-    <description>BY RSTEVENS94 &#183; POSTED 09/30/14 11:02 AM EST &#183; VENTUREBEAT.COM &#183; SCORE 75</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Samsung responds to Galaxy Note 4 build quality complaints</title>
-    <link>http://www.trustedreviews.com/news/samsung-galaxy-note-4-launch-hit-by-build-quality-complaints</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hvo8c/samsung_responds_to_galaxy_note_4_build_quality/</guid>
-    <description>BY HOLLOWDENE &#183; POSTED 09/30/14 7:08 AM EST &#183; TRUSTEDREVIEWS.COM &#183; SCORE 60</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Ello Is Already Infested With Spammers and Bots</title>
-    <link>http://motherboard.vice.com/read/ello-is-already-infested-with-spammers-and-bots</link>
-    <guid>http://www.reddit.com/r/technology/comments/2huf6w/ello_is_already_infested_with_spammers_and_bots/</guid>
-    <description>BY CONSCIOUS_GIRL &#183; POSTED 09/29/14 9:01 PM EST &#183; MOTHERBOARD.VICE.COM &#183; SCORE 55</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Labels Win Grooveshark Copyright Infringement Case</title>
-    <link>http://torrentfreak.com/labels-win-grooveshark-copyright-infringement-case-140930/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hvlb0/labels_win_grooveshark_copyright_infringement_case/</guid>
-    <description>BY KAPT_KIPPER &#183; POSTED 09/30/14 6:17 AM EST &#183; TORRENTFREAK.COM &#183; SCORE 47</description>
+    <description>BY RSTEVENS94 &#183; POSTED 09/30/14 11:02 AM EST &#183; VENTUREBEAT.COM &#183; SCORE 115</description>
     <category></category>
   </item>
 
@@ -158,15 +102,47 @@
     <title>It's official: Windows 10 will be the name for Microsoft's next version of Windows!</title>
     <link>http://www.theverge.com/2014/9/30/6868695/microsoft-windows-10-announced-official</link>
     <guid>http://www.reddit.com/r/technology/comments/2hwog0/its_official_windows_10_will_be_the_name_for/</guid>
-    <description>BY RAHULDULTA &#183; POSTED 09/30/14 1:29 PM EST &#183; THEVERGE.COM &#183; SCORE 65</description>
+    <description>BY RAHULDULTA &#183; POSTED 09/30/14 1:29 PM EST &#183; THEVERGE.COM &#183; SCORE 106</description>
     <category></category>
   </item>
 
   <item>
-    <title>Londoners Unwittingly Exchange First Born Children For Free Wi-Fi</title>
-    <link>http://time.com/3445092/free-wifi-first-born-children/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hvcm9/londoners_unwittingly_exchange_first_born/</guid>
-    <description>BY WINE-O-SAUR &#183; POSTED 09/30/14 3:27 AM EST &#183; TIME.COM &#183; SCORE 40</description>
+    <title>Arduino to sell 3D printer—$800 in kit form or $1,000 pre-assembled (xpost r/arduino)</title>
+    <link>http://arstechnica.com/information-technology/2014/09/arduino-to-sell-3d-printer-800-in-kit-form-or-1000-pre-assembled/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hxg1v/arduino_to_sell_3d_printer800_in_kit_form_or_1000/</guid>
+    <description>BY ROCKDIESEL &#183; POSTED 09/30/14 5:23 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 103</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>This is why you should install an ad blocker even if you don't mind ads...</title>
+    <link>http://arstechnica.com/security/2014/09/advertising-firms-struggle-to-kill-malvertisements/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hyc1l/this_is_why_you_should_install_an_ad_blocker_even/</guid>
+    <description>BY DENYBORG &#183; POSTED 09/30/14 10:24 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 112</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Secret Service Declassified Another 500+ Pages Which Detail The Sting Operation that Caught Aaron Swartz at MIT</title>
+    <link>http://www.theblackvault.com/m/articles/view/Aaron-Swartz</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hxoat/secret_service_declassified_another_500_pages/</guid>
+    <description>BY BLACKVAULT &#183; POSTED 09/30/14 6:37 PM EST &#183; THEBLACKVAULT.COM &#183; SCORE 103</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Self-Destructing SSDs Will Nuke Themselves If You Text Them a Code Word</title>
+    <link>http://gizmodo.com/self-destructing-ssds-will-nuke-themselves-if-you-text-1640733628</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hwh8f/selfdestructing_ssds_will_nuke_themselves_if_you/</guid>
+    <description>BY NORLAND &#183; POSTED 09/30/14 12:27 PM EST &#183; GIZMODO.COM &#183; SCORE 86</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>The government says iPhone encryption helps criminals. They're wrong.</title>
+    <link>http://www.vox.com/2014/9/29/6854679/iphone-encryption-james-comey-government-backdoor</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hz466/the_government_says_iphone_encryption_helps/</guid>
+    <description>BY SERGEYGOR &#183; POSTED 10/01/14 4:55 AM EST &#183; VOX.COM &#183; SCORE 238</description>
     <category></category>
   </item>
 
@@ -174,39 +150,63 @@
     <title>Windows 10 is the official name for Microsoft's next version of Windows</title>
     <link>http://www.theverge.com/2014/9/30/6868695/microsoft-windows-9-announced-official</link>
     <guid>http://www.reddit.com/r/technology/comments/2hwmbb/windows_10_is_the_official_name_for_microsofts/</guid>
-    <description>BY KOOLAIDMAN1 &#183; POSTED 09/30/14 1:11 PM EST &#183; THEVERGE.COM &#183; SCORE 48</description>
+    <description>BY KOOLAIDMAN1 &#183; POSTED 09/30/14 1:11 PM EST &#183; THEVERGE.COM &#183; SCORE 54</description>
     <category></category>
   </item>
 
   <item>
-    <title>How Hong Kong Protesters Are Connecting, Without Cell Or Wi-Fi Networks</title>
-    <link>http://www.npr.org/blogs/alltechconsidered/2014/09/29/352476454/how-hong-kong-protesters-are-connecting-without-cell-or-wi-fi-networks</link>
-    <guid>http://www.reddit.com/r/technology/comments/2huj3u/how_hong_kong_protesters_are_connecting_without/</guid>
-    <description>BY KLMD &#183; POSTED 09/29/14 9:38 PM EST &#183; NPR.ORG &#183; SCORE 35</description>
+    <title>Top 10 Flashlight Apps Are Stealing Your Data, Even Pics Off Your Phone</title>
+    <link>http://benswann.com/exclusive-top-10-flashlight-apps-are-stealing-your-data-even-pics-off-your-phone/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hyoot/top_10_flashlight_apps_are_stealing_your_data/</guid>
+    <description>BY DAVIDVERNER &#183; POSTED 10/01/14 12:42 AM EST &#183; BENSWANN.COM &#183; SCORE 62</description>
     <category></category>
   </item>
 
   <item>
-    <title>DailyTech - Report: Google to Force OEMs to Provide Recent Android Builds or Lose Access to Google Apps</title>
-    <link>http://www.dailytech.com/Report+Google+to+Force+OEMs+to+Provide+Recent+Android+Builds+or+Lose+Access+to+Google+Apps/article34311.htm</link>
-    <guid>http://www.reddit.com/r/technology/comments/2htrjc/dailytech_report_google_to_force_oems_to_provide/</guid>
-    <description>BY DETAILSGUY &#183; POSTED 09/29/14 5:22 PM EST &#183; DAILYTECH.COM &#183; SCORE 34</description>
+    <title>Reddit Plans Its Own Cryptocurrency To Give Back To Its Users After $50 Million Raise</title>
+    <link>http://techcrunch.com/2014/09/30/reddit-scoops-up-50m-series-b-from-sam-altman-a16z-sequoia-at-500m-valuation/?ncid=rss</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hx5wj/reddit_plans_its_own_cryptocurrency_to_give_back/</guid>
+    <description>BY RS16 &#183; POSTED 09/30/14 3:56 PM EST &#183; TECHCRUNCH.COM &#183; SCORE 36</description>
     <category></category>
   </item>
 
   <item>
-    <title>Not Even China's Great Firewall Can Shut Out News About Hong Kong's Democracy Protests</title>
-    <link>http://www.businessweek.com/articles/2014-09-29/in-china-the-great-firewall-does-not-hold</link>
-    <guid>http://www.reddit.com/r/technology/comments/2htg9p/not_even_chinas_great_firewall_can_shut_out_news/</guid>
-    <description>BY WONKADONK &#183; POSTED 09/29/14 3:49 PM EST &#183; BUSINESSWEEK.COM &#183; SCORE 31</description>
+    <title>FCC Eliminates Sports Blackout Rules</title>
+    <link>https://www.fcc.gov/document/fcc-eliminates-sports-blackout-rules</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hx886/fcc_eliminates_sports_blackout_rules/</guid>
+    <description>BY 1CH &#183; POSTED 09/30/14 4:16 PM EST &#183; FCC.GOV &#183; SCORE 35</description>
     <category></category>
   </item>
 
   <item>
-    <title>3D Printer Able to Produce Skin w/Hair Follicles and Sweat Glands-&gt;</title>
-    <link>http://www.computerworld.com/article/2688824/3d-printed-skin-holds-promise-for-burn-victims-and-others.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2htrfo/3d_printer_able_to_produce_skin_whair_follicles/</guid>
-    <description>BY LUCAS1235 &#183; POSTED 09/29/14 5:21 PM EST &#183; COMPUTERWORLD.COM &#183; SCORE 25</description>
+    <title>Uber Used Private Location Data for Party Amusement</title>
+    <link>http://valleywag.gawker.com/uber-used-private-location-data-for-party-amusement-1640820384/+laceydonohue</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hwsv6/uber_used_private_location_data_for_party/</guid>
+    <description>BY MARJI80 &#183; POSTED 09/30/14 2:06 PM EST &#183; VALLEYWAG.GAWKER.COM &#183; SCORE 29</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Grooveshark, where employees uploaded thousands of songs, loses badly in court</title>
+    <link>http://arstechnica.com/tech-policy/2014/09/judge-rules-grooveshark-infringed-thousands-of-copyrights/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hxrbh/grooveshark_where_employees_uploaded_thousands_of/</guid>
+    <description>BY KULKKE &#183; POSTED 09/30/14 7:05 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 26</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>PEAK IPV4? Global IPv6 traffic is growing, DDoS dying, says Akamai</title>
+    <link>http://www.theregister.co.uk/2014/09/30/its_about_time_were_finally_getting_off_ipv4_says_akamai/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hx4h3/peak_ipv4_global_ipv6_traffic_is_growing_ddos/</guid>
+    <description>BY ACTUALSTACK &#183; POSTED 09/30/14 3:43 PM EST &#183; THEREGISTER.CO.UK &#183; SCORE 22</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Hackers charged with stealing over $100m in US Army and X-Box technology</title>
+    <link>http://www.theguardian.com/technology/2014/sep/30/four-hackers-charged-stealing-xbox-army-technology</link>
+    <guid>http://www.reddit.com/r/technology/comments/2hykt1/hackers_charged_with_stealing_over_100m_in_us/</guid>
+    <description>BY INTERGALACTIC512 &#183; POSTED 09/30/14 11:57 PM EST &#183; THEGUARDIAN.COM &#183; SCORE 25</description>
     <category></category>
   </item>
 
