@@ -1,84 +1,48 @@
 {
     "description": "The subreddit for opinion, analysis, and discussion of recent events", 
     "title": "In the News: Opinion, Analysis, and Discussion", 
-    "generated-utc": 1412172021, 
+    "generated-utc": 1412191937, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hxd7b/dallas_ebola_case_confirmed_by_cdc_first/", 
             "domain": "dallasnews.com", 
-            "score": 61, 
+            "score": 70, 
             "nsfw": false, 
             "author": "zsreport", 
             "url": "http://www.dallasnews.com/news/metro/20140929-dallas-ebola-case-confirmed-by-cdc-first-diagnosis-in-u.s..ece", 
             "title": "Dallas' Ebola case confirmed by CDC, first diagnosis in U.S.", 
             "id": "2hxd7b", 
             "created-utc": 1412110784.0, 
-            "num-comments": 18
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hw5o4/hundreds_ironically_poisoned_from_contaminated/", 
-            "domain": "foodsafetynews.com", 
-            "score": 44, 
-            "nsfw": false, 
-            "author": "gopperman", 
-            "url": "http://www.foodsafetynews.com/2014/09/c-perfringens-in-c/#.VCq_rSldWqf", 
-            "title": "Hundreds ironically poisoned from contaminated chicken at the Food Safety Summit", 
-            "id": "2hw5o4", 
-            "created-utc": 1412088160.0, 
-            "num-comments": 9
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hvyu7/iran_to_execute_woman_for_murder_of_man_who_tried/", 
-            "domain": "independent.co.uk", 
-            "score": 37, 
-            "nsfw": false, 
-            "author": "mermlgloop", 
-            "url": "http://www.independent.co.uk/news/world/middle-east/reyhaneh-jabbari-iran-due-to-execute-woman-for-murder-of-her-alleged-attempted-rapist-9763986.html", 
-            "title": "Iran to execute woman for murder of 'man who tried to rape her'", 
-            "id": "2hvyu7", 
-            "created-utc": 1412084054.0, 
-            "num-comments": 3
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hw7j7/were_not_going_to_listen_to_empty_promises_denver/", 
-            "domain": "salon.com", 
-            "score": 24, 
-            "nsfw": false, 
-            "author": "michaelconfoy", 
-            "url": "http://www.salon.com/2014/09/30/were_not_going_to_listen_to_empty_promises_denver_students_show_the_power_of_civil_disobedience/", 
-            "title": "\u201cWe\u2019re not going to listen to empty promises\u201d: Denver students show the power of civil disobedience", 
-            "id": "2hw7j7", 
-            "created-utc": 1412089201.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwl6r/trucker_in_massive_rig_destroys_two_families_in/", 
-            "domain": "finance.yahoo.com", 
-            "score": 16, 
-            "nsfw": false, 
-            "author": "an_faget", 
-            "url": "http://finance.yahoo.com/news/asleep-wheel-trucker-destroyed-family-040100766.html", 
-            "title": "Trucker in Massive Rig Destroys Two Families in His Sleep: \"Burn in Hell\"", 
-            "id": "2hwl6r", 
-            "created-utc": 1412096572.0, 
-            "num-comments": 2
+            "num-comments": 20
         }, 
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hyal7/the_new_campus_sex_puritans_sixty_years_ago/", 
             "domain": "theglobeandmail.com", 
-            "score": 17, 
+            "score": 20, 
             "nsfw": false, 
             "author": "HamsterWithNoName", 
             "url": "http://www.theglobeandmail.com/globe-debate/the-new-campus-sex-puritans/article20842849/", 
             "title": "The new campus sex puritans: Sixty years ago, sexual behaviour among the young caused deep alarm among the puritanical religious right. Today, it causes deep alarm among the puritanical progressive left. Like their forebears, they are doing their best to restrict and regulate it.", 
             "id": "2hyal7", 
             "created-utc": 1412129354.0, 
-            "num-comments": 1
+            "num-comments": 2
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzmvp/8_disturbing_ways_the_kochs_have_amassed_their/", 
+            "domain": "salon.com", 
+            "score": 26, 
+            "nsfw": false, 
+            "author": "michaelconfoy", 
+            "url": "http://www.salon.com/2014/10/01/8_disturbing_ways_the_kochs_have_amassed_their_fortune_partner/", 
+            "title": "8 disturbing ways the Kochs have amassed their fortune", 
+            "id": "2hzmvp", 
+            "created-utc": 1412171069.0, 
+            "num-comments": 4
         }, 
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hwyzp/behind_the_scenes_of_our_tense_segment_the_daily/", 
             "domain": "huffingtonpost.com", 
-            "score": 18, 
+            "score": 16, 
             "nsfw": false, 
             "author": "day465", 
             "url": "http://www.huffingtonpost.com/migizi-pensoneau/1491s-daily-show_b_5907244.html?ncid=fcbklnkushpmg00000063", 
@@ -88,39 +52,75 @@
             "num-comments": 5
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hvv2b/ebay_spinning_off_paypal_as_separate_company/", 
-            "domain": "money.cnn.com", 
-            "score": 13, 
-            "nsfw": false, 
-            "author": "getthetime", 
-            "url": "http://money.cnn.com/2014/09/30/technology/ebay-paypal/index.html?hpt=hp_t2", 
-            "title": "eBay spinning off PayPal as separate company", 
-            "id": "2hvv2b", 
-            "created-utc": 1412081370.0, 
-            "num-comments": 1
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hw8jg/our_criminal_justice_system_is_making_it_really/", 
-            "domain": "washingtonpost.com", 
-            "score": 11, 
-            "nsfw": false, 
-            "author": "BannedOnTheRun", 
-            "url": "http://www.washingtonpost.com/posteverything/wp/2014/09/30/our-criminal-justice-system-is-making-it-really-hard-for-the-poor-to-find-jobs/?hpid=z11", 
-            "title": "Our criminal justice system is making it really hard for people to find jobs", 
-            "id": "2hw8jg", 
-            "created-utc": 1412089737.0, 
-            "num-comments": 2
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hwygp/after_two_doj_warnings_ferguson_police_still/", 
             "domain": "crooksandliars.com", 
-            "score": 9, 
+            "score": 12, 
             "nsfw": false, 
             "author": "michaelconfoy", 
             "url": "http://crooksandliars.com/2014/09/after-two-doj-warnings-ferguson-police", 
             "title": "After Two DOJ Warnings, Ferguson Police Still Refuse To Wear Name Tags", 
             "id": "2hwygp", 
             "created-utc": 1412103203.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzomm/republicans_new_black_friend_is_either_a_stock/", 
+            "domain": "thedailybanter.com", 
+            "score": 16, 
+            "nsfw": false, 
+            "author": "TommyChristopher", 
+            "url": "http://thedailybanter.com/2014/09/republicans-new-black-friend-either-stock-photo-interesting-day/#GFQr7MPImM0q1FyZ.16", 
+            "title": "Republicans\u2019 New Black Friend Is Either A Stock Photo Or Is Having A Very Interesting Day", 
+            "id": "2hzomm", 
+            "created-utc": 1412172167.0, 
+            "num-comments": 8
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzh1j/survey_says_half_of_all_married_women_now_have_a/", 
+            "domain": "blog.sfgate.com", 
+            "score": 8, 
+            "nsfw": false, 
+            "author": "secaa23", 
+            "url": "http://blog.sfgate.com/relationships/2014/09/30/survey-says-half-of-all-married-women-have-a-backup-husband-in-mind/#24902101=0", 
+            "title": "Survey says half of all married women now have a \"backup husband\" in mind", 
+            "id": "2hzh1j", 
+            "created-utc": 1412166991.0, 
+            "num-comments": 6
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzrok/us_veterans_send_fox_news_open_letter_about_boobs/", 
+            "domain": "businessinsider.com", 
+            "score": 13, 
+            "nsfw": false, 
+            "author": "Bemuzed", 
+            "url": "http://www.businessinsider.com/us-veterans-send-fox-news-open-letter-about-boobs-on-the-ground-joke-2014-9", 
+            "title": "US Veterans Send Fox News Open Letter About 'Boobs On The Ground' Joke", 
+            "id": "2hzrok", 
+            "created-utc": 1412173999.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hz8ws/reza_aslan_mahers_facile_generalizations_of_islam/", 
+            "domain": "realclearpolitics.com", 
+            "score": 12, 
+            "nsfw": false, 
+            "author": "Trynottobeacunt", 
+            "url": "http://www.realclearpolitics.com/video/2014/09/30/reza_aslan_mahers_facile_generalizations_of_islam_the_definition_of_bigotry.html", 
+            "title": "Reza Aslan: Maher's \"Facile\" Generalizations Of Islam The Definition Of Bigotry", 
+            "id": "2hz8ws", 
+            "created-utc": 1412159426.0, 
+            "num-comments": 3
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hxgkx/the_girls_who_were_taken_before_hannah_graham_one/", 
+            "domain": "thedailybeast.com", 
+            "score": 7, 
+            "nsfw": false, 
+            "author": "michaelconfoy", 
+            "url": "http://www.thedailybeast.com/articles/2014/09/30/the-girls-who-were-taken-before-hannah-graham.html", 
+            "title": "The Girls Who Were Taken Before Hannah Graham One was snatched as she carried groceries. Another was trying to get home from a Metallica show. Now both are linked to Jesse Matthew, charged in 18-year-old Graham\u2019s disappearance.", 
+            "id": "2hxgkx", 
+            "created-utc": 1412112479.0, 
             "num-comments": 0
         }, 
         {
@@ -136,51 +136,27 @@
             "num-comments": 2
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwg5v/gitmo_hunger_strikes_are_a_cry_for_help_why_is/", 
-            "domain": "theguardian.com", 
-            "score": 7, 
-            "nsfw": false, 
-            "author": "ReprieveUK", 
-            "url": "http://www.theguardian.com/commentisfree/2014/sep/30/gitmo-hunger-strikes-secret-force-feeding", 
-            "title": "Gitmo hunger strikes are a cry for help. Why is the US fighting back with secret torture?", 
-            "id": "2hwg5v", 
-            "created-utc": 1412093871.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwjfy/ebay_and_paypal_are_splitting_up_will_reemerge_as/", 
-            "domain": "theverge.com", 
-            "score": 7, 
-            "nsfw": false, 
-            "author": "gopperman", 
-            "url": "http://www.theverge.com/2014/9/30/6871483/ebay-and-paypal-are-splitting-up", 
-            "title": "eBay and PayPal are splitting up, will re-emerge as two separate businesses in 2015", 
-            "id": "2hwjfy", 
-            "created-utc": 1412095621.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hw0t5/what_the_hong_kong_protests_are_really_about/", 
-            "domain": "hongkonglifer.wordpress.com", 
-            "score": 6, 
-            "nsfw": false, 
-            "author": "chowzedong", 
-            "url": "http://hongkonglifer.wordpress.com/2014/09/30/why-im-proud-to-be-a-hong-kong-citizen-thoughts-on-occupy-central/", 
-            "title": "What the Hong Kong Protests are Really About", 
-            "id": "2hw0t5", 
-            "created-utc": 1412085307.0, 
-            "num-comments": 1
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hxgkx/the_girls_who_were_taken_before_hannah_graham_one/", 
-            "domain": "thedailybeast.com", 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hx00h/colorado_supreme_court_hears_appeal_of_worker/", 
+            "domain": "rawstory.com", 
             "score": 6, 
             "nsfw": false, 
             "author": "michaelconfoy", 
-            "url": "http://www.thedailybeast.com/articles/2014/09/30/the-girls-who-were-taken-before-hannah-graham.html", 
-            "title": "The Girls Who Were Taken Before Hannah Graham One was snatched as she carried groceries. Another was trying to get home from a Metallica show. Now both are linked to Jesse Matthew, charged in 18-year-old Graham\u2019s disappearance.", 
-            "id": "2hxgkx", 
-            "created-utc": 1412112479.0, 
+            "url": "http://www.rawstory.com/rs/2014/09/colorado-supreme-court-hears-appeal-of-worker-fired-for-using-medical-marijuana/#.VCr_E1na3Ls.reddit", 
+            "title": "Colorado Supreme Court hears appeal of worker fired for using medical marijuana", 
+            "id": "2hx00h", 
+            "created-utc": 1412103980.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hxgru/texas_patient_confirmed_as_first_ebola_case/", 
+            "domain": "news.yahoo.com", 
+            "score": 5, 
+            "nsfw": false, 
+            "author": "gari-soflo", 
+            "url": "http://news.yahoo.com/texas-patient-confirmed-as-first-ebola-case-diagnosed-in-us-205031312.html", 
+            "title": "Texas patient confirmed as first Ebola case diagnosed in US", 
+            "id": "2hxgru", 
+            "created-utc": 1412112586.0, 
             "num-comments": 0
         }, 
         {
@@ -196,16 +172,28 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hx00h/colorado_supreme_court_hears_appeal_of_worker/", 
-            "domain": "rawstory.com", 
-            "score": 5, 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwzcj/ben_carson_ap_history_would_make_kids_want_to/", 
+            "domain": "talkingpointsmemo.com", 
+            "score": 6, 
             "nsfw": false, 
             "author": "michaelconfoy", 
-            "url": "http://www.rawstory.com/rs/2014/09/colorado-supreme-court-hears-appeal-of-worker-fired-for-using-medical-marijuana/#.VCr_E1na3Ls.reddit", 
-            "title": "Colorado Supreme Court hears appeal of worker fired for using medical marijuana", 
-            "id": "2hx00h", 
-            "created-utc": 1412103980.0, 
-            "num-comments": 0
+            "url": "http://talkingpointsmemo.com/livewire/ben-carson-ap-history-isis", 
+            "title": "Ben Carson: AP History Would Make Kids Want To 'Sign Up For ISIS' (VIDEO)", 
+            "id": "2hwzcj", 
+            "created-utc": 1412103659.0, 
+            "num-comments": 3
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzmof/after_a_man_died_in_police_custody_cops_claimed/", 
+            "domain": "nj.com", 
+            "score": 5, 
+            "nsfw": false, 
+            "author": "Shabe", 
+            "url": "http://www.nj.com/excited-delirium/", 
+            "title": "After a man died in police custody, cops claimed he perished due to an adrenaline rush called excited delirium. Critics say this diagnosis was a crock.", 
+            "id": "2hzmof", 
+            "created-utc": 1412170928.0, 
+            "num-comments": 4
         }, 
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hy7j5/what_toppled_lenin_statues_tell_us_about_ukraines/", 
@@ -220,30 +208,6 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hxgru/texas_patient_confirmed_as_first_ebola_case/", 
-            "domain": "news.yahoo.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "author": "gari-soflo", 
-            "url": "http://news.yahoo.com/texas-patient-confirmed-as-first-ebola-case-diagnosed-in-us-205031312.html", 
-            "title": "Texas patient confirmed as first Ebola case diagnosed in US", 
-            "id": "2hxgru", 
-            "created-utc": 1412112586.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hx69l/marijuana_growers_are_clearcutting_100_year_old/", 
-            "domain": "sanfrancisco.cbslocal.com", 
-            "score": 2, 
-            "nsfw": false, 
-            "author": "ThePoliticalHat", 
-            "url": "http://sanfrancisco.cbslocal.com/2014/09/30/northern-california-marijuana-grows-attract-international-investment-humboldt-county-pot-bulgaria-green-rush/", 
-            "title": "Marijuana growers are clear-cutting 100 year old redwoods, leveling hills and sucking dry rivers that are already stricken by drought.", 
-            "id": "2hx69l", 
-            "created-utc": 1412107154.0, 
-            "num-comments": 2
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hwzom/authorities_claim_alleged_thieves_used_drones_to/", 
             "domain": "consumerist.com", 
             "score": 5, 
@@ -254,18 +218,6 @@
             "id": "2hwzom", 
             "created-utc": 1412103820.0, 
             "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwzcj/ben_carson_ap_history_would_make_kids_want_to/", 
-            "domain": "talkingpointsmemo.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "author": "michaelconfoy", 
-            "url": "http://talkingpointsmemo.com/livewire/ben-carson-ap-history-isis", 
-            "title": "Ben Carson: AP History Would Make Kids Want To 'Sign Up For ISIS' (VIDEO)", 
-            "id": "2hwzcj", 
-            "created-utc": 1412103659.0, 
-            "num-comments": 3
         }, 
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hwoqs/ebola_orphans_in_west_africa_shunned_by_relatives/", 
@@ -280,16 +232,28 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/inthenews/comments/2hwcip/fbi_collars_alleged_mobile_spyware_seller/", 
-            "domain": "zdnet.com", 
-            "score": 4, 
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hzw5d/if_isis_is_not_islamic_then_the_inquisition_was/", 
+            "domain": "newrepublic.com", 
+            "score": 6, 
             "nsfw": false, 
-            "author": "floridawhiteguy", 
-            "url": "http://www.zdnet.com/fbi-collars-alleged-mobile-spyware-seller-7000034184/", 
-            "title": "FBI collars alleged mobile spyware seller", 
-            "id": "2hwcip", 
-            "created-utc": 1412091884.0, 
-            "num-comments": 2
+            "author": "Mouse-Rider", 
+            "url": "http://www.newrepublic.com/article/119433/if-isis-not-islamic-then-inquisition-was-not-catholic", 
+            "title": "If ISIS Is Not Islamic, then the Inquisition Was Not Catholic", 
+            "id": "2hzw5d", 
+            "created-utc": 1412176561.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hyw9k/ebola_case_stokes_concerns_for_liberians_in_texas/", 
+            "domain": "miamiherald.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "author": "Sunking278", 
+            "url": "http://www.miamiherald.com/living/health-fitness/article2377622.html", 
+            "title": "Ebola case stokes concerns for Liberians in Texas", 
+            "id": "2hyw9k", 
+            "created-utc": 1412144927.0, 
+            "num-comments": 0
         }, 
         {
             "permalink": "http://www.reddit.com/r/inthenews/comments/2hy96i/meet_the_17yearold_student_behind_the_protests_in/", 
@@ -302,6 +266,42 @@
             "id": "2hy96i", 
             "created-utc": 1412128544.0, 
             "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hxypo/the_new_york_times_schooled_on_adrian_peterson/", 
+            "domain": "dallasexaminer.com", 
+            "score": 3, 
+            "nsfw": false, 
+            "author": "cavehobbit", 
+            "url": "http://dallasexaminer.com/news/2014/sep/29/new-york-times-schooled-adrian-peterson/", 
+            "title": "The New York Times schooled on Adrian Peterson", 
+            "id": "2hxypo", 
+            "created-utc": 1412122600.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hxaou/you_know_whats_worse_than_a_real_sense_of/", 
+            "domain": "self.inthenews", 
+            "score": 3, 
+            "nsfw": false, 
+            "author": "Saturnix", 
+            "url": "http://www.reddit.com/r/inthenews/comments/2hxaou/you_know_whats_worse_than_a_real_sense_of/", 
+            "title": "You know what's worse than a real sense of insecurity?", 
+            "id": "2hxaou", 
+            "created-utc": 1412109467.0, 
+            "num-comments": 2
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/inthenews/comments/2hx69l/marijuana_growers_are_clearcutting_100_year_old/", 
+            "domain": "sanfrancisco.cbslocal.com", 
+            "score": 2, 
+            "nsfw": false, 
+            "author": "ThePoliticalHat", 
+            "url": "http://sanfrancisco.cbslocal.com/2014/09/30/northern-california-marijuana-grows-attract-international-investment-humboldt-county-pot-bulgaria-green-rush/", 
+            "title": "Marijuana growers are clear-cutting 100 year old redwoods, leveling hills and sucking dry rivers that are already stricken by drought.", 
+            "id": "2hx69l", 
+            "created-utc": 1412107154.0, 
+            "num-comments": 1
         }
     ], 
     "subreddit": "/r/inthenews/", 

@@ -1,132 +1,60 @@
 {
     "description": "Ask a science question, get a science answer", 
     "title": "AskScience: Got Questions? Get Answers.", 
-    "generated-utc": 1412172065, 
+    "generated-utc": 1412191980, 
     "posts": [
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hw7re/since_we_see_stars_as_they_were_some_billions_of/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzk4v/why_are_articles_downplaying_ebola_when_it_sounds/", 
             "domain": "self.askscience", 
-            "score": 2671, 
+            "score": 1963, 
             "nsfw": false, 
-            "author": "SurprisedTree", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hw7re/since_we_see_stars_as_they_were_some_billions_of/", 
-            "title": "Since we see stars as they were some billions of years ago, if I picked out one that had already died, and travelled toward it at a reasonable speed, at some point would I see it explode?", 
-            "id": "2hw7re", 
-            "created-utc": 1412089320.0, 
-            "num-comments": 330
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hw282/world_has_lost_more_than_half_its_wildlife_in_40/", 
-            "domain": "self.askscience", 
-            "score": 307, 
-            "nsfw": false, 
-            "author": "GetToDaChoppa1", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hw282/world_has_lost_more_than_half_its_wildlife_in_40/", 
-            "title": "World has lost more than half its wildlife in 40 years -- Can anyone explain the potential impact?", 
-            "id": "2hw282", 
-            "created-utc": 1412086182.0, 
-            "num-comments": 51
+            "author": "Gimli_the_White", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzk4v/why_are_articles_downplaying_ebola_when_it_sounds/", 
+            "title": "Why are articles downplaying Ebola when it sounds easier to catch than AIDS?", 
+            "id": "2hzk4v", 
+            "created-utc": 1412169264.0, 
+            "num-comments": 782
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hyj85/does_the_sun_experience_tides_due_to_influence_of/", 
             "domain": "self.askscience", 
-            "score": 198, 
+            "score": 311, 
             "nsfw": false, 
             "author": "markmiddleton", 
             "url": "http://www.reddit.com/r/askscience/comments/2hyj85/does_the_sun_experience_tides_due_to_influence_of/", 
             "title": "Does the Sun experience \"tides\" due to influence of it's satellites (the planets)?", 
             "id": "2hyj85", 
             "created-utc": 1412134738.0, 
-            "num-comments": 17
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwcna/if_every_person_in_the_world_was_quarantined_by/", 
-            "domain": "self.askscience", 
-            "score": 84, 
-            "nsfw": false, 
-            "author": "hugret", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwcna/if_every_person_in_the_world_was_quarantined_by/", 
-            "title": "if every person in the world was quarantined by themselves for enough time for the common cold/flu to run its course, would those sicknesses become \"extinct\"?", 
-            "id": "2hwcna", 
-            "created-utc": 1412091960.0, 
-            "num-comments": 14
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hvu8o/whats_the_science_behind_the_stem_cell_treatment/", 
-            "domain": "self.askscience", 
-            "score": 66, 
-            "nsfw": false, 
-            "author": "HalfWineRS", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hvu8o/whats_the_science_behind_the_stem_cell_treatment/", 
-            "title": "What's the science behind the stem cell treatment recieved by Katie Piper to fully recover from her blind eye?", 
-            "id": "2hvu8o", 
-            "created-utc": 1412080717.0, 
-            "num-comments": 3
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwgiw/when_i_stretch_a_piece_of_clingwrap_apart_into/", 
-            "domain": "self.askscience", 
-            "score": 61, 
-            "nsfw": false, 
-            "author": "DeltaPunch", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwgiw/when_i_stretch_a_piece_of_clingwrap_apart_into/", 
-            "title": "When I stretch a piece of cling-wrap apart into two pieces, they seem to attract each as if electrically charged. Why is that?", 
-            "id": "2hwgiw", 
-            "created-utc": 1412094052.0, 
-            "num-comments": 3
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hw81y/how_much_ice_would_i_have_to_eat_to_lose_1kg_of/", 
-            "domain": "self.askscience", 
-            "score": 58, 
-            "nsfw": false, 
-            "author": "changingminds", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hw81y/how_much_ice_would_i_have_to_eat_to_lose_1kg_of/", 
-            "title": "How much ice would I have to eat to lose 1kg of weight?", 
-            "id": "2hw81y", 
-            "created-utc": 1412089472.0, 
-            "num-comments": 36
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hvvts/how_do_bacteria_cause_enteric_diseases_despite/", 
-            "domain": "self.askscience", 
-            "score": 23, 
-            "nsfw": false, 
-            "author": "Luminn", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hvvts/how_do_bacteria_cause_enteric_diseases_despite/", 
-            "title": "How do bacteria cause enteric diseases despite having to go through the stomach?", 
-            "id": "2hvvts", 
-            "created-utc": 1412081928.0, 
-            "num-comments": 6
+            "num-comments": 31
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hxl1r/do_we_actually_know_what_dinosaurs_sounded_like/", 
             "domain": "self.askscience", 
-            "score": 20, 
+            "score": 22, 
             "nsfw": false, 
             "author": "BackpackCat", 
             "url": "http://www.reddit.com/r/askscience/comments/2hxl1r/do_we_actually_know_what_dinosaurs_sounded_like/", 
             "title": "Do we actually know what dinosaurs sounded like? Is it anywhere close to what we would hear out of movies such as Jurassic Park?", 
             "id": "2hxl1r", 
             "created-utc": 1412114832.0, 
-            "num-comments": 7
+            "num-comments": 8
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hvufh/since_energy_cannot_be_created_or_destroyed_is/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzsyv/what_kind_of_damage_would_a_collapsing_space/", 
             "domain": "self.askscience", 
-            "score": 16, 
+            "score": 22, 
             "nsfw": false, 
-            "author": "xTwoMinuteTommy420x", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hvufh/since_energy_cannot_be_created_or_destroyed_is/", 
-            "title": "Since energy cannot be created or destroyed, is the total amount of energy theoretically measurable?", 
-            "id": "2hvufh", 
-            "created-utc": 1412080870.0, 
-            "num-comments": 15
+            "author": "Millennion", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzsyv/what_kind_of_damage_would_a_collapsing_space/", 
+            "title": "What kind of damage would a collapsing space elevator do to earth?", 
+            "id": "2hzsyv", 
+            "created-utc": 1412174727.0, 
+            "num-comments": 19
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hx5ns/are_sociopaths_inherently_malicious/", 
             "domain": "self.askscience", 
-            "score": 13, 
+            "score": 15, 
             "nsfw": false, 
             "author": "CaskironPan", 
             "url": "http://www.reddit.com/r/askscience/comments/2hx5ns/are_sociopaths_inherently_malicious/", 
@@ -136,9 +64,33 @@
             "num-comments": 9
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hxdya/there_is_a_post_over_on_rtodayilearned_saying/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hyao6/has_anyone_been_cured_of_alzheimers/", 
+            "domain": "self.askscience", 
+            "score": 10, 
+            "nsfw": false, 
+            "author": "slicedclementines", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hyao6/has_anyone_been_cured_of_alzheimers/", 
+            "title": "Has anyone been cured of Alzheimer's?", 
+            "id": "2hyao6", 
+            "created-utc": 1412129404.0, 
+            "num-comments": 2
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hxpg1/how_much_tree_growth_time_is_represented_by_an/", 
             "domain": "self.askscience", 
             "score": 9, 
+            "nsfw": false, 
+            "author": "Granite-M", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hxpg1/how_much_tree_growth_time_is_represented_by_an/", 
+            "title": "How much tree growth time is represented by an 8.5\"x11\" sheet of paper?", 
+            "id": "2hxpg1", 
+            "created-utc": 1412117290.0, 
+            "num-comments": 4
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hxdya/there_is_a_post_over_on_rtodayilearned_saying/", 
+            "domain": "self.askscience", 
+            "score": 10, 
             "nsfw": false, 
             "author": "MrQuibbles", 
             "url": "http://www.reddit.com/r/askscience/comments/2hxdya/there_is_a_post_over_on_rtodayilearned_saying/", 
@@ -146,6 +98,18 @@
             "id": "2hxdya", 
             "created-utc": 1412111138.0, 
             "num-comments": 5
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzrm9/is_there_a_study_showing_a_causal_link_between/", 
+            "domain": "self.askscience", 
+            "score": 13, 
+            "nsfw": false, 
+            "author": "rhiever", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzrm9/is_there_a_study_showing_a_causal_link_between/", 
+            "title": "Is there a study showing a causal link between tooth brushing frequency and oral health?", 
+            "id": "2hzrm9", 
+            "created-utc": 1412173966.0, 
+            "num-comments": 7
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hwyez/was_the_milgram_experiment_a_sham_if_so_why_do/", 
@@ -172,42 +136,6 @@
             "num-comments": 6
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hxpg1/how_much_tree_growth_time_is_represented_by_an/", 
-            "domain": "self.askscience", 
-            "score": 11, 
-            "nsfw": false, 
-            "author": "Granite-M", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hxpg1/how_much_tree_growth_time_is_represented_by_an/", 
-            "title": "How much tree growth time is represented by an 8.5\"x11\" sheet of paper?", 
-            "id": "2hxpg1", 
-            "created-utc": 1412117290.0, 
-            "num-comments": 4
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hx5pv/can_plants_be_forced_to_mutate_without_radiation/", 
-            "domain": "self.askscience", 
-            "score": 8, 
-            "nsfw": false, 
-            "author": "FTML", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hx5pv/can_plants_be_forced_to_mutate_without_radiation/", 
-            "title": "Can Plants be Forced to Mutate without Radiation?", 
-            "id": "2hx5pv", 
-            "created-utc": 1412106877.0, 
-            "num-comments": 6
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwljk/what_is_my_width_in_the_time_dimension/", 
-            "domain": "self.askscience", 
-            "score": 7, 
-            "nsfw": false, 
-            "author": "Bisbailler", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwljk/what_is_my_width_in_the_time_dimension/", 
-            "title": "What is my width in the time dimension?", 
-            "id": "2hwljk", 
-            "created-utc": 1412096737.0, 
-            "num-comments": 10
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hxmxn/why_do_systems_maximize_entropy/", 
             "domain": "self.askscience", 
             "score": 8, 
@@ -222,7 +150,7 @@
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hxl5q/how_much_of_a_snake_is_tail/", 
             "domain": "self.askscience", 
-            "score": 9, 
+            "score": 8, 
             "nsfw": false, 
             "author": "GinkoWeed", 
             "url": "http://www.reddit.com/r/askscience/comments/2hxl5q/how_much_of_a_snake_is_tail/", 
@@ -230,6 +158,30 @@
             "id": "2hxl5q", 
             "created-utc": 1412114891.0, 
             "num-comments": 4
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hygpc/does_rainwater_really_clean_the_air/", 
+            "domain": "self.askscience", 
+            "score": 7, 
+            "nsfw": false, 
+            "author": "JasonAndrewRelva", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hygpc/does_rainwater_really_clean_the_air/", 
+            "title": "Does rainwater really clean the air?", 
+            "id": "2hygpc", 
+            "created-utc": 1412133113.0, 
+            "num-comments": 5
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hx5pv/can_plants_be_forced_to_mutate_without_radiation/", 
+            "domain": "self.askscience", 
+            "score": 8, 
+            "nsfw": false, 
+            "author": "FTML", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hx5pv/can_plants_be_forced_to_mutate_without_radiation/", 
+            "title": "Can Plants be Forced to Mutate without Radiation?", 
+            "id": "2hx5pv", 
+            "created-utc": 1412106877.0, 
+            "num-comments": 6
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hwqw9/how_does_pressure_affect_collision_rate_of_gas/", 
@@ -241,19 +193,79 @@
             "title": "How does pressure affect collision rate of gas with a container?", 
             "id": "2hwqw9", 
             "created-utc": 1412099407.0, 
-            "num-comments": 8
+            "num-comments": 10
         }, 
         {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hyao6/has_anyone_been_cured_of_alzheimers/", 
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzup5/ask_anything_wednesday_engineering_mathematics/", 
+            "domain": "self.askscience", 
+            "score": 8, 
+            "nsfw": false, 
+            "author": "AutoModerator", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzup5/ask_anything_wednesday_engineering_mathematics/", 
+            "title": "Ask Anything Wednesday - Engineering, Mathematics, Computer Science", 
+            "id": "2hzup5", 
+            "created-utc": 1412175731.0, 
+            "num-comments": 9
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzt1h/does_a_volcanic_eruption_one_side_of_the_planet/", 
+            "domain": "self.askscience", 
+            "score": 6, 
+            "nsfw": false, 
+            "author": "gaseousshroud", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzt1h/does_a_volcanic_eruption_one_side_of_the_planet/", 
+            "title": "Does a volcanic eruption one side of the planet relieve, or affect the condition of other active volcanoes? Is there a ecosystem of volcanoes?", 
+            "id": "2hzt1h", 
+            "created-utc": 1412174769.0, 
+            "num-comments": 3
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hzo11/if_you_can_make_lighterthanair_crafts_is_there_a/", 
+            "domain": "self.askscience", 
+            "score": 5, 
+            "nsfw": false, 
+            "author": "monkey_metaphore", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hzo11/if_you_can_make_lighterthanair_crafts_is_there_a/", 
+            "title": "If you can make lighter-than-air crafts, is there a limit to how light you can make them? So is there a maximum amount of buoyancy and lift?", 
+            "id": "2hzo11", 
+            "created-utc": 1412171786.0, 
+            "num-comments": 4
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hznv8/what_are_the_physical_differences_between_a/", 
             "domain": "self.askscience", 
             "score": 9, 
             "nsfw": false, 
-            "author": "slicedclementines", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hyao6/has_anyone_been_cured_of_alzheimers/", 
-            "title": "Has anyone been cured of Alzheimer's?", 
-            "id": "2hyao6", 
-            "created-utc": 1412129404.0, 
-            "num-comments": 2
+            "author": "Voltasalt", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hznv8/what_are_the_physical_differences_between_a/", 
+            "title": "What are the physical differences between a dominant and non-dominant hand?", 
+            "id": "2hznv8", 
+            "created-utc": 1412171704.0, 
+            "num-comments": 1
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hz9bm/if_energy_cant_be_created_or_destroyed_how_can_it/", 
+            "domain": "self.askscience", 
+            "score": 6, 
+            "nsfw": false, 
+            "author": "larkerx", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hz9bm/if_energy_cant_be_created_or_destroyed_how_can_it/", 
+            "title": "If energy cant be created or destroyed. How can it be here?", 
+            "id": "2hz9bm", 
+            "created-utc": 1412159902.0, 
+            "num-comments": 10
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/askscience/comments/2hy1yz/one_of_the_more_dangerous_parts_of_bee_venom_is/", 
+            "domain": "self.askscience", 
+            "score": 5, 
+            "nsfw": false, 
+            "author": "shavera", 
+            "url": "http://www.reddit.com/r/askscience/comments/2hy1yz/one_of_the_more_dangerous_parts_of_bee_venom_is/", 
+            "title": "One of the more dangerous parts of bee venom is Phospholipase, which breaks down cell membranes. Why doesn't it break down cell membranes inside the bee?", 
+            "id": "2hy1yz", 
+            "created-utc": 1412124412.0, 
+            "num-comments": 3
         }, 
         {
             "permalink": "http://www.reddit.com/r/askscience/comments/2hwvkw/how_did_fish_end_up_in_lakes/", 
@@ -290,18 +302,6 @@
             "id": "2hwpff", 
             "created-utc": 1412098679.0, 
             "num-comments": 4
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/askscience/comments/2hwkhg/are_there_any_species_of_animal_were_helping/", 
-            "domain": "self.askscience", 
-            "score": 6, 
-            "nsfw": false, 
-            "author": "HorseCode", 
-            "url": "http://www.reddit.com/r/askscience/comments/2hwkhg/are_there_any_species_of_animal_were_helping/", 
-            "title": "Are there any species of animal we're helping conserve that would likely have gone extinct even if humans had never existed?", 
-            "id": "2hwkhg", 
-            "created-utc": 1412096188.0, 
-            "num-comments": 3
         }
     ], 
     "subreddit": "/r/askscience/", 

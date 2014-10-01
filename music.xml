@@ -6,23 +6,15 @@
   <description>The musical community of reddit</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Wed, 01 Oct 2014 14:01:30 -0000</pubDate>
+  <pubDate>Wed, 01 Oct 2014 19:33:27 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/music.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>Tom Morello slams Seattle restaurant on Twitter for not giving him and his entourage special treatment, restaurant owner responds with an open letter putting Morello in his place.</title>
-    <link>http://www.blabbermouth.net/news/tom-morello-slams-seattle-restaurant-after-being-denied-service/</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hvuwz/tom_morello_slams_seattle_restaurant_on_twitter/</guid>
-    <description>BY SNOWHESHER &#183; POSTED 09/30/14 8:47 AM EST &#183; BLABBERMOUTH.NET &#183; SCORE 4004</description>
-    <category></category>
-  </item>
 
   <item>
     <title>Oh look Tom Morello's side of the story. Turns out he might not be a total asshole after all!</title>
     <link>https://m.facebook.com/story.php?story_fbid=10152809187064273&amp;id=87199814272</link>
     <guid>http://www.reddit.com/r/Music/comments/2hxwts/oh_look_tom_morellos_side_of_the_story_turns_out/</guid>
-    <description>BY DOCTORDOH &#183; POSTED 09/30/14 7:58 PM EST &#183; M.FACEBOOK.COM &#183; SCORE 2144</description>
+    <description>BY DOCTORDOH &#183; POSTED 09/30/14 7:58 PM EST &#183; M.FACEBOOK.COM &#183; SCORE 2105</description>
     <category></category>
   </item>
 
@@ -30,15 +22,31 @@
     <title>I am Luke Hood, founder of the electronic music brand UKF - Ask Me Anything</title>
     <link>http://www.reddit.com/r/Music/comments/2hwmog/i_am_luke_hood_founder_of_the_electronic_music/</link>
     <guid>http://www.reddit.com/r/Music/comments/2hwmog/i_am_luke_hood_founder_of_the_electronic_music/</guid>
-    <description>BY UKFLUKE &#183; POSTED 09/30/14 1:14 PM EST &#183; SELF.MUSIC &#183; SCORE 169</description>
+    <description>BY UKFLUKE &#183; POSTED 09/30/14 1:14 PM EST &#183; SELF.MUSIC &#183; SCORE 189</description>
     <category></category>
   </item>
 
   <item>
-    <title>Pharrell Williams - It Girl [POP] Anime Video</title>
-    <link>https://www.youtube.com/watch?v=pPZDBF0kei0</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hwe27/pharrell_williams_it_girl_pop_anime_video/</guid>
-    <description>BY XARDDE &#183; POSTED 09/30/14 11:58 AM EST &#183; YOUTUBE.COM &#183; SCORE 65</description>
+    <title>I am Buck 65, rapper/producer/writer, my new album is out this week, AMA</title>
+    <link>http://www.reddit.com/r/Music/comments/2hzoe9/i_am_buck_65_rapperproducerwriter_my_new_album_is/</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hzoe9/i_am_buck_65_rapperproducerwriter_my_new_album_is/</guid>
+    <description>BY BUCK_65 &#183; POSTED 10/01/14 10:00 AM EST &#183; SELF.MUSIC &#183; SCORE 399</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Kraftwerk - Autobahn (1974) [Original Electronica]</title>
+    <link>http://youtu.be/x-G28iyPtz0</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hz2x1/kraftwerk_autobahn_1974_original_electronica/</guid>
+    <description>BY DOESTHISMATTER &#183; POSTED 10/01/14 4:31 AM EST &#183; YOUTU.BE &#183; SCORE 79</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Wu-Tang Clan to release new album on Bluetooth speaker</title>
+    <link>http://www.theguardian.com/music/2014/oct/01/wu-tang-clan-to-release-new-album-wu-edition-boombot-rex-portable-boombox-speaker-a-better-tomorrow</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hzlu9/wutang_clan_to_release_new_album_on_bluetooth/</guid>
+    <description>BY KINGHYGELAC &#183; POSTED 10/01/14 9:33 AM EST &#183; THEGUARDIAN.COM &#183; SCORE 150</description>
     <category></category>
   </item>
 
@@ -46,7 +54,15 @@
     <title>Malcolm Young's family confirms the AC/DC guitarist has dementia</title>
     <link>http://www.wbig.com/articles/classic-rock-music-news-477362/acdcs-malcolm-young-has-dementia-12815075/</link>
     <guid>http://www.reddit.com/r/Music/comments/2hx4ou/malcolm_youngs_family_confirms_the_acdc_guitarist/</guid>
-    <description>BY MR_1990S &#183; POSTED 09/30/14 3:45 PM EST &#183; WBIG.COM &#183; SCORE 44</description>
+    <description>BY MR_1990S &#183; POSTED 09/30/14 3:45 PM EST &#183; WBIG.COM &#183; SCORE 46</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Alice In Chains - Down In A Hole Unplugged[Rock/Metal][1996] One of the best live performances no doubt.</title>
+    <link>https://www.youtube.com/watch?v=tIcwKRQrcVI&amp;list=PL2B9E74ACBD80F53B&amp;index=5</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hxomu/alice_in_chains_down_in_a_hole/</guid>
+    <description>BY IAMRANGUS &#183; POSTED 09/30/14 6:40 PM EST &#183; YOUTUBE.COM &#183; SCORE 46</description>
     <category></category>
   </item>
 
@@ -59,34 +75,10 @@
   </item>
 
   <item>
-    <title>Alice In Chains - Down In A Hole Unplugged[Rock/Metal][1996] One of the best live performances no doubt.</title>
-    <link>https://www.youtube.com/watch?v=tIcwKRQrcVI&amp;list=PL2B9E74ACBD80F53B&amp;index=5</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hxomu/alice_in_chains_down_in_a_hole/</guid>
-    <description>BY IAMRANGUS &#183; POSTED 09/30/14 6:40 PM EST &#183; YOUTUBE.COM &#183; SCORE 36</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Weezer new album streaming on iTunes.</title>
-    <link>http://www.rollingstone.com/music/news/hear-weezers-new-album-on-itunes-ahead-of-official-release-20140930</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hwafk/weezer_new_album_streaming_on_itunes/</guid>
-    <description>BY MILTOWNROCKSTAR &#183; POSTED 09/30/14 11:26 AM EST &#183; ROLLINGSTONE.COM &#183; SCORE 36</description>
-    <category></category>
-  </item>
-
-  <item>
     <title>I liked their first couple of albums then lost interest.</title>
     <link>http://www.reddit.com/r/Music/comments/2hxjat/i_liked_their_first_couple_of_albums_then_lost/</link>
     <guid>http://www.reddit.com/r/Music/comments/2hxjat/i_liked_their_first_couple_of_albums_then_lost/</guid>
-    <description>BY DUBLIMINAL &#183; POSTED 09/30/14 5:51 PM EST &#183; SELF.MUSIC &#183; SCORE 30</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Let's hear some Tom Morello stories. How does the champion of the working man treat his workers?</title>
-    <link>http://www.reddit.com/r/Music/comments/2hwser/lets_hear_some_tom_morello_stories_how_does_the/</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hwser/lets_hear_some_tom_morello_stories_how_does_the/</guid>
-    <description>BY SPODIE &#183; POSTED 09/30/14 2:03 PM EST &#183; SELF.MUSIC &#183; SCORE 31</description>
+    <description>BY DUBLIMINAL &#183; POSTED 09/30/14 5:51 PM EST &#183; SELF.MUSIC &#183; SCORE 29</description>
     <category></category>
   </item>
 
@@ -94,15 +86,7 @@
     <title>Alien Ant Farm - Smooth Criminal [Rock] (Michael Jackson cover)</title>
     <link>https://www.youtube.com/watch?v=CDl9ZMfj6aE</link>
     <guid>http://www.reddit.com/r/Music/comments/2hxvil/alien_ant_farm_smooth_criminal_rock_michael/</guid>
-    <description>BY CORABAL &#183; POSTED 09/30/14 7:46 PM EST &#183; YOUTUBE.COM &#183; SCORE 30</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>The Smiths - Frankly Mr. Shankly [80s Indie Pop] Morrissey never gets enough credit for being funny.</title>
-    <link>http://youtu.be/2ownZDWNIRs</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hvxh1/the_smiths_frankly_mr_shankly_80s_indie_pop/</guid>
-    <description>BY OKDOKECOMPUTER &#183; POSTED 09/30/14 9:18 AM EST &#183; YOUTU.BE &#183; SCORE 25</description>
+    <description>BY CORABAL &#183; POSTED 09/30/14 7:46 PM EST &#183; YOUTUBE.COM &#183; SCORE 27</description>
     <category></category>
   </item>
 
@@ -110,31 +94,23 @@
     <title>Mastodon's Brann Dailor Talks "The Motherload" Video: "It’s Not to Be Taken So Seriously"</title>
     <link>http://pitchfork.com/news/56917-mastodons-brann-dailor-talks-the-motherload-video-its-not-to-be-taken-so-seriously/</link>
     <guid>http://www.reddit.com/r/Music/comments/2hxvie/mastodons_brann_dailor_talks_the_motherload_video/</guid>
-    <description>BY CHARLESGRODINFAN &#183; POSTED 09/30/14 7:46 PM EST &#183; PITCHFORK.COM &#183; SCORE 23</description>
+    <description>BY CHARLESGRODINFAN &#183; POSTED 09/30/14 7:46 PM EST &#183; PITCHFORK.COM &#183; SCORE 26</description>
     <category></category>
   </item>
 
   <item>
-    <title>Sledding With Tigers - Not So Body Posi After All (Folk-Punk) [nsfw]</title>
-    <link>https://www.youtube.com/watch?v=U_vgQpl9X8g</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hxv5d/sledding_with_tigers_not_so_body_posi_after_all/</guid>
-    <description>BY SLDDNGWTHTGRS &#183; POSTED 09/30/14 7:43 PM EST &#183; YOUTUBE.COM &#183; SCORE 19</description>
+    <title>Sage Francis - Sea Lion (Feat. Alias, Saul Williams) [Rap]</title>
+    <link>http://www.youtube.com/attribution_link?a=tbvpB0dbFIg&amp;u=%2Fwatch%3Fv%3DNBNPUotMGMI%26feature%3Dshare</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hzotn/sage_francis_sea_lion_feat_alias_saul_williams_rap/</guid>
+    <description>BY SPELCHEK860 &#183; POSTED 10/01/14 10:04 AM EST &#183; YOUTUBE.COM &#183; SCORE 72</description>
     <category></category>
   </item>
 
   <item>
-    <title>Ylvis - Mr Toot [Pop] Catchy new song from the norwegians.</title>
-    <link>https://www.youtube.com/watch?v=ASywAfBAVrQ</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hxap6/ylvis_mr_toot_pop_catchy_new_song_from_the/</guid>
-    <description>BY MJSELVIG &#183; POSTED 09/30/14 4:37 PM EST &#183; YOUTUBE.COM &#183; SCORE 17</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Kraftwerk - Autobahn (1974) [Original Electronica]</title>
-    <link>http://youtu.be/x-G28iyPtz0</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hz2x1/kraftwerk_autobahn_1974_original_electronica/</guid>
-    <description>BY DOESTHISMATTER &#183; POSTED 10/01/14 4:31 AM EST &#183; YOUTU.BE &#183; SCORE 28</description>
+    <title>Dire Straits - Brothers In Arms [Soft Rock]</title>
+    <link>https://www.youtube.com/watch?v=jhdFe3evXpk</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hyyw9/dire_straits_brothers_in_arms_soft_rock/</guid>
+    <description>BY XZAMIN &#183; POSTED 10/01/14 3:12 AM EST &#183; YOUTUBE.COM &#183; SCORE 24</description>
     <category></category>
   </item>
 
@@ -142,7 +118,55 @@
     <title>Nina Simone - "Don't Let Me Be Misunderstood" [Soul]</title>
     <link>https://www.youtube.com/watch?v=9ckv6-yhnIY</link>
     <guid>http://www.reddit.com/r/Music/comments/2hyej5/nina_simone_dont_let_me_be_misunderstood_soul/</guid>
-    <description>BY BILLFNOTME &#183; POSTED 09/30/14 10:49 PM EST &#183; YOUTUBE.COM &#183; SCORE 17</description>
+    <description>BY BILLFNOTME &#183; POSTED 09/30/14 10:49 PM EST &#183; YOUTUBE.COM &#183; SCORE 22</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>The Police - Walking On The Moon (J-Art &amp; Madan Remix) [Summer Remix]</title>
+    <link>https://soundcloud.com/dj-jad-3/the-police-walking-on-the-moon</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hzrt4/the_police_walking_on_the_moon_jart_madan_remix/</guid>
+    <description>BY SAUCEDOG &#183; POSTED 10/01/14 10:34 AM EST &#183; SOUNDCLOUD.COM &#183; SCORE 28</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Sledding With Tigers - Not So Body Posi After All (Folk-Punk) [nsfw]</title>
+    <link>https://www.youtube.com/watch?v=U_vgQpl9X8g</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hxv5d/sledding_with_tigers_not_so_body_posi_after_all/</guid>
+    <description>BY SLDDNGWTHTGRS &#183; POSTED 09/30/14 7:43 PM EST &#183; YOUTUBE.COM &#183; SCORE 18</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>The Strokes ft. Eddie Vedder - Mercy Mercy Me (The Ecology) [Rock] Cover of Marvin Gaye</title>
+    <link>https://www.youtube.com/watch?v=NVm_EkoKMPY</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hxy9p/the_strokes_ft_eddie_vedder_mercy_mercy_me_the/</guid>
+    <description>BY EDWARDDILDOFORHANDS &#183; POSTED 09/30/14 8:12 PM EST &#183; YOUTUBE.COM &#183; SCORE 15</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Ylvis - Mr Toot [Pop] Catchy new song from the norwegians.</title>
+    <link>https://www.youtube.com/watch?v=ASywAfBAVrQ</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hxap6/ylvis_mr_toot_pop_catchy_new_song_from_the/</guid>
+    <description>BY MJSELVIG &#183; POSTED 09/30/14 4:37 PM EST &#183; YOUTUBE.COM &#183; SCORE 15</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Smashing Pumpkins - Perfect [Alternative Rock]</title>
+    <link>https://www.youtube.com/watch?v=VKYY8DxVZHE</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hz3z0/smashing_pumpkins_perfect_alternative_rock/</guid>
+    <description>BY WRATX &#183; POSTED 10/01/14 4:51 AM EST &#183; YOUTUBE.COM &#183; SCORE 22</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Poe -- Angry Johnny [90s Alt Rock]</title>
+    <link>http://www.youtube.com/watch?v=NfiPS8Rg0GA</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hzu8a/poe_angry_johnny_90s_alt_rock/</guid>
+    <description>BY ZSREPORT &#183; POSTED 10/01/14 10:57 AM EST &#183; YOUTUBE.COM &#183; SCORE 78</description>
     <category></category>
   </item>
 
@@ -155,18 +179,10 @@
   </item>
 
   <item>
-    <title>The Clash - Police And Thieves (Live in Munich - 1977) [Punk Rock]</title>
-    <link>http://youtu.be/4kFjZ0o0ENg?list=UUn_cTBTFjHu_V0fw_S8WwoQ</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hw4ri/the_clash_police_and_thieves_live_in_munich_1977/</guid>
-    <description>BY AIRSEMON &#183; POSTED 09/30/14 10:33 AM EST &#183; YOUTU.BE &#183; SCORE 15</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>The Strokes ft. Eddie Vedder - Mercy Mercy Me (The Ecology) [Rock] Cover of Marvin Gaye</title>
-    <link>https://www.youtube.com/watch?v=NVm_EkoKMPY</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hxy9p/the_strokes_ft_eddie_vedder_mercy_mercy_me_the/</guid>
-    <description>BY EDWARDDILDOFORHANDS &#183; POSTED 09/30/14 8:12 PM EST &#183; YOUTUBE.COM &#183; SCORE 16</description>
+    <title>Zager and Evans - In the Year 2525 [Folk Rock]</title>
+    <link>https://www.youtube.com/watch?v=U7VqsONNvIs?</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hzhz8/zager_and_evans_in_the_year_2525_folk_rock/</guid>
+    <description>BY MANOFMANYNAMES &#183; POSTED 10/01/14 8:48 AM EST &#183; YOUTUBE.COM &#183; SCORE 25</description>
     <category></category>
   </item>
 
@@ -174,39 +190,23 @@
     <title>Ella Fitzgerald - Summertime [Jazz] Just the most intense yet subtle live performance of this song ever.</title>
     <link>https://www.youtube.com/watch?v=u2bigf337aU</link>
     <guid>http://www.reddit.com/r/Music/comments/2hxnjs/ella_fitzgerald_summertime_jazz_just_the_most/</guid>
-    <description>BY KARMACAZEE &#183; POSTED 09/30/14 6:30 PM EST &#183; YOUTUBE.COM &#183; SCORE 13</description>
+    <description>BY KARMACAZEE &#183; POSTED 09/30/14 6:30 PM EST &#183; YOUTUBE.COM &#183; SCORE 12</description>
     <category></category>
   </item>
 
   <item>
-    <title>Siouxsie and the Banshees - Spellbound [Post-Punk]</title>
-    <link>http://m.youtube.com/watch?v=9otg_Cm50RE</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hwfvn/siouxsie_and_the_banshees_spellbound_postpunk/</guid>
-    <description>BY HEADLESS_BOURGEOISIE &#183; POSTED 09/30/14 12:15 PM EST &#183; M.YOUTUBE.COM &#183; SCORE 15</description>
+    <title>Jeff Rosenstock - Hey Allison! [punk]</title>
+    <link>http://m.youtube.com/watch?v=A4kjURTkc44</link>
+    <guid>http://www.reddit.com/r/Music/comments/2i02h4/jeff_rosenstock_hey_allison_punk/</guid>
+    <description>BY ZZACHW &#183; POSTED 10/01/14 12:11 PM EST &#183; M.YOUTUBE.COM &#183; SCORE 46</description>
     <category></category>
   </item>
 
   <item>
-    <title>The Front Bottoms - Twelve Feet Deep (Acoustic) [Folk-Punk, Indie] - [4:30]</title>
-    <link>https://www.youtube.com/watch?v=Dc8nPdgGHmI</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hwwtn/the_front_bottoms_twelve_feet_deep_acoustic/</guid>
-    <description>BY KAWAIIATHY &#183; POSTED 09/30/14 2:39 PM EST &#183; YOUTUBE.COM &#183; SCORE 12</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Deep Purple - Space Truckin' [Deep Purple]</title>
-    <link>https://www.youtube.com/watch?v=KZ-lSTlUnfA</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hvtya/deep_purple_space_truckin_deep_purple/</guid>
-    <description>BY PS4PLAY &#183; POSTED 09/30/14 8:34 AM EST &#183; YOUTUBE.COM &#183; SCORE 14</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Rancid - "Collision Course," "Honor Is All We Know," &amp; "Evil's My Friend", off the upcoming album (Honor Is All We Know) - [Punk Rock - Ska]</title>
-    <link>http://youtu.be/9SCF1zbsBfU</link>
-    <guid>http://www.reddit.com/r/Music/comments/2hyhmx/rancid_collision_course_honor_is_all_we_know/</guid>
-    <description>BY 1WILDTURKEY &#183; POSTED 09/30/14 11:22 PM EST &#183; YOUTU.BE &#183; SCORE 11</description>
+    <title>Stone Temple Pilots - Pretty Penny [Alt / Grunge]</title>
+    <link>http://www.youtube.com/watch?v=UWj73gYZDUk</link>
+    <guid>http://www.reddit.com/r/Music/comments/2hzik8/stone_temple_pilots_pretty_penny_alt_grunge/</guid>
+    <description>BY ANTIANTIDRUG &#183; POSTED 10/01/14 8:55 AM EST &#183; YOUTUBE.COM &#183; SCORE 14</description>
     <category></category>
   </item>
 

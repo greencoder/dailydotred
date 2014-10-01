@@ -1,48 +1,36 @@
 {
     "description": "A place to read and share positive and uplifting, feel good news stories", 
     "title": "Uplifting News", 
-    "generated-utc": 1412172026, 
+    "generated-utc": 1412191942, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hy0g6/reddit_ceo_giving_stock_to_users/", 
             "domain": "techcrunch.com", 
-            "score": 853, 
+            "score": 1008, 
             "nsfw": false, 
             "author": "dubmose", 
             "url": "http://techcrunch.com/2014/09/30/reddit-fundraising/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;utm_content=FaceBook", 
             "title": "Reddit CEO Giving Stock to users", 
             "id": "2hy0g6", 
             "created-utc": 1412123564.0, 
-            "num-comments": 223
+            "num-comments": 278
         }, 
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hw08p/this_little_boys_best_friends_have_fourlegs_bushy/", 
-            "domain": "onegreenplanet.org", 
-            "score": 97, 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hzt5z/cop_offers_to_help_thief_instead_of_arresting_her/", 
+            "domain": "thechive.com", 
+            "score": 911, 
             "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://www.onegreenplanet.org/news/boy-friends-with-alpine-marmots/", 
-            "title": "This Little Boy\u2019s Best Friends Have Four-Legs, Bushy Tails \u2026 and Are Hardly What You\u2019d Expect", 
-            "id": "2hw08p", 
-            "created-utc": 1412084963.0, 
-            "num-comments": 6
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hw1fc/truck_driver_stops_in_the_middle_of_traffic_to/", 
-            "domain": "onegreenplanet.org", 
-            "score": 52, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://www.onegreenplanet.org/news/truck-driver-stops-in-the-middle-of-traffic-to-save-a-kitty-video/", 
-            "title": "Truck driver stops in the middle of traffic to save tiny kitty", 
-            "id": "2hw1fc", 
-            "created-utc": 1412085693.0, 
-            "num-comments": 5
+            "author": "InFocusForOnce", 
+            "url": "http://thechive.com/2014/10/01/cop-opts-not-to-arrest-a-thief-and-instead-changes-her-life-4-photos/", 
+            "title": "Cop offers to help thief instead of arresting her for stealing groceries. Generosity ensues.", 
+            "id": "2hzt5z", 
+            "created-utc": 1412174843.0, 
+            "num-comments": 187
         }, 
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hxoa0/boy_with_no_face_since_his_birth_is_ready_to_get/", 
             "domain": "lidtime.com", 
-            "score": 47, 
+            "score": 51, 
             "nsfw": false, 
             "author": "mikledet", 
             "url": "http://www.lidtime.com/boy-with-no-face-since-his-birth-is-ready-to-get-life-changing-surgery/", 
@@ -52,21 +40,9 @@
             "num-comments": 1
         }, 
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hw0sl/nypd_saves_failed_brooklyn_bridge_marriage/", 
-            "domain": "abcnews.go.com", 
-            "score": 32, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://abcnews.go.com/Lifestyle/cupid-sends-nypd-save-failed-brooklyn-bridge-proposal/story?id=25821987", 
-            "title": "NYPD Saves Failed Brooklyn Bridge Marriage Proposal", 
-            "id": "2hw0sl", 
-            "created-utc": 1412085300.0, 
-            "num-comments": 3
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hwpyn/paying_it_forward_this_couple_left_a_150_tip/", 
             "domain": "thedailymeal.com", 
-            "score": 24, 
+            "score": 25, 
             "nsfw": false, 
             "author": "hcohen19", 
             "url": "http://www.thedailymeal.com/news/couple-left-100-tip-despite-receiving-bad-service/093014", 
@@ -76,40 +52,16 @@
             "num-comments": 5
         }, 
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hw0jr/dog_chained_for_10_years_is_finally_rescued/", 
-            "domain": "onegreenplanet.org", 
-            "score": 22, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://www.onegreenplanet.org/news/dog-chained-for-ten-years-gets-rescued/", 
-            "title": "Dog chained for 10 years is finally rescued!", 
-            "id": "2hw0jr", 
-            "created-utc": 1412085152.0, 
-            "num-comments": 3
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hx25p/reddit_raises_50_million_in_funding_giving_5/", 
             "domain": "theverge.com", 
-            "score": 16, 
+            "score": 18, 
             "nsfw": false, 
             "author": "freefall1n", 
             "url": "http://www.theverge.com/2014/9/30/6874353/reddit-50-million-funding-give-users-10-percent-stock-equity", 
             "title": "Reddit raises $50 Million in funding, giving $5 million to user base", 
             "id": "2hx25p", 
             "created-utc": 1412105069.0, 
-            "num-comments": 7
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hvzzr/firefighters_use_tiny_oxygen_masks_to_save/", 
-            "domain": "wcvb.com", 
-            "score": 16, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://www.wcvb.com/news/firefighters-use-tiny-oxygen-masks-to-save-hamsters-in-fire/28319598", 
-            "title": "Firefighters use tiny oxygen masks to save hamsters in fire", 
-            "id": "2hvzzr", 
-            "created-utc": 1412084805.0, 
-            "num-comments": 1
+            "num-comments": 8
         }, 
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hxnzz/norway_ranked_best_for_older_people/", 
@@ -124,69 +76,9 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hvthv/a_call_to_the_mayor_from_jewish_new_yorkers_for_a/", 
-            "domain": "tikkun.org", 
-            "score": 14, 
-            "nsfw": false, 
-            "author": "Ahuva", 
-            "url": "http://www.tikkun.org/tikkundaily/2014/09/23/a-call-to-the-mayor-from-jewish-new-yorkers-new-york-city-needs-strong-visible-condemnation-of-islamophobia/", 
-            "title": "A Call to the Mayor from Jewish New Yorkers for a Strong, Visible Condemnation of Islamophobia", 
-            "id": "2hvthv", 
-            "created-utc": 1412080123.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hw30s/one_year_later_dennis_harker_pays_it_forward/", 
-            "domain": "wqad.com", 
-            "score": 8, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://wqad.com/2014/09/29/one-year-later-dennis-harker-pays-it-forward-after-sons-disappearance/", 
-            "title": "One year later: Dennis Harker pays it forward after son\u2019s disappearance", 
-            "id": "2hw30s", 
-            "created-utc": 1412086631.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hw17c/these_rescuers_went_to_save_an_injured_dog_and/", 
-            "domain": "onegreenplanet.org", 
-            "score": 9, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://www.onegreenplanet.org/news/iris-pit-bull-rescue-video/", 
-            "title": "These Rescuers Went to Save an Injured Dog and Got an Unexpected Surprise!", 
-            "id": "2hw17c", 
-            "created-utc": 1412085537.0, 
-            "num-comments": 3
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hvztr/the_worlds_first_genetically_modified_babies_will/", 
-            "domain": "techcrunch.com", 
-            "score": 6, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://techcrunch.com/2014/09/28/the-worlds-first-genetically-modified-babies-will-graduate-high-school-this-year/", 
-            "title": "The World\u2019s First Genetically Modified Babies Will Graduate High School This Year", 
-            "id": "2hvztr", 
-            "created-utc": 1412084677.0, 
-            "num-comments": 2
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hw0za/5yearold_cancer_patients_commercial_on_bravery/", 
-            "domain": "news.yahoo.com", 
-            "score": 5, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://news.yahoo.com/5-year-old-cancer-kid-commercial-204534439.html", 
-            "title": "5-year-old cancer patient's 'commercial' on bravery will inspire you, reduce you to tears", 
-            "id": "2hw0za", 
-            "created-utc": 1412085396.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hyq9d/rescuers_save_dog_stuck_in_tar/", 
             "domain": "mashable.com", 
-            "score": 4, 
+            "score": 8, 
             "nsfw": false, 
             "author": "Pka152", 
             "url": "http://mashable.com/2014/10/01/rescuers-save-dog-stuck-in-tar/?utm_cid=mash-com-Tw-main-link", 
@@ -196,27 +88,15 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hw2zh/pay_it_forward_gesture_unites_mothers_of_children/", 
-            "domain": "globalnews.ca", 
-            "score": 3, 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hzu0w/high_flying_executives_tutor_disadvantaged_kids/", 
+            "domain": "spearswms.com", 
+            "score": 6, 
             "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://globalnews.ca/news/1589321/pay-it-forward-gesture-unites-mothers-of-children-with-down-syndrome/", 
-            "title": "\u2018Pay it forward\u2019 gesture unites mothers of children with Down syndrome", 
-            "id": "2hw2zh", 
-            "created-utc": 1412086608.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hvsi4/how_a_19year_old_intern_picked_up_an/", 
-            "domain": "medium.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "author": "redditmarmot", 
-            "url": "https://medium.com/storytelling-on-maptia/how-our-19-year-old-intern-got-a-book-deal-565aaddbda92", 
-            "title": "How a 19-year old intern picked up an international book deal", 
-            "id": "2hvsi4", 
-            "created-utc": 1412079294.0, 
+            "author": "greedylittleheart", 
+            "url": "http://www.spearswms.com/news/access-project-helps-disadvantaged-students-into-top-universities-4379607#.VCwVW2ddWM0", 
+            "title": "High flying executives tutor disadvantaged kids to help get them into top UK universities", 
+            "id": "2hzu0w", 
+            "created-utc": 1412175342.0, 
             "num-comments": 0
         }, 
         {
@@ -229,31 +109,31 @@
             "title": "It's the running of the balls!", 
             "id": "2hxo98", 
             "created-utc": 1412116648.0, 
-            "num-comments": 1
+            "num-comments": 2
         }, 
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hx9qy/researchers_find_possible_cancer_cure_through/", 
             "domain": "livefreelivenatural.com", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "author": "13x37", 
             "url": "http://livefreelivenatural.com/mu-researchers-find-possible-cancer-cure-quorum-sensing/", 
             "title": "Researchers Find Possible Cancer Cure Through Quorum Sensing", 
             "id": "2hx9qy", 
             "created-utc": 1412108979.0, 
-            "num-comments": 0
+            "num-comments": 1
         }, 
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2hyp50/the_guardian_wins_an_emmy_for_coverage_of_nsa/", 
-            "domain": "theguardian.com", 
-            "score": 3, 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i04ne/girl_loses_eye_in_gaza_finds_hope_in_bay_area/", 
+            "domain": "insidebayarea.com", 
+            "score": 2, 
             "nsfw": false, 
-            "author": "AnotherAccount18", 
-            "url": "http://www.theguardian.com/world/2014/oct/01/the-guardian-wins-an-emmy-for-coverage-of-nsa-revelations", 
-            "title": "The Guardian wins an Emmy for coverage of NSA revelations", 
-            "id": "2hyp50", 
-            "created-utc": 1412138902.0, 
-            "num-comments": 1
+            "author": "AnonySeeb", 
+            "url": "http://www.insidebayarea.com/search/ci_14195021?IADID=Search-www.insidebayarea.com-www.insidebayarea.com", 
+            "title": "Girl loses eye in Gaza, finds hope in Bay Area", 
+            "id": "2i04ne", 
+            "created-utc": 1412181039.0, 
+            "num-comments": 0
         }
     ], 
     "subreddit": "/r/UpliftingNews/", 

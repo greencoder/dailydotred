@@ -1,48 +1,24 @@
 {
     "description": "Intelligent and thought-provoking commentaries on life and culture with an emphasis on long-form articles and essays that stimulate intellectual discourse", 
     "title": "foodforthought: Intellectual Nourishment ", 
-    "generated-utc": 1412172060, 
+    "generated-utc": 1412191976, 
     "posts": [
         {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hvuxa/exodus_elon_musk_argues_that_we_must_put_a/", 
-            "domain": "aeon.co", 
-            "score": 92, 
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hzh55/zimmerman_family_values/", 
+            "domain": "gq.com", 
+            "score": 40, 
             "nsfw": false, 
             "author": "marquis_of_chaos", 
-            "url": "http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/", 
-            "title": "Exodus - Elon Musk argues that we must put a million people on Mars if we are to ensure that humanity has a future", 
-            "id": "2hvuxa", 
-            "created-utc": 1412081268.0, 
-            "num-comments": 39
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwbw2/euthanasia_is_a_rational_option_for_prisoners/", 
-            "domain": "theguardian.com", 
-            "score": 54, 
-            "nsfw": false, 
-            "author": "phileconomicus", 
-            "url": "http://www.theguardian.com/commentisfree/2014/sep/27/euthanasia-is-a-rational-option-for-prisoners-facing-the-torture-of-life-in-jail", 
-            "title": "Euthanasia is a rational option for prisoners facing the torture of a life in jail | Philip Nitschke | Comment is free", 
-            "id": "2hwbw2", 
-            "created-utc": 1412091524.0, 
-            "num-comments": 19
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hvrx0/in_worlds_bestrun_economy_house_prices_keep/", 
-            "domain": "forbes.com", 
-            "score": 49, 
-            "nsfw": false, 
-            "author": "A-MacLeod", 
-            "url": "http://www.forbes.com/sites/eamonnfingleton/2014/02/02/in-worlds-best-run-economy-home-prices-just-keep-falling-because-thats-what-home-prices-are-supposed-to-do/", 
-            "title": "In World's Best-Run Economy, House Prices Keep Falling -- Because That's What House Prices Are Supposed To Do", 
-            "id": "2hvrx0", 
-            "created-utc": 1412078773.0, 
+            "url": "http://www.gq.com/news-politics/big-issues/201410/george-zimmerman-family-values", 
+            "title": "Zimmerman Family Values", 
+            "id": "2hzh55", 
+            "created-utc": 1412167069.0, 
             "num-comments": 13
         }, 
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hx37d/prison_bankers_cash_in_on_captive_customers/", 
             "domain": "publicintegrity.org", 
-            "score": 14, 
+            "score": 16, 
             "nsfw": false, 
             "author": "DoremusJessup", 
             "url": "http://www.publicintegrity.org/2014/09/30/15761/prison-bankers-cash-captive-customers", 
@@ -52,81 +28,9 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hvvle/smartphones_at_weddings_are_shutterbugs_ruining/", 
-            "domain": "cbc.ca", 
-            "score": 10, 
-            "nsfw": false, 
-            "author": "fernguts", 
-            "url": "http://www.cbc.ca/news/canada/calgary/smartphones-at-weddings-are-shutterbugs-ruining-the-bride-s-big-day-1.2781738", 
-            "title": "Smartphones at weddings: Are shutterbugs ruining the bride's big day? 'Unplugged weddings' becoming more popular when tying the knot", 
-            "id": "2hvvle", 
-            "created-utc": 1412081748.0, 
-            "num-comments": 6
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwkp6/confessions_of_a_former_internet_troll/", 
-            "domain": "vox.com", 
-            "score": 7, 
-            "nsfw": false, 
-            "author": "june_oyster", 
-            "url": "http://www.vox.com/2014/9/29/6840773/confessions-of-a-former-internet-troll", 
-            "title": "Confessions of a former internet troll", 
-            "id": "2hwkp6", 
-            "created-utc": 1412096313.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hxk6x/gay_marriage_like_all_marriage_not_worth/", 
-            "domain": "reason.com", 
-            "score": 10, 
-            "nsfw": false, 
-            "author": "charlatan", 
-            "url": "http://reason.com/archives/2012/05/16/gay-marriage-like-all-marriage-not-worth", 
-            "title": "Gay Marriage, Like All Marriage, Not Worth Celebrating", 
-            "id": "2hxk6x", 
-            "created-utc": 1412114381.0, 
-            "num-comments": 3
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hxjuf/the_horatio_ratio_the_story_of_americas_most/", 
-            "domain": "slate.com", 
-            "score": 5, 
-            "nsfw": false, 
-            "author": "june_oyster", 
-            "url": "http://www.slate.com/articles/news_and_politics/history/2014/09/the_self_made_man_history_of_a_myth_from_ben_franklin_to_andrew_carnegie.html", 
-            "title": "The Horatio Ratio: The story of America\u2019s most pliable, pernicious, irrepressible myth", 
-            "id": "2hxjuf", 
-            "created-utc": 1412114175.0, 
-            "num-comments": 1
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hygsq/9_rules_for_emailing_from_google_exec_eric_schmidt/", 
-            "domain": "time.com", 
-            "score": 7, 
-            "nsfw": false, 
-            "author": "leo_trotzky", 
-            "url": "http://time.com/3425368/google-email-rules/", 
-            "title": "9 Rules For Emailing From Google Exec Eric Schmidt", 
-            "id": "2hygsq", 
-            "created-utc": 1412133183.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hy69g/can_hard_criminals_change_a_perspective_from/", 
-            "domain": "ted.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "author": "fstorino", 
-            "url": "http://www.ted.com/talks/daniel_reisel_the_neuroscience_of_restorative_justice", 
-            "title": "Can hard criminals change? A perspective from neuroscience [14 min]", 
-            "id": "2hy69g", 
-            "created-utc": 1412126853.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hy3k4/the_big_middle_class_ripoff_how_a_short_sale/", 
             "domain": "salon.com", 
-            "score": 6, 
+            "score": 10, 
             "nsfw": false, 
             "author": "fsacb3", 
             "url": "http://www.salon.com/2014/09/29/the_big_middle_class_rip_off_how_a_short_sale_taught_me_rich_peoples_ethics/#comments", 
@@ -136,9 +40,57 @@
             "num-comments": 0
         }, 
         {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hygsq/9_rules_for_emailing_from_google_exec_eric_schmidt/", 
+            "domain": "time.com", 
+            "score": 11, 
+            "nsfw": false, 
+            "author": "leo_trotzky", 
+            "url": "http://time.com/3425368/google-email-rules/", 
+            "title": "9 Rules For Emailing From Google Exec Eric Schmidt", 
+            "id": "2hygsq", 
+            "created-utc": 1412133183.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hxjuf/the_horatio_ratio_the_story_of_americas_most/", 
+            "domain": "slate.com", 
+            "score": 8, 
+            "nsfw": false, 
+            "author": "june_oyster", 
+            "url": "http://www.slate.com/articles/news_and_politics/history/2014/09/the_self_made_man_history_of_a_myth_from_ben_franklin_to_andrew_carnegie.html", 
+            "title": "The Horatio Ratio: The story of America\u2019s most pliable, pernicious, irrepressible myth", 
+            "id": "2hxjuf", 
+            "created-utc": 1412114175.0, 
+            "num-comments": 1
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hzh80/guilt_trip_versailles_avantgarde_kitsch/", 
+            "domain": "newcriterion.com", 
+            "score": 7, 
+            "nsfw": false, 
+            "author": "marquis_of_chaos", 
+            "url": "http://www.newcriterion.com/articles.cfm/Guilt-trip--Versailles--avant-garde---kitsch-7942", 
+            "title": "Guilt trip: Versailles, avant-garde &amp; kitsch", 
+            "id": "2hzh80", 
+            "created-utc": 1412167132.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hxk6x/gay_marriage_like_all_marriage_not_worth/", 
+            "domain": "reason.com", 
+            "score": 7, 
+            "nsfw": false, 
+            "author": "charlatan", 
+            "url": "http://reason.com/archives/2012/05/16/gay-marriage-like-all-marriage-not-worth", 
+            "title": "Gay Marriage, Like All Marriage, Not Worth Celebrating", 
+            "id": "2hxk6x", 
+            "created-utc": 1412114381.0, 
+            "num-comments": 5
+        }, 
+        {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hx7eg/there_are_more_jihadists_from_france_than_pakistan/", 
             "domain": "rferl.org", 
-            "score": 4, 
+            "score": 6, 
             "nsfw": false, 
             "author": "empach_", 
             "url": "http://www.rferl.org/contentinfographics/foreign-fighters-syria-iraq-is-isis-isil-infographic/26584940.html", 
@@ -150,37 +102,13 @@
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwuax/national_minimum_wage_nmw_doesnt_make_any/", 
             "domain": "autarchskiss.blogspot.co.uk", 
-            "score": 2, 
+            "score": 5, 
             "nsfw": false, 
             "author": "JustExtreme", 
             "url": "http://autarchskiss.blogspot.co.uk/2014/09/national-minimum-wage-nmw-doesnt-make.html", 
             "title": "National Minimum Wage (NMW) doesn't make any difference if you have no hours. How about a National Minimum Income (NMI)/Universal Basic Income (UBI) instead?", 
             "id": "2hwuax", 
             "created-utc": 1412101135.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwrly/revisiting_the_lehman_brothers_bailout_that_never/", 
-            "domain": "nytimes.com", 
-            "score": 6, 
-            "nsfw": false, 
-            "author": "DoremusJessup", 
-            "url": "http://www.nytimes.com/2014/09/30/business/revisiting-the-lehman-brothers-bailout-that-never-was.html?smid=re-share", 
-            "title": "Revisiting the Lehman Brothers Bailout That Never Was", 
-            "id": "2hwrly", 
-            "created-utc": 1412099774.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hvuqr/a_mobster_a_murder_and_a_moll_with_a_secret/", 
-            "domain": "lamag.com", 
-            "score": 3, 
-            "nsfw": false, 
-            "author": "marquis_of_chaos", 
-            "url": "http://www.lamag.com/mag-features/mobster-murder-moll-secret/", 
-            "title": "A Mobster, A Murder, and a Moll with a Secret", 
-            "id": "2hvuqr", 
-            "created-utc": 1412081140.0, 
             "num-comments": 0
         }, 
         {
@@ -196,15 +124,63 @@
             "num-comments": 0
         }, 
         {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hy69g/can_hard_criminals_change_a_perspective_from/", 
+            "domain": "ted.com", 
+            "score": 5, 
+            "nsfw": false, 
+            "author": "fstorino", 
+            "url": "http://www.ted.com/talks/daniel_reisel_the_neuroscience_of_restorative_justice", 
+            "title": "Can hard criminals change? A perspective from neuroscience [14 min]", 
+            "id": "2hy69g", 
+            "created-utc": 1412126853.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwrly/revisiting_the_lehman_brothers_bailout_that_never/", 
+            "domain": "nytimes.com", 
+            "score": 4, 
+            "nsfw": false, 
+            "author": "DoremusJessup", 
+            "url": "http://www.nytimes.com/2014/09/30/business/revisiting-the-lehman-brothers-bailout-that-never-was.html?smid=re-share", 
+            "title": "Revisiting the Lehman Brothers Bailout That Never Was", 
+            "id": "2hwrly", 
+            "created-utc": 1412099774.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2i0131/who_decides_what_medical_care_you_receive_at_end/", 
+            "domain": "forbes.com", 
+            "score": 8, 
+            "nsfw": false, 
+            "author": "cavehobbit", 
+            "url": "http://www.forbes.com/sites/paulhsieh/2014/09/29/who-decides-what-medical-care-you-receive-at-end-of-life/", 
+            "title": "Who Decides What Medical Care You Receive At End of Life?", 
+            "id": "2i0131", 
+            "created-utc": 1412179193.0, 
+            "num-comments": 0
+        }, 
+        {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hx5o8/here_is_when_each_generation_begins_and_ends/", 
             "domain": "thewire.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "author": "charlatan", 
             "url": "http://www.thewire.com/politics/2014/03/here-is-when-each-generation-begins-and-ends-according-to-facts/359589/", 
             "title": "Here Is When Each Generation Begins and Ends, According to Facts - The Wire", 
             "id": "2hx5o8", 
             "created-utc": 1412106849.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2i071r/reexamining_residency_requirements_for_police/", 
+            "domain": "fivethirtyeight.com", 
+            "score": 7, 
+            "nsfw": false, 
+            "author": "DoremusJessup", 
+            "url": "http://fivethirtyeight.com/features/reexamining-residency-requirements-for-police-officers/", 
+            "title": "Reexamining Residency Requirements For Police Officers", 
+            "id": "2i071r", 
+            "created-utc": 1412182313.0, 
             "num-comments": 0
         }, 
         {
@@ -220,18 +196,6 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwdlx/what_do_you_guys_think_of_convivialism/", 
-            "domain": "lesconvivialistes.fr", 
-            "score": 0, 
-            "nsfw": false, 
-            "author": "joelthelion", 
-            "url": "http://lesconvivialistes.fr/?page_id=12", 
-            "title": "What do you guys think of Convivialism?", 
-            "id": "2hwdlx", 
-            "created-utc": 1412092460.0, 
-            "num-comments": 1
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwouc/for_a_worker_with_little_time_between_3_jobs_a/", 
             "domain": "nytimes.com", 
             "score": 0, 
@@ -241,7 +205,19 @@
             "title": "For a Worker With Little Time Between 3 Jobs, a Nap Has Fatal Consequences", 
             "id": "2hwouc", 
             "created-utc": 1412098387.0, 
-            "num-comments": 4
+            "num-comments": 6
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hzq6o/the_internet_has_a_problematic_johannah/", 
+            "domain": "theawl.com", 
+            "score": 1, 
+            "nsfw": false, 
+            "author": "b4f", 
+            "url": "http://www.theawl.com/2014/09/the-problem-with-problems", 
+            "title": "The Internet Has a Problem(atic) \u2014 Johannah King-Slutzky", 
+            "id": "2hzq6o", 
+            "created-utc": 1412173122.0, 
+            "num-comments": 1
         }, 
         {
             "permalink": "http://www.reddit.com/r/Foodforthought/comments/2hwpxl/duke_university_porn_star_who_said_porn_is/", 
