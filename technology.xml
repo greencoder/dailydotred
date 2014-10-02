@@ -6,103 +6,15 @@
   <description>News stories related to technology</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Thu, 02 Oct 2014 14:00:48 -0000</pubDate>
+  <pubDate>Thu, 02 Oct 2014 22:00:47 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/technology.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>What it's like to fly ultra-first class.</title>
-    <link>https://medium.com/travel-adventure/what-its-like-to-fly-the-23-000-singapore-airlines-suites-class-17d9f3fee0d</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i0gyu/what_its_like_to_fly_ultrafirst_class/</guid>
-    <description>BY HYPOTHENAR &#183; POSTED 10/01/14 2:13 PM EST &#183; MEDIUM.COM &#183; SCORE 4257</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Some guy shot a drone out of the sky..... with a shotgun</title>
-    <link>http://motherboard.vice.com/read/my-neighbor-blasted-my-drone-with-a-shotgun</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i1bqz/some_guy_shot_a_drone_out_of_the_sky_with_a/</guid>
-    <description>BY QUADRUPLE_OG &#183; POSTED 10/01/14 6:41 PM EST &#183; MOTHERBOARD.VICE.COM &#183; SCORE 486</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Elon Musk teases invite to Tesla new car launch event on October 19th - "Time to unveil the D"</title>
-    <link>http://electrek.co/2014/10/01/elon-musk-is-about-to-unveil-the-d-on-october-9th-also-a-new-car/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i1u5f/elon_musk_teases_invite_to_tesla_new_car_launch/</guid>
-    <description>BY SWEINTRAUB &#183; POSTED 10/01/14 9:40 PM EST &#183; ELECTREK.CO &#183; SCORE 393</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Apple bans German publication from Apple events and test devices for doing a bend test</title>
-    <link>http://www.phonearena.com/news/Apple-cuts-off-German-publication-for-showing-bendgate-video_id61237</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hzzex/apple_bans_german_publication_from_apple_events/</guid>
-    <description>BY CHEETO0 &#183; POSTED 10/01/14 11:45 AM EST &#183; PHONEARENA.COM &#183; SCORE 289</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>“The TV model is broken,” says ISP that stopped offering pay-TV | Ars Technica</title>
-    <link>http://arstechnica.com/business/2014/10/the-tv-model-is-broken-says-isp-that-stopped-offering-pay-tv/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i072i/the_tv_model_is_broken_says_isp_that_stopped/</guid>
-    <description>BY SPECKZ &#183; POSTED 10/01/14 12:52 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 275</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>ComputerCOP: The Dubious 'Internet Safety Software' That Hundreds of Police Agencies Have Distributed to Families</title>
-    <link>https://www.eff.org/deeplinks/2014/09/computercop-dangerous-internet-safety-software-hundreds-police-agencies</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hzy6p/computercop_the_dubious_internet_safety_software/</guid>
-    <description>BY AJEHALS &#183; POSTED 10/01/14 11:33 AM EST &#183; EFF.ORG &#183; SCORE 241</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Hundreds of US police forces have distributed malware as "Internet safety software"</title>
-    <link>http://boingboing.net/2014/10/01/hundreds-of-us-police-forces-h.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i1qar/hundreds_of_us_police_forces_have_distributed/</guid>
-    <description>BY GONZOVERITAS &#183; POSTED 10/01/14 9:02 PM EST &#183; BOINGBOING.NET &#183; SCORE 273</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Verizon Wireless caves to FCC pressure, says it won’t throttle 4G users - Verizon kills "network optimization" policy that was set to take effect today.</title>
-    <link>http://arstechnica.com/business/2014/10/verizon-wireless-caves-to-fcc-pressure-says-it-wont-throttle-4g-users/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i18n3/verizon_wireless_caves_to_fcc_pressure_says_it/</guid>
-    <description>BY 1CH &#183; POSTED 10/01/14 6:13 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 263</description>
-    <category></category>
-  </item>
 
   <item>
     <title>Smaller cable providers realize cord cutters are the future: They are placing more emphasis on their broadband offerings and less on TV packages as consumers have shown that they would much rather have a faster Internet service than hundreds of channels they never watch.</title>
     <link>http://bgr.com/2014/10/01/cord-cutting-cable-companies/</link>
     <guid>http://www.reddit.com/r/technology/comments/2i2wxe/smaller_cable_providers_realize_cord_cutters_are/</guid>
-    <description>BY ITCHYPICKLE &#183; POSTED 10/02/14 7:12 AM EST &#183; BGR.COM &#183; SCORE 1815</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>“I have read and agree to the Terms” is the biggest lie on the web. We aim to fix that.</title>
-    <link>https://tosdr.org/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i0qiu/i_have_read_and_agree_to_the_terms_is_the_biggest/</guid>
-    <description>BY SUPERBCREW &#183; POSTED 10/01/14 3:33 PM EST &#183; TOSDR.ORG &#183; SCORE 212</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>WikiLeaks releases never-before-seen footage of Assange and Sarah Harrison cold-calling the State Department to warn them about the unredacted "Cablegate" documents received from Chelsea Manning</title>
-    <link>http://www.dailydot.com/politics/julian-assange-hillary-clinton-call-video-wikileaks-2011-cablegate/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i05rd/wikileaks_releases_neverbeforeseen_footage_of/</guid>
-    <description>BY MILAGROJONES &#183; POSTED 10/01/14 12:40 PM EST &#183; DAILYDOT.COM &#183; SCORE 194</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Reddit: Forcing all employees to relocate to SF by EoY (uprooting families for "teamwork")</title>
-    <link>http://venturebeat.com/2014/10/01/after-raising-50m-reddit-forces-remote-workers-to-relocate-to-sf-or-get-fired/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i1s67/reddit_forcing_all_employees_to_relocate_to_sf_by/</guid>
-    <description>BY MRRRGN &#183; POSTED 10/01/14 9:21 PM EST &#183; VENTUREBEAT.COM &#183; SCORE 182</description>
+    <description>BY ITCHYPICKLE &#183; POSTED 10/02/14 7:12 AM EST &#183; BGR.COM &#183; SCORE 4814</description>
     <category></category>
   </item>
 
@@ -110,87 +22,47 @@
     <title>FYI: Firefox 35 uses the HTML5 video player in Youtube by default.</title>
     <link>http://www.reddit.com/r/technology/comments/2i2r4c/fyi_firefox_35_uses_the_html5_video_player_in/</link>
     <guid>http://www.reddit.com/r/technology/comments/2i2r4c/fyi_firefox_35_uses_the_html5_video_player_in/</guid>
-    <description>BY MINTYHALLS &#183; POSTED 10/02/14 5:16 AM EST &#183; SELF.TECHNOLOGY &#183; SCORE 281</description>
+    <description>BY MINTYHALLS &#183; POSTED 10/02/14 5:16 AM EST &#183; SELF.TECHNOLOGY &#183; SCORE 607</description>
     <category></category>
   </item>
 
   <item>
-    <title>Karma is officially worthless: Reddit plans to give stock to users, but it won't be based on karma scores</title>
-    <link>http://techcrunch.com/2014/09/30/reddit-fundraising/?ncid=reddit_social_share</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hzprg/karma_is_officially_worthless_reddit_plans_to/</guid>
-    <description>BY GOONERUK &#183; POSTED 10/01/14 10:14 AM EST &#183; TECHCRUNCH.COM &#183; SCORE 146</description>
+    <title>Some guy shot a drone out of the sky..... with a shotgun</title>
+    <link>http://motherboard.vice.com/read/my-neighbor-blasted-my-drone-with-a-shotgun</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i1bqz/some_guy_shot_a_drone_out_of_the_sky_with_a/</guid>
+    <description>BY QUADRUPLE_OG &#183; POSTED 10/01/14 6:41 PM EST &#183; MOTHERBOARD.VICE.COM &#183; SCORE 561</description>
     <category></category>
   </item>
 
   <item>
-    <title>Verizon backs off plans to throttle unlimited data customers.</title>
-    <link>http://www.cnet.com/news/verizon-backs-off-on-plans-to-throttle-unlimited-data-users/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i13xs/verizon_backs_off_plans_to_throttle_unlimited/</guid>
-    <description>BY CHAKALAKASP &#183; POSTED 10/01/14 5:30 PM EST &#183; CNET.COM &#183; SCORE 117</description>
+    <title>Elon Musk teases invite to Tesla new car launch event on October 19th - "Time to unveil the D"</title>
+    <link>http://electrek.co/2014/10/01/elon-musk-is-about-to-unveil-the-d-on-october-9th-also-a-new-car/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i1u5f/elon_musk_teases_invite_to_tesla_new_car_launch/</guid>
+    <description>BY SWEINTRAUB &#183; POSTED 10/01/14 9:40 PM EST &#183; ELECTREK.CO &#183; SCORE 499</description>
     <category></category>
   </item>
 
   <item>
-    <title>Privacy is tech’s latest marketing strategy "... it seems that mainstream tech companies are starting to compete for consumers based on technical privacy upgrades in a way almost unimaginable in a world before Edward Snowden's revelations about National Security Agency spying."</title>
-    <link>http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/26/privacy-is-techs-latest-marketing-strategy/?tid=rssfeed</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hzmv9/privacy_is_techs_latest_marketing_strategy_it/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 10/01/14 9:44 AM EST &#183; WASHINGTONPOST.COM &#183; SCORE 103</description>
+    <title>Hundreds of US police forces have distributed malware as "Internet safety software"</title>
+    <link>http://boingboing.net/2014/10/01/hundreds-of-us-police-forces-h.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i1qar/hundreds_of_us_police_forces_have_distributed/</guid>
+    <description>BY GONZOVERITAS &#183; POSTED 10/01/14 9:02 PM EST &#183; BOINGBOING.NET &#183; SCORE 350</description>
     <category></category>
   </item>
 
   <item>
-    <title>US top cop decries encryption, demands backdoors | Ars Technica</title>
-    <link>http://arstechnica.com/tech-policy/2014/10/us-top-cop-decries-encryption-demands-backdoors/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i0d5y/us_top_cop_decries_encryption_demands_backdoors/</guid>
-    <description>BY SPECKZ &#183; POSTED 10/01/14 1:43 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 86</description>
+    <title>Verizon Wireless caves to FCC pressure, says it won’t throttle 4G users - Verizon kills "network optimization" policy that was set to take effect today.</title>
+    <link>http://arstechnica.com/business/2014/10/verizon-wireless-caves-to-fcc-pressure-says-it-wont-throttle-4g-users/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i18n3/verizon_wireless_caves_to_fcc_pressure_says_it/</guid>
+    <description>BY 1CH &#183; POSTED 10/01/14 6:13 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 299</description>
     <category></category>
   </item>
 
   <item>
-    <title>Windows Insider Program is live. Get your preview of Windows 10 now.</title>
-    <link>http://windows.microsoft.com/en-us/windows/preview</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i0113/windows_insider_program_is_live_get_your_preview/</guid>
-    <description>BY RUN-FORREST-RUN &#183; POSTED 10/01/14 11:59 AM EST &#183; WINDOWS.MICROSOFT.COM &#183; SCORE 67</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Leaked Docs Reveal List of 30 Countries Hacked On Orders of FBI Informant Sabu</title>
-    <link>http://www.dailydot.com/politics/fbi-hammond-sabu-hack-country-list/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i2cyv/leaked_docs_reveal_list_of_30_countries_hacked_on/</guid>
-    <description>BY SUPERDUPER1969 &#183; POSTED 10/02/14 1:07 AM EST &#183; DAILYDOT.COM &#183; SCORE 81</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Microsoft Announces Office Sway, a brand new office app.</title>
-    <link>http://blogs.office.com/2014/10/01/announcing-office-sway-reimagine-ideas-come-life/?WT.mc_id=SOC_TW_meetsway_BLOG</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hzk2k/microsoft_announces_office_sway_a_brand_new/</guid>
-    <description>BY AMUSED &#183; POSTED 10/01/14 9:13 AM EST &#183; BLOGS.OFFICE.COM &#183; SCORE 52</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Cops Are Handing Out Spyware to Parents—With Zero Oversight</title>
-    <link>http://www.wired.com/2014/10/cops-giving-parents-spyware/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i2mgd/cops_are_handing_out_spyware_to_parentswith_zero/</guid>
-    <description>BY ELECTRONICS-ENGINEER &#183; POSTED 10/02/14 3:40 AM EST &#183; WIRED.COM &#183; SCORE 72</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>"Not" Neutrality? - How the Netflix Agreements with Major Telecom Providers is Shaping Utilization Across Level 3's Networks [Level 3 Blog]</title>
-    <link>http://blog.level3.com/open-internet/not-neutrality/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i0sof/not_neutrality_how_the_netflix_agreements_with/</guid>
-    <description>BY GETOFFMYFRONTPAGE &#183; POSTED 10/01/14 3:51 PM EST &#183; BLOG.LEVEL3.COM &#183; SCORE 40</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Verizon cancels its LTE throttling of grandfathered smartphone plans.</title>
-    <link>http://www.theverge.com/2014/10/1/6882339/verizon-calls-off-throttling-unlimited-lte-data</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i10r9/verizon_cancels_its_lte_throttling_of/</guid>
-    <description>BY LINERSTANK &#183; POSTED 10/01/14 5:03 PM EST &#183; THEVERGE.COM &#183; SCORE 38</description>
+    <title>Reddit: Forcing all employees to relocate to SF by EoY (uprooting families for "teamwork")</title>
+    <link>http://venturebeat.com/2014/10/01/after-raising-50m-reddit-forces-remote-workers-to-relocate-to-sf-or-get-fired/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i1s67/reddit_forcing_all_employees_to_relocate_to_sf_by/</guid>
+    <description>BY MRRRGN &#183; POSTED 10/01/14 9:21 PM EST &#183; VENTUREBEAT.COM &#183; SCORE 234</description>
     <category></category>
   </item>
 
@@ -198,15 +70,143 @@
     <title>Celebrities Victimized In The iCloud Naked Photo Hack Want To Sue Google For $100 Million</title>
     <link>http://www.businessinsider.com/icloud-naked-celebrity-photo-hack-lawsuit-v-google-2014-10?utm_source=mobilesrepublic&amp;utm_medium=referral&amp;utm_term=mobilesrepublic</link>
     <guid>http://www.reddit.com/r/technology/comments/2i2z03/celebrities_victimized_in_the_icloud_naked_photo/</guid>
-    <description>BY THE_POO_KAZOO &#183; POSTED 10/02/14 7:47 AM EST &#183; BUSINESSINSIDER.COM &#183; SCORE 61</description>
+    <description>BY THE_POO_KAZOO &#183; POSTED 10/02/14 7:47 AM EST &#183; BUSINESSINSIDER.COM &#183; SCORE 189</description>
     <category></category>
   </item>
 
   <item>
-    <title>Off-grid power coming. Sunflower solar harvester provides power and water</title>
-    <link>http://www.newscientist.com/article/dn26284-sunflower-solar-harvester-provides-power-and-water.html#.VCvTSCldVqs</link>
-    <guid>http://www.reddit.com/r/technology/comments/2hzr57/offgrid_power_coming_sunflower_solar_harvester/</guid>
-    <description>BY GIZADOG &#183; POSTED 10/01/14 10:28 AM EST &#183; NEWSCIENTIST.COM &#183; SCORE 29</description>
+    <title>Cops Are Handing Out Spyware to Parents—With Zero Oversight</title>
+    <link>http://www.wired.com/2014/10/cops-giving-parents-spyware/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i2mgd/cops_are_handing_out_spyware_to_parentswith_zero/</guid>
+    <description>BY ELECTRONICS-ENGINEER &#183; POSTED 10/02/14 3:40 AM EST &#183; WIRED.COM &#183; SCORE 158</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Verizon backs off plans to throttle unlimited data customers.</title>
+    <link>http://www.cnet.com/news/verizon-backs-off-on-plans-to-throttle-unlimited-data-users/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i13xs/verizon_backs_off_plans_to_throttle_unlimited/</guid>
+    <description>BY CHAKALAKASP &#183; POSTED 10/01/14 5:30 PM EST &#183; CNET.COM &#183; SCORE 126</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Leaked Docs Reveal List of 30 Countries Hacked On Orders of FBI Informant Sabu</title>
+    <link>http://www.dailydot.com/politics/fbi-hammond-sabu-hack-country-list/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i2cyv/leaked_docs_reveal_list_of_30_countries_hacked_on/</guid>
+    <description>BY SUPERDUPER1969 &#183; POSTED 10/02/14 1:07 AM EST &#183; DAILYDOT.COM &#183; SCORE 101</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Mozilla unveils $25 Matchstick HDMI dongle</title>
+    <link>http://techreport.com/news/27137/mozilla-unveils-25-matchstick-hdmi-dongle</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i32fd/mozilla_unveils_25_matchstick_hdmi_dongle/</guid>
+    <description>BY CREQ &#183; POSTED 10/02/14 8:37 AM EST &#183; TECHREPORT.COM &#183; SCORE 69</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Property Tycoon Reveals $20 Billion Solar-Led Portfolio - “My vision for this company isn’t just for China. I want to create a global company.”</title>
+    <link>http://bloomberg.com/news/2014-09-29/property-tycoon-revealing-20-billion-solar-led-portfolio.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i2z51/property_tycoon_reveals_20_billion_solarled/</guid>
+    <description>BY PNEWELL &#183; POSTED 10/02/14 7:49 AM EST &#183; BLOOMBERG.COM &#183; SCORE 61</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Eric Holder Implies That Mobile Encryption Will Lead To Abused Kids</title>
+    <link>https://www.techdirt.com/articles/20140930/16110328684/absolutely-disgusting-eric-holder-cynically-attacks-phone-encryption-using-bogus-protect-children-argument.shtml</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i2wvu/eric_holder_implies_that_mobile_encryption_will/</guid>
+    <description>BY MAXWELLHILL &#183; POSTED 10/02/14 7:11 AM EST &#183; TECHDIRT.COM &#183; SCORE 53</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Verizon cancels plans to throttle 4G LTE data for unlimited users</title>
+    <link>http://www.androidauthority.com/verizon-unlimited-throttle-532606/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i3krv/verizon_cancels_plans_to_throttle_4g_lte_data_for/</guid>
+    <description>BY DRFENTO &#183; POSTED 10/02/14 11:45 AM EST &#183; ANDROIDAUTHORITY.COM &#183; SCORE 58</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Code for unfixable USB malware is now out in the wild.</title>
+    <link>http://www.wired.com/2014/10/code-published-for-unfixable-usb-attack/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i3mxy/code_for_unfixable_usb_malware_is_now_out_in_the/</guid>
+    <description>BY NO1Z &#183; POSTED 10/02/14 12:05 PM EST &#183; WIRED.COM &#183; SCORE 49</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>New OS X backdoor malware roping Macs into botnet</title>
+    <link>http://www.net-security.org/malware_news.php?id=2875</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i355l/new_os_x_backdoor_malware_roping_macs_into_botnet/</guid>
+    <description>BY ROO-STER &#183; POSTED 10/02/14 9:12 AM EST &#183; NET-SECURITY.ORG &#183; SCORE 44</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>"It might be assumed that the flying machine which will really fly might be evolved by the combined and continuous efforts of mathematicians and mechanicians in from one million to ten million years" The New York Times | October 9, 1903</title>
+    <link>http://query.nytimes.com/mem/archive-free/pdf?res=9905E3DA1439E433A2575AC0A9669D946297D6CF&amp;module=Search&amp;mabReward=relbias%3As</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i3qp4/it_might_be_assumed_that_the_flying_machine_which/</guid>
+    <description>BY REASONABLYBADASS &#183; POSTED 10/02/14 12:38 PM EST &#183; QUERY.NYTIMES.COM &#183; SCORE 54</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>NSA claims of Snowden leaks aiding terrorists found unwarranted</title>
+    <link>http://www.digitaljournal.com/technology/nsa-claims-of-snowden-leaks-aiding-terrorists-found-unwarranted/article/406259</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i1d9a/nsa_claims_of_snowden_leaks_aiding_terrorists/</guid>
+    <description>BY COWICIDE &#183; POSTED 10/01/14 6:55 PM EST &#183; DIGITALJOURNAL.COM &#183; SCORE 35</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Elon Musk, "Ready to Reveal the D"</title>
+    <link>http://www.reuters.com/article/2014/10/02/us-tesla-motors-musk-idUSKCN0HR08D20141002?feedType=RSS&amp;feedName=businessNews</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i2e48/elon_musk_ready_to_reveal_the_d/</guid>
+    <description>BY TJSKYDIVE &#183; POSTED 10/02/14 1:21 AM EST &#183; REUTERS.COM &#183; SCORE 30</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Samsung China Supplier Sues US Labor Watchdog</title>
+    <link>http://abcnews.go.com/Technology/wireStory/samsung-china-supplier-sues-us-labor-watchdog-25910334</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i2sdg/samsung_china_supplier_sues_us_labor_watchdog/</guid>
+    <description>BY REDDITGREENIT &#183; POSTED 10/02/14 5:42 AM EST &#183; ABCNEWS.GO.COM &#183; SCORE 27</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>PrintAlive 3D bioprinter creates on-demand skin grafts for burn victims</title>
+    <link>http://www.gizmag.com/printalive-biopronter-skin-grafts-burns/34057/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i2w95/printalive_3d_bioprinter_creates_ondemand_skin/</guid>
+    <description>BY SEE-EMM-WHY-KAY &#183; POSTED 10/02/14 6:59 AM EST &#183; GIZMAG.COM &#183; SCORE 23</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Calling it: One of the new Windows 10 features is gonna be used to push users to start renting software instead of owning it.</title>
+    <link>http://www.reddit.com/r/technology/comments/2i1kz4/calling_it_one_of_the_new_windows_10_features_is/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i1kz4/calling_it_one_of_the_new_windows_10_features_is/</guid>
+    <description>BY BIZITMAP &#183; POSTED 10/01/14 8:10 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 21</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>How hackers accidentally sold a pre-release XBox One to the FBI</title>
+    <link>http://www.computerworld.com.au/article/556503/how-hackers-accidentally-sold-pre-release-xbox-one-fbi/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i2wal/how_hackers_accidentally_sold_a_prerelease_xbox/</guid>
+    <description>BY MHOV09LZF &#183; POSTED 10/02/14 7:00 AM EST &#183; COMPUTERWORLD.COM.AU &#183; SCORE 20</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>PSA: "Clean Your PC" scam telemarketers seem to be targeting older people. Warn your relatives</title>
+    <link>http://www.reddit.com/r/technology/comments/2i3zvb/psa_clean_your_pc_scam_telemarketers_seem_to_be/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i3zvb/psa_clean_your_pc_scam_telemarketers_seem_to_be/</guid>
+    <description>BY SCHMITZEL88 &#183; POSTED 10/02/14 1:57 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 25</description>
     <category></category>
   </item>
 

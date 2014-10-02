@@ -6,15 +6,15 @@
   <description>You learn something new every day; what did you learn today? Submit interesting and specific facts about something that you just found out here.</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Thu, 02 Oct 2014 14:00:43 -0000</pubDate>
+  <pubDate>Thu, 02 Oct 2014 22:00:42 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/today-i-learned.xml" rel="self" type="application/rss+xml" />
 
   <item>
-    <title>TIL that Dolly Parton's husband of 48 years runs an asphalt business in Tennessee and has only seen her perform live once.</title>
-    <link>http://en.wikipedia.org/wiki/Dolly_Parton#Marriage</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i0rfh/til_that_dolly_partons_husband_of_48_years_runs/</guid>
-    <description>BY NEFFTRON &#183; POSTED 10/01/14 3:41 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 3683</description>
+    <title>TIL The SR-71 did more than just take pictures. It could aim its radar 45 degrees to the side, map the terrain like side scan sonar... intercept enemy comm and radar signals, record its entire flight path with infrared cameras... to prove to countries that it didnt violate their airspace.</title>
+    <link>http://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird#Engines</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i352g/til_the_sr71_did_more_than_just_take_pictures_it/</guid>
+    <description>BY MMMMDIESEL &#183; POSTED 10/02/14 9:11 AM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 3993</description>
     <category></category>
   </item>
 
@@ -22,55 +22,7 @@
     <title>TIL mechanisms exist in law that can legally kill and break up corporations. The corporation is fully dissolved and assets distributed widely. No shred of the original is allowed to continue. Sometimes called the 'corporate death penalty', it has almost never been used.</title>
     <link>http://www.corpwatch.org/article.php?id=1810</link>
     <guid>http://www.reddit.com/r/todayilearned/comments/2i188e/til_mechanisms_exist_in_law_that_can_legally_kill/</guid>
-    <description>BY IMAUTOPARTS &#183; POSTED 10/01/14 6:09 PM EST &#183; CORPWATCH.ORG &#183; SCORE 3633</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>TIL that The Shawshank Redemption won zero Academy Awards, Golden Globes and SAG Awards. It did win 'best foreign film' from the Awards of the Japanese Academy.</title>
-    <link>http://www.imdb.com/title/tt0111161/awards</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2hzvnd/til_that_the_shawshank_redemption_won_zero/</guid>
-    <description>BY GIRLSHAVEBOOBS &#183; POSTED 10/01/14 11:11 AM EST &#183; IMDB.COM &#183; SCORE 3373</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>TIL for the first Moon landing, the average age of NASA controllers was 26 years old.</title>
-    <link>http://www.pbs.org/wgbh/nova/tothemoon/kranz.html</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i0hh0/til_for_the_first_moon_landing_the_average_age_of/</guid>
-    <description>BY MIDNIGHTOCEAN &#183; POSTED 10/01/14 2:18 PM EST &#183; PBS.ORG &#183; SCORE 3155</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>TIL a ship called the HMS Black Joke used to chase down and fight slave traders.</title>
-    <link>http://en.wikipedia.org/wiki/HMS_Black_Joke_%281827%29</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i03cg/til_a_ship_called_the_hms_black_joke_used_to/</guid>
-    <description>BY BEEF_IN_THE_DARK &#183; POSTED 10/01/14 12:19 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 2557</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>TIL Marvel published a "Generic Comic Book", in order to trademark the names "Super-Hero" and "Super-Villain"</title>
-    <link>http://www.comicbooktidbits.com/Generic%20Site%20Enty.htm</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i0nzk/til_marvel_published_a_generic_comic_book_in/</guid>
-    <description>BY MANDATORY_FRENCH_GUY &#183; POSTED 10/01/14 3:12 PM EST &#183; COMICBOOKTIDBITS.COM &#183; SCORE 2101</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>TIL that the more expensive the car, the more likely the driver is to cut off pedestrians and other cars.</title>
-    <link>http://www.latimes.com/news/science/la-sci-0228-greed-20120228,0,5965885.story</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2hzz1x/til_that_the_more_expensive_the_car_the_more/</guid>
-    <description>BY PAINMATRIX &#183; POSTED 10/01/14 11:41 AM EST &#183; LATIMES.COM &#183; SCORE 1999</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>TIL The Unabomber was so smart that for his PHD thesis he solved a math problem that even his own math professor couldn't solve. Another math professor said of his thesis "I'd guess that only 10 or 12 people in the country could understand or appreciate it."</title>
-    <link>http://en.wikipedia.org/wiki/Ted_Kaczynski#Industrial_Society_and_Its_Future</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i14e0/til_the_unabomber_was_so_smart_that_for_his_phd/</guid>
-    <description>BY BATMANNWITH2NS &#183; POSTED 10/01/14 5:35 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 2018</description>
+    <description>BY IMAUTOPARTS &#183; POSTED 10/01/14 6:09 PM EST &#183; CORPWATCH.ORG &#183; SCORE 3824</description>
     <category></category>
   </item>
 
@@ -78,23 +30,31 @@
     <title>TIL that Scott Adams began writing "Dilbert" based on experiences he was having at his employment. Rather than fire him, they gave him meaningless work in an effort to get him to quit - which just gave him more time and material for "Dilbert."</title>
     <link>http://blogs.hbr.org/2013/10/how-dilbert-practically-wrote-itself/</link>
     <guid>http://www.reddit.com/r/todayilearned/comments/2i1sbk/til_that_scott_adams_began_writing_dilbert_based/</guid>
-    <description>BY RIPMEISTERMEISTER &#183; POSTED 10/01/14 9:22 PM EST &#183; BLOGS.HBR.ORG &#183; SCORE 2076</description>
+    <description>BY RIPMEISTERMEISTER &#183; POSTED 10/01/14 9:22 PM EST &#183; BLOGS.HBR.ORG &#183; SCORE 3468</description>
     <category></category>
   </item>
 
   <item>
-    <title>TIL that Alien (1979) was covered in 'copious' amounts of K-Y Jelly to give it a 'slimy' effect. Also Predator's (1987) blood composed of K-Y Jelly mixed with green glow stick fluid.</title>
-    <link>http://en.wikipedia.org/wiki/K-Y_Jelly</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i04eb/til_that_alien_1979_was_covered_in_copious/</guid>
-    <description>BY INFINITEINFLATION &#183; POSTED 10/01/14 12:28 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 1596</description>
+    <title>TIL The Unabomber was so smart that for his PHD thesis he solved a math problem that even his own math professor couldn't solve. Another math professor said of his thesis "I'd guess that only 10 or 12 people in the country could understand or appreciate it."</title>
+    <link>http://en.wikipedia.org/wiki/Ted_Kaczynski#Industrial_Society_and_Its_Future</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i14e0/til_the_unabomber_was_so_smart_that_for_his_phd/</guid>
+    <description>BY BATMANNWITH2NS &#183; POSTED 10/01/14 5:35 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 2725</description>
     <category></category>
   </item>
 
   <item>
-    <title>TIL a 34-year-old man suffered severe bleeding under the skin after pumping cocaine into his urethra. Complications destroyed his penis, nine fingers, and parts of his legs. The penis fell off by itself. His penis had remained erect for three days</title>
-    <link>http://www.darwinawards.com/darwin/darwin1993-04.html</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i03rf/til_a_34yearold_man_suffered_severe_bleeding/</guid>
-    <description>BY K6EQJ &#183; POSTED 10/01/14 12:23 PM EST &#183; DARWINAWARDS.COM &#183; SCORE 1542</description>
+    <title>TIL That the band Nine Inch Nails created an alternate reality game to be played over 18 months. Challenges in the game included finding a specific USB at many of NIN's concerts, finding individual payphones and waiting to be called there, and decoding time codes in order to find digital letters.</title>
+    <link>https://en.wikipedia.org/wiki/Campaign_timeline_of_the_Year_Zero_alternate_reality_game</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i375h/til_that_the_band_nine_inch_nails_created_an/</guid>
+    <description>BY DOGRIO345 &#183; POSTED 10/02/14 9:35 AM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 2469</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>TIL the Scotts company used to include clover in their lawn mix as a natural fertilizer. When their new herbicide killed the clover, they reclassified it as a weed.</title>
+    <link>http://www.safelawns.org/blog/2011/03/book-excerpt-heres-the-history-of-clovers-demise-as-a-lawn-plant/</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i31vz/til_the_scotts_company_used_to_include_clover_in/</guid>
+    <description>BY LARGE-FARVA &#183; POSTED 10/02/14 8:29 AM EST &#183; SAFELAWNS.ORG &#183; SCORE 2308</description>
     <category></category>
   </item>
 
@@ -102,39 +62,15 @@
     <title>TIL that in 1974, a man stole a helicopter, flew it to Washington, D.C. and hovered for six minutes over the White House before descending on the south lawn. He only spent 1 year in prison and fined $2,400.</title>
     <link>http://nymag.com/daily/intelligencer/2014/09/weird-white-house-intruders-security-breeches.html</link>
     <guid>http://www.reddit.com/r/todayilearned/comments/2i122p/til_that_in_1974_a_man_stole_a_helicopter_flew_it/</guid>
-    <description>BY CAFFIENESHADOW &#183; POSTED 10/01/14 5:14 PM EST &#183; NYMAG.COM &#183; SCORE 1427</description>
+    <description>BY CAFFIENESHADOW &#183; POSTED 10/01/14 5:14 PM EST &#183; NYMAG.COM &#183; SCORE 1890</description>
     <category></category>
   </item>
 
   <item>
-    <title>TIL Nintendo has banked so much money, that they could run a deficit of over $250 Million every year and still survive until 2052.</title>
-    <link>http://www.gamesradar.com/nintendo-doomed-not-likely-just-take-look-how-much-money-its-got-bank/</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i0ygc/til_nintendo_has_banked_so_much_money_that_they/</guid>
-    <description>BY ZELDA2013 &#183; POSTED 10/01/14 4:42 PM EST &#183; GAMESRADAR.COM &#183; SCORE 1227</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>TIL that Cameron Diaz and Snoop Dogg went to school together and Cameron used to buy weed off him</title>
-    <link>http://www.laweekly.com/informer/2011/01/20/cameron-diaz-says-snoop-dogg-sold-her-pot-in-lbc-high-school</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i0lc5/til_that_cameron_diaz_and_snoop_dogg_went_to/</guid>
-    <description>BY RARO720 &#183; POSTED 10/01/14 2:49 PM EST &#183; LAWEEKLY.COM &#183; SCORE 832</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>TIL Canada nicknamed their first space telescope the “Humble Space Telescope”</title>
-    <link>http://en.wikipedia.org/wiki/MOST_(satellite)</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i0tnl/til_canada_nicknamed_their_first_space_telescope/</guid>
-    <description>BY NEBZAR &#183; POSTED 10/01/14 4:00 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 813</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>TIL that many major religions (Greek, Roman, Viking, Hindu, Jewish, Christian, Muslim) are all thought to stem from a single Proto-Indo-European religion</title>
-    <link>http://en.wikipedia.org/wiki/Proto-Indo-European_religion</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i100v/til_that_many_major_religions_greek_roman_viking/</guid>
-    <description>BY OKMUHT &#183; POSTED 10/01/14 4:56 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 826</description>
+    <title>TIL of Andrew Kehoe who committed the deadliest mass murder at a U.S. elementary school. May 18, 1927. It Included his wife, 6 adults and 37 children. In the aftermath, investigators found a wooden sign Kehoe had apparently wired to a fence on his farm that read, "Criminals are made, not born."</title>
+    <link>http://murderpedia.org/male.K/k/kehoe-andrew.htm</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i36yi/til_of_andrew_kehoe_who_committed_the_deadliest/</guid>
+    <description>BY ABELTONSKIVE &#183; POSTED 10/02/14 9:33 AM EST &#183; MURDERPEDIA.ORG &#183; SCORE 1879</description>
     <category></category>
   </item>
 
@@ -142,23 +78,39 @@
     <title>TIL a man made a homemade tank out of a bulldozer that was immune to armor piercing ammo, and took revenge on a town, causing over $7 million in damage before he took his own life</title>
     <link>https://www.youtube.com/watch?v=qlZh9-NQEyI</link>
     <guid>http://www.reddit.com/r/todayilearned/comments/2i1jso/til_a_man_made_a_homemade_tank_out_of_a_bulldozer/</guid>
-    <description>BY KOULNIS &#183; POSTED 10/01/14 7:59 PM EST &#183; YOUTUBE.COM &#183; SCORE 719</description>
+    <description>BY KOULNIS &#183; POSTED 10/01/14 7:59 PM EST &#183; YOUTUBE.COM &#183; SCORE 1339</description>
     <category></category>
   </item>
 
   <item>
-    <title>TIL That when Thomas Edison made one of the first movie cameras in 1891, he then filmed the first cat video in 1894.</title>
-    <link>http://m.huffpost.com/us/entry/4175803</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2hzpjt/til_that_when_thomas_edison_made_one_of_the_first/</guid>
-    <description>BY RYAN7074 &#183; POSTED 10/01/14 10:12 AM EST &#183; M.HUFFPOST.COM &#183; SCORE 522</description>
+    <title>TIL Author J.D. Salinger stormed the beaches of Normandy on D-Day and carried a work in progress with him which would later become "Catcher in the Rye"</title>
+    <link>http://books.google.com/books?id=nICmAwAAQBAJ&amp;pg=PA173&amp;dq=with+him+wrapped+up+securely+in+his+backpack+are+six+chapters&amp;hl=en&amp;sa=X&amp;ei=wT4tVJXBMYGOyASZ9ICwBg&amp;ved=0CB8Q6AEwAA#v=onepage&amp;q=with%20him%20wrapped%20up%20securely%20in%20his%20backpack%20are%20six%20chapters&amp;f=false</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i3018/til_author_jd_salinger_stormed_the_beaches_of/</guid>
+    <description>BY TMCART91 &#183; POSTED 10/02/14 8:03 AM EST &#183; BOOKS.GOOGLE.COM &#183; SCORE 1336</description>
     <category></category>
   </item>
 
   <item>
-    <title>TIL that during his time at the White House, Herbert Hoover would speak Mandarin to his wife when they wanted to avoid eavesdroppers.</title>
-    <link>https://en.wikipedia.org/wiki/Herbert_Hoover#China_and_other_global_operations</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i0ckd/til_that_during_his_time_at_the_white_house/</guid>
-    <description>BY M777Z &#183; POSTED 10/01/14 1:38 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 494</description>
+    <title>TIL if a Catholic man needs a semen sample to diagnose infertility, he's supposed to do so by recovering it from a non-lubricated, perforated condom after normal intercourse</title>
+    <link>http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/resources/upload/Reproductive-Technology-Evaluation-Treatment-of-Infertility-Guidelines-for-Catholic-Couples.pdf</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i32cq/til_if_a_catholic_man_needs_a_semen_sample_to/</guid>
+    <description>BY DISCOGEEK &#183; POSTED 10/02/14 8:36 AM EST &#183; USCCB.ORG &#183; SCORE 1313</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>TIL Dolphin teens get high by chewing pufferfish and even pass it around. They then swim to the surface and zone out to their own reflections.</title>
+    <link>http://boingboing.net/2013/12/30/dolphin-teens-get-high-by-chew.html</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i24gm/til_dolphin_teens_get_high_by_chewing_pufferfish/</guid>
+    <description>BY EDWARDTHEROCK &#183; POSTED 10/01/14 11:25 PM EST &#183; BOINGBOING.NET &#183; SCORE 1060</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>TIL There's a guy who people hire to steal back boats that got shipjacked by pirates and corrupt governments. His name? MAX HARDBERGER.</title>
+    <link>http://en.wikipedia.org/wiki/Max_Hardberger</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i2odj/til_theres_a_guy_who_people_hire_to_steal_back/</guid>
+    <description>BY MISTERBADIDEA2 &#183; POSTED 10/02/14 4:17 AM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 999</description>
     <category></category>
   </item>
 
@@ -166,7 +118,15 @@
     <title>TIL An individual banana is called a finger. A bunch of bananas is called a hand.</title>
     <link>https://www.chiquitabananas.com/banana-information/banana-fun-facts-and-trivia.aspx</link>
     <guid>http://www.reddit.com/r/todayilearned/comments/2i18tn/til_an_individual_banana_is_called_a_finger_a/</guid>
-    <description>BY CRAZYWEBDEV &#183; POSTED 10/01/14 6:15 PM EST &#183; CHIQUITABANANAS.COM &#183; SCORE 469</description>
+    <description>BY CRAZYWEBDEV &#183; POSTED 10/01/14 6:15 PM EST &#183; CHIQUITABANANAS.COM &#183; SCORE 615</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>TIL that jellyfish eggs are fertilized by the male's sperm in the female's mouth</title>
+    <link>http://www.jellyfishfacts.net/jellyfish-reproduction.html</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i30p6/til_that_jellyfish_eggs_are_fertilized_by_the/</guid>
+    <description>BY SKYLOS7 &#183; POSTED 10/02/14 8:12 AM EST &#183; JELLYFISHFACTS.NET &#183; SCORE 622</description>
     <category></category>
   </item>
 
@@ -174,15 +134,15 @@
     <title>TIL an Air Canada flight in 1983 ran out of fuel mid-flight, but the crew managed to glide the 767 to nearby airport. The plane turned out to have only been filled with half the amount of fuel it needed due to a miscalculation because Canada was in the process of converting to the metric system.</title>
     <link>http://en.wikipedia.org/wiki/Gimli_Glider</link>
     <guid>http://www.reddit.com/r/todayilearned/comments/2i11f2/til_an_air_canada_flight_in_1983_ran_out_of_fuel/</guid>
-    <description>BY VARIOUSMETALS &#183; POSTED 10/01/14 5:08 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 367</description>
+    <description>BY VARIOUSMETALS &#183; POSTED 10/01/14 5:08 PM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 501</description>
     <category></category>
   </item>
 
   <item>
-    <title>TIL of Oskar Dirlewanger, commander of the "Dirlewanger" unit, the most infamous SS unit in the German military during WWII. A child molester, violent alcoholic, and sadist, the war crimes committed under Dirlewanger's command remain unparalleled in their monstrosity.</title>
-    <link>http://en.m.wikipedia.org/wiki/Oskar_Dirlewanger</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i09ev/til_of_oskar_dirlewanger_commander_of_the/</guid>
-    <description>BY PIESLUT3 &#183; POSTED 10/01/14 1:12 PM EST &#183; EN.M.WIKIPEDIA.ORG &#183; SCORE 316</description>
+    <title>TIL Romania had the unusual distinction of being at war with both the Allied and Axis powers simultaneously in August-September of 1944.</title>
+    <link>http://en.wikipedia.org/wiki/Romania_in_World_War_II#The_royal_coup</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i2i9s/til_romania_had_the_unusual_distinction_of_being/</guid>
+    <description>BY EL_CAMINO_REAL &#183; POSTED 10/02/14 2:27 AM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 497</description>
     <category></category>
   </item>
 
@@ -190,23 +150,63 @@
     <title>TIL: that babies born through C-section have markedly different bacterial microbiota profiles than babies born through vaginal births.</title>
     <link>http://www.usnews.com/science/articles/2010/06/22/babys-first-bacteria-depend-on-birth-route</link>
     <guid>http://www.reddit.com/r/todayilearned/comments/2i1fh2/til_that_babies_born_through_csection_have/</guid>
-    <description>BY NEUNAC &#183; POSTED 10/01/14 7:17 PM EST &#183; USNEWS.COM &#183; SCORE 318</description>
+    <description>BY NEUNAC &#183; POSTED 10/01/14 7:17 PM EST &#183; USNEWS.COM &#183; SCORE 464</description>
     <category></category>
   </item>
 
   <item>
-    <title>TIL that plastic surgeons use decapitated cadaver heads to learn and refresh their surgical skills. Somewhere out there, there a person who beheads cadavers for a living.</title>
-    <link>http://otolaryngology.emory.edu/ed_and_train/residency/facial_plastic.html</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2i10ud/til_that_plastic_surgeons_use_decapitated_cadaver/</guid>
-    <description>BY BOINKERISM &#183; POSTED 10/01/14 5:04 PM EST &#183; OTOLARYNGOLOGY.EMORY.EDU &#183; SCORE 319</description>
+    <title>TIL that the Founder of Domino’s Pizza has created a town in Florida without democracy.</title>
+    <link>http://www.naplesnews.com/news/local-news/town-without-vote-now-and-forever</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i1r5c/til_that_the_founder_of_dominos_pizza_has_created/</guid>
+    <description>BY OVERLORDSANDY &#183; POSTED 10/01/14 9:11 PM EST &#183; NAPLESNEWS.COM &#183; SCORE 384</description>
     <category></category>
   </item>
 
   <item>
-    <title>TIL that when the Westboro Baptist Church is sued, it can be quite profitable for them as many members of the Phelps family are lawyers, and their legal fees are paid by the state when they represent the church in lawsuits.</title>
-    <link>http://www.bostonglobe.com/arts/books/2013/03/05/book-review-banished-surviving-years-westboro-baptist-church-lauren-drain/7M3Ovyx7IIDO8uss5OVuuL/story.html</link>
-    <guid>http://www.reddit.com/r/todayilearned/comments/2hzop9/til_that_when_the_westboro_baptist_church_is_sued/</guid>
-    <description>BY TOKINGMESSIAH &#183; POSTED 10/01/14 10:03 AM EST &#183; BOSTONGLOBE.COM &#183; SCORE 279</description>
+    <title>TIL that in northern Finland, reindeer's horns are painted with a fluorescent color in order to avoid car accidents.</title>
+    <link>http://hbl.fi/nyheter/2014-10-01/663036/renhorn-malas-att-forhindra-olyckor</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i2h11/til_that_in_northern_finland_reindeers_horns_are/</guid>
+    <description>BY STARKJO &#183; POSTED 10/02/14 2:07 AM EST &#183; HBL.FI &#183; SCORE 395</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>TIL in 1999 Google brought in 16 students to test out their search engine. Upon reaching the site, they sat still for 45 seconds...just staring. Worried, Google finally asked what was wrong. All 16 responded the same: they were waiting for the rest of the page to load.</title>
+    <link>http://www.youtube.com/watch?v=mfXeoP4SJ2g&amp;t=10m27s</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i3t9f/til_in_1999_google_brought_in_16_students_to_test/</guid>
+    <description>BY MAV194 &#183; POSTED 10/02/14 1:00 PM EST &#183; YOUTUBE.COM &#183; SCORE 651</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>TIL Queen Elizabeth ordered an archbishop to take out a tooth of his own not once but TWICE just to prove the procedure of extracting a tooth was safe and bearable.</title>
+    <link>http://sempereademelizabeth.wordpress.com/2012/07/09/forsooth-a-tooth/</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i1m9m/til_queen_elizabeth_ordered_an_archbishop_to_take/</guid>
+    <description>BY LETMIKEFLOW &#183; POSTED 10/01/14 8:23 PM EST &#183; SEMPEREADEMELIZABETH.WORDPRESS.COM &#183; SCORE 343</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>TIL that despite decrying government benefits, Ayn Rand collected at least $11,002 in social security benefits. She also received medicare to treat her lung cancer, which she denied being caused by her smoking.</title>
+    <link>http://www.patiastephens.com/2010/12/05/ayn-rand-received-social-security-medicare/</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i1lzq/til_that_despite_decrying_government_benefits_ayn/</guid>
+    <description>BY MISTERRUNON &#183; POSTED 10/01/14 8:20 PM EST &#183; PATIASTEPHENS.COM &#183; SCORE 304</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>TIL a man tried to assassinate President Andrew Jackson. The man was apprehended after President Jackson beat him with his cane.</title>
+    <link>https://en.wikipedia.org/wiki/List_of_United_States_presidential_assassination_attempts_and_plots#Andrew_Jackson</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i3e9l/til_a_man_tried_to_assassinate_president_andrew/</guid>
+    <description>BY SWIMMERLIFE &#183; POSTED 10/02/14 10:45 AM EST &#183; EN.WIKIPEDIA.ORG &#183; SCORE 385</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>TIL the first native Americans to help the pilgrims,named Samoset and Squanto already knew English before meeting the settlers.</title>
+    <link>http://billpetro.com/2009/11/24/history-of-thanksgiving-indian-why-squanto-already-knew-english/</link>
+    <guid>http://www.reddit.com/r/todayilearned/comments/2i2jyt/til_the_first_native_americans_to_help_the/</guid>
+    <description>BY KIMJONGUNTHEGREAT &#183; POSTED 10/02/14 2:56 AM EST &#183; BILLPETRO.COM &#183; SCORE 323</description>
     <category></category>
   </item>
 

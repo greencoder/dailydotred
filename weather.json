@@ -1,24 +1,24 @@
 {
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
-    "generated-utc": 1412258436, 
+    "generated-utc": 1412287235, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/weather/comments/2i2etm/a_thunderstorm_formed_over_my_house_in_las_vegas/", 
             "domain": "i.imgur.com", 
-            "score": 37, 
+            "score": 91, 
             "nsfw": false, 
             "author": "johnnycleveland", 
             "url": "http://i.imgur.com/WJZZXYB.jpg", 
             "title": "A thunderstorm formed over my house in Las Vegas while the setting sun light up the clouds.", 
             "id": "2i2etm", 
             "created-utc": 1412227911.0, 
-            "num-comments": 2
+            "num-comments": 5
         }, 
         {
             "permalink": "http://www.reddit.com/r/weather/comments/2i1pb8/anyone_witness_the_fireballs_over_the_us/", 
             "domain": "self.weather", 
-            "score": 16, 
+            "score": 17, 
             "nsfw": false, 
             "author": "Komm", 
             "url": "http://www.reddit.com/r/weather/comments/2i1pb8/anyone_witness_the_fireballs_over_the_us/", 
@@ -26,6 +26,30 @@
             "id": "2i1pb8", 
             "created-utc": 1412211193.0, 
             "num-comments": 10
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/weather/comments/2i399b/foggy_morning/", 
+            "domain": "i.imgur.com", 
+            "score": 4, 
+            "nsfw": false, 
+            "author": "burnedBlue", 
+            "url": "http://i.imgur.com/s87AONz.jpg", 
+            "title": "Foggy morning", 
+            "id": "2i399b", 
+            "created-utc": 1412258239.0, 
+            "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/weather/comments/2i3hew/upper_air_map/", 
+            "domain": "self.weather", 
+            "score": 2, 
+            "nsfw": false, 
+            "author": "datrobut", 
+            "url": "http://www.reddit.com/r/weather/comments/2i3hew/upper_air_map/", 
+            "title": "Upper Air Map", 
+            "id": "2i3hew", 
+            "created-utc": 1412262868.0, 
+            "num-comments": 3
         }, 
         {
             "permalink": "http://www.reddit.com/r/weather/comments/2i253q/fall_weather_seems_to_be_mia_as_of_late/", 
@@ -38,10 +62,22 @@
             "id": "2i253q", 
             "created-utc": 1412220741.0, 
             "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/weather/comments/2i3r8b/winter_is_coming/", 
+            "domain": "tackk.com", 
+            "score": 0, 
+            "nsfw": false, 
+            "author": "CocaineCoffee", 
+            "url": "https://tackk.com/Amazing-Photos-Polar-Vortex", 
+            "title": "Winter is coming", 
+            "id": "2i3r8b", 
+            "created-utc": 1412268169.0, 
+            "num-comments": 2
         }
     ], 
     "subreddit": "/r/weather/", 
-    "expires-utc": 1412287200, 
+    "expires-utc": 1412344800, 
     "reddit-url": "http://www.reddit.com/r/weather/", 
     "api-url": "http://daily.red/weather.json", 
     "display-name": "Weather", 
