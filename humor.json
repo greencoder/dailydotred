@@ -1,10 +1,23 @@
 {
     "description": "Humor is the place for things that bring a wry smile to your face", 
     "title": "Humor", 
-    "generated-utc": 1412287302, 
-    "posts": [], 
+    "generated-utc": 1412344902, 
+    "posts": [
+        {
+            "permalink": "http://www.reddit.com/r/humor/comments/2i62j6/animator_vs_animation_iv_original/", 
+            "domain": "youtu.be", 
+            "score": 124, 
+            "nsfw": false, 
+            "author": "bjones007", 
+            "url": "http://youtu.be/VufDd-QL1c0", 
+            "title": "Animator vs. Animation IV (original)", 
+            "id": "2i62j6", 
+            "created-utc": 1412318715.0, 
+            "num-comments": 5
+        }
+    ], 
     "subreddit": "/r/humor/", 
-    "expires-utc": 1412344800, 
+    "expires-utc": 1412373600, 
     "reddit-url": "http://www.reddit.com/r/humor/", 
     "api-url": "http://daily.red/humor.json", 
     "display-name": "Humor", 
