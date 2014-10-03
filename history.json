@@ -1,60 +1,84 @@
 {
     "description": "Things happened. Lessons were learned. Those responsible were taken outside and shot.", 
     "title": "History", 
-    "generated-utc": 1412344855, 
+    "generated-utc": 1412373662, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/history/comments/2i4ltm/very_rare_ww2_stuka_bomber_found_complete_and_in/", 
             "domain": "news.msn.co.nz", 
-            "score": 627, 
+            "score": 745, 
             "nsfw": false, 
             "author": "oppleTANK", 
             "url": "http://news.msn.co.nz/worldnews/8913978/german-wwii-dive-bomber-found-off-croatia", 
             "title": "Very rare WW2 Stuka bomber found \"complete and in very good condition\"", 
             "id": "2i4ltm", 
             "created-utc": 1412283997.0, 
-            "num-comments": 88
+            "num-comments": 112
         }, 
         {
-            "permalink": "http://www.reddit.com/r/history/comments/2i47ve/did_americas_famous_forefathers_really_lead_the/", 
-            "domain": "self.history", 
-            "score": 211, 
+            "permalink": "http://www.reddit.com/r/history/comments/2i6xgt/twin_1300yearold_villages_discovered_in_arizona/", 
+            "domain": "westerndigs.org", 
+            "score": 533, 
             "nsfw": false, 
-            "author": "the-event-horiz0n", 
-            "url": "http://www.reddit.com/r/history/comments/2i47ve/did_americas_famous_forefathers_really_lead_the/", 
-            "title": "Did America's famous forefathers really lead the way to Revolution? Or were they just playing catch-up with already unfolding events?", 
-            "id": "2i47ve", 
-            "created-utc": 1412276744.0, 
-            "num-comments": 105
+            "author": "marquis_of_chaos", 
+            "url": "http://westerndigs.org/twin-1300-year-old-villages-discovered-in-arizona-sand-dunes/", 
+            "title": "Twin 1,300-Year-Old Villages Discovered in Arizona Sand Dunes", 
+            "id": "2i6xgt", 
+            "created-utc": 1412347960.0, 
+            "num-comments": 49
         }, 
         {
-            "permalink": "http://www.reddit.com/r/history/comments/2i41ey/does_anybody_have_any_good_podcasts_about_the/", 
+            "permalink": "http://www.reddit.com/r/history/comments/2i6nof/would_the_allies_have_dropped_the_first_nuclear/", 
             "domain": "self.history", 
-            "score": 27, 
+            "score": 128, 
             "nsfw": false, 
-            "author": "skeptic54", 
-            "url": "http://www.reddit.com/r/history/comments/2i41ey/does_anybody_have_any_good_podcasts_about_the/", 
-            "title": "Does anybody have any good Podcasts about the Punic Wars?", 
-            "id": "2i41ey", 
-            "created-utc": 1412273391.0, 
-            "num-comments": 19
+            "author": "somestoriestotell", 
+            "url": "http://www.reddit.com/r/history/comments/2i6nof/would_the_allies_have_dropped_the_first_nuclear/", 
+            "title": "Would the allies have dropped the first nuclear bomb on Germany instead of Japan, had they not surrendered when they did?", 
+            "id": "2i6nof", 
+            "created-utc": 1412341718.0, 
+            "num-comments": 82
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/history/comments/2i70em/king_cotton_the_story_of_cotton_reveals_that/", 
+            "domain": "newcriterion.com", 
+            "score": 22, 
+            "nsfw": false, 
+            "author": "marquis_of_chaos", 
+            "url": "http://www.newcriterion.com/articles.cfm/King-cotton-7964", 
+            "title": "King cotton - The story of cotton reveals that America's problematic history with race is just as much a northern problem as a southern one", 
+            "id": "2i70em", 
+            "created-utc": 1412349647.0, 
+            "num-comments": 9
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/history/comments/2i69oz/today_october_3rd_marks_the_24th_anniversary_of/", 
+            "domain": "youtube.com", 
+            "score": 11, 
+            "nsfw": false, 
+            "author": "fredthunder", 
+            "url": "https://www.youtube.com/watch?v=e4kpqKBbdic", 
+            "title": "Today, October 3rd, marks the 24th anniversary of Germany's reunification. Here's a video about the last day as an occupied country and its celebration after being reunited", 
+            "id": "2i69oz", 
+            "created-utc": 1412327040.0, 
+            "num-comments": 9
         }, 
         {
             "permalink": "http://www.reddit.com/r/history/comments/2i5dmf/attila_the_hun_documentary/", 
             "domain": "self.history", 
-            "score": 4, 
+            "score": 7, 
             "nsfw": false, 
             "author": "pat121v", 
             "url": "http://www.reddit.com/r/history/comments/2i5dmf/attila_the_hun_documentary/", 
             "title": "Attila the Hun Documentary?", 
             "id": "2i5dmf", 
             "created-utc": 1412300296.0, 
-            "num-comments": 0
+            "num-comments": 1
         }, 
         {
             "permalink": "http://www.reddit.com/r/history/comments/2i4hpf/new_pictures_of_franklin_expeditions_hms_erebus/", 
             "domain": "cbc.ca", 
-            "score": 5, 
+            "score": 4, 
             "nsfw": false, 
             "author": "tuutruk", 
             "url": "http://www.cbc.ca/news/canada/photos/new-pictures-of-franklin-expedition-s-hms-erebus-1.2785494", 
@@ -64,16 +88,16 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/history/comments/2i69oz/today_october_3rd_marks_the_24th_anniversary_of/", 
-            "domain": "youtube.com", 
-            "score": 6, 
+            "permalink": "http://www.reddit.com/r/history/comments/2i774k/how_the_nuremberg_trials_changed_interpretation/", 
+            "domain": "pri.org", 
+            "score": 3, 
             "nsfw": false, 
-            "author": "fredthunder", 
-            "url": "https://www.youtube.com/watch?v=e4kpqKBbdic", 
-            "title": "Today, October 3rd, marks the 24th anniversary of Germany's reunification. Here's a video about the last day as an occupied country and its celebration after being reunited", 
-            "id": "2i69oz", 
-            "created-utc": 1412327040.0, 
-            "num-comments": 8
+            "author": "nastratin", 
+            "url": "http://www.pri.org/stories/2014-09-29/how-do-all-those-leaders-un-communicate-all-those-languages", 
+            "title": "How the Nuremberg Trials changed interpretation forever", 
+            "id": "2i774k", 
+            "created-utc": 1412353397.0, 
+            "num-comments": 1
         }, 
         {
             "permalink": "http://www.reddit.com/r/history/comments/2i4z1m/any_well_done_historical_story_podcasts/", 
@@ -85,24 +109,12 @@
             "title": "Any well done historical story podcasts?", 
             "id": "2i4z1m", 
             "created-utc": 1412291316.0, 
-            "num-comments": 5
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/history/comments/2i3ze0/need_recommendation_for_world_history_book_which/", 
-            "domain": "self.history", 
-            "score": 3, 
-            "nsfw": false, 
-            "author": "WoodBowl2", 
-            "url": "http://www.reddit.com/r/history/comments/2i3ze0/need_recommendation_for_world_history_book_which/", 
-            "title": "Need recommendation for world history book which also has interesting archaeological and other evidence and pictures and facts to go along", 
-            "id": "2i3ze0", 
-            "created-utc": 1412272360.0, 
-            "num-comments": 2
+            "num-comments": 7
         }, 
         {
             "permalink": "http://www.reddit.com/r/history/comments/2i4eei/the_myth_of_granny_gates/", 
             "domain": "allthingsliberty.com", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "author": "michaelconfoy", 
             "url": "http://allthingsliberty.com/2014/10/the-myth-of-granny-gates/", 
@@ -124,21 +136,9 @@
             "num-comments": 4
         }, 
         {
-            "permalink": "http://www.reddit.com/r/history/comments/2i5a87/who_discovered_electricity/", 
-            "domain": "universetoday.com", 
-            "score": 1, 
-            "nsfw": false, 
-            "author": "Thistleknot", 
-            "url": "http://www.universetoday.com/82402/who-discovered-electricity/", 
-            "title": "Who Discovered Electricity?", 
-            "id": "2i5a87", 
-            "created-utc": 1412298210.0, 
-            "num-comments": 2
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/history/comments/2i5cx5/philip_of_macedon_philip_ii_of_macedonia_biography/", 
             "domain": "historyofmacedonia.org", 
-            "score": 0, 
+            "score": 1, 
             "nsfw": false, 
             "author": "Thistleknot", 
             "url": "http://www.historyofmacedonia.org/AncientMacedonia/PhilipofMacedon.html", 
@@ -150,7 +150,7 @@
         {
             "permalink": "http://www.reddit.com/r/history/comments/2i5bt0/alexander_the_great/", 
             "domain": "interesting.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "author": "Thistleknot", 
             "url": "http://www.interesting.com/stories/alexander/", 
@@ -160,20 +160,20 @@
             "num-comments": 1
         }, 
         {
-            "permalink": "http://www.reddit.com/r/history/comments/2i3tpc/trying_to_think_of_a_good_time_period_to_do_my/", 
-            "domain": "self.history", 
-            "score": 0, 
+            "permalink": "http://www.reddit.com/r/history/comments/2i5a87/who_discovered_electricity/", 
+            "domain": "universetoday.com", 
+            "score": 1, 
             "nsfw": false, 
-            "author": "Royale_with_chz", 
-            "url": "http://www.reddit.com/r/history/comments/2i3tpc/trying_to_think_of_a_good_time_period_to_do_my/", 
-            "title": "Trying to think of a good time period to do my research project on. Could any of you urban planning and history guys give suggestions?", 
-            "id": "2i3tpc", 
-            "created-utc": 1412269463.0, 
-            "num-comments": 6
+            "author": "Thistleknot", 
+            "url": "http://www.universetoday.com/82402/who-discovered-electricity/", 
+            "title": "Who Discovered Electricity?", 
+            "id": "2i5a87", 
+            "created-utc": 1412298210.0, 
+            "num-comments": 2
         }
     ], 
     "subreddit": "/r/history/", 
-    "expires-utc": 1412373600, 
+    "expires-utc": 1412431200, 
     "reddit-url": "http://www.reddit.com/r/history/", 
     "api-url": "http://daily.red/history.json", 
     "display-name": "History", 
