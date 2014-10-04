@@ -6,31 +6,23 @@
   <description>Stories related to weather</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Fri, 03 Oct 2014 22:00:43 -0000</pubDate>
+  <pubDate>Sat, 04 Oct 2014 14:00:37 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/weather.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>WTF?</title>
-    <link>http://i.imgur.com/c3UlsjK.jpg</link>
-    <guid>http://www.reddit.com/r/weather/comments/2i524p/wtf/</guid>
-    <description>BY KERISCO &#183; POSTED 10/02/14 7:40 PM EST &#183; I.IMGUR.COM &#183; SCORE 106</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Shelf cloud approaching St. Louis</title>
-    <link>http://i.imgur.com/ngHfdjU.png</link>
-    <guid>http://www.reddit.com/r/weather/comments/2i4pwb/shelf_cloud_approaching_st_louis/</guid>
-    <description>BY HATERADE1 &#183; POSTED 10/02/14 5:43 PM EST &#183; I.IMGUR.COM &#183; SCORE 58</description>
-    <category></category>
-  </item>
 
   <item>
     <title>When God frames the Earth. (Hope it's not a repost but I've never seen it before)</title>
     <link>http://1.bp.blogspot.com/-9m6N76thjyA/TncPQ564PcI/AAAAAAAApgM/nvfK46SvLt8/s1600/35.jpg</link>
     <guid>http://www.reddit.com/r/weather/comments/2i7iw1/when_god_frames_the_earth_hope_its_not_a_repost/</guid>
-    <description>BY GERROFF &#183; POSTED 10/03/14 2:09 PM EST &#183; 1.BP.BLOGSPOT.COM &#183; SCORE 36</description>
+    <description>BY GERROFF &#183; POSTED 10/03/14 2:09 PM EST &#183; 1.BP.BLOGSPOT.COM &#183; SCORE 87</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Drone Video of Rice Field after an EF-0 Tornado Last Night (Waldenburg, AR)</title>
+    <link>http://youtu.be/z9Q6ABtq1WE</link>
+    <guid>http://www.reddit.com/r/weather/comments/2i85s0/drone_video_of_rice_field_after_an_ef0_tornado/</guid>
+    <description>BY WEATHERBOY89 &#183; POSTED 10/03/14 5:44 PM EST &#183; YOUTU.BE &#183; SCORE 10</description>
     <category></category>
   </item>
 
@@ -39,38 +31,6 @@
     <link>http://www.reddit.com/r/weather/comments/2i6vdr/lots_of_fighting_over_whether_a_27kft_skyscraper/</link>
     <guid>http://www.reddit.com/r/weather/comments/2i6vdr/lots_of_fighting_over_whether_a_27kft_skyscraper/</guid>
     <description>BY DROSSGNOSTIC &#183; POSTED 10/03/14 10:31 AM EST &#183; SELF.WEATHER &#183; SCORE 6</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Seeking source for detailed historical weather measurements</title>
-    <link>http://www.reddit.com/r/weather/comments/2i6juh/seeking_source_for_detailed_historical_weather/</link>
-    <guid>http://www.reddit.com/r/weather/comments/2i6juh/seeking_source_for_detailed_historical_weather/</guid>
-    <description>BY ZXO &#183; POSTED 10/03/14 8:17 AM EST &#183; SELF.WEATHER &#183; SCORE 1</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Neat graphic showing the typhoon heading towards Japan.</title>
-    <link>http://www.wunderground.com/wundermap/?lat=0.0&amp;lon=-140.0&amp;zoom=3&amp;type=hyb&amp;units=english&amp;rad=1&amp;wxsn=0&amp;svr=0&amp;cams=0&amp;sat=1&amp;sat.num=1&amp;sat.spd=25&amp;sat.opa=85&amp;sat.gtt1=109&amp;sat.gtt2=108&amp;sat.type=IR4&amp;riv=0&amp;mm=0&amp;hur=1&amp;fire=0&amp;tor=0&amp;ndfd=0&amp;pix=0</link>
-    <guid>http://www.reddit.com/r/weather/comments/2i6gwy/neat_graphic_showing_the_typhoon_heading_towards/</guid>
-    <description>BY MK_GECKO &#183; POSTED 10/03/14 7:26 AM EST &#183; WUNDERGROUND.COM &#183; SCORE 1</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Let's Make Some Honey</title>
-    <link>http://drupal-dev.web.weather.com/photos/photo-details/lets-make-some-honey_de6c1c56-a172-45c4-8c1b-9a0e0c84cd20--db04bc18-ee64-11e2-9ee2-001d092f5a10?</link>
-    <guid>http://www.reddit.com/r/weather/comments/2i7moc/lets_make_some_honey/</guid>
-    <description>BY SMITA12SINHA &#183; POSTED 10/03/14 2:44 PM EST &#183; DRUPAL-DEV.WEB.WEATHER.COM &#183; SCORE 0</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>On being a Thaumaturge</title>
-    <link>http://www.reddit.com/r/weather/comments/2i5uhy/on_being_a_thaumaturge/</link>
-    <guid>http://www.reddit.com/r/weather/comments/2i5uhy/on_being_a_thaumaturge/</guid>
-    <description>BY WEATHERLAWYER &#183; POSTED 10/03/14 12:44 AM EST &#183; SELF.WEATHER &#183; SCORE 0</description>
     <category></category>
   </item>
 
