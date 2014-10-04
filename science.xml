@@ -6,103 +6,31 @@
   <description>The Science subreddit is a place to share new findings. Read about the latest advances in astronomy, biology, medicine, physics and the social sciences.</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Sat, 04 Oct 2014 14:00:54 -0000</pubDate>
+  <pubDate>Sat, 04 Oct 2014 22:00:53 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/science.xml" rel="self" type="application/rss+xml" />
 
   <item>
-    <title>The larger your friends, the larger your appetite: A new Cornell University study found that the body type of your dining partner, or that of those dining nearby, may actually influence how much you serve yourself and how much you eat</title>
-    <link>http://foodpsychology.cornell.edu/op/the_fat_suit_study</link>
-    <guid>http://www.reddit.com/r/science/comments/2i73us/the_larger_your_friends_the_larger_your_appetite/</guid>
-    <description>BY MUBUKUGRAPPA &#183; POSTED 10/03/14 11:53 AM EST &#183; FOODPSYCHOLOGY.CORNELL.EDU &#183; SCORE 3358</description>
+    <title>Science AMA Series: I’m Maxim Makukov, a researcher in astrobiology and astrophysics and a co-author of the papers which claim to have identified extraterrestrial signal in the universal genetic code thereby confirming directed panspermia. AMA!</title>
+    <link>http://www.reddit.com/r/science/comments/2i9tla/science_ama_series_im_maxim_makukov_a_researcher/</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9tla/science_ama_series_im_maxim_makukov_a_researcher/</guid>
+    <description>BY MAXIM_MAKUKOV &#183; POSTED 10/04/14 8:48 AM EST &#183; SELF.SCIENCE &#183; SCORE 2723</description>
     <category></category>
   </item>
 
   <item>
-    <title>A new study debunks cheetah myths. It was believed that chasing prey leaves cheetahs overheated and too exhausted to try again if it fails, or even to protect its meal if it succeeds, but that's not true.</title>
-    <link>http://phenomena.nationalgeographic.com/2014/10/02/cheetahs-prosper-new-study-debunks-more-old-myths/</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6zse/a_new_study_debunks_cheetah_myths_it_was_believed/</guid>
-    <description>BY MORGENZI &#183; POSTED 10/03/14 11:15 AM EST &#183; PHENOMENA.NATIONALGEOGRAPHIC.COM &#183; SCORE 1975</description>
+    <title>Bees, birds may suffer long-term consequences from common pesticides</title>
+    <link>http://www.cbc.ca/news/technology/bees-birds-may-suffer-long-term-consequences-from-common-pesticides-1.2786859?cmp=rss</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9sli/bees_birds_may_suffer_longterm_consequences_from/</guid>
+    <description>BY COLDBROOK &#183; POSTED 10/04/14 8:31 AM EST &#183; CBC.CA &#183; SCORE 1232</description>
     <category></category>
   </item>
 
   <item>
-    <title>Gravity map uncovers sea-floor surprises. Ocean basins reveal uncharted volcanoes and other geological wonders.</title>
-    <link>http://www.nature.com/news/gravity-map-uncovers-sea-floor-surprises-1.16048?WT.mc_id=TWT_NatureNews</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6vvj/gravity_map_uncovers_seafloor_surprises_ocean/</guid>
-    <description>BY SERVIIUS &#183; POSTED 10/03/14 10:36 AM EST &#183; NATURE.COM &#183; SCORE 1603</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Satellite images reveal shocking groundwater loss in California</title>
-    <link>http://www.latimes.com/science/sciencenow/la-sci-sn-california-drought-groundwater-satellite-20141002-story.html</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6rt7/satellite_images_reveal_shocking_groundwater_loss/</guid>
-    <description>BY ISNORMANFORGIVEN &#183; POSTED 10/03/14 9:54 AM EST &#183; LATIMES.COM &#183; SCORE 1491</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Scientist Design a Multispectral Imaging System Capable of Obtaining 12x more information than the Human Eye</title>
-    <link>http://biosciblog.com/A38.html</link>
-    <guid>http://www.reddit.com/r/science/comments/2i70zb/scientist_design_a_multispectral_imaging_system/</guid>
-    <description>BY DJLAMBO1 &#183; POSTED 10/03/14 11:26 AM EST &#183; BIOSCIBLOG.COM &#183; SCORE 437</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Babies' gut bacteria are mostly fixed by time spent in the womb. The main criteria that determines the constituent bacteria of the gut are decided by how long baby remained in the womb.</title>
-    <link>https://theconversation.com/babies-gut-bacteria-are-mostly-fixed-by-time-spent-in-the-womb-32520</link>
-    <guid>http://www.reddit.com/r/science/comments/2i7bqx/babies_gut_bacteria_are_mostly_fixed_by_time/</guid>
-    <description>BY NOTSCIENTIFIC &#183; POSTED 10/03/14 1:05 PM EST &#183; THECONVERSATION.COM &#183; SCORE 407</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Scientists slowed aging in fruit flies just by activating AMPK in the gut, which worked not just in intestinal cells, but also in brain tissue and even muscles. Since AMPK has the same function in mammals, future studies could develop a pill that slows aging just by working in the gut.</title>
-    <link>http://blogs.brandeis.edu/flyonthewall/breaking-research-aging-can-be-delayed-in-fruit-flies-by-activating-ampk-in-the-gut/</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6y5r/scientists_slowed_aging_in_fruit_flies_just_by/</guid>
-    <description>BY MORGENZI &#183; POSTED 10/03/14 10:59 AM EST &#183; BLOGS.BRANDEIS.EDU &#183; SCORE 381</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Scientists design an imaging system capable of obtaining 12 times more information than the human eye</title>
-    <link>http://canal.ugr.es/index.php/information-and-communication-technologies/item/74220</link>
-    <guid>http://www.reddit.com/r/science/comments/2i72ef/scientists_design_an_imaging_system_capable_of/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 10/03/14 11:39 AM EST &#183; CANAL.UGR.ES &#183; SCORE 359</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Scientists determine that twitching in your sleep is actually not necessarily linked to dreams. It is in fact the brain's way of exploring its body, playing a functional role for the developing brain.</title>
-    <link>https://theconversation.com/twitching-in-your-sleep-is-more-about-mapping-the-brain-than-chasing-rabbits-32458</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6tui/scientists_determine_that_twitching_in_your_sleep/</guid>
-    <description>BY NOTSCIENTIFIC &#183; POSTED 10/03/14 10:15 AM EST &#183; THECONVERSATION.COM &#183; SCORE 307</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Published today, this is the most detailed map of the ocean floor ever produced, using satellite imagery to show ridges and trenches of the earth’s underwater surface even for areas which have never been surveyed by ship.</title>
-    <link>http://www.theguardian.com/technology/ng-interactive/2014/oct/03/the-most-detailed-map-of-the-ocean-floor-ever-seen</link>
-    <guid>http://www.reddit.com/r/science/comments/2i748f/published_today_this_is_the_most_detailed_map_of/</guid>
-    <description>BY KIMDAEBAK_72 &#183; POSTED 10/03/14 11:56 AM EST &#183; THEGUARDIAN.COM &#183; SCORE 285</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>New study finds link between depression and abnormal brain response to visceral pain in patients with irritable bowel syndrome (IBS)</title>
-    <link>https://www.ueg.eu/press/releases/ueg-press-release/article/ueg-week-press-releasenew-study-finds-link-between-depression-and-abnormal-brain-response-to-viscer/</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6zi0/new_study_finds_link_between_depression_and/</guid>
-    <description>BY MUBUKUGRAPPA &#183; POSTED 10/03/14 11:12 AM EST &#183; UEG.EU &#183; SCORE 183</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Giant Clams Use Iridescence to Create Living Greenhouses to Grow Algae</title>
-    <link>http://biosciblog.com/A37.html</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6rbp/giant_clams_use_iridescence_to_create_living/</guid>
-    <description>BY DJLAMBO1 &#183; POSTED 10/03/14 9:49 AM EST &#183; BIOSCIBLOG.COM &#183; SCORE 149</description>
+    <title>Crumpled graphene could provide an unconventional energy storage: Two-dimensional carbon “paper” can form stretchable supercapacitors to power flexible electronic devices</title>
+    <link>https://newsoffice.mit.edu/2014/crumpled-graphene-energy-storage-1003</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9t74/crumpled_graphene_could_provide_an_unconventional/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 8:41 AM EST &#183; NEWSOFFICE.MIT.EDU &#183; SCORE 576</description>
     <category></category>
   </item>
 
@@ -110,47 +38,15 @@
     <title>Antioxidant Found In Grapes Can Help Treat Acne</title>
     <link>http://www.redorbit.com/news/health/1113247365/antioxidant-resveratrol-can-help-treat-acne-100114/</link>
     <guid>http://www.reddit.com/r/science/comments/2i9fb6/antioxidant_found_in_grapes_can_help_treat_acne/</guid>
-    <description>BY VLADAZARD &#183; POSTED 10/04/14 3:42 AM EST &#183; REDORBIT.COM &#183; SCORE 186</description>
+    <description>BY VLADAZARD &#183; POSTED 10/04/14 3:42 AM EST &#183; REDORBIT.COM &#183; SCORE 464</description>
     <category></category>
   </item>
 
   <item>
-    <title>Sense of invalidation uniquely risky for troubled teens: A new study suggests that independent of other known risk factors, measuring teens’ sense of invalidation by family members or peers can help predict whether they will try to harm themselves or even attempt suicide</title>
-    <link>https://news.brown.edu/articles/2014/10/selfharm</link>
-    <guid>http://www.reddit.com/r/science/comments/2i70lr/sense_of_invalidation_uniquely_risky_for_troubled/</guid>
-    <description>BY MUBUKUGRAPPA &#183; POSTED 10/03/14 11:22 AM EST &#183; NEWS.BROWN.EDU &#183; SCORE 74</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Researchers Prove There is a Neurological Basis to Why you Love Your Dog Like a Child</title>
-    <link>http://modernnotion.com/neurological-basis-for-loving-your-dog-like-kid/</link>
-    <guid>http://www.reddit.com/r/science/comments/2i7i08/researchers_prove_there_is_a_neurological_basis/</guid>
-    <description>BY CHANCE__ &#183; POSTED 10/03/14 2:01 PM EST &#183; MODERNNOTION.COM &#183; SCORE 55</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>How Color Vision Evolved</title>
-    <link>http://www.the-scientist.com/?articles.view/articleNo/41055/title/The-Rainbow-Connection/</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6rns/how_color_vision_evolved/</guid>
-    <description>BY ALANTHA &#183; POSTED 10/03/14 9:53 AM EST &#183; THE-SCIENTIST.COM &#183; SCORE 46</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Unexpectedly speedy expansion of human, ape cerebellum: Humans’ unique cognitive abilities are attributed to a greatly expanded neocortex, but new evolutionary rate comparisons show that the cerebellum expanded up to six times faster than anticipated throughout evolution of apes, including humans</title>
-    <link>http://www.sciencedaily.com/releases/2014/10/141002123629.htm</link>
-    <guid>http://www.reddit.com/r/science/comments/2i8u88/unexpectedly_speedy_expansion_of_human_ape/</guid>
-    <description>BY MUBUKUGRAPPA &#183; POSTED 10/03/14 10:21 PM EST &#183; SCIENCEDAILY.COM &#183; SCORE 49</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Quantum environmentalism - Putting a qubit's surroundings to good use: A qubit's environment, usually viewed as a threat to coherence, here serves as an aid to manipulating and interrogating the qubit</title>
-    <link>http://www.sciencedaily.com/releases/2014/10/141002141900.htm</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6z3e/quantum_environmentalism_putting_a_qubits/</guid>
-    <description>BY MUBUKUGRAPPA &#183; POSTED 10/03/14 11:08 AM EST &#183; SCIENCEDAILY.COM &#183; SCORE 36</description>
+    <title>Genetic engineers create 12 novel non-food grasses that yield 60% more biofuel energy, advancing a renewable source that does not compete with global food supply</title>
+    <link>http://www.neomatica.com/2014/10/01/scientists-use-genetic-engineering-turn-grass-potential-biofuels/</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9x3z/genetic_engineers_create_12_novel_nonfood_grasses/</guid>
+    <description>BY ANTIBIOTIXX &#183; POSTED 10/04/14 9:45 AM EST &#183; NEOMATICA.COM &#183; SCORE 90</description>
     <category></category>
   </item>
 
@@ -158,15 +54,23 @@
     <title>Antarctica’s lost so much ice it’s changed Earth’s gravity</title>
     <link>http://www.sciencealert.com.au/news/20140210-26272.html</link>
     <guid>http://www.reddit.com/r/science/comments/2i91fx/antarcticas_lost_so_much_ice_its_changed_earths/</guid>
-    <description>BY EDDIEMCDOWALL &#183; POSTED 10/03/14 11:54 PM EST &#183; SCIENCEALERT.COM.AU &#183; SCORE 61</description>
+    <description>BY EDDIEMCDOWALL &#183; POSTED 10/03/14 11:54 PM EST &#183; SCIENCEALERT.COM.AU &#183; SCORE 79</description>
     <category></category>
   </item>
 
   <item>
-    <title>Colon carcinogenesis is inhibited by the TRPM8 antagonist cannabigerol, a Cannabis-derived non-psychotropic cannabinoid.</title>
-    <link>http://www.ncbi.nlm.nih.gov/pubmed/25269802</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6y1i/colon_carcinogenesis_is_inhibited_by_the_trpm8/</guid>
-    <description>BY FISOLANI &#183; POSTED 10/03/14 10:58 AM EST &#183; NCBI.NLM.NIH.GOV &#183; SCORE 35</description>
+    <title>How giant clams harness the sun by growing algae as a source of food: Research demonstrates how iridescent structures in giant clams could have implications for alternative energy research</title>
+    <link>http://www.news.ucsb.edu/2014/014423/harnessing-sun</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9jkx/how_giant_clams_harness_the_sun_by_growing_algae/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 5:19 AM EST &#183; NEWS.UCSB.EDU &#183; SCORE 71</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Unexpectedly speedy expansion of human, ape cerebellum: Humans’ unique cognitive abilities are attributed to a greatly expanded neocortex, but new evolutionary rate comparisons show that the cerebellum expanded up to six times faster than anticipated throughout evolution of apes, including humans</title>
+    <link>http://www.sciencedaily.com/releases/2014/10/141002123629.htm</link>
+    <guid>http://www.reddit.com/r/science/comments/2i8u88/unexpectedly_speedy_expansion_of_human_ape/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/03/14 10:21 PM EST &#183; SCIENCEDAILY.COM &#183; SCORE 60</description>
     <category></category>
   </item>
 
@@ -174,31 +78,39 @@
     <title>Scientists discover a new origin of oxygen on Earth and in space</title>
     <link>http://www.latimes.com/science/sciencenow/la-sci-sn-oxygen-from-carbon-dioxide-20141001-story.html</link>
     <guid>http://www.reddit.com/r/science/comments/2i8r4s/scientists_discover_a_new_origin_of_oxygen_on/</guid>
-    <description>BY THEFLAMINGSKULL &#183; POSTED 10/03/14 9:43 PM EST &#183; LATIMES.COM &#183; SCORE 38</description>
+    <description>BY THEFLAMINGSKULL &#183; POSTED 10/03/14 9:43 PM EST &#183; LATIMES.COM &#183; SCORE 45</description>
     <category></category>
   </item>
 
   <item>
-    <title>Mummified Fetus Reveals Ancient Surgical Procedure</title>
-    <link>http://news.discovery.com/history/archaeology/mummified-fetus-reveals-ancient-surgical-procedure-141003.htm#mkcpgn=rssnws1</link>
-    <guid>http://www.reddit.com/r/science/comments/2i6peh/mummified_fetus_reveals_ancient_surgical_procedure/</guid>
-    <description>BY MACULAR_PATDOWN &#183; POSTED 10/03/14 9:27 AM EST &#183; NEWS.DISCOVERY.COM &#183; SCORE 33</description>
+    <title>Pain words stand out more for those experiencing it: Ache, agony, distress and pain draw more attention than non-pain related words when it comes to people who suffer from chronic pain, new research using state-of-the-art eye-tracking technology has found</title>
+    <link>http://news.yorku.ca/2014/10/03/pain-words-stand-out-more-for-those-experiencing-it-york-u-study/</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9n3n/pain_words_stand_out_more_for_those_experiencing/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 6:39 AM EST &#183; NEWS.YORKU.CA &#183; SCORE 34</description>
     <category></category>
   </item>
 
   <item>
-    <title>Curiosity Changes the Brain to Boost Learning and Memory</title>
-    <link>http://www.healthline.com/health-news/curiosity-boosts-learning-and-memory-100214</link>
-    <guid>http://www.reddit.com/r/science/comments/2i7ezv/curiosity_changes_the_brain_to_boost_learning_and/</guid>
-    <description>BY DUCKITOR &#183; POSTED 10/03/14 1:34 PM EST &#183; HEALTHLINE.COM &#183; SCORE 26</description>
+    <title>Neurobiological basis of human-pet relationship: fMRI identifies differences in response of mothers' brains when viewing images of their child and their dog, although common network of brain regions was involved in emotion, reward, affiliation, visual processing and social cognition for both cases</title>
+    <link>http://www.massgeneral.org/about/pressrelease.aspx?id=1747</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9sxl/neurobiological_basis_of_humanpet_relationship/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 8:37 AM EST &#183; MASSGENERAL.ORG &#183; SCORE 35</description>
     <category></category>
   </item>
 
   <item>
-    <title>Super Yeast Tolerates Heat and Alcohol - It could transform fermentation and biofuels. They exposed 3 yeast cultivations w/ numerous yeast strains to temps @ 40 C for extended periods & observed genetic changes. After 3 months & > 300 generations, yeast abruptly started to grow well at higher temps.</title>
-    <link>http://www.scientificamerican.com/article/super-yeast-tolerates-heat-and-alcohol/</link>
-    <guid>http://www.reddit.com/r/science/comments/2i7isb/super_yeast_tolerates_heat_and_alcohol_it_could/</guid>
-    <description>BY RIBBITRIBBITRABBIT &#183; POSTED 10/03/14 2:08 PM EST &#183; SCIENTIFICAMERICAN.COM &#183; SCORE 19</description>
+    <title>Study of mountain lion energetics shows the power of the pounce: High-tech collars enable scientists to record the energetics of mountain lion hunting behavior, showing why cats use "stalk and pounce" and how they overpower large prey</title>
+    <link>http://news.ucsc.edu/2014/10/puma-energetics.html</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9m93/study_of_mountain_lion_energetics_shows_the_power/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 6:19 AM EST &#183; NEWS.UCSC.EDU &#183; SCORE 35</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Second case of apparent HIV “cure” in a baby followed by reappearance of virus: The case report, published in The Lancet, is the second report of apparent viral remission followed by rebound in a baby given early ART treatment, after the case of the ‘Mississippi baby’ received widespread attention</title>
+    <link>http://www.alphagalileo.org/ViewItem.aspx?ItemId=145847&amp;CultureCode=en</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9579/second_case_of_apparent_hiv_cure_in_a_baby/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 12:47 AM EST &#183; ALPHAGALILEO.ORG &#183; SCORE 22</description>
     <category></category>
   </item>
 
@@ -206,7 +118,95 @@
     <title>Fast, cheap nanomanufacturing: Arrays of tiny conical tips that eject ionized materials could fabricate nanoscale devices cheaply</title>
     <link>http://www.eurekalert.org/pub_releases/2014-10/miot-fcn100314.php</link>
     <guid>http://www.reddit.com/r/science/comments/2i86qo/fast_cheap_nanomanufacturing_arrays_of_tiny/</guid>
-    <description>BY ACUSTICTHOUGHTS &#183; POSTED 10/03/14 5:54 PM EST &#183; EUREKALERT.ORG &#183; SCORE 20</description>
+    <description>BY ACUSTICTHOUGHTS &#183; POSTED 10/03/14 5:54 PM EST &#183; EUREKALERT.ORG &#183; SCORE 17</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Viral infection may trigger childhood diabetes in utero: Research says prenatal exposure to viruses may cause type 1 diabetes and other autoimmune diseases in children</title>
+    <link>http://www.aftau.org/weblog-medicine--health?=&amp;storyid4704=2112&amp;ncs4704=3</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9tst/viral_infection_may_trigger_childhood_diabetes_in/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 8:52 AM EST &#183; AFTAU.ORG &#183; SCORE 19</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Satellites detect 'thousands' of new ocean-bottom mountains</title>
+    <link>http://www.bbc.com/news/science-environment-29465446</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9yh3/satellites_detect_thousands_of_new_oceanbottom/</guid>
+    <description>BY VALAVRIS &#183; POSTED 10/04/14 10:05 AM EST &#183; BBC.COM &#183; SCORE 16</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Climate Change Could Alter Human Male-Female Ratio. The researchers found that male fetuses may be particularly vulnerable to the effects of climate change.</title>
+    <link>http://livescience.com/48070-male-fetus-climate-change.html</link>
+    <guid>http://www.reddit.com/r/science/comments/2i91kd/climate_change_could_alter_human_malefemale_ratio/</guid>
+    <description>BY PNEWELL &#183; POSTED 10/03/14 11:55 PM EST &#183; LIVESCIENCE.COM &#183; SCORE 18</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Supersensitive nanodevice for detection of cancers: Extremely early detection of cancers and other diseases is on horizon with a supersensitive nanodevice being developed; the device is ready for packaging into a lunchbox-size unit that ultimately may use a cellphone app to provide test results</title>
+    <link>http://www.uah.edu/news/research/supersensitive-nanodevice-can-detect-extremely-early-cancers</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9jzx/supersensitive_nanodevice_for_detection_of/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 5:29 AM EST &#183; UAH.EDU &#183; SCORE 11</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Exercise therapy reduces pain from osteoarthritis in study of 225 patients</title>
+    <link>http://www.aerzteblatt.de/pdf.asp?id=161393</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9asd/exercise_therapy_reduces_pain_from_osteoarthritis/</guid>
+    <description>BY WILGAMESH &#183; POSTED 10/04/14 2:17 AM EST &#183; AERZTEBLATT.DE &#183; SCORE 12</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Engineers use 3-D gaming gear to give eye-opening look at cells in action: Researchers are developing software and hardware that will enable better tracking and studying the movement and multiplication of cells, making it easier to identify changes in cells over time</title>
+    <link>http://drexel.edu/now/archive/2014/October/LEVER-3D/</link>
+    <guid>http://www.reddit.com/r/science/comments/2ia024/engineers_use_3d_gaming_gear_to_give_eyeopening/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 10:29 AM EST &#183; DREXEL.EDU &#183; SCORE 10</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Curiosity Prepares the Brain for Better Learning - States of Curiosity Modulate Hippocampus-Dependent Learning via the Dopaminergic Circuit</title>
+    <link>http://www.cell.com/neuron/abstract/S0896-6273(14)00804-6</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9alu/curiosity_prepares_the_brain_for_better_learning/</guid>
+    <description>BY NASTRATIN &#183; POSTED 10/04/14 2:14 AM EST &#183; CELL.COM &#183; SCORE 9</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Crises in childhood may create great leader</title>
+    <link>http://researchdaily.org/crises-in-childhood-may-create-great-leaders/</link>
+    <guid>http://www.reddit.com/r/science/comments/2i97w1/crises_in_childhood_may_create_great_leader/</guid>
+    <description>BY RESEARCHDAILY &#183; POSTED 10/04/14 1:28 AM EST &#183; RESEARCHDAILY.ORG &#183; SCORE 14</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Survival of the fittest spider group - Nature paper provides first-ever field evidence of controversial ‘group selection’: The individual spiders are only the size of a pencil eraser, but they form organized groups that can catch prey ranging from fruit flies to small vertebrates</title>
+    <link>http://www.uvm.edu/~uvmpr/?Page=news&amp;storyID=19294</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9j4h/survival_of_the_fittest_spider_group_nature_paper/</guid>
+    <description>BY MUBUKUGRAPPA &#183; POSTED 10/04/14 5:08 AM EST &#183; UVM.EDU &#183; SCORE 8</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Severe memory impairment in Alzheimer's causes declarative memory loss of a watched film clip within 30 minutes but emotions of the clip are retained for longer</title>
+    <link>http://journals.lww.com/cogbehavneurol/pages/articleviewer.aspx?year=2014&amp;issue=09000&amp;article=00001&amp;type=abstract</link>
+    <guid>http://www.reddit.com/r/science/comments/2i9af2/severe_memory_impairment_in_alzheimers_causes/</guid>
+    <description>BY WILGAMESH &#183; POSTED 10/04/14 2:11 AM EST &#183; JOURNALS.LWW.COM &#183; SCORE 7</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Incredible ‘cloud waves’ could be first new cloud type in 60 years</title>
+    <link>http://www.geek.com/news/incredible-cloud-waves-could-be-first-new-cloud-type-in-60-years-1606015/</link>
+    <guid>http://www.reddit.com/r/science/comments/2iagwz/incredible_cloud_waves_could_be_first_new_cloud/</guid>
+    <description>BY LIEUTENANTSLOTH &#183; POSTED 10/04/14 1:39 PM EST &#183; GEEK.COM &#183; SCORE 6</description>
     <category></category>
   </item>
 

@@ -6,31 +6,15 @@
   <description>News stories related to technology</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Sat, 04 Oct 2014 14:00:49 -0000</pubDate>
+  <pubDate>Sat, 04 Oct 2014 22:00:48 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/technology.xml" rel="self" type="application/rss+xml" />
 
   <item>
-    <title>Librarians won’t stay quiet about government surveillance "When you return a book, the record is destroyed so that when the government comes we can say that we legitimately only know what you have out at the time." Emily Sheketoff, head of the American Library Association Washington office said</title>
-    <link>http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/03/librarians-wont-stay-quiet-about-government-surveillance/?tid=rssfeed</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i6ymg/librarians_wont_stay_quiet_about_government/</guid>
-    <description>BY LIBERTATEA &#183; POSTED 10/03/14 11:04 AM EST &#183; WASHINGTONPOST.COM &#183; SCORE 4952</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Marriott Hotels fined $600,000 by FCC for jamming Wi-Fi hotspots [pdf] (xpost from HN)</title>
-    <link>http://transition.fcc.gov/Daily_Releases/Daily_Business/2014/db1003/DA-14-1444A1.pdf</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i750w/marriott_hotels_fined_600000_by_fcc_for_jamming/</guid>
-    <description>BY OMG_NYC_REALLY &#183; POSTED 10/03/14 12:04 PM EST &#183; TRANSITION.FCC.GOV &#183; SCORE 2998</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>My city (Buffalo, NY) is in the beginning stages of bringing municipal broadband to the community, just like Chattanooga, Bristol, and Lafayette. We hope to send a clear message to the likes of Comcast and, in our area, Time Warner. Buffalonians are encourage to join in.</title>
-    <link>http://freetheweb.us/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7mu3/my_city_buffalo_ny_is_in_the_beginning_stages_of/</guid>
-    <description>BY WILLIAMHENRYHARRISON &#183; POSTED 10/03/14 2:46 PM EST &#183; FREETHEWEB.US &#183; SCORE 1680</description>
+    <title>Former Google employees develop search engine for pornography | The search engine was also designed to guard the user's anonymity.</title>
+    <link>http://economictimes.com/lifestyle/former-google-employees-develop-search-engine-for-pornography/articleshow/43224656.cms?intenttarget=no</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i9mno/former_google_employees_develop_search_engine_for/</guid>
+    <description>BY IONISED &#183; POSTED 10/04/14 6:28 AM EST &#183; ECONOMICTIMES.COM &#183; SCORE 3730</description>
     <category></category>
   </item>
 
@@ -38,47 +22,23 @@
     <title>Chase Bank Hacked, Info Stolen for 83 Million Accounts. The breach is being called the worst known compromise in history.</title>
     <link>http://lifehacker.com/chase-bank-hacked-info-stolen-for-83-million-accounts-1642063956</link>
     <guid>http://www.reddit.com/r/technology/comments/2i8eof/chase_bank_hacked_info_stolen_for_83_million/</guid>
-    <description>BY EL_SPANIARD &#183; POSTED 10/03/14 7:19 PM EST &#183; LIFEHACKER.COM &#183; SCORE 933</description>
+    <description>BY EL_SPANIARD &#183; POSTED 10/03/14 7:19 PM EST &#183; LIFEHACKER.COM &#183; SCORE 1182</description>
     <category></category>
   </item>
 
   <item>
-    <title>ComputerCOP: internet safety software distributed by police turns out to be spyware</title>
-    <link>http://www.geek.com/news/computercop-internet-safety-software-distributed-by-police-turns-out-to-be-spyware-1605842/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i6pjy/computercop_internet_safety_software_distributed/</guid>
-    <description>BY DOCFEIND &#183; POSTED 10/03/14 9:29 AM EST &#183; GEEK.COM &#183; SCORE 181</description>
+    <title>Couple Sues Comcast After Xfinity Security System Fails: the company's home security platform failed to detect intruders who broke into their home and attempted to sever the arms and legs of their son for fun (seriously)</title>
+    <link>http://www.dslreports.com/shownews/Couple-Sues-Comcast-After-Xfinity-Security-System-Fails-130718</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i9wfk/couple_sues_comcast_after_xfinity_security_system/</guid>
+    <description>BY MAXWELLHILL &#183; POSTED 10/04/14 9:35 AM EST &#183; DSLREPORTS.COM &#183; SCORE 219</description>
     <category></category>
   </item>
 
   <item>
-    <title>Former Google employees develop search engine for pornography | The search engine was also designed to guard the user's anonymity.</title>
-    <link>http://economictimes.com/lifestyle/former-google-employees-develop-search-engine-for-pornography/articleshow/43224656.cms?intenttarget=no</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i9mno/former_google_employees_develop_search_engine_for/</guid>
-    <description>BY IONISED &#183; POSTED 10/04/14 6:28 AM EST &#183; ECONOMICTIMES.COM &#183; SCORE 1451</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>ISPs “secretly furious” at Verizon, scared of stronger net neutrality rules: Verizon's lawsuit against the FCC might backfire for whole industry</title>
-    <link>http://arstechnica.com/tech-policy/2014/10/isps-secretly-furious-at-verizon-scared-of-stronger-net-neutrality-rules/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i6zat/isps_secretly_furious_at_verizon_scared_of/</guid>
-    <description>BY BROCKET66 &#183; POSTED 10/03/14 11:10 AM EST &#183; ARSTECHNICA.COM &#183; SCORE 166</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>FCC fines Marriott $600,000 over Wi-Fi interference</title>
-    <link>http://cir.ca/s/7KFB</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i79k7/fcc_fines_marriott_600000_over_wifi_interference/</guid>
-    <description>BY THEROCKKNIGHT1 &#183; POSTED 10/03/14 12:45 PM EST &#183; CIR.CA &#183; SCORE 157</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Marriott must pay $600,000 for blocking personal Wi-Fi hotspots</title>
-    <link>http://www.networkworld.com/article/2691674/marriott-must-pay-600000-for-blocking-personal-wifi-hotspots.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7ik2/marriott_must_pay_600000_for_blocking_personal/</guid>
-    <description>BY SWELLBOY &#183; POSTED 10/03/14 2:06 PM EST &#183; NETWORKWORLD.COM &#183; SCORE 66</description>
+    <title>As Many As 5K .Com’s Taken Away By Sealed Court Order By Verisign Including Some Of Mine</title>
+    <link>http://www.thedomains.com/2014/10/02/as-many-as-5k-coms-taken-away-by-sealed-court-order-by-verisign-including-some-of-mine/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i9y9f/as_many_as_5k_coms_taken_away_by_sealed_court/</guid>
+    <description>BY WONKADONK &#183; POSTED 10/04/14 10:02 AM EST &#183; THEDOMAINS.COM &#183; SCORE 86</description>
     <category></category>
   </item>
 
@@ -86,39 +46,7 @@
     <title>Google X to eliminate screen bezels with Lego-like connectible displays</title>
     <link>http://www.techspot.com/news/58302-google-x-to-eliminate-screen-bezels-with-lego-like-connectible-displays.html</link>
     <guid>http://www.reddit.com/r/technology/comments/2i8mid/google_x_to_eliminate_screen_bezels_with_legolike/</guid>
-    <description>BY FUZZYDUNLOTS &#183; POSTED 10/03/14 8:48 PM EST &#183; TECHSPOT.COM &#183; SCORE 67</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>With over $160B in cash reserves, can't Apple afford to hire better developers and beta testers?</title>
-    <link>http://business.financialpost.com/2014/10/03/ios-8-features-complaints/?__lsa=8303-3351</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7ktk/with_over_160b_in_cash_reserves_cant_apple_afford/</guid>
-    <description>BY KHMERBEAR &#183; POSTED 10/03/14 2:27 PM EST &#183; BUSINESS.FINANCIALPOST.COM &#183; SCORE 58</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Dear Reddit Employees: No Desire to Move? Let’s Talk</title>
-    <link>https://www.odesk.com/blog/2014/10/dear-reddit-employees-desire-move-lets-talk/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7i3d/dear_reddit_employees_no_desire_to_move_lets_talk/</guid>
-    <description>BY LHARDING &#183; POSTED 10/03/14 2:02 PM EST &#183; ODESK.COM &#183; SCORE 51</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Twitch, Steam now require disclosure of sponsored content from users - New policies require paid support to be explicitly stated in text and graphics.</title>
-    <link>http://arstechnica.com/gaming/2014/10/twitch-steam-now-require-disclosure-of-sponsored-content-from-users/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7xo8/twitch_steam_now_require_disclosure_of_sponsored/</guid>
-    <description>BY 1CH &#183; POSTED 10/03/14 4:27 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 52</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Facebook Won’t Stop Experimenting on You. It’s Just Too Lucrative</title>
-    <link>http://www.wired.com/2014/10/facebook-wont-stop-experimenting-just-lucrative/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7bf2/facebook_wont_stop_experimenting_on_you_its_just/</guid>
-    <description>BY CRYPTOZ &#183; POSTED 10/03/14 1:02 PM EST &#183; WIRED.COM &#183; SCORE 44</description>
+    <description>BY FUZZYDUNLOTS &#183; POSTED 10/03/14 8:48 PM EST &#183; TECHSPOT.COM &#183; SCORE 75</description>
     <category></category>
   </item>
 
@@ -126,23 +54,7 @@
     <title>FCC extends comment period for Comcast–TWC merger because Comcast filed a really long document - A "voluminous," nearly 850-page read</title>
     <link>http://www.theverge.com/2014/10/3/6904805/comcast-twc-merger-comment-period-extended-by-fcc</link>
     <guid>http://www.reddit.com/r/technology/comments/2i8ty4/fcc_extends_comment_period_for_comcasttwc_merger/</guid>
-    <description>BY HABICHUELACONDULCE &#183; POSTED 10/03/14 10:18 PM EST &#183; THEVERGE.COM &#183; SCORE 53</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Facebook has sued spammers for nearly $2 billion</title>
-    <link>http://www.theverge.com/2014/10/3/6901293/facebook-has-sued-spammers-for-nearly-2-billion</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7jd2/facebook_has_sued_spammers_for_nearly_2_billion/</guid>
-    <description>BY RAHULDULTA &#183; POSTED 10/03/14 2:13 PM EST &#183; THEVERGE.COM &#183; SCORE 42</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>FCC Site under heavy load slow due to anti Net Neutrality activism</title>
-    <link>http://www.reddit.com/r/technology/comments/2i7l39/fcc_site_under_heavy_load_slow_due_to_anti_net/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7l39/fcc_site_under_heavy_load_slow_due_to_anti_net/</guid>
-    <description>BY STARTER_NAME &#183; POSTED 10/03/14 2:29 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 37</description>
+    <description>BY HABICHUELACONDULCE &#183; POSTED 10/03/14 10:18 PM EST &#183; THEVERGE.COM &#183; SCORE 69</description>
     <category></category>
   </item>
 
@@ -150,39 +62,7 @@
     <title>It's not over yet. Two MORE Undisclosed Shellshock Vulnerabilities in Bash</title>
     <link>http://threatpost.com/researcher-takes-wraps-off-two-undisclosed-shellshock-vulnerabilities-in-bash/108674</link>
     <guid>http://www.reddit.com/r/technology/comments/2i8izp/its_not_over_yet_two_more_undisclosed_shellshock/</guid>
-    <description>BY PIRATES-RUNNING-AMOK &#183; POSTED 10/03/14 8:07 PM EST &#183; THREATPOST.COM &#183; SCORE 45</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Tom McClintock, U.S. Representative for California, responds to net neutrality email.</title>
-    <link>http://www.reddit.com/r/technology/comments/2i7z8b/tom_mcclintock_us_representative_for_california/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7z8b/tom_mcclintock_us_representative_for_california/</guid>
-    <description>BY KUYOTE &#183; POSTED 10/03/14 4:41 PM EST &#183; SELF.TECHNOLOGY &#183; SCORE 31</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Turning the tables on Comcast</title>
-    <link>http://www.freep.com/story/opinion/columnists/brian-dickerson/2014/10/03/comcast-michigan-detroit-charter-communications/16644677/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7lkz/turning_the_tables_on_comcast/</guid>
-    <description>BY HFCABRAL &#183; POSTED 10/03/14 2:34 PM EST &#183; FREEP.COM &#183; SCORE 28</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Bill Gates: Apple Pay is "fantastic" and a "real contribution"</title>
-    <link>http://www.tuaw.com/2014/10/03/bill-gates-apple-pay-is-fantastic-and-a-real-contribution/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7f37/bill_gates_apple_pay_is_fantastic_and_a_real/</guid>
-    <description>BY TRECHT &#183; POSTED 10/03/14 1:35 PM EST &#183; TUAW.COM &#183; SCORE 25</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Is this true? "Hackers Have Found A Flaw In Macs And Are Using It To Control 17,000 Apple Computers ... Via Reddit"</title>
-    <link>http://finance.yahoo.com/news/hackers-found-flaw-macs-using-121808264.html</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i6ofu/is_this_true_hackers_have_found_a_flaw_in_macs/</guid>
-    <description>BY SPICEDPUMPKINS &#183; POSTED 10/03/14 9:16 AM EST &#183; FINANCE.YAHOO.COM &#183; SCORE 27</description>
+    <description>BY PIRATES-RUNNING-AMOK &#183; POSTED 10/03/14 8:07 PM EST &#183; THREATPOST.COM &#183; SCORE 47</description>
     <category></category>
   </item>
 
@@ -190,23 +70,143 @@
     <title>Harvard researchers have made photons of like behave like Solid Matter Paving the way for Quantum computing... and Lightsabers.</title>
     <link>http://www.huffingtonpost.ca/2013/09/26/light-solid-lightsabers-nature_n_3996982.html</link>
     <guid>http://www.reddit.com/r/technology/comments/2i9ccu/harvard_researchers_have_made_photons_of_like/</guid>
-    <description>BY ADMIRALANTILLES &#183; POSTED 10/04/14 2:44 AM EST &#183; HUFFINGTONPOST.CA &#183; SCORE 27</description>
+    <description>BY ADMIRALANTILLES &#183; POSTED 10/04/14 2:44 AM EST &#183; HUFFINGTONPOST.CA &#183; SCORE 40</description>
     <category></category>
   </item>
 
   <item>
-    <title>Mariott is fined $600k for blocking third-party Wi-Fi</title>
-    <link>http://www.businessweek.com/news/2014-10-03/marriott-fined-600-000-for-blocking-its-customers-wi-fi</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7bbt/mariott_is_fined_600k_for_blocking_thirdparty_wifi/</guid>
-    <description>BY WONDERFULQUEST &#183; POSTED 10/03/14 1:01 PM EST &#183; BUSINESSWEEK.COM &#183; SCORE 24</description>
+    <title>JPMorgan cyberattack could have been much worse:Nine other financial institutions were also infiltrated by the same group of overseas hackers. The hackers are thought to be operating from Russia and appear to have at least loose connections with officials of the Russian government</title>
+    <link>http://dealbook.nytimes.com/2014/10/03/hackers-attack-cracked-10-banks-in-major-assault/?smid=re-share</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i9zt5/jpmorgan_cyberattack_could_have_been_much/</guid>
+    <description>BY DTM106 &#183; POSTED 10/04/14 10:26 AM EST &#183; DEALBOOK.NYTIMES.COM &#183; SCORE 40</description>
     <category></category>
   </item>
 
   <item>
-    <title>Marriot Was Jamming Your HotSpot</title>
-    <link>https://gigaom.com/2014/10/03/fcc-marriott-used-wi-fi-jammers-to-block-customers-personal-hotspots/</link>
-    <guid>http://www.reddit.com/r/technology/comments/2i7i97/marriot_was_jamming_your_hotspot/</guid>
-    <description>BY SFIGGS &#183; POSTED 10/03/14 2:04 PM EST &#183; GIGAOM.COM &#183; SCORE 24</description>
+    <title>Marriott Illegally Blocked People's Internet Access And Charged Them Up To $1,000 Instead</title>
+    <link>http://www.huffingtonpost.com/2014/10/03/marriott-wifi-blocking-fcc-charge_n_5928678.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2ia2bz/marriott_illegally_blocked_peoples_internet/</guid>
+    <description>BY RIT56 &#183; POSTED 10/04/14 10:57 AM EST &#183; HUFFINGTONPOST.COM &#183; SCORE 41</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>A Swedish woman has become the world's first to give birth after having a womb transplant, opening up the possibility for thousands of infertile women to have babies.</title>
+    <link>http://uk.reuters.com/article/idUKKCN0HT0GC20141004?irpc=932</link>
+    <guid>http://www.reddit.com/r/technology/comments/2iac61/a_swedish_woman_has_become_the_worlds_first_to/</guid>
+    <description>BY IONISED &#183; POSTED 10/04/14 12:48 PM EST &#183; UK.REUTERS.COM &#183; SCORE 34</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Schneier: The NSA is building a private cloud with its own security features</title>
+    <link>https://www.schneier.com/blog/archives/2014/10/the_nsas_privat.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i9u7k/schneier_the_nsa_is_building_a_private_cloud_with/</guid>
+    <description>BY MAXWELLHILL &#183; POSTED 10/04/14 8:59 AM EST &#183; SCHNEIER.COM &#183; SCORE 26</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Man Shoots Down Drone, Lawyers Scratch Their Heads</title>
+    <link>http://www.popsci.com/article/technology/man-shoots-down-drone-lawyers-scratch-their-heads</link>
+    <guid>http://www.reddit.com/r/technology/comments/2ialu2/man_shoots_down_drone_lawyers_scratch_their_heads/</guid>
+    <description>BY EYEFISH4FUN &#183; POSTED 10/04/14 2:29 PM EST &#183; POPSCI.COM &#183; SCORE 33</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>The “he said, she said” of how the FBI found Silk Road’s servers</title>
+    <link>http://arstechnica.com/tech-policy/2014/10/the-he-said-she-said-of-how-the-fbi-found-silk-roads-servers/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i82jn/the_he_said_she_said_of_how_the_fbi_found_silk/</guid>
+    <description>BY SURAJ-SUN &#183; POSTED 10/03/14 5:12 PM EST &#183; ARSTECHNICA.COM &#183; SCORE 17</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Citigroup: Home Battery Storage + Solar Nearly At Socket Parity In Several Countries</title>
+    <link>http://sustainnovate.ae/en/industry-news/detail/citigroup-home-battery-storage-solar-nearly-at-socket-parity-in-several-cou</link>
+    <guid>http://www.reddit.com/r/technology/comments/2ia75t/citigroup_home_battery_storage_solar_nearly_at/</guid>
+    <description>BY REDDIT-TIME &#183; POSTED 10/04/14 11:52 AM EST &#183; SUSTAINNOVATE.AE &#183; SCORE 18</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>FCC fines Marriott $600,000 for jamming hotel Wi-Fi</title>
+    <link>http://boingboing.net/2014/10/03/fcc-fines-marriott-for-jamming.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i8a67/fcc_fines_marriott_600000_for_jamming_hotel_wifi/</guid>
+    <description>BY GUDER &#183; POSTED 10/03/14 6:30 PM EST &#183; BOINGBOING.NET &#183; SCORE 14</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Aboard a Cargo Colossus: The biggest container ships in the world</title>
+    <link>http://www.nytimes.com/2014/10/05/business/international/aboard-a-cargo-colossus-maersks-new-container-ships.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i8e1t/aboard_a_cargo_colossus_the_biggest_container/</guid>
+    <description>BY ELECTRONICS-ENGINEER &#183; POSTED 10/03/14 7:12 PM EST &#183; NYTIMES.COM &#183; SCORE 11</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>This is what happens when 911 fails</title>
+    <link>http://www.theverge.com/2014/10/3/6414949/911-call-failures-fcc</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i8mt6/this_is_what_happens_when_911_fails/</guid>
+    <description>BY PORKCHOP_D_CLOWN &#183; POSTED 10/03/14 8:51 PM EST &#183; THEVERGE.COM &#183; SCORE 11</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Charter Removes References to Usage Caps in Updated TOS</title>
+    <link>http://www.dslreports.com/shownews/Charter-Removes-References-to-Usage-Caps-in-Updated-TOS-130730</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i88vb/charter_removes_references_to_usage_caps_in/</guid>
+    <description>BY SCREAMING_LIBRARIAN &#183; POSTED 10/03/14 6:17 PM EST &#183; DSLREPORTS.COM &#183; SCORE 11</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Windows 10 Preview Allegedly Acting as a “Keylogger,” Keeping Track of Every Click</title>
+    <link>http://news.softpedia.com/news/Windows-10-Preview-Allegedly-Acting-as-a-Keylogger-Keeping-Track-of-Every-Click-461018.shtml</link>
+    <guid>http://www.reddit.com/r/technology/comments/2iap17/windows_10_preview_allegedly_acting_as_a/</guid>
+    <description>BY TOPREDDITGEEK &#183; POSTED 10/04/14 3:02 PM EST &#183; NEWS.SOFTPEDIA.COM &#183; SCORE 11</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Microsoft earned $1 billion from Samsung Android patent licensing last year</title>
+    <link>http://www.theverge.com/2014/10/4/6906789/microsoft-samsung-android-1-billion-royalties</link>
+    <guid>http://www.reddit.com/r/technology/comments/2ia032/microsoft_earned_1_billion_from_samsung_android/</guid>
+    <description>BY TORQUEMADA1970 &#183; POSTED 10/04/14 10:29 AM EST &#183; THEVERGE.COM &#183; SCORE 12</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Open source 3D printed baby robots are here!</title>
+    <link>http://www.techswarm.com/2014/10/open-source-3d-printed-baby-robot-to.html</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i9ugp/open_source_3d_printed_baby_robots_are_here/</guid>
+    <description>BY AESAMATTKI &#183; POSTED 10/04/14 9:03 AM EST &#183; TECHSWARM.COM &#183; SCORE 11</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Recycled Li-ion batteries made with alfalfa seeds and pine resin</title>
+    <link>http://www.gizmag.com/recycled-battery-alfalfa-seeds-pine-resin/34031/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i91au/recycled_liion_batteries_made_with_alfalfa_seeds/</guid>
+    <description>BY LIFESTYLED &#183; POSTED 10/03/14 11:52 PM EST &#183; GIZMAG.COM &#183; SCORE 8</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Trouble in Paradise - AMD Doing Another Round of Reorganization</title>
+    <link>http://www.brightsideofnews.com/2014/10/03/amd-enter-another-round-restructuring/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i8eex/trouble_in_paradise_amd_doing_another_round_of/</guid>
+    <description>BY NEEDSADJUSTIN &#183; POSTED 10/03/14 7:16 PM EST &#183; BRIGHTSIDEOFNEWS.COM &#183; SCORE 7</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Fast Car: Working Carbon Fiber Car 3D Printed in 44 Hours</title>
+    <link>http://gajitz.com/fast-car-working-carbon-fiber-car-3d-printed-in-44-hours/</link>
+    <guid>http://www.reddit.com/r/technology/comments/2i88n0/fast_car_working_carbon_fiber_car_3d_printed_in/</guid>
+    <description>BY MISNAMED &#183; POSTED 10/03/14 6:14 PM EST &#183; GAJITZ.COM &#183; SCORE 9</description>
     <category></category>
   </item>
 

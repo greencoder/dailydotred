@@ -1,24 +1,24 @@
 {
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
-    "generated-utc": 1412431237, 
+    "generated-utc": 1412460037, 
     "posts": [
         {
-            "permalink": "http://www.reddit.com/r/weather/comments/2i7iw1/when_god_frames_the_earth_hope_its_not_a_repost/", 
-            "domain": "1.bp.blogspot.com", 
-            "score": 87, 
+            "permalink": "http://www.reddit.com/r/weather/comments/2ia4jh/england_does_get_storms_some_times_just_not/", 
+            "domain": "imgur.com", 
+            "score": 45, 
             "nsfw": false, 
-            "author": "gerroff", 
-            "url": "http://1.bp.blogspot.com/-9m6N76thjyA/TncPQ564PcI/AAAAAAAApgM/nvfK46SvLt8/s1600/35.jpg", 
-            "title": "When God frames the Earth. (Hope it's not a repost but I've never seen it before)", 
-            "id": "2i7iw1", 
-            "created-utc": 1412359786.0, 
-            "num-comments": 6
+            "author": "benjaminweir97", 
+            "url": "http://imgur.com/a/HL4Eg", 
+            "title": "England does get storms some times, just not normally as crazy as your American storms. Nevertheless I'm still chuffed with my photos. What do you guys think?", 
+            "id": "2ia4jh", 
+            "created-utc": 1412436229.0, 
+            "num-comments": 8
         }, 
         {
             "permalink": "http://www.reddit.com/r/weather/comments/2i85s0/drone_video_of_rice_field_after_an_ef0_tornado/", 
             "domain": "youtu.be", 
-            "score": 10, 
+            "score": 11, 
             "nsfw": false, 
             "author": "WeatherBoy89", 
             "url": "http://youtu.be/z9Q6ABtq1WE", 
@@ -28,20 +28,20 @@
             "num-comments": 2
         }, 
         {
-            "permalink": "http://www.reddit.com/r/weather/comments/2i6vdr/lots_of_fighting_over_whether_a_27kft_skyscraper/", 
-            "domain": "self.weather", 
-            "score": 6, 
+            "permalink": "http://www.reddit.com/r/weather/comments/2i9y82/las_fall_heat_wave_no_one_will_be_spared_as/", 
+            "domain": "latimes.com", 
+            "score": 2, 
             "nsfw": false, 
-            "author": "DrossGnostic", 
-            "url": "http://www.reddit.com/r/weather/comments/2i6vdr/lots_of_fighting_over_whether_a_27kft_skyscraper/", 
-            "title": "Lots of fighting over whether a 2.7kft skyscraper can smoothly cut stratus [cloud watchers assemble!]", 
-            "id": "2i6vdr", 
-            "created-utc": 1412346688.0, 
-            "num-comments": 9
+            "author": "zsreport", 
+            "url": "http://www.latimes.com/local/lanow/la-me-ln-heat-wave-southland-temperatures-20141003-story.html", 
+            "title": "L.A.'s fall heat wave: No one will be spared as temperatures soar", 
+            "id": "2i9y82", 
+            "created-utc": 1412431317.0, 
+            "num-comments": 1
         }
     ], 
     "subreddit": "/r/weather/", 
-    "expires-utc": 1412460000, 
+    "expires-utc": 1412517600, 
     "reddit-url": "http://www.reddit.com/r/weather/", 
     "api-url": "http://daily.red/weather.json", 
     "display-name": "Weather", 

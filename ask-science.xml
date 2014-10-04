@@ -6,23 +6,23 @@
   <description>Ask a science question, get a science answer</description>
   <category></category>
   <language>en-us</language>
-  <pubDate>Sat, 04 Oct 2014 14:01:09 -0000</pubDate>
+  <pubDate>Sat, 04 Oct 2014 22:01:08 -0000</pubDate>
   <ttl>240</ttl>
   <atom:link href="http://www.daily.red/ask-science.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>If a pipeline is developed to pump sea water into the desert, would that create a natural precipitation system and irrigate the surrounding land?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i6pzq/if_a_pipeline_is_developed_to_pump_sea_water_into/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i6pzq/if_a_pipeline_is_developed_to_pump_sea_water_into/</guid>
-    <description>BY RENEGEDEGG &#183; POSTED 10/03/14 9:34 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 3063</description>
-    <category></category>
-  </item>
 
   <item>
     <title>Does the Placebo Effect Work in Reverse?</title>
     <link>http://www.reddit.com/r/askscience/comments/2i9143/does_the_placebo_effect_work_in_reverse/</link>
     <guid>http://www.reddit.com/r/askscience/comments/2i9143/does_the_placebo_effect_work_in_reverse/</guid>
-    <description>BY ALPHAVOLK &#183; POSTED 10/03/14 11:49 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 366</description>
+    <description>BY ALPHAVOLK &#183; POSTED 10/03/14 11:49 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 1306</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Why is it better to stay awake after being heavily damaged (for instance after a crash)?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i9n3t/why_is_it_better_to_stay_awake_after_being/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i9n3t/why_is_it_better_to_stay_awake_after_being/</guid>
+    <description>BY NAHALITET &#183; POSTED 10/04/14 6:39 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 827</description>
     <category></category>
   </item>
 
@@ -30,15 +30,7 @@
     <title>Has there ever existed or does there now an animal which is suicidal other than humans?</title>
     <link>http://www.reddit.com/r/askscience/comments/2i91g1/has_there_ever_existed_or_does_there_now_an/</link>
     <guid>http://www.reddit.com/r/askscience/comments/2i91g1/has_there_ever_existed_or_does_there_now_an/</guid>
-    <description>BY PUNKRM &#183; POSTED 10/03/14 11:54 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 129</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>If I had a single atom of gold, how would I be able to tell if it's in liquid / solid / gas state? Would I even be able to do it?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i89zi/if_i_had_a_single_atom_of_gold_how_would_i_be/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i89zi/if_i_had_a_single_atom_of_gold_how_would_i_be/</guid>
-    <description>BY CELO753 &#183; POSTED 10/03/14 6:28 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 45</description>
+    <description>BY PUNKRM &#183; POSTED 10/03/14 11:54 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 303</description>
     <category></category>
   </item>
 
@@ -46,15 +38,39 @@
     <title>What proof do we have that dark energy + dark matter make up 95% of the universe?</title>
     <link>http://www.reddit.com/r/askscience/comments/2i96tb/what_proof_do_we_have_that_dark_energy_dark/</link>
     <guid>http://www.reddit.com/r/askscience/comments/2i96tb/what_proof_do_we_have_that_dark_energy_dark/</guid>
-    <description>BY QUIRKSCREW &#183; POSTED 10/04/14 1:11 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 47</description>
+    <description>BY QUIRKSCREW &#183; POSTED 10/04/14 1:11 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 99</description>
     <category></category>
   </item>
 
   <item>
-    <title>If ebola is spread through the transfer of bodily fluids wouldn't something like a cough or sneeze be capable of spreading it?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i73bu/if_ebola_is_spread_through_the_transfer_of_bodily/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i73bu/if_ebola_is_spread_through_the_transfer_of_bodily/</guid>
-    <description>BY SBLACKISBACK &#183; POSTED 10/03/14 11:48 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 31</description>
+    <title>When someone gets a transplant, if you wait long enough, do all the organ's donor cells get replaced by the recipients cells?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i9okm/when_someone_gets_a_transplant_if_you_wait_long/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i9okm/when_someone_gets_a_transplant_if_you_wait_long/</guid>
+    <description>BY MATHEMAGICIAN117 &#183; POSTED 10/04/14 7:11 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 57</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>If I had a single atom of gold, how would I be able to tell if it's in liquid / solid / gas state? Would I even be able to do it?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i89zi/if_i_had_a_single_atom_of_gold_how_would_i_be/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i89zi/if_i_had_a_single_atom_of_gold_how_would_i_be/</guid>
+    <description>BY CELO753 &#183; POSTED 10/03/14 6:28 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 54</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Is the range of tempos we typically see in music that we typically find enjoyable to listen to a means of gauging our brian's "processing speed"? Or something else, like heart-rate or brain activity (state of mind)?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i9fyd/is_the_range_of_tempos_we_typically_see_in_music/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i9fyd/is_the_range_of_tempos_we_typically_see_in_music/</guid>
+    <description>BY GOLDENGOATTER &#183; POSTED 10/04/14 3:56 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 37</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>I understand how evolution works but how did DNA or RNA form in the first place or what preceded it?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i9ff0/i_understand_how_evolution_works_but_how_did_dna/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i9ff0/i_understand_how_evolution_works_but_how_did_dna/</guid>
+    <description>BY GOOBIESNAX &#183; POSTED 10/04/14 3:44 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 30</description>
     <category></category>
   </item>
 
@@ -62,15 +78,15 @@
     <title>What causes the Casimir effect?</title>
     <link>http://www.reddit.com/r/askscience/comments/2i8itr/what_causes_the_casimir_effect/</link>
     <guid>http://www.reddit.com/r/askscience/comments/2i8itr/what_causes_the_casimir_effect/</guid>
-    <description>BY NSA_TRACKING_LOG &#183; POSTED 10/03/14 8:05 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 24</description>
+    <description>BY NSA_TRACKING_LOG &#183; POSTED 10/03/14 8:05 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 27</description>
     <category></category>
   </item>
 
   <item>
-    <title>Does the "randomness" of quantum mechanics translate to macroscopic events?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i7eza/does_the_randomness_of_quantum_mechanics/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i7eza/does_the_randomness_of_quantum_mechanics/</guid>
-    <description>BY ADAMCDAVIDSON &#183; POSTED 10/03/14 1:34 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 22</description>
+    <title>Do spider webs decay or degrade over time?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2iadl9/do_spider_webs_decay_or_degrade_over_time/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2iadl9/do_spider_webs_decay_or_degrade_over_time/</guid>
+    <description>BY T_AT &#183; POSTED 10/04/14 1:04 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 36</description>
     <category></category>
   </item>
 
@@ -83,74 +99,10 @@
   </item>
 
   <item>
-    <title>If human cells all contain the same genetic code and very only in the expression of genes, then why can researchers not take a dermal cell, change what genes it expresses, and "create" a different type of cell such as a stem cell?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i8ufc/if_human_cells_all_contain_the_same_genetic_code/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i8ufc/if_human_cells_all_contain_the_same_genetic_code/</guid>
-    <description>BY OLDSCHOOLRSER &#183; POSTED 10/03/14 10:23 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 15</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Does distance between home and the nearest hospital correlate significantly with any health benefits? Overall life expectancy, survival rates for acute injuries or heart attacks, etc.</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i7t69/does_distance_between_home_and_the_nearest/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i7t69/does_distance_between_home_and_the_nearest/</guid>
-    <description>BY REALITYANCHOR &#183; POSTED 10/03/14 3:44 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 18</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>What are the limiting factors in video/audio codec progression?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i7r2p/what_are_the_limiting_factors_in_videoaudio_codec/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i7r2p/what_are_the_limiting_factors_in_videoaudio_codec/</guid>
-    <description>BY JURYK &#183; POSTED 10/03/14 3:25 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 16</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Is there a logarithmic analog to the algebraic numbers?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i8jit/is_there_a_logarithmic_analog_to_the_algebraic/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i8jit/is_there_a_logarithmic_analog_to_the_algebraic/</guid>
-    <description>BY HUYVANBIN &#183; POSTED 10/03/14 8:14 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 17</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Why is it better to stay awake after being heavily damaged (for instance after a crash)?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i9n3t/why_is_it_better_to_stay_awake_after_being/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i9n3t/why_is_it_better_to_stay_awake_after_being/</guid>
-    <description>BY NAHALITET &#183; POSTED 10/04/14 6:39 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 31</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Why is it that I can stand on a balance ball and look everywhere and be steady, but when I close my eyes, I lose balance quickly?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i8ig1/why_is_it_that_i_can_stand_on_a_balance_ball_and/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i8ig1/why_is_it_that_i_can_stand_on_a_balance_ball_and/</guid>
-    <description>BY BONERAKSHASA &#183; POSTED 10/03/14 8:01 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 15</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>What causes the axial tilt of planets?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i87e5/what_causes_the_axial_tilt_of_planets/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i87e5/what_causes_the_axial_tilt_of_planets/</guid>
-    <description>BY BONAFIDECOMPUTERGEEK &#183; POSTED 10/03/14 6:01 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 11</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>Can someone explain a few things about Black Holes to me?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i7khi/can_someone_explain_a_few_things_about_black/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i7khi/can_someone_explain_a_few_things_about_black/</guid>
-    <description>BY X-YZ &#183; POSTED 10/03/14 2:24 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 12</description>
-    <category></category>
-  </item>
-
-  <item>
-    <title>What is the speed of gravity?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i7a2w/what_is_the_speed_of_gravity/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i7a2w/what_is_the_speed_of_gravity/</guid>
-    <description>BY HABBERT &#183; POSTED 10/03/14 12:49 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 8</description>
+    <title>If photons can only have energies equal to the difference between electron levels, how does blackbody radiation give off a continuous spectrum?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i9hop/if_photons_can_only_have_energies_equal_to_the/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i9hop/if_photons_can_only_have_energies_equal_to_the/</guid>
+    <description>BY INSERTACOOLNAME &#183; POSTED 10/04/14 4:36 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 19</description>
     <category></category>
   </item>
 
@@ -158,31 +110,55 @@
     <title>Is there a finite amount of matter and/or energy in the universe?</title>
     <link>http://www.reddit.com/r/askscience/comments/2i97xf/is_there_a_finite_amount_of_matter_andor_energy/</link>
     <guid>http://www.reddit.com/r/askscience/comments/2i97xf/is_there_a_finite_amount_of_matter_andor_energy/</guid>
-    <description>BY CHEFBATMAN &#183; POSTED 10/04/14 1:29 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 10</description>
+    <description>BY CHEFBATMAN &#183; POSTED 10/04/14 1:29 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 18</description>
     <category></category>
   </item>
 
   <item>
-    <title>I understand how evolution works but how did DNA or RNA form in the first place or what preceded it?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i9ff0/i_understand_how_evolution_works_but_how_did_dna/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i9ff0/i_understand_how_evolution_works_but_how_did_dna/</guid>
-    <description>BY GOOBIESNAX &#183; POSTED 10/04/14 3:44 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 10</description>
+    <title>Is there a logarithmic analog to the algebraic numbers?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i8jit/is_there_a_logarithmic_analog_to_the_algebraic/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i8jit/is_there_a_logarithmic_analog_to_the_algebraic/</guid>
+    <description>BY HUYVANBIN &#183; POSTED 10/03/14 8:14 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 19</description>
     <category></category>
   </item>
 
   <item>
-    <title>How deep is the sand layer in deserts?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i73a3/how_deep_is_the_sand_layer_in_deserts/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i73a3/how_deep_is_the_sand_layer_in_deserts/</guid>
-    <description>BY LOPPY94 &#183; POSTED 10/03/14 11:47 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 8</description>
+    <title>Why is it that I can stand on a balance ball and look everywhere and be steady, but when I close my eyes, I lose balance quickly?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i8ig1/why_is_it_that_i_can_stand_on_a_balance_ball_and/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i8ig1/why_is_it_that_i_can_stand_on_a_balance_ball_and/</guid>
+    <description>BY BONERAKSHASA &#183; POSTED 10/03/14 8:01 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 18</description>
     <category></category>
   </item>
 
   <item>
-    <title>Why does earth have a crust? In theory, could earth have formed with the mantle continuing to the surface?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i88fv/why_does_earth_have_a_crust_in_theory_could_earth/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i88fv/why_does_earth_have_a_crust_in_theory_could_earth/</guid>
-    <description>BY THEFOURTHCHIPMUNK &#183; POSTED 10/03/14 6:12 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 6</description>
+    <title>If human cells all contain the same genetic code and very only in the expression of genes, then why can researchers not take a dermal cell, change what genes it expresses, and "create" a different type of cell such as a stem cell?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i8ufc/if_human_cells_all_contain_the_same_genetic_code/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i8ufc/if_human_cells_all_contain_the_same_genetic_code/</guid>
+    <description>BY OLDSCHOOLRSER &#183; POSTED 10/03/14 10:23 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 16</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>What causes the axial tilt of planets?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i87e5/what_causes_the_axial_tilt_of_planets/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i87e5/what_causes_the_axial_tilt_of_planets/</guid>
+    <description>BY BONAFIDECOMPUTERGEEK &#183; POSTED 10/03/14 6:01 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 14</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>How do you study microbes that don't respond to lab cultures?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2iafqd/how_do_you_study_microbes_that_dont_respond_to/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2iafqd/how_do_you_study_microbes_that_dont_respond_to/</guid>
+    <description>BY SUPERCHEETAH &#183; POSTED 10/04/14 1:27 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 20</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Does ice reinforce something it has frozen over or does it make the object it has frozen easier to be broken?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i9cul/does_ice_reinforce_something_it_has_frozen_over/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i9cul/does_ice_reinforce_something_it_has_frozen_over/</guid>
+    <description>BY SMFH24 &#183; POSTED 10/04/14 2:53 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 12</description>
     <category></category>
   </item>
 
@@ -190,23 +166,47 @@
     <title>If an star was a perfect sphere, would planets, asteroids, and other satellites have different orbital planes?</title>
     <link>http://www.reddit.com/r/askscience/comments/2i99sp/if_an_star_was_a_perfect_sphere_would_planets/</link>
     <guid>http://www.reddit.com/r/askscience/comments/2i99sp/if_an_star_was_a_perfect_sphere_would_planets/</guid>
-    <description>BY IDENTITYS &#183; POSTED 10/04/14 2:00 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 7</description>
+    <description>BY IDENTITYS &#183; POSTED 10/04/14 2:00 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 11</description>
     <category></category>
   </item>
 
   <item>
-    <title>Loss of Antarctic Ice Causing Gravity Dips?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i7kyz/loss_of_antarctic_ice_causing_gravity_dips/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i7kyz/loss_of_antarctic_ice_causing_gravity_dips/</guid>
-    <description>BY CAIRA_2 &#183; POSTED 10/03/14 2:28 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 5</description>
+    <title>Is it currently possible to see colors outside of our spectrum?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2iaprh/is_it_currently_possible_to_see_colors_outside_of/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2iaprh/is_it_currently_possible_to_see_colors_outside_of/</guid>
+    <description>BY MOSARMINI &#183; POSTED 10/04/14 3:09 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 19</description>
     <category></category>
   </item>
 
   <item>
-    <title>Why can we not see the light from our galactic center?</title>
-    <link>http://www.reddit.com/r/askscience/comments/2i6uk9/why_can_we_not_see_the_light_from_our_galactic/</link>
-    <guid>http://www.reddit.com/r/askscience/comments/2i6uk9/why_can_we_not_see_the_light_from_our_galactic/</guid>
-    <description>BY BBDGRIPTONIA &#183; POSTED 10/03/14 10:23 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 5</description>
+    <title>Are gravity and the electrostatic force the only forces keeping an electron in orbit around a nucleus?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i9rxp/are_gravity_and_the_electrostatic_force_the_only/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i9rxp/are_gravity_and_the_electrostatic_force_the_only/</guid>
+    <description>BY FUCKLEBERRYHINN7 &#183; POSTED 10/04/14 8:20 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 7</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>What determines how close matter & antimatter have to get before annihilating? Doesn't the uncertainty principle mean they can never actually touch?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i86jd/what_determines_how_close_matter_antimatter_have/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i86jd/what_determines_how_close_matter_antimatter_have/</guid>
+    <description>BY GOOGOLPLEXBYTE &#183; POSTED 10/03/14 5:52 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 8</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>What effects does voltage have at the subatomic level?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i92f6/what_effects_does_voltage_have_at_the_subatomic/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i92f6/what_effects_does_voltage_have_at_the_subatomic/</guid>
+    <description>BY ELGRECOFL &#183; POSTED 10/04/14 12:06 AM EST &#183; SELF.ASKSCIENCE &#183; SCORE 6</description>
+    <category></category>
+  </item>
+
+  <item>
+    <title>Why does earth have a crust? In theory, could earth have formed with the mantle continuing to the surface?</title>
+    <link>http://www.reddit.com/r/askscience/comments/2i88fv/why_does_earth_have_a_crust_in_theory_could_earth/</link>
+    <guid>http://www.reddit.com/r/askscience/comments/2i88fv/why_does_earth_have_a_crust_in_theory_could_earth/</guid>
+    <description>BY THEFOURTHCHIPMUNK &#183; POSTED 10/03/14 6:12 PM EST &#183; SELF.ASKSCIENCE &#183; SCORE 7</description>
     <category></category>
   </item>
 

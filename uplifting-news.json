@@ -1,48 +1,24 @@
 {
     "description": "A place to read and share positive and uplifting, feel good news stories", 
     "title": "Uplifting News", 
-    "generated-utc": 1412431228, 
+    "generated-utc": 1412460027, 
     "posts": [
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i6uxp/my_greatgrandmother_is_turning_100_in_10_days_i/", 
-            "domain": "i.imgur.com", 
-            "score": 2512, 
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2ia1xc/how_an_exncaa_champ_hopes_to_rescue_her_child/", 
+            "domain": "espn.go.com", 
+            "score": 120, 
             "nsfw": false, 
-            "author": "bengarisson", 
-            "url": "http://i.imgur.com/TlorbHc.jpg?", 
-            "title": "My greatgrandmother is turning 100 in 10 days. I didn't know where to post this, but I think UpliftingNews would care!", 
-            "id": "2i6uxp", 
-            "created-utc": 1412346423.0, 
-            "num-comments": 260
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i7jxd/84_year_old_retired_math_teacher_has_spent_the/", 
-            "domain": "mapachili.com", 
-            "score": 39, 
-            "nsfw": false, 
-            "author": "teamdelicious", 
-            "url": "http://www.mapachili.com/?p=1723", 
-            "title": "84 year old retired math teacher has spent the past 50 years recording audiobooks to help the blind.", 
-            "id": "2i7jxd", 
-            "created-utc": 1412360344.0, 
-            "num-comments": 1
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i7l18/in_rare_alliance_shiites_join_sunnis_to_defend/", 
-            "domain": "reuters.com", 
-            "score": 35, 
-            "nsfw": false, 
-            "author": "Plowbeast", 
-            "url": "http://www.reuters.com/article/2014/10/03/us-mideast-crisis-iraq-dhuluiya-insight-idUSKCN0HS0RE20141003", 
-            "title": "In rare alliance, Shi'ites join Sunnis to defend Iraqi towns", 
-            "id": "2i7l18", 
-            "created-utc": 1412360956.0, 
-            "num-comments": 2
+            "author": "boby8", 
+            "url": "http://espn.go.com/espnw/athletes-life/article/11632800/how-former-ncaa-champ-trying-rescue-child-africa", 
+            "title": "How An Ex-NCAA Champ Hopes To Rescue Her Child From Africa by Running Marathons", 
+            "id": "2ia1xc", 
+            "created-utc": 1412434377.0, 
+            "num-comments": 15
         }, 
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8xr6/living_on_the_street_a_pastor_connects_with/", 
             "domain": "sacbee.com", 
-            "score": 8, 
+            "score": 16, 
             "nsfw": false, 
             "author": "electronics-engineer", 
             "url": "http://www.sacbee.com/2014/10/02/6756779/living-on-the-street-a-pastor.html", 
@@ -54,7 +30,7 @@
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8tla/cat_born_without_eyelids_gets_new_eyelids_and_new/", 
             "domain": "onegreenplanet.org", 
-            "score": 6, 
+            "score": 10, 
             "nsfw": false, 
             "author": "menmybabies", 
             "url": "http://www.onegreenplanet.org/news/cat-born-without-eyelids-gets-new-eyelids-and-new-guardian/", 
@@ -66,7 +42,7 @@
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8ssc/dog_stolen_from_church_parking_lot_reunites_with/", 
             "domain": "lifewithdogs.tv", 
-            "score": 6, 
+            "score": 9, 
             "nsfw": false, 
             "author": "menmybabies", 
             "url": "http://www.lifewithdogs.tv/2014/10/dog-stolen-from-church-parking-lot-reunites-with-owner/", 
@@ -76,21 +52,9 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8toh/this_dog_was_rescued_an_hour_before_euthanasia/", 
-            "domain": "onegreenplanet.org", 
-            "score": 5, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://www.onegreenplanet.org/news/this-dog-was-rescued-an-hour-before-euthanasia-watch-her-incredible-story/", 
-            "title": "This Dog Was Rescued an Hour Before Euthanasia. Watch Her Incredible Story!", 
-            "id": "2i8toh", 
-            "created-utc": 1412388906.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8sos/dogs_survival_is_an_absolute_miracle/", 
             "domain": "lifewithdogs.tv", 
-            "score": 5, 
+            "score": 10, 
             "nsfw": false, 
             "author": "menmybabies", 
             "url": "http://www.lifewithdogs.tv/2014/10/this-dogs-survival-is-an-absolute-miracle/", 
@@ -102,31 +66,19 @@
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8s5i/homeless_rapper_joseph_lane_gets_discovered_drops/", 
             "domain": "gma.yahoo.com", 
-            "score": 5, 
+            "score": 8, 
             "nsfw": false, 
             "author": "menmybabies", 
             "url": "https://gma.yahoo.com/homeless-rapper-joseph-lane-gets-discovered--drops-album-181916230.html", 
             "title": "Homeless Rapper Joseph Lane Gets Discovered, Drops Album", 
             "id": "2i8s5i", 
             "created-utc": 1412387820.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8tr5/meet_honey_this_sweet_dog_was_rescued_from_a_dog/", 
-            "domain": "onegreenplanet.org", 
-            "score": 4, 
-            "nsfw": false, 
-            "author": "menmybabies", 
-            "url": "http://www.onegreenplanet.org/news/meet-honey-this-sweet-dog-was-rescued-from-a-dog-fighting-ring/", 
-            "title": "Meet Honey: This Sweet Dog Was Rescued From a Dog Fighting Ring", 
-            "id": "2i8tr5", 
-            "created-utc": 1412388959.0, 
-            "num-comments": 0
+            "num-comments": 1
         }, 
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8tj2/amazing_rescuers_free_dog_who_was_trapped_for_18/", 
             "domain": "onegreenplanet.org", 
-            "score": 4, 
+            "score": 6, 
             "nsfw": false, 
             "author": "menmybabies", 
             "url": "http://www.onegreenplanet.org/news/dog-mudslide-rescue-video/", 
@@ -136,9 +88,21 @@
             "num-comments": 0
         }, 
         {
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8tr5/meet_honey_this_sweet_dog_was_rescued_from_a_dog/", 
+            "domain": "onegreenplanet.org", 
+            "score": 5, 
+            "nsfw": false, 
+            "author": "menmybabies", 
+            "url": "http://www.onegreenplanet.org/news/meet-honey-this-sweet-dog-was-rescued-from-a-dog-fighting-ring/", 
+            "title": "Meet Honey: This Sweet Dog Was Rescued From a Dog Fighting Ring", 
+            "id": "2i8tr5", 
+            "created-utc": 1412388959.0, 
+            "num-comments": 0
+        }, 
+        {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8saw/rescued_pit_bull_vies_for_taylor_swifts_job_in/", 
             "domain": "news.yahoo.com", 
-            "score": 3, 
+            "score": 4, 
             "nsfw": false, 
             "author": "menmybabies", 
             "url": "http://news.yahoo.com/blogs/oddnews/rescued-pit-bull-vies-for-taylor-swift-s-job-in-new-video-185623101.html", 
@@ -148,33 +112,9 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i7wsp/aberdeen_church_opens_doors_to_muslims/", 
-            "domain": "theguardian.com", 
-            "score": 4, 
-            "nsfw": false, 
-            "author": "blurgtheamoeba", 
-            "url": "http://www.theguardian.com/uk/2013/mar/18/aberdeen-muslims-christians-share-church", 
-            "title": "Aberdeen church opens doors to Muslims", 
-            "id": "2i7wsp", 
-            "created-utc": 1412367538.0, 
-            "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i7cck/happy_world_smile_day/", 
-            "domain": "biography.com", 
-            "score": 3, 
-            "nsfw": false, 
-            "author": "LordNero", 
-            "url": "http://www.biography.com/news/world-smile-day-photos", 
-            "title": "Happy World Smile Day!", 
-            "id": "2i7cck", 
-            "created-utc": 1412356258.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8sq8/cancer_survivor_conquers_fear_with_photography/", 
             "domain": "blog.flickr.net", 
-            "score": 2, 
+            "score": 3, 
             "nsfw": false, 
             "author": "menmybabies", 
             "url": "http://blog.flickr.net/en/2014/10/03/cancer-survivor-conquers-fear-with-photography/", 
@@ -182,6 +122,18 @@
             "id": "2i8sq8", 
             "created-utc": 1412388235.0, 
             "num-comments": 0
+        }, 
+        {
+            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8toh/this_dog_was_rescued_an_hour_before_euthanasia/", 
+            "domain": "onegreenplanet.org", 
+            "score": 2, 
+            "nsfw": false, 
+            "author": "menmybabies", 
+            "url": "http://www.onegreenplanet.org/news/this-dog-was-rescued-an-hour-before-euthanasia-watch-her-incredible-story/", 
+            "title": "This Dog Was Rescued an Hour Before Euthanasia. Watch Her Incredible Story!", 
+            "id": "2i8toh", 
+            "created-utc": 1412388906.0, 
+            "num-comments": 1
         }, 
         {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i846p/south_koreas_biggest_royals_fan_finally_goes_to/", 
@@ -196,21 +148,9 @@
             "num-comments": 0
         }, 
         {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i7g11/the_age_of_personal_dna_storage_has_arrived/", 
-            "domain": "timeslive.co.za", 
-            "score": 3, 
-            "nsfw": false, 
-            "author": "News24x7Live", 
-            "url": "http://www.timeslive.co.za/lifestyle/2014/10/01/the-age-of-personal-dna-storage-has-arrived", 
-            "title": "The Age Of Personal DNA Storage Has Arrived", 
-            "id": "2i7g11", 
-            "created-utc": 1412358231.0, 
-            "num-comments": 0
-        }, 
-        {
             "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i8s4c/medical_first_baby_born_to_woman_who_got_new_womb/", 
             "domain": "news.yahoo.com", 
-            "score": 1, 
+            "score": 2, 
             "nsfw": false, 
             "author": "menmybabies", 
             "url": "http://news.yahoo.com/world-first-baby-born-woman-got-womb-194348400.html", 
@@ -218,22 +158,10 @@
             "id": "2i8s4c", 
             "created-utc": 1412387796.0, 
             "num-comments": 0
-        }, 
-        {
-            "permalink": "http://www.reddit.com/r/UpliftingNews/comments/2i7sh4/how_my_passion_saved_me_from_cancer/", 
-            "domain": "medium.com", 
-            "score": 0, 
-            "nsfw": false, 
-            "author": "meepleproject", 
-            "url": "https://medium.com/@Ziga/how-my-passion-saved-me-from-cancer-b1783f2bb9c1", 
-            "title": "How My Passion Saved Me From Cancer", 
-            "id": "2i7sh4", 
-            "created-utc": 1412365074.0, 
-            "num-comments": 0
         }
     ], 
     "subreddit": "/r/UpliftingNews/", 
-    "expires-utc": 1412460000, 
+    "expires-utc": 1412517600, 
     "reddit-url": "http://www.reddit.com/r/UpliftingNews/", 
     "api-url": "http://daily.red/uplifting-news.json", 
     "display-name": "Uplifting News", 
