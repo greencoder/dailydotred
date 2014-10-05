@@ -1,7 +1,7 @@
 {
     "description": "Stories related to weather", 
     "title": "Weather subreddit", 
-    "generated-utc": 1412460037, 
+    "generated-utc": 1412517651, 
     "posts": [
         {
             "permalink": "http://www.reddit.com/r/weather/comments/2ia4jh/england_does_get_storms_some_times_just_not/", 
@@ -41,7 +41,7 @@
         }
     ], 
     "subreddit": "/r/weather/", 
-    "expires-utc": 1412517600, 
+    "expires-utc": 1412546400, 
     "reddit-url": "http://www.reddit.com/r/weather/", 
     "api-url": "http://daily.red/weather.json", 
     "display-name": "Weather", 
